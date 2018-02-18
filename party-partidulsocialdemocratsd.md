@@ -92,12 +92,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 13–18 | 13–18 | 13–19 | 12–20 |
+| N/A | [Poll Average](average.html) | 17 | 14–19 | 13–19 | 13–19 | 12–20 |
 | [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 17 | 16–18 | 15–19 | 15–19 | 15–19 |
 | [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 17 | 15–17 | 14–17 | 14–17 | 14–17 |
-| [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 13 | 13–14 | 13–14 | 12–15 | 12–15 |
-| [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 18 | 18 | 17–19 | 17–20 | 17–20 |
-| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 16 | 16 | 16 | 16 | 14–18 |
+| [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
+| [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 19 | 18–19 | 17–20 | 17–20 | 17–20 |
+| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 18 | 16–18 | 16–18 | 15–20 | 15–20 |
 
 ### Probability Mass Function
@@ -120,15 +120,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 1.1% | 100% |  |
-| 13 | 17% | 98.9% |  |
-| 14 | 8% | 82% |  |
-| 15 | 4% | 74% |  |
-| 16 | 11% | 70% |  |
+| 12 | 1.0% | 100% |  |
+| 13 | 9% | 99.0% |  |
+| 14 | 14% | 90% |  |
+| 15 | 5% | 76% |  |
+| 16 | 11% | 71% |  |
 | 17 | 28% | 59% | Median, Majority |
-| 18 | 27% | 31% |  |
-| 19 | 3% | 4% |  |
-| 20 | 1.1% | 1.1% |  |
-| 21 | 0% | 0% |  |
+| 18 | 16% | 31% |  |
+| 19 | 13% | 15% |  |
+| 20 | 2% | 2% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 

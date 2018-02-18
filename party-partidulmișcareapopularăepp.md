@@ -49,7 +49,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 2 | 0–2 | 0–2 | 0–3 | 0–3 |
 | [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 0 | 0 | 0 | 0 | 0 |
 | [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
-| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 1 | 1 | 1 | 0–1 | 0–2 |
+| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
