@@ -92,9 +92,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–19 | 13–19 | 13–19 | 12–20 |
+| N/A | [Poll Average](average.html) | 16 | 14–19 | 13–19 | 13–19 | 12–20 |
 | [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 17 | 16–18 | 15–19 | 15–19 | 15–19 |
-| [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 17 | 15–17 | 14–17 | 14–17 | 14–17 |
+| [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 15 | 14–16 | 14–17 | 14–17 | 14–17 |
 | [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
 | [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 19 | 18–19 | 17–20 | 17–20 | 17–20 |
 | [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
@@ -122,10 +122,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 1.0% | 100% |  |
 | 13 | 9% | 99.0% |  |
-| 14 | 14% | 90% |  |
-| 15 | 5% | 76% |  |
-| 16 | 11% | 71% |  |
-| 17 | 28% | 59% | Median, Majority |
+| 14 | 15% | 90% |  |
+| 15 | 16% | 75% |  |
+| 16 | 15% | 59% | Median |
+| 17 | 13% | 44% | Majority |
 | 18 | 16% | 31% |  |
 | 19 | 13% | 15% |  |
 | 20 | 2% | 2% |  |
