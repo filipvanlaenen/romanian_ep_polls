@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 22 Feb 2018 22:26:33 +0100</pubDate>
+    <pubDate>Sat, 24 Feb 2018 17:01:12 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 3–10 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-01-10-CURS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 39.1–45.0%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 7.4–10.9%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (—): 3.8–6.4%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 24.4–29.7%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.8–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-01-10-CURS.png"
+        length="192498"
+        type="image/png"/>
+      <pubDate>Sat, 24 Feb 2018 17:01:12 +0100</pubDate>
+      <dc:date>2018-02-24T17:01:12.607568+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Avangarde, 24 November–7 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2017-12-07-Avangarde.html#seats</link>
@@ -189,6 +199,6 @@
       <pubDate>Thu, 22 Feb 2018 22:26:33 +0100</pubDate>
       <dc:date>2018-02-22T22:26:33.912608+01:00</dc:date>
     </item>
-    <dc:date>2018-02-22T22:26:33.912608+01:00</dc:date>
+    <dc:date>2018-02-24T17:01:12.607568+01:00</dc:date>
   </channel>
 </rss>
