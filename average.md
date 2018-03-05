@@ -260,7 +260,7 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 0% | 100% |  |
 | 13 | 2% | 100% |  |
 | 14 | 15% | 98% |  |
-| 15 | 27% | 84% |  |
+| 15 | 27% | 83% |  |
 | 16 | 21% | 57% | Median |
 | 17 | 21% | 36% | Majority |
 | 18 | 11% | 15% |  |
@@ -316,7 +316,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0.1% | 100% |  |
 | 7 | 6% | 99.9% |  |
 | 8 | 28% | 94% |  |
-| 9 | 42% | 65% | Median |
+| 9 | 43% | 65% | Median |
 | 10 | 21% | 23% |  |
 | 11 | 2% | 2% |  |
 | 12 | 0% | 0% |  |
@@ -381,7 +381,7 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 0% | 100% |  |
 | 13 | 2% | 100% |  |
 | 14 | 15% | 98% |  |
-| 15 | 27% | 84% |  |
+| 15 | 27% | 83% |  |
 | 16 | 21% | 57% | Median |
 | 17 | 21% | 36% | Majority |
 | 18 | 11% | 15% |  |
@@ -404,10 +404,10 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 11% | 99.0% |  |
 | 9 | 16% | 88% |  |
 | 10 | 17% | 72% |  |
-| 11 | 22% | 55% | Median |
+| 11 | 22% | 54% | Median |
 | 12 | 22% | 33% |  |
 | 13 | 10% | 11% |  |
-| 14 | 1.5% | 1.5% |  |
+| 14 | 1.5% | 2% |  |
 | 15 | 0% | 0% |  |
 
 ### Partidul Alianța Liberalilor și Democraților (ALDE)
