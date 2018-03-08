@@ -96,7 +96,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 17 | 16–18 | 15–19 | 15–19 | 15–19 |
 | [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 15 | 14–16 | 14–17 | 14–17 | 14–17 |
 | [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
-| [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 19 | 18–19 | 17–20 | 17–20 | 17–20 |
+| [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 18 | 18–19 | 17–20 | 17–20 | 17–21 |
 | [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 
@@ -128,7 +128,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 14% | 24% | Majority |
 | 18 | 7% | 10% |  |
 | 19 | 3% | 3% |  |
-| 20 | 0.1% | 0.2% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
 
