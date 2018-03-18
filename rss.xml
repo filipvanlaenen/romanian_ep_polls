@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 18 Mar 2018 09:59:00 +0100</pubDate>
+    <pubDate>Sun, 18 Mar 2018 18:38:26 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sociopol, 27 February–5 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-03-05-Sociopol.html</link>
@@ -29,6 +29,36 @@
       <pubDate>Sun, 18 Mar 2018 09:59:00 +0100</pubDate>
       <dc:date>2018-03-18T09:59:00.295708+01:00</dc:date>
     </item>
-    <dc:date>2018-03-18T09:59:00.295708+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 3–10 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-01-10-CURS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 39.1–45.0%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 7.4–10.9%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (—): 3.8–6.4%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 24.4–29.7%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.8–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-01-10-CURS.png"
+        length="192498"
+        type="image/png"/>
+      <pubDate>Sun, 18 Mar 2018 18:06:45 +0100</pubDate>
+      <dc:date>2018-03-18T18:06:45.129353+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Avangarde, 24 November–7 December 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2017-12-07-Avangarde.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 42.3–49.7%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 10.7–15.7%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (—): 3.6–6.9%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 20.0–26.3%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.6–6.9%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 2.8–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2017-12-07-Avangarde.png"
+        length="197735"
+        type="image/png"/>
+      <pubDate>Sun, 18 Mar 2018 18:27:40 +0100</pubDate>
+      <dc:date>2018-03-18T18:27:40.972528+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 1–30 November 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2017-11-30-CURS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 40.1–46.0%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 7.4–10.9%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (—): 3.8–6.4%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 24.4–29.7%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 4.7–7.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2017-11-30-CURS.png"
+        length="192719"
+        type="image/png"/>
+      <pubDate>Sun, 18 Mar 2018 18:38:26 +0100</pubDate>
+      <dc:date>2018-03-18T18:38:26.183048+01:00</dc:date>
+    </item>
+    <dc:date>2018-03-18T18:38:26.183048+01:00</dc:date>
   </channel>
 </rss>
