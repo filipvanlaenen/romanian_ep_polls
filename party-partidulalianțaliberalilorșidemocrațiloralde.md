@@ -10,16 +10,16 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 4.9–13.4% | 4.5–14.2% | 4.2–14.8% | 3.8–15.8% |
+| N/A | [Poll Average](average.html) | 7.7% | 4.5–11.5% | 4.2–11.9% | 4.0–12.3% | 3.6–13.0% |
 | [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.7% | 8.3–13.3% |
-| [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 9.0% | 8.0–10.2% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
-| [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 13.0% | 11.5–14.8% | 11.1–15.3% | 10.7–15.7% | 10.0–16.6% |
-| [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 9.0% | 8.0–10.2% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
-| [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 8.1% | 7.1–9.3% | 6.8–9.7% | 6.6–10.0% | 6.1–10.6% |
-| [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.2% |
-| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 6.0% | 5.0–7.3% | 4.8–7.6% | 4.6–7.9% | 4.1–8.6% |
-| [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.6–7.6% | 4.3–8.1% |
+| [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 9.0% | N/A | N/A | N/A | N/A |
+| [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 13.0% | N/A | N/A | N/A | N/A |
+| [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 9.0% | N/A | N/A | N/A | N/A |
+| [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 8.1% | N/A | N/A | N/A | N/A |
+| [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 6.0% | N/A | N/A | N/A | N/A |
+| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 6.0% | N/A | N/A | N/A | N/A |
+| [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 6.0% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -30,22 +30,19 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 5% | 99.8% |  |
-| 4.5–5.5% | 13% | 94% |  |
-| 5.5–6.5% | 6% | 81% |  |
-| 6.5–7.5% | 1.4% | 76% |  |
-| 7.5–8.5% | 7% | 74% |  |
-| 8.5–9.5% | 14% | 68% |  |
-| 9.5–10.5% | 15% | 54% | Median |
-| 10.5–11.5% | 12% | 39% |  |
-| 11.5–12.5% | 10% | 27% |  |
-| 12.5–13.5% | 8% | 17% |  |
-| 13.5–14.5% | 6% | 9% |  |
-| 14.5–15.5% | 2% | 3% |  |
-| 15.5–16.5% | 0.7% | 0.8% |  |
-| 16.5–17.5% | 0.1% | 0.1% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.4% | 100% |  |
+| 3.5–4.5% | 11% | 99.6% |  |
+| 4.5–5.5% | 26% | 89% |  |
+| 5.5–6.5% | 11% | 62% |  |
+| 6.5–7.5% | 1.1% | 51% |  |
+| 7.5–8.5% | 0.6% | 50% | Median |
+| 8.5–9.5% | 6% | 49% |  |
+| 9.5–10.5% | 17% | 44% |  |
+| 10.5–11.5% | 18% | 27% |  |
+| 11.5–12.5% | 7% | 9% |  |
+| 12.5–13.5% | 1.4% | 2% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -56,16 +53,16 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
-| [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
-| [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 2 | 1–2 | 0–2 | 0–2 | 0–3 |
-| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 2 | 1–2 | 0–2 | 0–2 | 0–3 |
-| [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 2 | 1–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO |  |  |  |  |  |
+| [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde |  |  |  |  |  |
+| [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO |  |  |  |  |  |
+| [1–30 September 2017](2017-09-30-IMAS.html) | IMAS |  |  |  |  |  |
+| [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol |  |  |  |  |  |
+| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde |  |  |  |  |  |
+| [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol |  |  |  |  |  |
 
 ### Probability Mass Function
 
@@ -75,13 +72,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 15% | 100% | Last Result |
-| 1 | 0.7% | 85% |  |
-| 2 | 14% | 84% |  |
-| 3 | 37% | 70% | Median |
-| 4 | 21% | 33% |  |
-| 5 | 12% | 12% |  |
-| 6 | 0.9% | 0.9% |  |
-| 7 | 0% | 0% |  |
+| 0 | 14% | 100% | Last Result |
+| 1 | 0% | 86% |  |
+| 2 | 37% | 86% | Median |
+| 3 | 14% | 50% |  |
+| 4 | 35% | 35% |  |
+| 5 | 0.1% | 0.1% |  |
+| 6 | 0% | 0% |  |
 
 
