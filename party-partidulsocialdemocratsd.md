@@ -16,10 +16,10 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 42.0% | 40.1–44.0% | 39.6–44.6% | 39.1–45.0% | 38.2–46.0% |
 | [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 46.0% | 43.6–48.4% | 42.9–49.1% | 42.3–49.7% | 41.2–50.9% |
 | [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 43.0% | 41.1–45.0% | 40.5–45.5% | 40.1–46.0% | 39.2–47.0% |
-| [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 38.8% | N/A | N/A | N/A | N/A |
-| [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 51.0% | N/A | N/A | N/A | N/A |
-| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 46.0% | N/A | N/A | N/A | N/A |
-| [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 47.0% | N/A | N/A | N/A | N/A |
+| [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 38.8% | 36.9–40.8% | 36.3–41.4% | 35.8–41.9% | 34.9–42.8% |
+| [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 51.0% | 49.0–53.1% | 48.4–53.6% | 47.9–54.1% | 47.0–55.1% |
+| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 46.0% | 43.7–48.3% | 43.0–48.9% | 42.5–49.5% | 41.4–50.6% |
+| [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 47.0% | 45.0–49.0% | 44.4–49.6% | 43.9–50.1% | 42.9–51.0% |
 
 ### Probability Mass Function
 
@@ -96,10 +96,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 16 | 16 | 16–17 | 15–17 | 15–17 |
 | [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 18 | 17–19 | 16–19 | 16–19 | 15–19 |
 | [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 18 | 15–18 | 15–18 | 14–18 | 14–18 |
-| [1–30 September 2017](2017-09-30-IMAS.html) | IMAS |  |  |  |  |  |
-| [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol |  |  |  |  |  |
-| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde |  |  |  |  |  |
-| [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol |  |  |  |  |  |
+| [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 13 | 13–15 | 13–15 | 13–16 | 13–16 |
+| [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 19 | 19 | 18–19 | 18–20 | 18–21 |
+| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 17 | 17 | 17 | 17 | 15–19 |
+| [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 18 | 17–19 | 16–19 | 16–20 | 15–20 |
 
 ### Probability Mass Function
 
