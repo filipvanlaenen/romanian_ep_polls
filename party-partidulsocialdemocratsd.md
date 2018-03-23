@@ -99,7 +99,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 19 | 18–20 | 18–20 | 18–21 | 17–21 |
 | [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
-| [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 18 | 17–19 | 16–19 | 16–20 | 15–20 |
+| [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 
 ### Probability Mass Function
 
