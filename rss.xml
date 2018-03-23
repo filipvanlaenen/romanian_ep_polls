@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 21 Mar 2018 18:13:08 +0100</pubDate>
+    <pubDate>Fri, 23 Mar 2018 18:33:49 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sociopol, 27 February–5 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-03-05-Sociopol.html</link>
@@ -210,15 +210,35 @@
       <dc:date>2018-03-21T15:45:09.526683+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sociopol, 6–14 March 2017 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2017-03-14-Sociopol.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 16–19 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 0–2 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (—): 3–5 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2017-03-14-Sociopol-seats.png"
+        length="159618"
+        type="image/png"/>
+      <pubDate>Fri, 23 Mar 2018 18:33:49 +0100</pubDate>
+      <dc:date>2018-03-23T18:33:49.70597+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sociopol, 6–14 March 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2017-03-14-Sociopol.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2017-03-14-Sociopol-coalitions-seats.png"
+        length="105210"
+        type="image/png"/>
+      <pubDate>Fri, 23 Mar 2018 18:33:49 +0100</pubDate>
+      <dc:date>2018-03-23T18:33:49.70597+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sociopol, 6–14 March 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2017-03-14-Sociopol.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 43.9–50.1%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 4.6–7.6%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (—): 10.2–14.2%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 18.5–23.6%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 2.1–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2017-03-14-Sociopol.png"
         length="187137"
         type="image/png"/>
-      <pubDate>Sun, 18 Mar 2018 22:25:49 +0100</pubDate>
-      <dc:date>2018-03-18T22:25:49.363432+01:00</dc:date>
+      <pubDate>Fri, 23 Mar 2018 18:33:49 +0100</pubDate>
+      <dc:date>2018-03-23T18:33:49.70597+01:00</dc:date>
     </item>
-    <dc:date>2018-03-21T18:13:08.503448+01:00</dc:date>
+    <dc:date>2018-03-23T18:33:49.70597+01:00</dc:date>
   </channel>
 </rss>
