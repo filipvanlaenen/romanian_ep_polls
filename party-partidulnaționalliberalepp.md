@@ -76,12 +76,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–13 | 8–13 | 7–14 |
-| [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
-| [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 10 | 10–11 | 10–11 | 9–12 | 9–12 |
-| [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
-| [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
-| [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
+| N/A | [Poll Average](average.html) | 10 | 9–12 | 9–12 | 8–13 | 7–13 |
+| [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol | 12 | 10–13 | 10–13 | 10–13 | 10–14 |
+| [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 11 | 9–11 | 9–11 | 9–11 | 9–12 |
+| [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 9 | 9–10 | 9–10 | 9–10 | 9–11 |
+| [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 10 | 8–11 | 8–11 | 7–11 | 6–11 |
+| [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 9 | 9 | 9 | 9 | 9 |
 | [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
@@ -101,15 +101,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 2% | 100% |  |
-| 8 | 12% | 98% |  |
-| 9 | 22% | 87% |  |
-| 10 | 27% | 65% | Median |
-| 11 | 17% | 38% |  |
-| 12 | 13% | 20% |  |
-| 13 | 6% | 8% |  |
-| 14 | 1.2% | 1.2% |  |
+| 6 | 0.1% | 100% |  |
+| 7 | 0.6% | 99.9% |  |
+| 8 | 4% | 99.3% |  |
+| 9 | 31% | 96% |  |
+| 10 | 20% | 65% | Median |
+| 11 | 29% | 45% |  |
+| 12 | 12% | 15% |  |
+| 13 | 2% | 3% |  |
+| 14 | 0.4% | 0.4% |  |
 | 15 | 0% | 0% |  |
 
 
