@@ -81,11 +81,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 10 | 10–11 | 9–11 | 9–12 | 9–12 |
 | [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
 | [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
-| [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 9 | 9–11 | 9–11 | 9–11 | 8–11 |
+| [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
-| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 10 | 10 | 10–11 | 10–12 | 9–12 |
-| [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
+| [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 
 ### Probability Mass Function
 
