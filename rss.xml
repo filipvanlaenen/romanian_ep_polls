@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 08 Apr 2018 10:44:05 +0200</pubDate>
+    <pubDate>Sun, 08 Apr 2018 14:31:30 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sociopol, 27 February–5 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-03-05-Sociopol.html#seats</link>
@@ -136,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2017-11-30-CURS.png"
         length="195738"
         type="image/png"/>
-      <pubDate>Wed, 28 Mar 2018 10:28:44 +0200</pubDate>
-      <dc:date>2018-03-28T10:28:44.684397+02:00</dc:date>
+      <pubDate>Sun, 08 Apr 2018 11:36:09 +0200</pubDate>
+      <dc:date>2018-04-08T11:36:09.096097+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMAS, 1–30 September 2017 – Voting Intentions</title>
@@ -166,8 +166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2017-06-22-Avangarde.png"
         length="195166"
         type="image/png"/>
-      <pubDate>Wed, 28 Mar 2018 10:39:22 +0200</pubDate>
-      <dc:date>2018-03-28T10:39:22.870612+02:00</dc:date>
+      <pubDate>Sun, 08 Apr 2018 10:52:01 +0200</pubDate>
+      <dc:date>2018-04-08T10:52:01.07243+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sociopol, 6–14 March 2017 – Voting Intentions</title>
@@ -176,9 +176,9 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2017-03-14-Sociopol.png"
         length="190125"
         type="image/png"/>
-      <pubDate>Wed, 28 Mar 2018 10:43:13 +0200</pubDate>
-      <dc:date>2018-03-28T10:43:13.701942+02:00</dc:date>
+      <pubDate>Sun, 08 Apr 2018 14:31:30 +0200</pubDate>
+      <dc:date>2018-04-08T14:31:30.03289+02:00</dc:date>
     </item>
-    <dc:date>2018-04-08T10:44:05.831244+02:00</dc:date>
+    <dc:date>2018-04-08T14:31:30.03289+02:00</dc:date>
   </channel>
 </rss>
