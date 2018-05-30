@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 4.9–13.4% | 4.5–14.2% | 4.2–14.8% | 3.8–15.8% |
-| [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
+| N/A | [Poll Average](average.html) | 8.0% | 4.7–11.2% | 4.4–11.7% | 4.1–12.1% | 3.7–12.9% |
+| [27 April–8 May 2018](2018-05-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 8.0% | 7.0–9.1% | 6.7–9.5% | 6.5–9.8% | 6.1–10.3% |
+| [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol <br> STIRIPESURSE.RO | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.7% | 8.3–13.3% |
 | [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 9.0% | 8.0–10.2% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
 | [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 13.0% | 11.5–14.8% | 11.1–15.3% | 10.7–15.7% | 10.0–16.6% |
@@ -30,22 +31,19 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 5% | 99.8% |  |
-| 4.5–5.5% | 13% | 94% |  |
-| 5.5–6.5% | 6% | 81% |  |
-| 6.5–7.5% | 1.4% | 76% |  |
-| 7.5–8.5% | 7% | 74% |  |
-| 8.5–9.5% | 14% | 68% |  |
-| 9.5–10.5% | 15% | 54% | Median |
-| 10.5–11.5% | 12% | 39% |  |
-| 11.5–12.5% | 10% | 27% |  |
-| 12.5–13.5% | 8% | 17% |  |
-| 13.5–14.5% | 6% | 9% |  |
-| 14.5–15.5% | 2% | 3% |  |
-| 15.5–16.5% | 0.7% | 0.8% |  |
-| 16.5–17.5% | 0.1% | 0.1% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.3% | 100% |  |
+| 3.5–4.5% | 7% | 99.7% |  |
+| 4.5–5.5% | 18% | 92% |  |
+| 5.5–6.5% | 8% | 75% |  |
+| 6.5–7.5% | 9% | 66% |  |
+| 7.5–8.5% | 16% | 57% | Median |
+| 8.5–9.5% | 11% | 42% |  |
+| 9.5–10.5% | 12% | 31% |  |
+| 10.5–11.5% | 12% | 18% |  |
+| 11.5–12.5% | 5% | 6% |  |
+| 12.5–13.5% | 0.9% | 1.0% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -56,8 +54,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
-| [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [27 April–8 May 2018](2018-05-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol <br> STIRIPESURSE.RO | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
@@ -75,13 +74,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 15% | 100% | Last Result |
-| 1 | 0.1% | 85% |  |
-| 2 | 13% | 85% |  |
-| 3 | 34% | 72% | Median |
-| 4 | 22% | 37% |  |
-| 5 | 14% | 15% |  |
-| 6 | 1.5% | 1.5% |  |
-| 7 | 0% | 0% |  |
+| 0 | 20% | 100% | Last Result |
+| 1 | 0.1% | 80% |  |
+| 2 | 32% | 80% | Median |
+| 3 | 32% | 48% |  |
+| 4 | 15% | 15% |  |
+| 5 | 0.2% | 0.2% |  |
+| 6 | 0% | 0% |  |
 
 
