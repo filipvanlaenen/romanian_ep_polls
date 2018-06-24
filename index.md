@@ -2,25 +2,26 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | ALDE | PSD | PMP | PNL | UDMR | USR |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 4–12% <br> 0–4 | 27–41% <br> 9–15 | 4–6% <br> 0–2 | 23–35% <br> 8–13 | 5–8% <br> 0–2 | 5–14% <br> 1–5 |
-| [27 April–8 May 2018](2018-05-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 6–10% <br> 2–3 | 36–42% <br> 13–15 | 4–6% <br> 0–2 | 23–28% <br> 8–10 | 5–8% <br> 0–2 | 5–8% <br> 0–2 |
-| [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol <br> STIRIPESURSE.RO | 4–7% <br> 0–2 | 31–37% <br> 11–14 | 4–7% <br> 0–2 | 30–36% <br> 11–14 | 5–8% <br> 0–2 | 10–14% <br> 3–5 |
-| [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 9–13% <br> 3–4 | 26–31% <br> 9–11 | 3–6% <br> 0–2 | 27–32% <br> 9–12 | 5–8% <br> 0–2 | 9–13% <br> 3–4 |
-| 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | PSD | ALDE | PNL | UDMR | PMP | RO+ | PRO | USR |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 25 May 2014 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 36–43% <br> 13–17 | 6–10% <br> 2–3 | 16–27% <br> 6–9 | 4–7% <br> 0–2 | 1–6% <br> 0–2 | 2–10% <br> 0–3 | N/A <br> N/A | 5–11% <br> 2–3 |
+| [28 May–8 June 2018](2018-06-08-Sociopol.html) | Sociopol <br> România TV | 37–43% <br> 14–16 | 6–9% <br> 2 | 16–21% <br> 6–8 | 4–7% <br> 0–2 | 1–2% <br> 0 | 6–10% <br> 2–3 | N/A <br> N/A | 7–11% <br> 2–3 |
+| [27 April–8 May 2018](2018-05-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 36–42% <br> 13–17 | 6–10% <br> 2–4 | 23–28% <br> 9–10 | 5–8% <br> 2 | 4–6% <br> 0–2 | 2–4% <br> 0 | N/A <br> N/A | 5–8% <br> 0–2 |
+| 25 May 2014 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
 **Legend:**
 + **Top half of each row:** Voting intentions (95% confidence interval)
 + **Bottom half of each row:** Seat projections for the European Parliament (95% confidence interval)
-+ **ALDE:** Partidul Alianța Liberalilor și Democraților (ALDE)
 + **PSD:** Partidul Social Democrat (S&D)
-+ **PMP:** Partidul Mișcarea Populară (EPP)
++ **ALDE:** Partidul Alianța Liberalilor și Democraților (ALDE)
 + **PNL:** Partidul Național Liberal (EPP)
 + **UDMR:** Uniunea Democrată Maghiară din România (EPP)
++ **PMP:** Partidul Mișcarea Populară (EPP)
++ **RO+:** Mișcarea România Împreună (EPP)
++ **PRO:** PRO România (ECR)
 + **USR:** Uniunea Salvați România (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
