@@ -58,12 +58,12 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–9 | 6–11 |
-| [28 May–8 June 2018](2018-06-08-Sociopol.html) | Sociopol <br> România TV | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [27 April–8 May 2018](2018-05-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 9 | 9 | 9 | 9–10 | 9–11 |
+| N/A | [Poll Average](average.html) | 8 | 6–10 | 6–10 | 6–11 | 5–11 |
+| [28 May–8 June 2018](2018-06-08-Sociopol.html) | Sociopol <br> România TV | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
+| [27 April–8 May 2018](2018-05-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 10 | 9–10 | 8–11 | 8–11 | 8–12 |
 | [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol <br> STIRIPESURSE.RO | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 10 | 10–11 | 9–11 | 9–12 | 9–12 |
-| [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 11 | 11 | 9–11 | 9–11 | 9–11 |
+| [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 10 | 9–10 | 9–10 | 9–10 | 8–11 |
 | [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
@@ -79,13 +79,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.2% | 100% | Last Result |
-| 6 | 8% | 99.8% |  |
-| 7 | 22% | 92% |  |
-| 8 | 20% | 70% | Median |
-| 9 | 48% | 50% |  |
-| 10 | 1.5% | 2% |  |
-| 11 | 0.6% | 0.6% |  |
-| 12 | 0% | 0% |  |
+| 5 | 1.1% | 100% | Last Result |
+| 6 | 20% | 98.9% |  |
+| 7 | 29% | 79% |  |
+| 8 | 4% | 51% | Median |
+| 9 | 19% | 47% |  |
+| 10 | 25% | 28% |  |
+| 11 | 3% | 3% |  |
+| 12 | 0.3% | 0.3% |  |
+| 13 | 0% | 0% |  |
 
 
