@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 25 Jun 2018 21:49:55 +0200</pubDate>
+    <pubDate>Wed, 27 Jun 2018 21:18:45 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sociopol for România TV, 28 May–8 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-08-Sociopol.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-05-08-CURS.png"
         length="248292"
         type="image/png"/>
-      <pubDate>Mon, 25 Jun 2018 17:52:57 +0200</pubDate>
-      <dc:date>2018-06-25T17:52:57.308761+02:00</dc:date>
+      <pubDate>Wed, 27 Jun 2018 21:18:45 +0200</pubDate>
+      <dc:date>2018-06-27T21:18:45.812602+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sociopol for STIRIPESURSE.RO, 27 February–5 March 2018 – Seat Projections for the Parties</title>
@@ -90,14 +90,34 @@
       <dc:date>2018-04-08T09:48:58.786038+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 3–10 January 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-01-10-CURS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 14–18 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (*): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 9–11 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (EPP): 0 seats&lt;/li&gt;&lt;li&gt;PRO România (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-01-10-CURS-seats.png"
+        length="199970"
+        type="image/png"/>
+      <pubDate>Wed, 27 Jun 2018 18:08:51 +0200</pubDate>
+      <dc:date>2018-06-27T18:08:51.910653+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 3–10 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-01-10-CURS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-01-10-CURS-coalitions-seats.png"
+        length="129478"
+        type="image/png"/>
+      <pubDate>Wed, 27 Jun 2018 18:08:51 +0200</pubDate>
+      <dc:date>2018-06-27T18:08:51.910653+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 3–10 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-01-10-CURS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 37.4–43.3%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 7.1–10.5%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (*): 3.6–6.2%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 23.4–28.7%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 4.6–7.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.6–6.2%&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (EPP): 1.3–3.0%&lt;/li&gt;&lt;li&gt;PRO România (ECR): 1.3–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-01-10-CURS.png"
         length="244530"
         type="image/png"/>
-      <pubDate>Mon, 25 Jun 2018 17:37:58 +0200</pubDate>
-      <dc:date>2018-06-25T17:37:58.266564+02:00</dc:date>
+      <pubDate>Wed, 27 Jun 2018 18:08:51 +0200</pubDate>
+      <dc:date>2018-06-27T18:08:51.910653+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Avangarde, 24 November–7 December 2017 – Seat Projections for the Parties</title>
@@ -279,6 +299,6 @@
       <pubDate>Thu, 12 Apr 2018 17:15:26 +0200</pubDate>
       <dc:date>2018-04-12T17:15:26.806704+02:00</dc:date>
     </item>
-    <dc:date>2018-06-25T21:49:55.649454+02:00</dc:date>
+    <dc:date>2018-06-27T21:18:45.812602+02:00</dc:date>
   </channel>
 </rss>
