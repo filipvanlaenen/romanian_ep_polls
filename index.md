@@ -5,9 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PSD | ALDE | PNL | UDMR | PMP | RO+ | PRO | USR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 36–43% <br> 13–17 | 6–10% <br> 2–3 | 16–27% <br> 6–11 | 4–7% <br> 0–2 | 1–6% <br> 0–2 | 2–10% <br> 0–3 | 2–4% <br> 0 | 5–11% <br> 0–4 |
-| [28 May–8 June 2018](2018-06-08-Sociopol.html) | Sociopol <br> România TV | 37–43% <br> 13–16 | 6–9% <br> 2–3 | 16–21% <br> 5–7 | 4–7% <br> 0–2 | 1–2% <br> 0 | 6–10% <br> 2–3 | 2–4% <br> 0 | 7–11% <br> 2–4 |
-| [27 April–8 May 2018](2018-05-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 36–42% <br> 13–17 | 6–10% <br> 2–3 | 23–28% <br> 8–11 | 5–8% <br> 0–3 | 4–6% <br> 0–2 | 2–4% <br> 0 | 2–4% <br> 0 | 5–8% <br> 0–3 |
+| N/A | [Poll Average](average.html) | 26–40% <br> 9–15 | 7–10% <br> 2–3 | 22–31% <br> 7–11 | 4–6% <br> 0–2 | 2–5% <br> 0–1 | 4–9% <br> 0–3 | 4–6% <br> 0–2 | 6–13% <br> 2–4 |
+| [23 June–1 July 2018](2018-07-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 35–40% <br> 12–15 | 7–10% <br> 2–3 | 22–27% <br> 7–11 | 4–7% <br> 0–2 | 3–5% <br> 0–2 | 4–7% <br> 0–2 | 4–7% <br> 0–2 | 6–9% <br> 2–3 |
+| [1–30 June 2018](2018-06-30-IMAS.html) | IMAS | 26–31% <br> 9–11 | 7–10% <br> 3 | 27–32% <br> 9–11 | 4–6% <br> 0–2 | 2–4% <br> 0 | 7–10% <br> 2–3 | N/A <br> N/A | 10–13% <br> 3–4 |
+| [22–26 June 2018](2018-06-26-Sociopol.html) | Sociopol <br> România TV | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2014 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
