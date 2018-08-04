@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 04 Aug 2018 10:04:50 +0200</pubDate>
+    <pubDate>Sat, 04 Aug 2018 21:15:33 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 23 June–1 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-07-01-CURS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 13–17 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 8–11 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;PRO România (ECR): 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-07-01-CURS-seats.png"
+        length="238090"
+        type="image/png"/>
+      <pubDate>Sat, 04 Aug 2018 13:53:45 +0200</pubDate>
+      <dc:date>2018-08-04T13:53:45.009693+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 23 June–1 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-07-01-CURS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-07-01-CURS-coalitions-seats.png"
+        length="149001"
+        type="image/png"/>
+      <pubDate>Sat, 04 Aug 2018 13:53:45 +0200</pubDate>
+      <dc:date>2018-08-04T13:53:45.009693+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 23 June–1 July 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-07-01-CURS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-07-01-CURS.png"
         length="251268"
         type="image/png"/>
-      <pubDate>Sat, 04 Aug 2018 10:04:50 +0200</pubDate>
-      <dc:date>2018-08-04T10:04:50.918397+02:00</dc:date>
+      <pubDate>Sat, 04 Aug 2018 13:53:45 +0200</pubDate>
+      <dc:date>2018-08-04T13:53:45.009693+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMAS, 1–30 June 2018 – Voting Intentions</title>
@@ -30,14 +50,34 @@
       <dc:date>2018-08-04T10:02:47.761031+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sociopol for România TV, 22–26 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-26-Sociopol.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 14–17 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 3–5 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;PRO România (ECR): 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-26-Sociopol-seats.png"
+        length="202551"
+        type="image/png"/>
+      <pubDate>Sat, 04 Aug 2018 21:15:33 +0200</pubDate>
+      <dc:date>2018-08-04T21:15:33.500316+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sociopol for România TV, 22–26 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-26-Sociopol.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-26-Sociopol-coalitions-seats.png"
+        length="148581"
+        type="image/png"/>
+      <pubDate>Sat, 04 Aug 2018 21:15:33 +0200</pubDate>
+      <dc:date>2018-08-04T21:15:33.500316+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sociopol for România TV, 22–26 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-26-Sociopol.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 37.9–44.2%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 10.0–14.3%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (*): 5.5–8.8%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 17.5–22.7%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 2.9–5.5%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (EPP): 5.5–8.8%&lt;/li&gt;&lt;li&gt;PRO România (ECR): 3.8–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-26-Sociopol.png"
         length="248648"
         type="image/png"/>
-      <pubDate>Fri, 03 Aug 2018 23:56:48 +0200</pubDate>
-      <dc:date>2018-08-03T23:56:48.261686+02:00</dc:date>
+      <pubDate>Sat, 04 Aug 2018 21:15:33 +0200</pubDate>
+      <dc:date>2018-08-04T21:15:33.500316+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sociopol for România TV, 28 May–8 June 2018 – Seat Projections for the Parties</title>
@@ -369,6 +409,6 @@
       <pubDate>Thu, 12 Apr 2018 17:15:26 +0200</pubDate>
       <dc:date>2018-04-12T17:15:26.806704+02:00</dc:date>
     </item>
-    <dc:date>2018-08-04T10:04:50.918397+02:00</dc:date>
+    <dc:date>2018-08-04T21:15:33.500316+02:00</dc:date>
   </channel>
 </rss>
