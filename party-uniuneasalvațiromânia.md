@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.2% | 6.4–12.2% | 6.1–12.6% | 5.9–12.9% | 5.4–13.6% |
+| N/A | [Poll Average](average.html) | 7.6% | 6.3–11.9% | 6.0–12.4% | 5.7–12.7% | 5.3–13.5% |
 | [23 June–1 July 2018](2018-07-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 7.0% | 6.1–8.1% | 5.9–8.5% | 5.6–8.7% | 5.2–9.3% |
 | [1–30 June 2018](2018-06-30-IMAS.html) | IMAS | 11.3% | 10.2–12.6% | 9.9–13.0% | 9.7–13.3% | 9.2–13.9% |
-| [22–26 June 2018](2018-06-26-Sociopol.html) | Sociopol <br> România TV | 7.0% | 5.8–8.2% | 5.3–8.6% | 5.3–9.1% | 4.9–9.5% |
+| [22–26 June 2018](2018-06-26-Sociopol.html) | Sociopol <br> România TV | 7.0% | 6.0–8.2% | 5.7–8.5% | 5.5–8.8% | 5.1–9.4% |
 | [28 May–8 June 2018](2018-06-08-Sociopol.html) | Sociopol <br> România TV | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.3–10.9% | 6.9–11.5% |
 | [27 April–8 May 2018](2018-05-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 6.0% | 5.2–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
 | [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol <br> STIRIPESURSE.RO | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
@@ -37,16 +37,16 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.9% | 100% |  |
-| 5.5–6.5% | 11% | 99.1% |  |
-| 6.5–7.5% | 24% | 88% |  |
-| 7.5–8.5% | 12% | 64% |  |
-| 8.5–9.5% | 3% | 52% | Median |
-| 9.5–10.5% | 8% | 49% |  |
-| 10.5–11.5% | 20% | 41% |  |
-| 11.5–12.5% | 16% | 21% |  |
-| 12.5–13.5% | 5% | 5% |  |
-| 13.5–14.5% | 0.6% | 0.6% |  |
+| 4.5–5.5% | 2% | 100% |  |
+| 5.5–6.5% | 16% | 98% |  |
+| 6.5–7.5% | 31% | 83% |  |
+| 7.5–8.5% | 16% | 52% | Median |
+| 8.5–9.5% | 3% | 36% |  |
+| 9.5–10.5% | 5% | 33% |  |
+| 10.5–11.5% | 13% | 27% |  |
+| 11.5–12.5% | 11% | 14% |  |
+| 12.5–13.5% | 3% | 4% |  |
+| 13.5–14.5% | 0.4% | 0.4% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -58,10 +58,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| [23 June–1 July 2018](2018-07-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [1–30 June 2018](2018-06-30-IMAS.html) | IMAS | 4 | 4 | 4 | 3–4 | 3–4 |
-| [22–26 June 2018](2018-06-26-Sociopol.html) | Sociopol <br> România TV |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 2 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [23 June–1 July 2018](2018-07-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–30 June 2018](2018-06-30-IMAS.html) | IMAS | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [22–26 June 2018](2018-06-26-Sociopol.html) | Sociopol <br> România TV | 2 | 2 | 2 | 2 | 2–3 |
 | [28 May–8 June 2018](2018-06-08-Sociopol.html) | Sociopol <br> România TV | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [27 April–8 May 2018](2018-05-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 2 | 2 | 0–2 | 0–3 | 0–3 |
 | [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol <br> STIRIPESURSE.RO | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -82,12 +82,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 7% | 100% |  |
-| 3 | 44% | 93% | Median |
-| 4 | 48% | 49% |  |
-| 5 | 0.2% | 0.2% |  |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 0% | 99.9% |  |
+| 2 | 52% | 99.9% | Median |
+| 3 | 21% | 47% |  |
+| 4 | 25% | 26% |  |
+| 5 | 1.3% | 1.3% |  |
 | 6 | 0% | 0% |  |
 
 
