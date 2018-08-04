@@ -66,10 +66,10 @@ Last result: **16** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 10–15 | 10–16 | 9–16 | 9–17 |
-| [23 June–1 July 2018](2018-07-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
+| N/A | [Poll Average](average.html) | 14 | 10–16 | 10–17 | 9–17 | 9–17 |
+| [23 June–1 July 2018](2018-07-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [1–30 June 2018](2018-06-30-IMAS.html) | IMAS | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
-| [22–26 June 2018](2018-06-26-Sociopol.html) | Sociopol <br> România TV | 15 | 15 | 15–16 | 15–17 | 15–17 |
+| [22–26 June 2018](2018-06-26-Sociopol.html) | Sociopol <br> România TV | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [28 May–8 June 2018](2018-06-08-Sociopol.html) | Sociopol <br> România TV | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
 | [27 April–8 May 2018](2018-05-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
 | [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol <br> STIRIPESURSE.RO | 12 | 11–14 | 11–14 | 11–14 | 11–15 |
@@ -93,12 +93,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 3% | 100% |  |
 | 10 | 20% | 97% |  |
 | 11 | 10% | 77% |  |
-| 12 | 2% | 67% |  |
-| 13 | 5% | 66% |  |
-| 14 | 11% | 61% | Median |
-| 15 | 44% | 50% |  |
-| 16 | 4% | 6% | Last Result |
-| 17 | 2% | 2% | Majority |
-| 18 | 0% | 0% |  |
+| 12 | 1.1% | 67% |  |
+| 13 | 4% | 66% |  |
+| 14 | 13% | 62% | Median |
+| 15 | 23% | 50% |  |
+| 16 | 20% | 27% | Last Result |
+| 17 | 6% | 7% | Majority |
+| 18 | 0.4% | 0.4% |  |
+| 19 | 0% | 0% |  |
 
 

@@ -53,7 +53,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [23 June–1 July 2018](2018-07-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [1–30 June 2018](2018-06-30-IMAS.html) | IMAS | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [22–26 June 2018](2018-06-26-Sociopol.html) | Sociopol <br> România TV | 0 | 0 | 0 | 0 | 0 |
+| [22–26 June 2018](2018-06-26-Sociopol.html) | Sociopol <br> România TV | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | [28 May–8 June 2018](2018-06-08-Sociopol.html) | Sociopol <br> România TV | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [27 April–8 May 2018](2018-05-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 2 | 2 | 0–2 | 0–3 | 0–3 |
 | [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol <br> STIRIPESURSE.RO | 2 | 1–2 | 0–2 | 0–2 | 0–3 |
@@ -74,9 +74,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 59% | 100% | Median |
-| 1 | 8% | 41% |  |
-| 2 | 33% | 33% | Last Result |
+| 0 | 54% | 100% | Median |
+| 1 | 9% | 46% |  |
+| 2 | 37% | 37% | Last Result |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
