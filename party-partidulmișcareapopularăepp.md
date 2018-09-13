@@ -10,7 +10,8 @@ Last result: **6.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 0.9–4.4% | 0.7–4.7% | 0.6–5.0% | 0.5–5.5% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.5–4.4% | 2.3–4.8% | 2.1–5.0% | 1.9–5.5% |
+| [7–20 August 2018](2018-08-20-Sociopol.html) | Sociopol | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.7% |
 | [23 June–1 July 2018](2018-07-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [1–30 June 2018](2018-06-30-IMAS.html) | IMAS | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–3.9% | 1.8–4.3% |
 | [22–26 June 2018](2018-06-26-Sociopol.html) | Sociopol <br> România TV | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
@@ -32,11 +33,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.1% | 100% |  |
-| 0.5–1.5% | 29% | 98.9% |  |
-| 1.5–2.5% | 11% | 70% |  |
-| 2.5–3.5% | 28% | 59% | Median |
-| 3.5–4.5% | 23% | 31% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 13% | 100% |  |
+| 2.5–3.5% | 50% | 87% | Median |
+| 3.5–4.5% | 29% | 37% |  |
 | 4.5–5.5% | 7% | 8% |  |
 | 5.5–6.5% | 0.5% | 0.5% | Last Result |
 | 6.5–7.5% | 0% | 0% |  |
@@ -51,6 +51,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–2 |
+| [7–20 August 2018](2018-08-20-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [23 June–1 July 2018](2018-07-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | [1–30 June 2018](2018-06-30-IMAS.html) | IMAS | 0 | 0 | 0 | 0 | 0 |
 | [22–26 June 2018](2018-06-26-Sociopol.html) | Sociopol <br> România TV | 0 | 0 | 0 | 0 | 0 |

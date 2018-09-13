@@ -141,6 +141,8 @@
 
 ### Partidul Social Democrat (S&D)
 
+![Graph with seats probability mass function not yet produced](2017-12-07-Avangarde-coalitions-seats-pmf-psd.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.1% | 100% |  |
@@ -155,6 +157,8 @@
 
 ### Partidul Național Liberal (EPP) – Uniunea Democrată Maghiară din România (EPP) – Partidul Mișcarea Populară (EPP)
 
+![Graph with seats probability mass function not yet produced](2017-12-07-Avangarde-coalitions-seats-pmf-pnl–udmr–pmp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 1.0% | 100% |  |
@@ -168,6 +172,8 @@
 
 ### Partidul Alianța Liberalilor și Democraților (ALDE)
 
+![Graph with seats probability mass function not yet produced](2017-12-07-Avangarde-coalitions-seats-pmf-alde.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 1.4% | 100% |  |
@@ -178,6 +184,8 @@
 | 8 | 0% | 0% |  |
 
 ### Uniunea Salvați România (*)
+
+![Graph with seats probability mass function not yet produced](2017-12-07-Avangarde-coalitions-seats-pmf-usr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
