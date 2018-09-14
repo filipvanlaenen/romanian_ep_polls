@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 27–40% <br> 9–16 | 7–12% <br> 2–4 | 17–31% <br> 6–11 | 3–6% <br> 0–2 | 2–5% <br> 0 | 4–15% <br> 0–5 | 2–6% <br> 0–2 | 6–13% <br> 2–4 |
-| [7–20 August 2018](2018-08-20-Sociopol.html) | Sociopol | 32–38% <br> 12–15 | 8–12% <br> 3–4 | 17–22% <br> 6–8 | 3–5% <br> 0–2 | 2–4% <br> 0 | 11–15% <br> 4–6 | 2–4% <br> 0 | 6–10% <br> 2–4 |
+| [7–20 August 2018](2018-08-20-Sociopol.html) | Sociopol | 32–38% <br> 12–15 | 8–12% <br> 3–4 | 17–22% <br> 6–8 | 3–5% <br> 0–2 | 2–4% <br> 0 | 11–15% <br> 4–6 | 2–4% <br> 0 | 6–10% <br> 2–3 |
 | [23 June–1 July 2018](2018-07-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 35–40% <br> 13–17 | 7–10% <br> 2–4 | 22–27% <br> 8–11 | 4–7% <br> 0–2 | 3–5% <br> 0–2 | 4–7% <br> 0–2 | 4–7% <br> 0–2 | 6–9% <br> 2–3 |
 | [1–30 June 2018](2018-06-30-IMAS.html) | IMAS | 26–31% <br> 9–11 | 7–10% <br> 2–3 | 27–32% <br> 9–12 | 4–6% <br> 0–2 | 2–4% <br> 0 | 7–10% <br> 2–3 | N/A <br> N/A | 10–13% <br> 3–5 |
 | 25 May 2014 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -245,8 +245,8 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 20% | 97% |  |
 | 11 | 10% | 77% |  |
 | 12 | 4% | 67% |  |
-| 13 | 14% | 63% | Median |
-| 14 | 27% | 49% |  |
+| 13 | 15% | 64% | Median |
+| 14 | 26% | 49% |  |
 | 15 | 15% | 22% |  |
 | 16 | 7% | 8% | Last Result |
 | 17 | 1.1% | 1.2% | Majority |
@@ -261,9 +261,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 14% | 100% |  |
-| 3 | 67% | 86% | Median |
-| 4 | 19% | 19% |  |
-| 5 | 0.5% | 0.5% |  |
+| 3 | 66% | 86% | Median |
+| 4 | 20% | 21% |  |
+| 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% | Last Result |
 
 ### Partidul Național Liberal (EPP)
@@ -292,8 +292,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 55% | 100% | Median |
-| 1 | 9% | 45% |  |
+| 0 | 56% | 100% | Median |
+| 1 | 8% | 44% |  |
 | 2 | 36% | 36% | Last Result |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
@@ -321,8 +321,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
 | 1 | 0.1% | 99.9% |  |
-| 2 | 33% | 99.8% |  |
-| 3 | 39% | 67% | Median |
+| 2 | 31% | 99.8% |  |
+| 3 | 40% | 68% | Median |
 | 4 | 27% | 28% |  |
 | 5 | 1.2% | 1.2% |  |
 | 6 | 0% | 0% |  |
@@ -383,8 +383,8 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 20% | 97% |  |
 | 11 | 10% | 77% |  |
 | 12 | 4% | 67% |  |
-| 13 | 14% | 63% | Median |
-| 14 | 27% | 49% |  |
+| 13 | 15% | 64% | Median |
+| 14 | 26% | 49% |  |
 | 15 | 15% | 22% |  |
 | 16 | 7% | 8% | Last Result |
 | 17 | 1.1% | 1.2% | Majority |
@@ -413,9 +413,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 14% | 100% |  |
-| 3 | 67% | 86% | Median |
-| 4 | 19% | 19% |  |
-| 5 | 0.5% | 0.5% |  |
+| 3 | 66% | 86% | Median |
+| 4 | 20% | 21% |  |
+| 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% | Last Result |
 
 ### Uniunea Salvați România (*)
@@ -426,8 +426,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
 | 1 | 0.1% | 99.9% |  |
-| 2 | 33% | 99.8% |  |
-| 3 | 39% | 67% | Median |
+| 2 | 31% | 99.8% |  |
+| 3 | 40% | 68% | Median |
 | 4 | 27% | 28% |  |
 | 5 | 1.2% | 1.2% |  |
 | 6 | 0% | 0% |  |
