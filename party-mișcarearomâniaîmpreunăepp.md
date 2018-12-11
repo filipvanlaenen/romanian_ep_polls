@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.1% | 4.2–6.0% | 4.0–6.3% | 3.8–6.6% | 3.5–7.1% |
+| N/A | [Poll Average](average.html) | 5.6% | 4.4–8.7% | 4.1–9.2% | 3.9–9.6% | 3.5–10.3% |
+| [1–30 November 2018](2018-11-30-IMAS.html) | IMAS | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.7–10.1% | 6.2–10.7% |
 | [3–4 October 2018](2018-10-04-Sociopol.html) | Sociopol | 5.0% | 4.2–6.1% | 4.0–6.4% | 3.8–6.7% | 3.4–7.3% |
 | [20 September–1 October 2018](2018-10-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
 | [22–27 September 2018](2018-09-27-Sociopol.html) | Sociopol | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
@@ -39,13 +40,16 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.8% | 100% |  |
-| 3.5–4.5% | 22% | 99.2% |  |
-| 4.5–5.5% | 52% | 77% | Median |
-| 5.5–6.5% | 23% | 25% |  |
-| 6.5–7.5% | 3% | 3% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.6% | 100% |  |
+| 3.5–4.5% | 15% | 99.4% |  |
+| 4.5–5.5% | 35% | 85% |  |
+| 5.5–6.5% | 16% | 50% | Median |
+| 6.5–7.5% | 8% | 35% |  |
+| 7.5–8.5% | 14% | 27% |  |
+| 8.5–9.5% | 10% | 13% |  |
+| 9.5–10.5% | 2% | 3% |  |
+| 10.5–11.5% | 0.2% | 0.2% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -56,7 +60,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [1–30 November 2018](2018-11-30-IMAS.html) | IMAS | 2 | 2 | 2 | 2–3 | 2–3 |
 | [3–4 October 2018](2018-10-04-Sociopol.html) | Sociopol | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [20 September–1 October 2018](2018-10-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [22–27 September 2018](2018-09-27-Sociopol.html) | Sociopol | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -84,10 +89,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Last Result |
-| 1 | 12% | 50% | Median |
-| 2 | 38% | 38% |  |
-| 3 | 0.1% | 0.1% |  |
+| 0 | 33% | 100% | Last Result |
+| 1 | 8% | 67% |  |
+| 2 | 57% | 59% | Median |
+| 3 | 1.2% | 1.3% |  |
 | 4 | 0% | 0% |  |
 
 

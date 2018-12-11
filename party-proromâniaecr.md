@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.6% | 4.5–6.7% | 4.2–7.1% | 4.0–7.4% | 3.6–7.9% |
+| [1–30 November 2018](2018-11-30-IMAS.html) | IMAS | 0.0% | N/A | N/A | N/A | N/A |
 | [3–4 October 2018](2018-10-04-Sociopol.html) | Sociopol | 5.0% | 4.2–6.1% | 4.0–6.4% | 3.8–6.7% | 3.4–7.3% |
 | [20 September–1 October 2018](2018-10-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 6.0% | 5.2–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
 | [22–27 September 2018](2018-09-27-Sociopol.html) | Sociopol | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
@@ -58,6 +59,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [1–30 November 2018](2018-11-30-IMAS.html) | IMAS |  |  |  |  |  |
 | [3–4 October 2018](2018-10-04-Sociopol.html) | Sociopol | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [20 September–1 October 2018](2018-10-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 2 | 2 | 0–2 | 0–2 | 0–3 |
 | [22–27 September 2018](2018-09-27-Sociopol.html) | Sociopol | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
