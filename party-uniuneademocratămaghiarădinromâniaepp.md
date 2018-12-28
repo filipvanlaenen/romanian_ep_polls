@@ -58,8 +58,8 @@ Last result: **2** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 2 | 1–2 | 0–2 | 0–2 | 0–3 |
 | [1–30 November 2018](2018-11-30-IMAS.html) | IMAS | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [3–4 October 2018](2018-10-04-Sociopol.html) | Sociopol | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [20 September–1 October 2018](2018-10-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -88,10 +88,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 47% | 100% |  |
-| 1 | 21% | 53% | Median |
-| 2 | 32% | 32% | Last Result |
-| 3 | 0.1% | 0.1% |  |
+| 0 | 36% | 100% |  |
+| 1 | 8% | 64% |  |
+| 2 | 55% | 56% | Last Result, Median |
+| 3 | 0.8% | 0.8% |  |
 | 4 | 0% | 0% |  |
 
 
