@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 11 Jan 2019 21:24:41 +0100</pubDate>
+    <pubDate>Sun, 13 Jan 2019 10:46:17 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by IMAS, 4–20 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-20-IMAS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 3–5 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 9–11 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;PRO România (ECR): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-20-IMAS-seats.png"
+        length="210948"
+        type="image/png"/>
+      <pubDate>Sun, 13 Jan 2019 10:46:17 +0100</pubDate>
+      <dc:date>2019-01-13T10:46:17.723085+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS, 4–20 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-20-IMAS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-20-IMAS-coalitions-seats.png"
+        length="143747"
+        type="image/png"/>
+      <pubDate>Sun, 13 Jan 2019 10:46:17 +0100</pubDate>
+      <dc:date>2019-01-13T10:46:17.723085+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IMAS, 4–20 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-20-IMAS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-20-IMAS.png"
         length="265089"
         type="image/png"/>
-      <pubDate>Fri, 11 Jan 2019 21:24:41 +0100</pubDate>
-      <dc:date>2019-01-11T21:24:41.436997+01:00</dc:date>
+      <pubDate>Sun, 13 Jan 2019 10:46:17 +0100</pubDate>
+      <dc:date>2019-01-13T10:46:17.723085+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 24 November–9 December 2018 – Seat Projections for the Parties</title>
@@ -619,6 +639,6 @@
       <pubDate>Thu, 12 Apr 2018 17:15:26 +0200</pubDate>
       <dc:date>2018-04-12T17:15:26.806704+02:00</dc:date>
     </item>
-    <dc:date>2019-01-11T21:24:41.436997+01:00</dc:date>
+    <dc:date>2019-01-13T10:46:17.723085+01:00</dc:date>
   </channel>
 </rss>
