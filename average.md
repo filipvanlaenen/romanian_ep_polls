@@ -9,10 +9,9 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | PSD | ALDE | PNL | UDMR | PMP | RO+ | PRO | USR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 23–40% <br> 8–16 | 8–12% <br> 2–4 | 18–28% <br> 6–10 | 3–7% <br> 0–2 | 1–6% <br> 0–2 | 4–10% <br> 0–3 | 4–10% <br> 0–4 | 5–13% <br> 0–5 |
-| [4–20 December 2018](2018-12-20-IMAS.html) | IMAS | 23–28% <br> 8–10 | 8–12% <br> 3–4 | 24–29% <br> 9–11 | 3–6% <br> 0–2 | 2–4% <br> 0 | 7–10% <br> 2–3 | 5–8% <br> 0–3 | 10–14% <br> 3–5 |
+| N/A | Poll Average | 16–35% <br> 5–13 | 8–11% <br> 2–4 | 14–22% <br> 5–8 | 2–7% <br> 0–2 | 2–6% <br> 0–2 | 4–8% <br> 0–2 | 5–11% <br> 1–4 | 6–9% <br> 2–3 |
+| [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 15–20% <br> 5–7 | 8–11% <br> 3–4 | 13–18% <br> 5 | 2–4% <br> 0 | 2–4% <br> 0 | 5–8% <br> 2 | 4–7% <br> 0–2 | 6–9% <br> 2–3 |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 30–36% <br> 11–14 | 7–11% <br> 2–4 | 18–22% <br> 6–8 | 5–8% <br> 0–2 | 4–6% <br> 0–2 | 4–6% <br> 0–2 | 7–11% <br> 2–4 | 6–9% <br> 2–3 |
-| [3–4 October 2018](2018-10-04-Sociopol.html) | Sociopol | 35–41% <br> 13–16 | 8–12% <br> 3–4 | 20–26% <br> 7–10 | 3–6% <br> 0–2 | 1–2% <br> 0 | 4–7% <br> 0–2 | 4–7% <br> 0–2 | 5–8% <br> 0–3 |
 | 25 May 2014 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -39,14 +38,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partidul-social-democrat-(s&d)">Partidul Social Democrat (S&D)</a> | 37.6% | 33.0% | 24.5–38.9% |23.8–39.8% | 23.3–40.4% | 22.3–41.6% |
-| <a href="#partidul-alianța-liberalilor-și-democraților-(alde)">Partidul Alianța Liberalilor și Democraților (ALDE)</a> | 15.0% | 9.6% | 8.3–11.0% |8.0–11.4% | 7.7–11.7% | 7.2–12.5% |
-| <a href="#partidul-național-liberal-(epp)">Partidul Național Liberal (EPP)</a> | 12.2% | 23.1% | 19.3–27.0% |18.8–27.7% | 18.3–28.3% | 17.4–29.3% |
-| <a href="#uniunea-democrată-maghiară-din-românia-(epp)">Uniunea Democrată Maghiară din România (EPP)</a> | 6.3% | 4.8% | 3.6–6.5% |3.4–6.9% | 3.2–7.2% | 2.8–7.8% |
-| <a href="#partidul-mișcarea-populară-(epp)">Partidul Mișcarea Populară (EPP)</a> | 6.2% | 2.6% | 0.9–5.4% |0.8–5.7% | 0.7–6.0% | 0.5–6.6% |
-| <a href="#mișcarea-românia-împreună-(alde)">Mișcarea România Împreună (ALDE)</a> | 0.0% | 5.6% | 4.4–8.6% |4.1–9.1% | 3.9–9.5% | 3.5–10.2% |
-| <a href="#pro-românia-(ecr)">PRO România (ECR)</a> | 0.0% | 6.5% | 4.7–9.5% |4.4–10.0% | 4.1–10.4% | 3.7–11.1% |
-| <a href="#uniunea-salvați-românia-(alde)">Uniunea Salvați România (ALDE)</a> | 0.0% | 7.2% | 5.6–12.1% |5.2–12.6% | 4.9–13.0% | 4.4–13.8% |
+| <a href="#partidul-social-democrat-(s&d)">Partidul Social Democrat (S&D)</a> | 37.6% | 25.1% | 16.5–34.2% |16.0–34.9% | 15.6–35.4% | 14.8–36.4% |
+| <a href="#partidul-alianța-liberalilor-și-democraților-(alde)">Partidul Alianța Liberalilor și Democraților (ALDE)</a> | 15.0% | 9.2% | 8.0–10.3% |7.8–10.7% | 7.5–11.0% | 7.0–11.7% |
+| <a href="#partidul-național-liberal-(epp)">Partidul Național Liberal (EPP)</a> | 12.2% | 17.6% | 14.3–21.0% |13.9–21.6% | 13.5–22.1% | 12.8–22.9% |
+| <a href="#uniunea-democrată-maghiară-din-românia-(epp)">Uniunea Democrată Maghiară din România (EPP)</a> | 6.3% | 4.5% | 2.6–6.7% |2.4–7.0% | 2.2–7.3% | 1.9–7.9% |
+| <a href="#partidul-mișcarea-populară-(epp)">Partidul Mișcarea Populară (EPP)</a> | 6.2% | 3.8% | 2.2–5.6% |2.0–5.9% | 1.9–6.2% | 1.6–6.7% |
+| <a href="#mișcarea-românia-împreună-(alde)">Mișcarea România Împreună (ALDE)</a> | 0.0% | 5.6% | 4.5–6.9% |4.2–7.2% | 4.0–7.5% | 3.6–8.1% |
+| <a href="#pro-românia-(ecr)">PRO România (ECR)</a> | 0.0% | 7.3% | 5.1–9.8% |4.8–10.2% | 4.6–10.6% | 4.2–11.2% |
+| <a href="#uniunea-salvați-românia-(alde)">Uniunea Salvați România (ALDE)</a> | 0.0% | 7.4% | 6.3–8.5% |6.0–8.9% | 5.8–9.2% | 5.4–9.8% |
 
 ### Partidul Social Democrat (S&D)
 
@@ -54,31 +53,33 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.7% | 99.9% |  |
-| 22.5–23.5% | 3% | 99.2% |  |
-| 23.5–24.5% | 7% | 96% |  |
-| 24.5–25.5% | 9% | 89% |  |
-| 25.5–26.5% | 8% | 80% |  |
-| 26.5–27.5% | 4% | 72% |  |
-| 27.5–28.5% | 1.2% | 68% |  |
-| 28.5–29.5% | 0.5% | 67% |  |
-| 29.5–30.5% | 1.2% | 66% |  |
-| 30.5–31.5% | 4% | 65% |  |
-| 31.5–32.5% | 7% | 62% |  |
-| 32.5–33.5% | 9% | 54% | Median |
-| 33.5–34.5% | 7% | 45% |  |
-| 34.5–35.5% | 5% | 38% |  |
-| 35.5–36.5% | 5% | 33% |  |
-| 36.5–37.5% | 7% | 28% |  |
-| 37.5–38.5% | 8% | 21% | Last Result |
-| 38.5–39.5% | 7% | 13% |  |
-| 39.5–40.5% | 4% | 6% |  |
-| 40.5–41.5% | 2% | 2% |  |
-| 41.5–42.5% | 0.5% | 0.6% |  |
-| 42.5–43.5% | 0.1% | 0.1% |  |
-| 43.5–44.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.3% | 100% |  |
+| 14.5–15.5% | 2% | 99.7% |  |
+| 15.5–16.5% | 9% | 98% |  |
+| 16.5–17.5% | 15% | 89% |  |
+| 17.5–18.5% | 14% | 73% |  |
+| 18.5–19.5% | 7% | 59% |  |
+| 19.5–20.5% | 2% | 52% |  |
+| 20.5–21.5% | 0.3% | 50% |  |
+| 21.5–22.5% | 0% | 50% |  |
+| 22.5–23.5% | 0% | 50% |  |
+| 23.5–24.5% | 0% | 50% |  |
+| 24.5–25.5% | 0% | 50% | Median |
+| 25.5–26.5% | 0% | 50% |  |
+| 26.5–27.5% | 0% | 50% |  |
+| 27.5–28.5% | 0% | 50% |  |
+| 28.5–29.5% | 0.3% | 50% |  |
+| 29.5–30.5% | 2% | 50% |  |
+| 30.5–31.5% | 6% | 48% |  |
+| 31.5–32.5% | 11% | 42% |  |
+| 32.5–33.5% | 13% | 31% |  |
+| 33.5–34.5% | 11% | 18% |  |
+| 34.5–35.5% | 5% | 7% |  |
+| 35.5–36.5% | 2% | 2% |  |
+| 36.5–37.5% | 0.3% | 0.4% |  |
+| 37.5–38.5% | 0% | 0% | Last Result |
+| 38.5–39.5% | 0% | 0% |  |
 
 ### Partidul Alianța Liberalilor și Democraților (ALDE)
 
@@ -86,14 +87,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 2% | 100% |  |
-| 7.5–8.5% | 14% | 98% |  |
-| 8.5–9.5% | 35% | 85% |  |
-| 9.5–10.5% | 33% | 50% | Median |
-| 10.5–11.5% | 14% | 18% |  |
-| 11.5–12.5% | 3% | 4% |  |
-| 12.5–13.5% | 0.4% | 0.4% |  |
+| 5.5–6.5% | 0.1% | 100% |  |
+| 6.5–7.5% | 3% | 99.9% |  |
+| 7.5–8.5% | 22% | 97% |  |
+| 8.5–9.5% | 42% | 75% | Median |
+| 9.5–10.5% | 26% | 33% |  |
+| 10.5–11.5% | 6% | 7% |  |
+| 11.5–12.5% | 0.6% | 0.7% |  |
+| 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% | Last Result |
 
@@ -103,27 +104,21 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0% | 100% | Last Result |
-| 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 0.6% | 99.9% |  |
-| 17.5–18.5% | 3% | 99.4% |  |
-| 18.5–19.5% | 8% | 96% |  |
-| 19.5–20.5% | 11% | 88% |  |
-| 20.5–21.5% | 11% | 76% |  |
-| 21.5–22.5% | 10% | 66% |  |
-| 22.5–23.5% | 10% | 55% | Median |
-| 23.5–24.5% | 10% | 45% |  |
-| 24.5–25.5% | 10% | 35% |  |
-| 25.5–26.5% | 11% | 25% |  |
-| 26.5–27.5% | 8% | 14% |  |
-| 27.5–28.5% | 4% | 6% |  |
-| 28.5–29.5% | 1.4% | 2% |  |
-| 29.5–30.5% | 0.3% | 0.3% |  |
-| 30.5–31.5% | 0% | 0% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.3% | 100% | Last Result |
+| 12.5–13.5% | 3% | 99.7% |  |
+| 13.5–14.5% | 10% | 97% |  |
+| 14.5–15.5% | 17% | 87% |  |
+| 15.5–16.5% | 14% | 70% |  |
+| 16.5–17.5% | 6% | 57% |  |
+| 17.5–18.5% | 6% | 50% | Median |
+| 18.5–19.5% | 12% | 44% |  |
+| 19.5–20.5% | 16% | 32% |  |
+| 20.5–21.5% | 11% | 16% |  |
+| 21.5–22.5% | 4% | 5% |  |
+| 22.5–23.5% | 0.9% | 1.1% |  |
+| 23.5–24.5% | 0.1% | 0.1% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 ### Uniunea Democrată Maghiară din România (EPP)
 
@@ -132,14 +127,15 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 8% | 99.9% |  |
-| 3.5–4.5% | 33% | 92% |  |
-| 4.5–5.5% | 30% | 59% | Median |
-| 5.5–6.5% | 21% | 29% | Last Result |
-| 6.5–7.5% | 8% | 9% |  |
-| 7.5–8.5% | 0.9% | 0.9% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 1.5–2.5% | 9% | 100% |  |
+| 2.5–3.5% | 33% | 91% |  |
+| 3.5–4.5% | 9% | 59% | Median |
+| 4.5–5.5% | 12% | 50% |  |
+| 5.5–6.5% | 26% | 38% | Last Result |
+| 6.5–7.5% | 11% | 13% |  |
+| 7.5–8.5% | 1.4% | 1.4% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 ### Partidul Mișcarea Populară (EPP)
 
@@ -147,14 +143,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.8% | 100% |  |
-| 0.5–1.5% | 28% | 99.2% |  |
-| 1.5–2.5% | 18% | 71% |  |
-| 2.5–3.5% | 18% | 52% | Median |
-| 3.5–4.5% | 9% | 35% |  |
-| 4.5–5.5% | 18% | 25% |  |
-| 5.5–6.5% | 7% | 7% | Last Result |
-| 6.5–7.5% | 0.6% | 0.6% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 0.3% | 100% |  |
+| 1.5–2.5% | 21% | 99.7% |  |
+| 2.5–3.5% | 26% | 79% |  |
+| 3.5–4.5% | 14% | 52% | Median |
+| 4.5–5.5% | 27% | 38% |  |
+| 5.5–6.5% | 10% | 11% | Last Result |
+| 6.5–7.5% | 0.9% | 0.9% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 ### Uniunea Salvați România (ALDE)
@@ -167,19 +163,15 @@ Only polls for which at least the sample size has been published are included in
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.8% | 100% |  |
-| 4.5–5.5% | 9% | 99.2% |  |
-| 5.5–6.5% | 23% | 90% |  |
-| 6.5–7.5% | 23% | 67% | Median |
-| 7.5–8.5% | 9% | 44% |  |
-| 8.5–9.5% | 2% | 35% |  |
-| 9.5–10.5% | 5% | 33% |  |
-| 10.5–11.5% | 12% | 28% |  |
-| 11.5–12.5% | 11% | 16% |  |
-| 12.5–13.5% | 5% | 5% |  |
-| 13.5–14.5% | 0.8% | 0.9% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 1.0% | 100% |  |
+| 5.5–6.5% | 15% | 99.0% |  |
+| 6.5–7.5% | 42% | 84% | Median |
+| 7.5–8.5% | 32% | 42% |  |
+| 8.5–9.5% | 9% | 10% |  |
+| 9.5–10.5% | 0.9% | 1.0% |  |
+| 10.5–11.5% | 0% | 0% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 ### Mișcarea România Împreună (ALDE)
 
@@ -190,16 +182,14 @@ Only polls for which at least the sample size has been published are included in
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.6% | 100% |  |
-| 3.5–4.5% | 15% | 99.4% |  |
-| 4.5–5.5% | 35% | 85% |  |
-| 5.5–6.5% | 16% | 50% | Median |
-| 6.5–7.5% | 9% | 34% |  |
-| 7.5–8.5% | 15% | 26% |  |
-| 8.5–9.5% | 9% | 11% |  |
-| 9.5–10.5% | 2% | 2% |  |
-| 10.5–11.5% | 0.2% | 0.2% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.4% | 100% |  |
+| 3.5–4.5% | 12% | 99.6% |  |
+| 4.5–5.5% | 36% | 88% |  |
+| 5.5–6.5% | 35% | 52% | Median |
+| 6.5–7.5% | 14% | 17% |  |
+| 7.5–8.5% | 2% | 2% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 ### PRO România (ECR)
 
@@ -210,16 +200,16 @@ Only polls for which at least the sample size has been published are included in
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 7% | 99.7% |  |
-| 4.5–5.5% | 21% | 92% |  |
-| 5.5–6.5% | 23% | 72% | Median |
-| 6.5–7.5% | 14% | 48% |  |
-| 7.5–8.5% | 11% | 35% |  |
-| 8.5–9.5% | 15% | 24% |  |
-| 9.5–10.5% | 8% | 9% |  |
-| 10.5–11.5% | 2% | 2% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 19% | 98% |  |
+| 5.5–6.5% | 23% | 79% |  |
+| 6.5–7.5% | 8% | 56% | Median |
+| 7.5–8.5% | 13% | 49% |  |
+| 8.5–9.5% | 22% | 36% |  |
+| 9.5–10.5% | 12% | 14% |  |
+| 10.5–11.5% | 2% | 3% |  |
+| 11.5–12.5% | 0.2% | 0.2% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -231,14 +221,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partidul-social-democrat-(s&d)">Partidul Social Democrat (S&D)</a> | 16 | 12 | 9–15 |9–15 | 8–16 | 8–17 |
-| <a href="#partidul-alianța-liberalilor-și-democraților-(alde)">Partidul Alianța Liberalilor și Democraților (ALDE)</a> | 6 | 3 | 3–4 |3–4 | 2–4 | 2–4 |
-| <a href="#partidul-național-liberal-(epp)">Partidul Național Liberal (EPP)</a> | 5 | 9 | 7–10 |7–10 | 6–10 | 6–11 |
+| <a href="#partidul-social-democrat-(s&d)">Partidul Social Democrat (S&D)</a> | 16 | 9 | 6–13 |6–13 | 5–13 | 5–14 |
+| <a href="#partidul-alianța-liberalilor-și-democraților-(alde)">Partidul Alianța Liberalilor și Democraților (ALDE)</a> | 6 | 4 | 3–4 |2–4 | 2–4 | 2–4 |
+| <a href="#partidul-național-liberal-(epp)">Partidul Național Liberal (EPP)</a> | 5 | 6 | 5–8 |5–8 | 5–8 | 5–9 |
 | <a href="#uniunea-democrată-maghiară-din-românia-(epp)">Uniunea Democrată Maghiară din România (EPP)</a> | 2 | 0 | 0–2 |0–2 | 0–2 | 0–3 |
 | <a href="#partidul-mișcarea-populară-(epp)">Partidul Mișcarea Populară (EPP)</a> | 2 | 0 | 0–2 |0–2 | 0–2 | 0–2 |
-| <a href="#mișcarea-românia-împreună-(alde)">Mișcarea România Împreună (ALDE)</a> | 0 | 2 | 0–3 |0–3 | 0–3 | 0–3 |
-| <a href="#pro-românia-(ecr)">PRO România (ECR)</a> | 0 | 2 | 0–3 |0–3 | 0–4 | 0–4 |
-| <a href="#uniunea-salvați-românia-(alde)">Uniunea Salvați România (ALDE)</a> | 0 | 2 | 2–4 |2–4 | 0–5 | 0–5 |
+| <a href="#mișcarea-românia-împreună-(alde)">Mișcarea România Împreună (ALDE)</a> | 0 | 2 | 0–2 |0–2 | 0–2 | 0–2 |
+| <a href="#pro-românia-(ecr)">PRO România (ECR)</a> | 0 | 2 | 1–3 |1–3 | 1–4 | 0–4 |
+| <a href="#uniunea-salvați-românia-(alde)">Uniunea Salvați România (ALDE)</a> | 0 | 2 | 2–3 |2–3 | 2–3 | 2–3 |
 
 ### Partidul Social Democrat (S&D)
 
@@ -248,17 +238,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 4% | 100% |  |
-| 9 | 19% | 96% |  |
-| 10 | 10% | 77% |  |
-| 11 | 6% | 67% |  |
-| 12 | 16% | 61% | Median |
-| 13 | 16% | 45% |  |
-| 14 | 15% | 29% |  |
-| 15 | 10% | 14% |  |
-| 16 | 3% | 4% | Last Result |
-| 17 | 0.6% | 0.6% | Majority |
-| 18 | 0% | 0% |  |
+| 5 | 4% | 100% |  |
+| 6 | 44% | 96% |  |
+| 7 | 2% | 52% |  |
+| 8 | 0% | 50% |  |
+| 9 | 0% | 50% | Median |
+| 10 | 0.4% | 50% |  |
+| 11 | 7% | 50% |  |
+| 12 | 24% | 42% |  |
+| 13 | 16% | 19% |  |
+| 14 | 2% | 2% |  |
+| 15 | 0.2% | 0.2% |  |
+| 16 | 0% | 0% | Last Result |
 
 ### Partidul Alianța Liberalilor și Democraților (ALDE)
 
@@ -268,10 +259,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 4% | 100% |  |
-| 3 | 73% | 96% | Median |
-| 4 | 23% | 24% |  |
-| 5 | 0.4% | 0.4% |  |
+| 2 | 5% | 100% |  |
+| 3 | 43% | 95% |  |
+| 4 | 52% | 52% | Median |
+| 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% | Last Result |
 
 ### Partidul Național Liberal (EPP)
@@ -282,15 +273,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0% | 100% | Last Result |
-| 6 | 3% | 100% |  |
-| 7 | 22% | 97% |  |
-| 8 | 25% | 75% |  |
-| 9 | 27% | 50% | Median |
-| 10 | 21% | 23% |  |
-| 11 | 2% | 2% |  |
-| 12 | 0.2% | 0.2% |  |
-| 13 | 0% | 0% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 49% | 99.8% | Last Result |
+| 6 | 5% | 51% | Median |
+| 7 | 30% | 45% |  |
+| 8 | 14% | 15% |  |
+| 9 | 1.1% | 1.1% |  |
+| 10 | 0% | 0% |  |
 
 ### Uniunea Democrată Maghiară din România (EPP)
 
@@ -300,10 +289,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 57% | 100% | Median |
-| 1 | 7% | 43% |  |
-| 2 | 36% | 36% | Last Result |
-| 3 | 0.7% | 0.7% |  |
+| 0 | 54% | 100% | Median |
+| 1 | 3% | 46% |  |
+| 2 | 42% | 43% | Last Result |
+| 3 | 1.0% | 1.0% |  |
 | 4 | 0% | 0% |  |
 
 ### Partidul Mișcarea Populară (EPP)
@@ -314,9 +303,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Median |
-| 1 | 0.1% | 13% |  |
-| 2 | 13% | 13% | Last Result |
+| 0 | 80% | 100% | Median |
+| 1 | 0.1% | 20% |  |
+| 2 | 20% | 20% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### Uniunea Salvați România (ALDE)
@@ -327,13 +316,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 1.0% | 96% |  |
-| 2 | 55% | 95% | Median |
-| 3 | 11% | 40% |  |
-| 4 | 27% | 30% |  |
-| 5 | 3% | 3% |  |
-| 6 | 0% | 0% |  |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 0.2% | 99.9% |  |
+| 2 | 70% | 99.7% | Median |
+| 3 | 30% | 30% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 ### Mișcarea România Împreună (ALDE)
 
@@ -343,12 +331,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 31% | 100% | Last Result |
-| 1 | 7% | 69% |  |
-| 2 | 39% | 62% | Median |
-| 3 | 22% | 23% |  |
-| 4 | 0.3% | 0.3% |  |
-| 5 | 0% | 0% |  |
+| 0 | 25% | 100% | Last Result |
+| 1 | 7% | 75% |  |
+| 2 | 68% | 68% | Median |
+| 3 | 0% | 0% |  |
 
 ### PRO România (ECR)
 
@@ -358,11 +344,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% | Last Result |
-| 1 | 4% | 84% |  |
-| 2 | 48% | 80% | Median |
-| 3 | 30% | 33% |  |
-| 4 | 3% | 3% |  |
+| 0 | 1.5% | 100% | Last Result |
+| 1 | 20% | 98.5% |  |
+| 2 | 33% | 79% | Median |
+| 3 | 42% | 46% |  |
+| 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
 
@@ -374,10 +360,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partidul Social Democrat (S&D) | 16 | 12 | 0.6% | 9–15 | 9–15 | 8–16 | 8–17 |
-| Partidul Național Liberal (EPP) – Uniunea Democrată Maghiară din România (EPP) – Partidul Mișcarea Populară (EPP) | 9 | 10 | 0% | 8–11 | 8–11 | 8–12 | 7–12 |
-| Partidul Alianța Liberalilor și Democraților (ALDE) – Mișcarea România Împreună (ALDE) – Uniunea Salvați România (ALDE) | 6 | 7 | 0% | 5–10 | 5–10 | 5–11 | 4–11 |
-| PRO România (ECR) | 0 | 2 | 0% | 0–3 | 0–3 | 0–4 | 0–4 |
+| Partidul Social Democrat (S&D) | 16 | 9 | 0% | 6–13 | 6–13 | 5–13 | 5–14 |
+| Partidul Național Liberal (EPP) – Uniunea Democrată Maghiară din România (EPP) – Partidul Mișcarea Populară (EPP) | 9 | 7 | 0% | 5–11 | 5–11 | 5–11 | 5–12 |
+| Partidul Alianța Liberalilor și Democraților (ALDE) – Mișcarea România Împreună (ALDE) – Uniunea Salvați România (ALDE) | 6 | 8 | 0% | 5–9 | 5–9 | 5–9 | 4–9 |
+| PRO România (ECR) | 0 | 2 | 0% | 1–3 | 1–3 | 1–4 | 0–4 |
 
 ### Partidul Social Democrat (S&D)
 
@@ -385,17 +371,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 4% | 100% |  |
-| 9 | 19% | 96% |  |
-| 10 | 10% | 77% |  |
-| 11 | 6% | 67% |  |
-| 12 | 16% | 61% | Median |
-| 13 | 16% | 45% |  |
-| 14 | 15% | 29% |  |
-| 15 | 10% | 14% |  |
-| 16 | 3% | 4% | Last Result |
-| 17 | 0.6% | 0.6% | Majority |
-| 18 | 0% | 0% |  |
+| 5 | 4% | 100% |  |
+| 6 | 44% | 96% |  |
+| 7 | 2% | 52% |  |
+| 8 | 0% | 50% |  |
+| 9 | 0% | 50% | Median |
+| 10 | 0.4% | 50% |  |
+| 11 | 7% | 50% |  |
+| 12 | 24% | 42% |  |
+| 13 | 16% | 19% |  |
+| 14 | 2% | 2% |  |
+| 15 | 0.2% | 0.2% |  |
+| 16 | 0% | 0% | Last Result |
 
 ### Partidul Național Liberal (EPP) – Uniunea Democrată Maghiară din România (EPP) – Partidul Mișcarea Populară (EPP)
 
@@ -403,14 +390,16 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 2% | 100% |  |
-| 8 | 16% | 98% |  |
-| 9 | 32% | 83% | Last Result, Median |
-| 10 | 31% | 50% |  |
-| 11 | 16% | 19% |  |
-| 12 | 3% | 3% |  |
-| 13 | 0.2% | 0.2% |  |
-| 14 | 0% | 0% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 49% | 99.8% |  |
+| 6 | 0.5% | 51% | Median |
+| 7 | 0.8% | 50% |  |
+| 8 | 3% | 49% |  |
+| 9 | 17% | 46% | Last Result |
+| 10 | 14% | 29% |  |
+| 11 | 13% | 15% |  |
+| 12 | 2% | 2% |  |
+| 13 | 0% | 0% |  |
 
 ### Partidul Alianța Liberalilor și Democraților (ALDE) – Mișcarea România Împreună (ALDE) – Uniunea Salvați România (ALDE)
 
@@ -418,17 +407,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.4% | 100% |  |
-| 4 | 2% | 99.6% |  |
-| 5 | 19% | 98% |  |
-| 6 | 19% | 79% | Last Result |
-| 7 | 21% | 60% | Median |
-| 8 | 7% | 40% |  |
-| 9 | 8% | 33% |  |
-| 10 | 21% | 25% |  |
-| 11 | 4% | 4% |  |
-| 12 | 0.4% | 0.4% |  |
-| 13 | 0% | 0% |  |
+| 4 | 0.9% | 100% |  |
+| 5 | 17% | 99.1% |  |
+| 6 | 14% | 82% | Last Result |
+| 7 | 17% | 68% |  |
+| 8 | 34% | 52% | Median |
+| 9 | 17% | 18% |  |
+| 10 | 0.1% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 ### PRO România (ECR)
 
@@ -436,17 +422,17 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% | Last Result |
-| 1 | 4% | 84% |  |
-| 2 | 48% | 80% | Median |
-| 3 | 30% | 33% |  |
-| 4 | 3% | 3% |  |
+| 0 | 1.5% | 100% | Last Result |
+| 1 | 20% | 98.5% |  |
+| 2 | 33% | 79% | Median |
+| 3 | 42% | 46% |  |
+| 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
 
 ## Technical Information
 
-+ **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 3,145,728
-+ **Error estimate:** 2.39%
++ **Number of polls included in this average:** 2
++ **Lowest number of simulations done in a poll included in this average:** 1,024
++ **Total number of simulations done in the polls included in this average:** 1,049,600
++ **Error estimate:** 4.69%
