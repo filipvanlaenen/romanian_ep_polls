@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 13 Jan 2019 10:46:17 +0100</pubDate>
+    <pubDate>Thu, 31 Jan 2019 19:38:18 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by IMAS, 11–30 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-01-30-IMAS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 15.2–19.9%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 7.6–11.1%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 6.1–9.4%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 13.1–17.6%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 1.8–3.7%&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 4.8–7.8%&lt;/li&gt;&lt;li&gt;PRO România (ECR): 4.4–7.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-01-30-IMAS.png"
+        length="254181"
+        type="image/png"/>
+      <pubDate>Thu, 31 Jan 2019 19:38:18 +0100</pubDate>
+      <dc:date>2019-01-31T19:38:18.738187+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IMAS, 4–20 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-20-IMAS.html#seats</link>
@@ -639,6 +649,6 @@
       <pubDate>Thu, 12 Apr 2018 17:15:26 +0200</pubDate>
       <dc:date>2018-04-12T17:15:26.806704+02:00</dc:date>
     </item>
-    <dc:date>2019-01-13T10:46:17.723085+01:00</dc:date>
+    <dc:date>2019-01-31T19:38:18.738187+01:00</dc:date>
   </channel>
 </rss>
