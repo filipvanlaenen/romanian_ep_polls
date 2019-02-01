@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PSD | ALDE | PNL | UDMR | PMP | RO+ | PRO | USR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 16–35% <br> 5–13 | 8–11% <br> 2–4 | 14–22% <br> 5–8 | 2–7% <br> 0–2 | 2–6% <br> 0–2 | 4–8% <br> 0–2 | 5–11% <br> 1–4 | 6–9% <br> 2–3 |
-| [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 15–20% <br> 5–7 | 8–11% <br> 3–4 | 13–18% <br> 5 | 2–4% <br> 0 | 2–4% <br> 0 | 5–8% <br> 2 | 4–7% <br> 0–2 | 6–9% <br> 2–3 |
+| N/A | [Poll Average](average.html) | 16–35% <br> 6–13 | 8–11% <br> 2–4 | 14–22% <br> 5–8 | 2–7% <br> 0–2 | 2–6% <br> 0–2 | 4–8% <br> 0–2 | 5–11% <br> 0–4 | 6–9% <br> 2–3 |
+| [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 15–20% <br> 5–7 | 8–11% <br> 2–4 | 13–18% <br> 5–6 | 2–4% <br> 0 | 2–4% <br> 0 | 5–8% <br> 0–3 | 4–7% <br> 0–2 | 6–9% <br> 2–3 |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 30–36% <br> 11–14 | 7–11% <br> 2–4 | 18–22% <br> 6–8 | 5–8% <br> 0–2 | 4–6% <br> 0–2 | 4–6% <br> 0–2 | 7–11% <br> 2–4 | 6–9% <br> 2–3 |
 | 25 May 2014 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
