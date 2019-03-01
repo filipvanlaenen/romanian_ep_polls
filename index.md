@@ -2,13 +2,13 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | PSD | ALDE | PNL | UDMR | PMP | RO+ | PRO | USR |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 25 May 2014 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 16–35% <br> 6–13 | 8–11% <br> 2–4 | 14–22% <br> 5–8 | 2–7% <br> 0–2 | 2–6% <br> 0–2 | 4–8% <br> 0–2 | 5–11% <br> 0–4 | 6–9% <br> 2–3 |
-| [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 15–20% <br> 5–7 | 8–11% <br> 2–4 | 13–18% <br> 5–6 | 2–4% <br> 0 | 2–4% <br> 0 | 5–8% <br> 0–3 | 4–7% <br> 0–2 | 6–9% <br> 2–3 |
-| [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 30–36% <br> 11–14 | 7–11% <br> 2–4 | 18–22% <br> 6–8 | 5–8% <br> 0–2 | 4–6% <br> 0–2 | 4–6% <br> 0–2 | 7–11% <br> 2–4 | 6–9% <br> 2–3 |
-| 25 May 2014 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | PSD | ALDE | PNL | UDMR | PMP | PLUS | PRO | USR | USR–PLUS |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 25 May 2014 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 21–33% <br> 8–12 | 9–14% <br> 3–5 | 19–26% <br> 7–10 | 4–6% <br> 0–2 | 3–6% <br> 0–2 | N/A <br> N/A | 7–13% <br> 2–5 | N/A <br> N/A | 11–21% <br> 4–8 |
+| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 21–26% <br> 8–10 | 10–15% <br> 4–5 | 21–26% <br> 8–10 | 4–7% <br> 0–2 | 2–5% <br> 0 | N/A <br> N/A | 9–13% <br> 3–5 | N/A <br> N/A | 16–21% <br> 5–8 |
+| [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 28–34% <br> 10–13 | 8–12% <br> 3–4 | 19–24% <br> 6–9 | 4–6% <br> 0–2 | 4–6% <br> 0–2 | N/A <br> N/A | 6–10% <br> 2–3 | N/A <br> N/A | 11–15% <br> 4–5 |
+| 25 May 2014 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -20,9 +20,10 @@ Only polls for which at least the sample size has been published are included in
 + **PNL:** Partidul Național Liberal (EPP)
 + **UDMR:** Uniunea Democrată Maghiară din România (EPP)
 + **PMP:** Partidul Mișcarea Populară (EPP)
-+ **RO+:** Mișcarea România Împreună (ALDE)
-+ **PRO:** PRO România (ECR)
++ **PLUS:** Partidul Libertății, Unității și Solidarității (ALDE)
++ **PRO:** PRO România (ALDE)
 + **USR:** Uniunea Salvați România (ALDE)
++ **USR–PLUS:** Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
