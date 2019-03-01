@@ -8,101 +8,61 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 03 Feb 2019 22:25:28 +0100</pubDate>
+    <pubDate>Fri, 01 Mar 2019 19:18:05 +0100</pubDate>
     <item>
-      <title>Opinion Poll by IMAS, 11–30 January 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-01-30-IMAS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;PRO România (ECR): 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-01-30-IMAS-seats.png"
-        length="209545"
+      <title>Opinion Poll by IMAS, 1–21 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-02-21-IMAS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 20.9–26.1%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 10.5–14.6%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 21.0–26.3%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 2.5–4.8%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 9.3–13.2%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 16.2–21.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-02-21-IMAS.png"
+        length="251501"
         type="image/png"/>
-      <pubDate>Sun, 03 Feb 2019 22:25:28 +0100</pubDate>
-      <dc:date>2019-02-03T22:25:28.110162+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 18:37:09 +0100</pubDate>
+      <dc:date>2019-03-01T18:37:09.241177+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by IMAS, 11–30 January 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-01-30-IMAS.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-01-30-IMAS-coalitions-seats.png"
-        length="122677"
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 21 January–6 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-02-06-CURS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 28.3–33.9%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 8.4–12.0%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 18.7–23.5%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.8–6.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.8–6.4%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 11.1–15.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-02-06-CURS.png"
+        length="247050"
         type="image/png"/>
-      <pubDate>Sun, 03 Feb 2019 22:25:28 +0100</pubDate>
-      <dc:date>2019-02-03T22:25:28.110162+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 19:14:35 +0100</pubDate>
+      <dc:date>2019-03-01T19:14:35.34933+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMAS, 11–30 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-01-30-IMAS.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 15.2–19.9%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 7.6–11.1%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 6.1–9.4%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 13.1–17.6%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 1.8–3.7%&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 4.8–7.8%&lt;/li&gt;&lt;li&gt;PRO România (ECR): 4.4–7.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 22.6–28.0%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 11.4–15.6%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 19.6–24.7%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.3–5.8%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 2.7–5.1%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 6.6–10.0%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 17.5–22.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-01-30-IMAS.png"
-        length="254181"
+        length="251154"
         type="image/png"/>
-      <pubDate>Sun, 03 Feb 2019 22:25:28 +0100</pubDate>
-      <dc:date>2019-02-03T22:25:28.110162+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IMAS, 4–20 December 2018 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-20-IMAS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 3–5 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 9–11 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;PRO România (ECR): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-20-IMAS-seats.png"
-        length="210948"
-        type="image/png"/>
-      <pubDate>Sun, 13 Jan 2019 10:46:17 +0100</pubDate>
-      <dc:date>2019-01-13T10:46:17.723085+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IMAS, 4–20 December 2018 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-20-IMAS.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-20-IMAS-coalitions-seats.png"
-        length="143747"
-        type="image/png"/>
-      <pubDate>Sun, 13 Jan 2019 10:46:17 +0100</pubDate>
-      <dc:date>2019-01-13T10:46:17.723085+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 19:07:22 +0100</pubDate>
+      <dc:date>2019-03-01T19:07:22.553612+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMAS, 4–20 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-20-IMAS.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 22.6–27.9%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 7.9–11.6%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 9.7–13.6%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 23.6–29.1%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.4–6.0%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 1.8–3.7%&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 6.6–10.0%&lt;/li&gt;&lt;li&gt;PRO România (ECR): 5.0–8.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 22.7–28.0%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 7.9–11.6%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 23.5–28.9%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.4–6.0%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 1.7–3.6%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 4.9–7.9%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 17.3–22.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-20-IMAS.png"
-        length="265089"
+        length="251176"
         type="image/png"/>
-      <pubDate>Sun, 13 Jan 2019 10:46:17 +0100</pubDate>
-      <dc:date>2019-01-13T10:46:17.723085+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 24 November–9 December 2018 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-09-CURS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 11–14 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 0–2 seats&lt;/li&gt;&lt;li&gt;PRO România (ECR): 2–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-09-CURS-seats.png"
-        length="226811"
-        type="image/png"/>
-      <pubDate>Thu, 27 Dec 2018 21:44:06 +0100</pubDate>
-      <dc:date>2018-12-27T21:44:06.284917+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 24 November–9 December 2018 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-09-CURS.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-09-CURS-coalitions-seats.png"
-        length="144065"
-        type="image/png"/>
-      <pubDate>Thu, 27 Dec 2018 21:44:06 +0100</pubDate>
-      <dc:date>2018-12-27T21:44:06.284917+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 19:18:05 +0100</pubDate>
+      <dc:date>2019-03-01T19:18:05.274885+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 24 November–9 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-09-CURS.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 30.2–35.9%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 7.4–10.9%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 17.7–22.5%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.8–6.4%&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 3.8–6.4%&lt;/li&gt;&lt;li&gt;PRO România (ECR): 7.4–10.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 30.2–35.9%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 7.4–10.9%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 17.7–22.5%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.8–6.4%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 7.4–10.9%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 10.2–14.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-12-09-CURS.png"
-        length="261523"
+        length="247938"
         type="image/png"/>
-      <pubDate>Thu, 27 Dec 2018 21:44:06 +0100</pubDate>
-      <dc:date>2018-12-27T21:44:06.284917+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 19:11:00 +0100</pubDate>
+      <dc:date>2019-03-01T19:11:00.763731+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMAS, 1–30 November 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-11-30-IMAS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 3–5 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 4–6 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 3–5 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 4–6 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-11-30-IMAS-seats.png"
         length="209871"
         type="image/png"/>
@@ -122,7 +82,7 @@
     <item>
       <title>Opinion Poll by IMAS, 1–30 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-11-30-IMAS.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 22.3–27.6%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 9.8–13.8%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 12.7–17.1%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 20.8–26.0%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 4.6–7.5%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 1.4–3.2%&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 6.7–10.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 22.3–27.6%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 9.8–13.8%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 12.7–17.1%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 20.8–26.0%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 4.6–7.5%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 1.4–3.2%&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 6.7–10.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-11-30-IMAS.png"
         length="245466"
         type="image/png"/>
@@ -132,7 +92,7 @@
     <item>
       <title>Opinion Poll by Sociopol, 3–4 October 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-10-04-Sociopol.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 7–10 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 0–2 seats&lt;/li&gt;&lt;li&gt;PRO România (ECR): 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 7–10 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 0–2 seats&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-10-04-Sociopol-seats.png"
         length="221904"
         type="image/png"/>
@@ -152,7 +112,7 @@
     <item>
       <title>Opinion Poll by Sociopol, 3–4 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-10-04-Sociopol.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 34.9–41.3%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 8.1–12.1%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 4.6–7.7%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 20.3–25.9%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 2.9–5.5%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0.5–2.0%&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 3.8–6.7%&lt;/li&gt;&lt;li&gt;PRO România (ECR): 3.8–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 34.9–41.3%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 8.1–12.1%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 4.6–7.7%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 20.3–25.9%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 2.9–5.5%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0.5–2.0%&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 3.8–6.7%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 3.8–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-10-04-Sociopol.png"
         length="251779"
         type="image/png"/>
@@ -162,7 +122,7 @@
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 20 September–1 October 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-10-01-CURS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 12–16 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 0–2 seats&lt;/li&gt;&lt;li&gt;PRO România (ECR): 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 12–16 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 0–2 seats&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-10-01-CURS-seats.png"
         length="249868"
         type="image/png"/>
@@ -182,7 +142,7 @@
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 20 September–1 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-10-01-CURS.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 34.2–40.0%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 7.4–10.9%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 19.6–24.6%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.8–6.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.8–6.4%&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 3.8–6.4%&lt;/li&gt;&lt;li&gt;PRO România (ECR): 4.7–7.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 34.2–40.0%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 7.4–10.9%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 19.6–24.6%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.8–6.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.8–6.4%&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 3.8–6.4%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 4.7–7.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-10-01-CURS.png"
         length="255290"
         type="image/png"/>
@@ -192,7 +152,7 @@
     <item>
       <title>Opinion Poll by Sociopol, 22–27 September 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-09-27-Sociopol.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 12–15 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 3–5 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;PRO România (ECR): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 12–15 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 3–5 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-09-27-Sociopol-seats.png"
         length="204418"
         type="image/png"/>
@@ -212,7 +172,7 @@
     <item>
       <title>Opinion Poll by Sociopol, 22–27 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-09-27-Sociopol.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 33.0–39.0%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 9.2–13.0%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 17.6–22.6%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 6.4–9.8%&lt;/li&gt;&lt;li&gt;PRO România (ECR): 5.5–8.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 33.0–39.0%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 9.2–13.0%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 17.6–22.6%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 6.4–9.8%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 5.5–8.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-09-27-Sociopol.png"
         length="254082"
         type="image/png"/>
@@ -222,7 +182,7 @@
     <item>
       <title>Opinion Poll by Sociopol, 7–20 August 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-08-20-Sociopol.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 12–15 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 4–6 seats&lt;/li&gt;&lt;li&gt;PRO România (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 12–15 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 4–6 seats&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-08-20-Sociopol-seats.png"
         length="210152"
         type="image/png"/>
@@ -242,7 +202,7 @@
     <item>
       <title>Opinion Poll by Sociopol, 7–20 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-08-20-Sociopol.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 32.1–38.0%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 8.3–12.1%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 6.4–9.8%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 16.7–21.6%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 11.1–15.3%&lt;/li&gt;&lt;li&gt;PRO România (ECR): 2.1–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 32.1–38.0%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 8.3–12.1%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 6.4–9.8%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 16.7–21.6%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 11.1–15.3%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 2.1–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-08-20-Sociopol.png"
         length="257027"
         type="image/png"/>
@@ -252,7 +212,7 @@
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 23 June–1 July 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-07-01-CURS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 13–17 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 8–11 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 0–2 seats&lt;/li&gt;&lt;li&gt;PRO România (ECR): 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 13–17 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 8–11 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 0–2 seats&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-07-01-CURS-seats.png"
         length="238090"
         type="image/png"/>
@@ -272,7 +232,7 @@
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 23 June–1 July 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-07-01-CURS.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 34.5–40.3%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 6.6–9.9%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 21.8–26.9%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 3.9–6.6%&lt;/li&gt;&lt;li&gt;PRO România (ECR): 3.9–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 34.5–40.3%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 6.6–9.9%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 21.8–26.9%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 3.9–6.6%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 3.9–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-07-01-CURS.png"
         length="251268"
         type="image/png"/>
@@ -282,7 +242,7 @@
     <item>
       <title>Opinion Poll by IMAS, 1–30 June 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-30-IMAS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 9–11 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 3–5 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 9–12 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 9–11 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 3–5 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 9–12 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-30-IMAS-seats.png"
         length="206397"
         type="image/png"/>
@@ -302,7 +262,7 @@
     <item>
       <title>Opinion Poll by IMAS, 1–30 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-30-IMAS.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 25.9–31.0%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 7.1–10.3%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 9.7–13.3%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 26.7–31.8%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.9–6.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 2.0–3.9%&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 6.6–9.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 25.9–31.0%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 7.1–10.3%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 9.7–13.3%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 26.7–31.8%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.9–6.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 2.0–3.9%&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 6.6–9.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-30-IMAS.png"
         length="237854"
         type="image/png"/>
@@ -312,7 +272,7 @@
     <item>
       <title>Opinion Poll by Sociopol for România TV, 22–26 June 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-26-Sociopol.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 14–17 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 3–5 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;PRO România (ECR): 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 14–17 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 3–5 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-26-Sociopol-seats.png"
         length="202551"
         type="image/png"/>
@@ -332,7 +292,7 @@
     <item>
       <title>Opinion Poll by Sociopol for România TV, 22–26 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-26-Sociopol.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 37.9–44.2%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 10.0–14.3%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 5.5–8.8%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 17.5–22.7%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 2.9–5.5%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 5.5–8.8%&lt;/li&gt;&lt;li&gt;PRO România (ECR): 3.8–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 37.9–44.2%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 10.0–14.3%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 5.5–8.8%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 17.5–22.7%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 2.9–5.5%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 5.5–8.8%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 3.8–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-26-Sociopol.png"
         length="248648"
         type="image/png"/>
@@ -342,7 +302,7 @@
     <item>
       <title>Opinion Poll by Sociopol for România TV, 28 May–8 June 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-08-Sociopol.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;PRO România (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-08-Sociopol-seats.png"
         length="202945"
         type="image/png"/>
@@ -362,7 +322,7 @@
     <item>
       <title>Opinion Poll by Sociopol for România TV, 28 May–8 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-08-Sociopol.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 37.0–43.1%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 7.3–10.9%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 15.8–20.6%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 6.4–9.8%&lt;/li&gt;&lt;li&gt;PRO România (ECR): 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 37.0–43.1%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 7.3–10.9%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 15.8–20.6%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 6.4–9.8%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-06-08-Sociopol.png"
         length="245590"
         type="image/png"/>
@@ -372,7 +332,7 @@
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 27 April–8 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-05-08-CURS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 13–17 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 8–11 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;PRO România (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 13–17 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 8–11 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-05-08-CURS-seats.png"
         length="228470"
         type="image/png"/>
@@ -392,7 +352,7 @@
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 27 April–8 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-05-08-CURS.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 36.1–42.0%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 22.5–27.7%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.8–6.4%&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 2.1–4.2%&lt;/li&gt;&lt;li&gt;PRO România (ECR): 2.1–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 36.1–42.0%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 22.5–27.7%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.8–6.4%&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 2.1–4.2%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 2.1–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-05-08-CURS.png"
         length="248292"
         type="image/png"/>
@@ -462,7 +422,7 @@
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 3–10 January 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-01-10-CURS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 14–18 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 9–11 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;PRO România (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 14–18 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 9–11 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-01-10-CURS-seats.png"
         length="199970"
         type="image/png"/>
@@ -482,7 +442,7 @@
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 3–10 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2018-01-10-CURS.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 37.4–43.3%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 7.1–10.5%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 3.6–6.2%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 23.4–28.7%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 4.6–7.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.6–6.2%&lt;/li&gt;&lt;li&gt;Mișcarea România Împreună (ALDE): 1.3–3.0%&lt;/li&gt;&lt;li&gt;PRO România (ECR): 1.3–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 37.4–43.3%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 7.1–10.5%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (ALDE): 3.6–6.2%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 23.4–28.7%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 4.6–7.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.6–6.2%&lt;/li&gt;&lt;li&gt;Partidul Libertății, Unității și Solidarității (ALDE): 1.3–3.0%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 1.3–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2018-01-10-CURS.png"
         length="244530"
         type="image/png"/>
@@ -669,6 +629,6 @@
       <pubDate>Thu, 12 Apr 2018 17:15:26 +0200</pubDate>
       <dc:date>2018-04-12T17:15:26.806704+02:00</dc:date>
     </item>
-    <dc:date>2019-02-03T22:25:28.110162+01:00</dc:date>
+    <dc:date>2019-03-01T19:18:05.274885+01:00</dc:date>
   </channel>
 </rss>
