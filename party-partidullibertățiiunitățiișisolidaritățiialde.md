@@ -1,4 +1,4 @@
-# Uniunea Salvați România (ALDE)
+# Partidul Libertății, Unității și Solidarității (ALDE)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 

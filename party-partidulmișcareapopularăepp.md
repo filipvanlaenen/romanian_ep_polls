@@ -10,9 +10,11 @@ Last result: **6.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 2.2–5.6% | 2.0–5.9% | 1.9–6.2% | 1.6–6.7% |
-| [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 2.6% | 2.0–3.3% | 1.9–3.6% | 1.8–3.7% | 1.5–4.1% |
-| [4–20 December 2018](2018-12-20-IMAS.html) | IMAS | 2.6% | 2.0–3.3% | 1.9–3.6% | 1.8–3.7% | 1.5–4.1% |
+| N/A | [Poll Average](average.html) | 4.3% | 3.1–5.6% | 2.8–5.9% | 2.7–6.2% | 2.3–6.7% |
+| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 3.5% | 2.8–4.3% | 2.7–4.6% | 2.5–4.8% | 2.2–5.2% |
+| [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
+| [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 3.8% | 3.1–4.6% | 2.9–4.9% | 2.7–5.1% | 2.5–5.6% |
+| [4–20 December 2018](2018-12-20-IMAS.html) | IMAS | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–4.0% |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
 | [1–30 November 2018](2018-11-30-IMAS.html) | IMAS | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.5% |
 | [3–4 October 2018](2018-10-04-Sociopol.html) | Sociopol | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
@@ -40,12 +42,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 21% | 99.7% |  |
-| 2.5–3.5% | 26% | 79% |  |
-| 3.5–4.5% | 14% | 52% | Median |
-| 4.5–5.5% | 27% | 38% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 25% | 98% |  |
+| 3.5–4.5% | 33% | 74% | Median |
+| 4.5–5.5% | 30% | 41% |  |
 | 5.5–6.5% | 10% | 11% | Last Result |
 | 6.5–7.5% | 0.9% | 0.9% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -60,7 +61,9 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 0 | 0 | 0 | 0 | 0 |
+| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 0 | 0 | 0 | 0 | 0 |
+| [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 0 | 0 | 0 | 0–2 | 0–2 |
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS | 0 | 0 | 0 | 0 | 0 |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [1–30 November 2018](2018-11-30-IMAS.html) | IMAS | 0 | 0 | 0 | 0 | 0 |
@@ -91,9 +94,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Median |
-| 1 | 0.1% | 20% |  |
-| 2 | 20% | 20% | Last Result |
+| 0 | 73% | 100% | Median |
+| 1 | 6% | 27% |  |
+| 2 | 21% | 21% | Last Result |
 | 3 | 0% | 0% |  |
 
 
