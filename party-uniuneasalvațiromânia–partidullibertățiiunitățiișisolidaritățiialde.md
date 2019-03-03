@@ -17,8 +17,10 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS | 19.6% | 18.1–21.3% | 17.6–21.8% | 17.3–22.2% | 16.6–23.0% |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 12.0% | 10.8–13.4% | 10.5–13.7% | 10.2–14.1% | 9.6–14.8% |
 | [1–30 November 2018](2018-11-30-IMAS.html) | IMAS | 23.0% | N/A | N/A | N/A | N/A |
+| [1–31 October 2018](2018-10-31-IMAS.html) | IMAS | 22.7% | 21.1–24.5% | 20.6–25.0% | 20.2–25.4% | 19.4–26.3% |
 | [3–4 October 2018](2018-10-04-Sociopol.html) | Sociopol | 11.0% | N/A | N/A | N/A | N/A |
 | [20 September–1 October 2018](2018-10-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 12.9% | N/A | N/A | N/A | N/A |
+| [1–30 September 2018](2018-09-30-IMAS.html) | IMAS | 19.6% | 18.1–21.3% | 17.6–21.8% | 17.3–22.2% | 16.5–23.0% |
 | [22–27 September 2018](2018-09-27-Sociopol.html) | Sociopol | 12.0% | N/A | N/A | N/A | N/A |
 | [7–20 August 2018](2018-08-20-Sociopol.html) | Sociopol | 21.0% | N/A | N/A | N/A | N/A |
 | [23 June–1 July 2018](2018-07-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 12.1% | N/A | N/A | N/A | N/A |
@@ -26,6 +28,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [22–26 June 2018](2018-06-26-Sociopol.html) | Sociopol <br> România TV | 14.0% | N/A | N/A | N/A | N/A |
 | [28 May–8 June 2018](2018-06-08-Sociopol.html) | Sociopol <br> România TV | 16.9% | N/A | N/A | N/A | N/A |
 | [27 April–8 May 2018](2018-05-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 9.0% | N/A | N/A | N/A | N/A |
+| [1–31 March 2018](2018-03-31-CURS.html) | CURS <br> STIRIPESURSE.RO | 7.0% | 6.1–8.1% | 5.9–8.5% | 5.6–8.7% | 5.2–9.3% |
 | [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol <br> STIRIPESURSE.RO | 12.0% | N/A | N/A | N/A | N/A |
 | [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 11.2% | N/A | N/A | N/A | N/A |
 | [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 6.7% | N/A | N/A | N/A | N/A |
@@ -34,7 +37,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 6.8% | N/A | N/A | N/A | N/A |
 | [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 7.0% | N/A | N/A | N/A | N/A |
 | [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 9.0% | N/A | N/A | N/A | N/A |
+| [1–30 April 2017](2017-04-30-IMAS.html) | IMAS | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.6–10.1% | 6.2–10.7% |
 | [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 12.0% | N/A | N/A | N/A | N/A |
+| [1–31 January 2017](2017-01-31-IMAS.html) | IMAS | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.7–10.2% | 6.3–10.8% |
 
 ### Probability Mass Function
 
@@ -84,8 +89,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [1–30 November 2018](2018-11-30-IMAS.html) | IMAS |  |  |  |  |  |
+| [1–31 October 2018](2018-10-31-IMAS.html) | IMAS | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
 | [3–4 October 2018](2018-10-04-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [20 September–1 October 2018](2018-10-01-CURS.html) | CURS <br> STIRIPESURSE.RO |  |  |  |  |  |
+| [1–30 September 2018](2018-09-30-IMAS.html) | IMAS | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [22–27 September 2018](2018-09-27-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [7–20 August 2018](2018-08-20-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [23 June–1 July 2018](2018-07-01-CURS.html) | CURS <br> STIRIPESURSE.RO |  |  |  |  |  |
@@ -93,6 +100,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [22–26 June 2018](2018-06-26-Sociopol.html) | Sociopol <br> România TV |  |  |  |  |  |
 | [28 May–8 June 2018](2018-06-08-Sociopol.html) | Sociopol <br> România TV |  |  |  |  |  |
 | [27 April–8 May 2018](2018-05-08-CURS.html) | CURS <br> STIRIPESURSE.RO |  |  |  |  |  |
+| [1–31 March 2018](2018-03-31-CURS.html) | CURS <br> STIRIPESURSE.RO | 2 | 2 | 2 | 2 | 2–3 |
 | [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol <br> STIRIPESURSE.RO |  |  |  |  |  |
 | [1–28 February 2018](2018-02-28-IMAS.html) | IMAS |  |  |  |  |  |
 | [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO |  |  |  |  |  |
@@ -101,7 +109,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–30 September 2017](2017-09-30-IMAS.html) | IMAS |  |  |  |  |  |
 | [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde |  |  |  |  |  |
+| [1–30 April 2017](2017-04-30-IMAS.html) | IMAS | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol |  |  |  |  |  |
+| [1–31 January 2017](2017-01-31-IMAS.html) | IMAS | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 
 ### Probability Mass Function
 
