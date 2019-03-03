@@ -10,13 +10,15 @@ Last result: **37.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.2% | 22.3–32.2% | 21.7–32.9% | 21.3–33.4% | 20.4–34.4% |
-| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 23.4% | 21.7–25.1% | 21.2–25.7% | 20.9–26.1% | 20.1–26.9% |
-| [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 31.0% | 29.2–32.9% | 28.7–33.4% | 28.3–33.9% | 27.5–34.8% |
-| [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 25.2% | 23.5–27.0% | 23.0–27.6% | 22.6–28.0% | 21.8–28.9% |
+| N/A | [Poll Average](average.html) | 27.8% | 22.7–32.7% | 22.0–33.5% | 21.5–34.1% | 20.6–35.1% |
+| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 22.7% | 21.7–25.1% | 21.2–25.7% | 20.9–26.1% | 20.1–26.9% |
+| [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 32.0% | 30.2–33.8% | 29.7–34.4% | 29.2–34.8% | 28.4–35.7% |
+| [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 27.8% | 26.1–29.6% | 25.6–30.1% | 25.2–30.5% | 24.4–31.4% |
+| [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 24.6% | 23.0–26.4% | 22.5–26.9% | 22.1–27.4% | 21.3–28.3% |
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS | 25.2% | 23.5–27.1% | 23.1–27.6% | 22.7–28.0% | 21.9–28.9% |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 33.0% | 31.2–34.9% | 30.7–35.4% | 30.2–35.9% | 29.4–36.8% |
 | [1–30 November 2018](2018-11-30-IMAS.html) | IMAS | 24.9% | 23.2–26.7% | 22.7–27.2% | 22.3–27.6% | 21.5–28.5% |
+| [26 October–12 November 2018](2018-11-12-CURS.html) | CURS <br> STIRIPESURSE.RO | 38.0% | 36.1–39.9% | 35.5–40.4% | 35.1–40.9% | 34.2–41.9% |
 | [1–31 October 2018](2018-10-31-IMAS.html) | IMAS | 27.6% | 25.8–29.5% | 25.3–30.0% | 24.9–30.5% | 24.1–31.4% |
 | [3–4 October 2018](2018-10-04-Sociopol.html) | Sociopol | 38.0% | 36.0–40.2% | 35.4–40.8% | 34.9–41.3% | 33.9–42.3% |
 | [20 September–1 October 2018](2018-10-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 37.0% | 35.1–38.9% | 34.6–39.5% | 34.2–40.0% | 33.3–40.9% |
@@ -47,24 +49,24 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 0.6% | 99.9% |  |
-| 20.5–21.5% | 3% | 99.3% |  |
-| 21.5–22.5% | 9% | 96% |  |
-| 22.5–23.5% | 14% | 87% |  |
-| 23.5–24.5% | 13% | 73% |  |
-| 24.5–25.5% | 7% | 60% |  |
-| 25.5–26.5% | 2% | 53% |  |
-| 26.5–27.5% | 0.7% | 51% | Median |
-| 27.5–28.5% | 2% | 50% |  |
-| 28.5–29.5% | 5% | 48% |  |
-| 29.5–30.5% | 11% | 43% |  |
-| 30.5–31.5% | 14% | 32% |  |
-| 31.5–32.5% | 11% | 18% |  |
-| 32.5–33.5% | 5% | 7% |  |
-| 33.5–34.5% | 2% | 2% |  |
-| 34.5–35.5% | 0.3% | 0.4% |  |
-| 35.5–36.5% | 0% | 0% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0.4% | 100% |  |
+| 20.5–21.5% | 2% | 99.6% |  |
+| 21.5–22.5% | 6% | 97% |  |
+| 22.5–23.5% | 9% | 91% |  |
+| 23.5–24.5% | 9% | 82% |  |
+| 24.5–25.5% | 6% | 73% |  |
+| 25.5–26.5% | 6% | 67% |  |
+| 26.5–27.5% | 9% | 61% |  |
+| 27.5–28.5% | 10% | 52% | Median |
+| 28.5–29.5% | 8% | 43% |  |
+| 29.5–30.5% | 6% | 35% |  |
+| 30.5–31.5% | 8% | 29% |  |
+| 31.5–32.5% | 9% | 21% |  |
+| 32.5–33.5% | 7% | 11% |  |
+| 33.5–34.5% | 3% | 5% |  |
+| 34.5–35.5% | 1.0% | 1.3% |  |
+| 35.5–36.5% | 0.2% | 0.2% |  |
 | 36.5–37.5% | 0% | 0% |  |
 | 37.5–38.5% | 0% | 0% | Last Result |
 
@@ -77,14 +79,16 @@ Last result: **16** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–12 | 8–12 | 7–13 |
-| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
-| [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
-| [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 10 | 9–10 | 8–11 | 8–11 | 8–11 |
+| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–13 | 8–13 | 8–13 |
+| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 8 | 8–9 | 8–9 | 8–10 | 8–10 |
+| [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
+| [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 10 | 10–11 | 9–11 | 9–12 | 9–12 |
+| [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 12 | 11–13 | 11–13 | 11–13 | 10–13 |
 | [1–30 November 2018](2018-11-30-IMAS.html) | IMAS | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
-| [1–31 October 2018](2018-10-31-IMAS.html) | IMAS | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
+| [26 October–12 November 2018](2018-11-12-CURS.html) | CURS <br> STIRIPESURSE.RO | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
+| [1–31 October 2018](2018-10-31-IMAS.html) | IMAS | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [3–4 October 2018](2018-10-04-Sociopol.html) | Sociopol | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [20 September–1 October 2018](2018-10-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
 | [1–30 September 2018](2018-09-30-IMAS.html) | IMAS | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
@@ -95,7 +99,7 @@ Last result: **16** seats (General Election of 25 May 2014)
 | [22–26 June 2018](2018-06-26-Sociopol.html) | Sociopol <br> România TV | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [28 May–8 June 2018](2018-06-08-Sociopol.html) | Sociopol <br> România TV | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
 | [27 April–8 May 2018](2018-05-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
-| [1–31 March 2018](2018-03-31-CURS.html) | CURS <br> STIRIPESURSE.RO | 15 | 15–16 | 14–16 | 14–16 | 12–16 |
+| [1–31 March 2018](2018-03-31-CURS.html) | CURS <br> STIRIPESURSE.RO | 14 | 13–15 | 13–15 | 12–15 | 12–15 |
 | [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol <br> STIRIPESURSE.RO | 12 | 11–14 | 11–14 | 11–14 | 11–15 |
 | [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 15 | 14–17 | 14–17 | 14–18 | 13–18 |
@@ -104,7 +108,7 @@ Last result: **16** seats (General Election of 25 May 2014)
 | [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 19 | 18–20 | 18–20 | 18–21 | 17–21 |
 | [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
-| [1–30 April 2017](2017-04-30-IMAS.html) | IMAS | 13 | 13–15 | 13–15 | 13–15 | 12–16 |
+| [1–30 April 2017](2017-04-30-IMAS.html) | IMAS | 14 | 13–15 | 13–15 | 13–15 | 12–15 |
 | [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [1–31 January 2017](2017-01-31-IMAS.html) | IMAS | 17 | 16–18 | 16–18 | 16–18 | 15–18 |
 
@@ -116,14 +120,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 1.1% | 100% |  |
-| 8 | 21% | 98.9% |  |
-| 9 | 26% | 78% |  |
-| 10 | 9% | 52% | Median |
-| 11 | 26% | 43% |  |
-| 12 | 15% | 17% |  |
-| 13 | 2% | 2% |  |
-| 14 | 0.1% | 0.1% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 17% | 99.9% |  |
+| 9 | 17% | 83% |  |
+| 10 | 21% | 66% | Median |
+| 11 | 18% | 45% |  |
+| 12 | 19% | 27% |  |
+| 13 | 8% | 8% |  |
+| 14 | 0.4% | 0.4% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% | Last Result |
 
