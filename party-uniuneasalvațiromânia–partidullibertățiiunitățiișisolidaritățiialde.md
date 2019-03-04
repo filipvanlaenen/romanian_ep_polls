@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.8% | 12.4–19.3% | 11.9–19.9% | 11.5–20.4% | 10.9–21.3% |
-| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 17.9% | 17.0–20.2% | 16.6–20.6% | 16.2–21.0% | 15.5–21.8% |
+| N/A | [Poll Average](average.html) | 16.7% | 12.4–18.8% | 11.9–19.4% | 11.5–19.8% | 10.9–20.7% |
+| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 17.9% | 16.4–19.6% | 16.0–20.0% | 15.7–20.4% | 15.0–21.2% |
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 12.9% | 11.7–14.3% | 11.3–14.7% | 11.1–15.1% | 10.5–15.8% |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 17.0% | 15.6–18.6% | 15.2–19.0% | 14.9–19.4% | 14.3–20.2% |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–23.9% |
@@ -65,13 +65,13 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 12% | 89% |  |
 | 13.5–14.5% | 8% | 76% |  |
 | 14.5–15.5% | 5% | 69% |  |
-| 15.5–16.5% | 10% | 64% |  |
-| 16.5–17.5% | 16% | 54% | Median |
-| 17.5–18.5% | 18% | 38% |  |
-| 18.5–19.5% | 13% | 20% |  |
-| 19.5–20.5% | 6% | 8% |  |
-| 20.5–21.5% | 2% | 2% |  |
-| 21.5–22.5% | 0.3% | 0.3% |  |
+| 15.5–16.5% | 11% | 64% |  |
+| 16.5–17.5% | 19% | 52% | Median |
+| 17.5–18.5% | 19% | 33% |  |
+| 18.5–19.5% | 10% | 14% |  |
+| 19.5–20.5% | 3% | 4% |  |
+| 20.5–21.5% | 0.6% | 0.7% |  |
+| 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -84,7 +84,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 4–7 | 4–7 | 4–7 | 4–8 |
-| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
+| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
@@ -129,10 +129,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
 | 4 | 12% | 99.9% |  |
-| 5 | 26% | 88% |  |
-| 6 | 44% | 62% | Median |
-| 7 | 15% | 18% |  |
-| 8 | 2% | 2% |  |
+| 5 | 25% | 88% |  |
+| 6 | 40% | 63% | Median |
+| 7 | 23% | 24% |  |
+| 8 | 0.7% | 0.7% |  |
 | 9 | 0% | 0% |  |
 
 
