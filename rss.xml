@@ -8,16 +8,16 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 03 Mar 2019 20:00:05 +0100</pubDate>
+    <pubDate>Sun, 03 Mar 2019 20:52:01 +0100</pubDate>
     <item>
       <title>Opinion Poll by IMAS, 1–21 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-02-21-IMAS.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 20.9–26.1%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 10.5–14.6%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 21.0–26.3%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 2.5–4.8%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 9.3–13.2%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 16.2–21.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 20.2–25.4%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 10.6–14.7%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 20.1–25.3%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.5–6.1%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.3–5.8%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 11.4–15.6%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 15.7–20.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-02-21-IMAS.png"
-        length="253998"
+        length="254114"
         type="image/png"/>
-      <pubDate>Sun, 03 Mar 2019 17:02:07 +0100</pubDate>
-      <dc:date>2019-03-03T17:02:07.817724+01:00</dc:date>
+      <pubDate>Sun, 03 Mar 2019 20:52:01 +0100</pubDate>
+      <dc:date>2019-03-03T20:52:01.09786+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 21 January–6 February 2019 – Voting Intentions</title>
@@ -699,6 +699,6 @@
       <pubDate>Sun, 03 Mar 2019 16:07:35 +0100</pubDate>
       <dc:date>2019-03-03T16:07:35.346583+01:00</dc:date>
     </item>
-    <dc:date>2019-03-03T20:00:05.118893+01:00</dc:date>
+    <dc:date>2019-03-03T20:52:01.09786+01:00</dc:date>
   </channel>
 </rss>
