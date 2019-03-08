@@ -80,8 +80,8 @@ Last result: **16** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–13 | 7–13 | 7–13 |
-| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
+| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–13 | 8–13 | 7–13 |
+| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 10 | 10–11 | 9–11 | 9–12 | 9–12 |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
@@ -121,10 +121,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 3% | 100% |  |
-| 8 | 19% | 97% |  |
-| 9 | 13% | 78% |  |
-| 10 | 20% | 66% | Median |
+| 7 | 2% | 100% |  |
+| 8 | 20% | 98% |  |
+| 9 | 12% | 78% |  |
+| 10 | 20% | 65% | Median |
 | 11 | 18% | 45% |  |
 | 12 | 19% | 27% |  |
 | 13 | 8% | 8% |  |
