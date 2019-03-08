@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 03 Mar 2019 20:52:01 +0100</pubDate>
+    <pubDate>Thu, 07 Mar 2019 22:50:57 +0100</pubDate>
     <item>
       <title>Opinion Poll by IMAS, 1–21 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-02-21-IMAS.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-02-21-IMAS.png"
         length="254114"
         type="image/png"/>
-      <pubDate>Sun, 03 Mar 2019 20:52:01 +0100</pubDate>
-      <dc:date>2019-03-03T20:52:01.09786+01:00</dc:date>
+      <pubDate>Thu, 07 Mar 2019 22:50:57 +0100</pubDate>
+      <dc:date>2019-03-07T22:50:57.982433+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 21 January–6 February 2019 – Voting Intentions</title>
@@ -699,6 +699,6 @@
       <pubDate>Sun, 03 Mar 2019 16:07:35 +0100</pubDate>
       <dc:date>2019-03-03T16:07:35.346583+01:00</dc:date>
     </item>
-    <dc:date>2019-03-03T20:52:01.09786+01:00</dc:date>
+    <dc:date>2019-03-07T22:50:57.982433+01:00</dc:date>
   </channel>
 </rss>
