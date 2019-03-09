@@ -5,8 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PSD | ALDE | PNL | UDMR | PMP | PLUS | PRO | USR | USR–PLUS |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 20–25% <br> 7–9 | 11–15% <br> 4–5 | 20–25% <br> 7–9 | 4–6% <br> 0–2 | 3–6% <br> 0–2 | N/A <br> N/A | 11–16% <br> 4–6 | N/A <br> N/A | 16–20% <br> 5–7 |
-| [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 29–35% <br> 11–13 | 7–11% <br> 2–4 | 20–25% <br> 7–9 | 4–6% <br> 0–2 | 4–6% <br> 0–2 | N/A <br> N/A | 7–11% <br> 2–4 | N/A <br> N/A | 11–15% <br> 4–5 |
+| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 20–25% <br> 7–9 | 11–15% <br> 4–5 | 20–25% <br> 7–9 | 4–6% <br> 0–2 | 3–6% <br> 0–2 | N/A <br> N/A | 11–16% <br> 4–6 | N/A <br> N/A | 16–20% <br> 6–7 |
+| [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 29–35% <br> 10–13 | 7–11% <br> 2–4 | 20–25% <br> 7–9 | 4–6% <br> 0–2 | 4–6% <br> 0–2 | N/A <br> N/A | 7–11% <br> 2–4 | N/A <br> N/A | 11–15% <br> 4–5 |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 25–31% <br> 9–12 | 8–11% <br> 2–4 | 24–29% <br> 9–11 | 4–7% <br> 0–2 | 3–6% <br> 0–2 | N/A <br> N/A | 5–8% <br> 2–3 | N/A <br> N/A | 15–19% <br> 5–7 |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 22–27% <br> 8–10 | 11–15% <br> 4–5 | 21–26% <br> 7–9 | 4–7% <br> 0–2 | 2–4% <br> 0 | N/A <br> N/A | 7–11% <br> 2–4 | N/A <br> N/A | 18–23% <br> 6–8 |
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS | 23–28% <br> 8–10 | 8–12% <br> 3–4 | 24–29% <br> 8–11 | 3–6% <br> 0–2 | 2–4% <br> 0 | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | 17–22% <br> 6–8 |
