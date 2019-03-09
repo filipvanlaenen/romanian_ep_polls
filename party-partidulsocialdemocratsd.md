@@ -83,7 +83,7 @@ Last result: **16** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 10 | 8–12 | 8–13 | 8–13 | 7–13 |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
-| [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 10 | 10–11 | 9–11 | 9–12 | 9–12 |
+| [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 12 | 11–13 | 11–13 | 11–13 | 10–13 |
@@ -123,12 +123,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 2% | 100% |  |
 | 8 | 20% | 98% |  |
-| 9 | 12% | 78% |  |
-| 10 | 20% | 65% | Median |
-| 11 | 18% | 45% |  |
-| 12 | 19% | 27% |  |
-| 13 | 8% | 8% |  |
-| 14 | 0.4% | 0.4% |  |
+| 9 | 13% | 78% |  |
+| 10 | 19% | 65% | Median |
+| 11 | 23% | 46% |  |
+| 12 | 18% | 24% |  |
+| 13 | 6% | 6% |  |
+| 14 | 0.2% | 0.2% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% | Last Result |
 
