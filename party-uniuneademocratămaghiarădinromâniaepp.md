@@ -10,7 +10,10 @@ Last result: **6.3%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.0% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.3–6.9% |
+| N/A | [Poll Average](average.html) | 4.8% | 4.0–5.8% | 3.7–6.0% | 3.6–6.3% | 3.2–6.8% |
+| [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 4.4% | 3.7–5.3% | 3.5–5.5% | 3.3–5.7% | 3.0–6.2% |
+| [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 5.0% | 4.3–6.0% | 4.0–6.3% | 3.9–6.5% | 3.5–7.0% |
+| [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 5.1% | 4.4–5.9% | 4.2–6.1% | 4.1–6.3% | 3.8–6.7% |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 4.7% | 3.9–5.6% | 3.7–5.9% | 3.5–6.1% | 3.2–6.6% |
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 5.1% | 4.3–6.1% | 4.1–6.3% | 3.9–6.6% | 3.6–7.1% |
@@ -50,13 +53,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.3% | 100% |  |
-| 3.5–4.5% | 26% | 98.7% |  |
-| 4.5–5.5% | 52% | 73% | Median |
-| 5.5–6.5% | 19% | 21% | Last Result |
-| 6.5–7.5% | 2% | 2% |  |
+| 2.5–3.5% | 2% | 100% |  |
+| 3.5–4.5% | 32% | 98% |  |
+| 4.5–5.5% | 50% | 66% | Median |
+| 5.5–6.5% | 15% | 16% | Last Result |
+| 6.5–7.5% | 1.0% | 1.0% |  |
 | 7.5–8.5% | 0% | 0% |  |
-| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -68,6 +70,9 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 0 | 0 | 0 | 0 | 0 |
+| [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -108,9 +113,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 51% | 100% | Median |
-| 1 | 7% | 49% |  |
-| 2 | 42% | 42% | Last Result |
+| 0 | 57% | 100% | Median |
+| 1 | 3% | 43% |  |
+| 2 | 40% | 40% | Last Result |
 | 3 | 0% | 0% |  |
 
 

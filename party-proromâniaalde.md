@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.0% | 6.2–14.0% | 5.9–14.5% | 5.6–15.0% | 5.1–15.9% |
+| N/A | [Poll Average](average.html) | 10.3% | 8.8–13.7% | 8.4–14.3% | 8.0–14.8% | 7.4–15.7% |
+| [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 10.2% | 9.2–11.5% | 8.9–11.8% | 8.6–12.1% | 8.1–12.7% |
+| [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 9.1% | 8.1–10.4% | 7.8–10.7% | 7.5–11.0% | 7.0–11.6% |
+| [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 10.1% | 9.2–11.2% | 8.9–11.5% | 8.7–11.8% | 8.3–12.3% |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 13.4% | 12.1–14.8% | 11.7–15.2% | 11.4–15.6% | 10.8–16.3% |
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 9.0% | 8.0–10.2% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.2% | 4.8–8.8% |
@@ -54,18 +57,18 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 2% | 100% |  |
-| 5.5–6.5% | 13% | 98% |  |
-| 6.5–7.5% | 15% | 85% |  |
-| 7.5–8.5% | 12% | 70% |  |
-| 8.5–9.5% | 15% | 58% | Median |
-| 9.5–10.5% | 8% | 43% |  |
-| 10.5–11.5% | 3% | 35% |  |
-| 11.5–12.5% | 6% | 32% |  |
-| 12.5–13.5% | 12% | 27% |  |
-| 13.5–14.5% | 10% | 15% |  |
-| 14.5–15.5% | 4% | 5% |  |
-| 15.5–16.5% | 0.8% | 0.9% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0.7% | 100% |  |
+| 7.5–8.5% | 6% | 99.3% |  |
+| 8.5–9.5% | 20% | 93% |  |
+| 9.5–10.5% | 29% | 73% | Median |
+| 10.5–11.5% | 17% | 44% |  |
+| 11.5–12.5% | 7% | 27% |  |
+| 12.5–13.5% | 9% | 20% |  |
+| 13.5–14.5% | 8% | 11% |  |
+| 14.5–15.5% | 3% | 4% |  |
+| 15.5–16.5% | 0.6% | 0.7% |  |
 | 16.5–17.5% | 0.1% | 0.1% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
@@ -78,7 +81,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–5 | 2–5 | 2–5 | 1–6 |
+| N/A | [Poll Average](average.html) | 3 | 3–5 | 3–5 | 3–5 | 3–6 |
+| [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 2 | 2 | 2–3 | 2–3 | 0–3 |
@@ -119,13 +125,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% | Last Result |
-| 1 | 0.3% | 99.6% |  |
-| 2 | 33% | 99.3% |  |
-| 3 | 31% | 67% | Median |
-| 4 | 13% | 36% |  |
-| 5 | 21% | 23% |  |
-| 6 | 2% | 2% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0.1% | 100% |  |
+| 3 | 51% | 99.9% | Median |
+| 4 | 31% | 48% |  |
+| 5 | 16% | 17% |  |
+| 6 | 1.2% | 1.2% |  |
 | 7 | 0% | 0% |  |
 
 
