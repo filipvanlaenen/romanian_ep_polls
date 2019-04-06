@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.3% | 8.8–13.7% | 8.4–14.3% | 8.0–14.8% | 7.4–15.7% |
+| [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS | 11.2% | 10.0–12.6% | 9.7–13.0% | 9.4–13.3% | 8.8–14.0% |
 | [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 10.2% | 9.2–11.5% | 8.9–11.8% | 8.6–12.1% | 8.1–12.7% |
 | [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 9.1% | 8.1–10.4% | 7.8–10.7% | 7.5–11.0% | 7.0–11.6% |
 | [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 10.1% | 9.2–11.2% | 8.9–11.5% | 8.7–11.8% | 8.3–12.3% |
@@ -81,7 +82,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–5 | 3–5 | 3–5 | 3–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -128,8 +130,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
-| 3 | 51% | 99.9% | Median |
-| 4 | 31% | 48% |  |
+| 3 | 44% | 99.9% |  |
+| 4 | 39% | 56% | Median |
 | 5 | 16% | 17% |  |
 | 6 | 1.2% | 1.2% |  |
 | 7 | 0% | 0% |  |

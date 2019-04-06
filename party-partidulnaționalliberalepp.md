@@ -11,6 +11,7 @@ Last result: **12.2%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.8% | 21.9–30.2% | 21.3–31.0% | 20.9–31.6% | 20.0–32.7% |
+| [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS | 25.2% | 23.5–27.1% | 23.1–27.6% | 22.7–28.0% | 21.9–28.9% |
 | [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 29.8% | 28.1–31.6% | 27.6–32.1% | 27.2–32.5% | 26.4–33.4% |
 | [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 26.3% | 24.6–28.1% | 24.1–28.6% | 23.7–29.1% | 22.9–29.9% |
 | [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 23.2% | 21.8–24.6% | 21.5–25.1% | 21.1–25.4% | 20.5–26.1% |
@@ -87,7 +88,8 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–11 | 8–12 | 8–12 | 7–12 |
-| [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
+| [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
+| [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 10 | 10 | 10 | 8–10 | 8–11 |
 | [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 8 | 8 | 8 | 8–9 | 7–9 |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
@@ -135,9 +137,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 2% | 100% |  |
 | 8 | 40% | 98% |  |
 | 9 | 9% | 58% | Median |
-| 10 | 32% | 50% |  |
-| 11 | 10% | 17% |  |
-| 12 | 7% | 7% |  |
-| 13 | 0% | 0% |  |
+| 10 | 27% | 49% |  |
+| 11 | 16% | 22% |  |
+| 12 | 6% | 7% |  |
+| 13 | 0.3% | 0.3% |  |
+| 14 | 0% | 0% |  |
 
 

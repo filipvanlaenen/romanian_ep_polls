@@ -11,6 +11,7 @@ Last result: **37.6%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26.7% | 22.4–31.6% | 21.6–32.4% | 21.1–32.9% | 20.1–33.8% |
+| [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS | 21.3% | 19.7–23.0% | 19.3–23.5% | 18.9–23.9% | 18.1–24.8% |
 | [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 26.5% | 24.9–28.2% | 24.4–28.7% | 24.0–29.1% | 23.2–30.0% |
 | [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 26.9% | 25.2–28.7% | 24.7–29.2% | 24.3–29.6% | 23.5–30.5% |
 | [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 31.3% | 29.8–32.9% | 29.4–33.3% | 29.0–33.7% | 28.3–34.5% |
@@ -83,8 +84,9 @@ Last result: **16** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–12 | 8–12 | 7–12 |
-| [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
+| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–12 | 8–12 | 7–12 |
+| [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
+| [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 10 | 9–10 | 9–11 | 9–11 | 8–11 |
 | [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 9 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
@@ -129,9 +131,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 2% | 100% |  |
 | 8 | 14% | 98% |  |
-| 9 | 33% | 84% |  |
-| 10 | 22% | 52% | Median |
-| 11 | 19% | 29% |  |
+| 9 | 35% | 84% | Median |
+| 10 | 23% | 50% |  |
+| 11 | 17% | 27% |  |
 | 12 | 10% | 10% |  |
 | 13 | 0% | 0% |  |
 | 14 | 0% | 0% |  |
