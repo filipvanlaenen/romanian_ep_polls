@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 05 Apr 2019 14:21:16 +0200</pubDate>
+    <pubDate>Sat, 06 Apr 2019 21:06:00 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by IMAS, 18 March–3 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-04-03-IMAS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 18.9–23.9%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 10.9–15.0%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 22.7–28.0%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.9–6.7%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.6–6.2%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 9.4–13.3%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 15.5–20.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-04-03-IMAS.png"
+        length="254551"
+        type="image/png"/>
+      <pubDate>Sat, 06 Apr 2019 20:08:34 +0200</pubDate>
+      <dc:date>2019-04-06T20:08:34.805158+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by BCS for PSnews.ro, 15–20 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-03-20-BCS.html</link>
@@ -16,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-03-20-BCS.png"
         length="249671"
         type="image/png"/>
-      <pubDate>Fri, 05 Apr 2019 13:41:05 +0200</pubDate>
-      <dc:date>2019-04-05T13:41:05.25913+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 21:06:00 +0200</pubDate>
+      <dc:date>2019-04-06T21:06:00.284019+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSCOP for Konrad-Adenauer-Stiftung, 5–13 March 2019 – Voting Intentions</title>
@@ -789,6 +799,6 @@
       <pubDate>Sun, 03 Mar 2019 16:07:35 +0100</pubDate>
       <dc:date>2019-03-03T16:07:35.346583+01:00</dc:date>
     </item>
-    <dc:date>2019-04-05T14:21:16.279937+02:00</dc:date>
+    <dc:date>2019-04-06T21:06:00.284019+02:00</dc:date>
   </channel>
 </rss>
