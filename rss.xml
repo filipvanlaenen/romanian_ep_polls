@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 06 Apr 2019 21:06:00 +0200</pubDate>
+    <pubDate>Sun, 07 Apr 2019 09:45:34 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by IMAS, 18 March–3 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-04-03-IMAS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 7–9 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 4–5 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 8–10 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 3–5 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 5–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-04-03-IMAS-seats.png"
+        length="181901"
+        type="image/png"/>
+      <pubDate>Sun, 07 Apr 2019 09:45:34 +0200</pubDate>
+      <dc:date>2019-04-07T09:45:34.6451+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS, 18 March–3 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-04-03-IMAS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-04-03-IMAS-coalitions-seats.png"
+        length="132120"
+        type="image/png"/>
+      <pubDate>Sun, 07 Apr 2019 09:45:34 +0200</pubDate>
+      <dc:date>2019-04-07T09:45:34.6451+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IMAS, 18 March–3 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-04-03-IMAS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-04-03-IMAS.png"
         length="254551"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 20:08:34 +0200</pubDate>
-      <dc:date>2019-04-06T20:08:34.805158+02:00</dc:date>
+      <pubDate>Sun, 07 Apr 2019 09:45:34 +0200</pubDate>
+      <dc:date>2019-04-07T09:45:34.6451+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by BCS for PSnews.ro, 15–20 March 2019 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-03-20-BCS.png"
         length="249671"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 21:06:00 +0200</pubDate>
-      <dc:date>2019-04-06T21:06:00.284019+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 21:18:52 +0200</pubDate>
+      <dc:date>2019-04-06T21:18:52.912351+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSCOP for Konrad-Adenauer-Stiftung, 5–13 March 2019 – Voting Intentions</title>
@@ -36,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-03-13-INSCOP.png"
         length="255858"
         type="image/png"/>
-      <pubDate>Fri, 05 Apr 2019 14:02:49 +0200</pubDate>
-      <dc:date>2019-04-05T14:02:49.561429+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 21:34:27 +0200</pubDate>
+      <dc:date>2019-04-06T21:34:27.372118+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 13–28 February 2019 – Voting Intentions</title>
@@ -46,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-02-28-CURS.png"
         length="240301"
         type="image/png"/>
-      <pubDate>Fri, 05 Apr 2019 14:21:16 +0200</pubDate>
-      <dc:date>2019-04-05T14:21:16.279937+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 21:48:53 +0200</pubDate>
+      <dc:date>2019-04-06T21:48:53.468159+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMAS, 1–21 February 2019 – Seat Projections for the Parties</title>
@@ -799,6 +819,6 @@
       <pubDate>Sun, 03 Mar 2019 16:07:35 +0100</pubDate>
       <dc:date>2019-03-03T16:07:35.346583+01:00</dc:date>
     </item>
-    <dc:date>2019-04-06T21:06:00.284019+02:00</dc:date>
+    <dc:date>2019-04-07T09:45:34.6451+02:00</dc:date>
   </channel>
 </rss>
