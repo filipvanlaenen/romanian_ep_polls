@@ -12,7 +12,7 @@ The table below lists the polls on which the average is based. They are the most
 | N/A | Poll Average | 21–33% <br> 8–12 | 7–14% <br> 2–5 | 21–32% <br> 7–12 | 4–6% <br> 0–2 | 4–7% <br> 0–2 | N/A <br> N/A | 8–15% <br> 3–5 | N/A <br> N/A | 10–20% <br> 3–7 |
 | [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 24–29% <br> 9–11 | 7–10% <br> 2–3 | 27–33% <br> 10–12 | 3–6% <br> 0–2 | 5–8% <br> 0–3 | N/A <br> N/A | 9–12% <br> 3–4 | N/A <br> N/A | 9–13% <br> 3–4 |
 | [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 24–30% <br> 9–11 | 8–11% <br> 2–4 | 24–29% <br> 9–11 | 4–7% <br> 0–2 | 3–6% <br> 0–2 | N/A <br> N/A | 8–11% <br> 2–4 | N/A <br> N/A | 13–18% <br> 5–6 |
-| [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 29–34% <br> 10–12 | 11–14% <br> 3–5 | 21–25% <br> 7–9 | 4–6% <br> 0–2 | 4–6% <br> 0–2 | N/A <br> N/A | 9–12% <br> 3–4 | N/A <br> N/A | 11–14% <br> 3–5 |
+| [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 29–34% <br> 10–13 | 11–14% <br> 3–5 | 21–25% <br> 7–9 | 4–6% <br> 0–2 | 4–6% <br> 0–2 | N/A <br> N/A | 9–12% <br> 3–4 | N/A <br> N/A | 11–14% <br> 3–5 |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 20–25% <br> 7–9 | 11–15% <br> 4–5 | 20–25% <br> 7–9 | 4–6% <br> 0–2 | 3–6% <br> 0–2 | N/A <br> N/A | 11–16% <br> 4–6 | N/A <br> N/A | 16–20% <br> 6–7 |
 | 25 May 2014 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -246,11 +246,11 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 2% | 100% |  |
 | 8 | 14% | 98% |  |
-| 9 | 21% | 84% |  |
-| 10 | 32% | 62% | Median |
+| 9 | 22% | 84% |  |
+| 10 | 31% | 62% | Median |
 | 11 | 22% | 31% |  |
 | 12 | 8% | 9% |  |
-| 13 | 0.6% | 0.6% |  |
+| 13 | 0.7% | 0.7% |  |
 | 14 | 0% | 0% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% | Last Result |
@@ -265,9 +265,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 8% | 100% |  |
 | 3 | 38% | 92% |  |
-| 4 | 40% | 54% | Median |
+| 4 | 41% | 54% | Median |
 | 5 | 13% | 13% |  |
-| 6 | 0.1% | 0.2% | Last Result |
+| 6 | 0.1% | 0.1% | Last Result |
 | 7 | 0% | 0% |  |
 
 ### Partidul Național Liberal (EPP)
@@ -285,8 +285,8 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 22% | 65% | Median |
 | 10 | 19% | 43% |  |
 | 11 | 19% | 24% |  |
-| 12 | 5% | 6% |  |
-| 13 | 0.3% | 0.3% |  |
+| 12 | 5% | 5% |  |
+| 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |
 
 ### Uniunea Democrată Maghiară din România (EPP)
@@ -297,8 +297,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 59% | 100% | Median |
-| 1 | 8% | 41% |  |
+| 0 | 58% | 100% | Median |
+| 1 | 9% | 42% |  |
 | 2 | 33% | 33% | Last Result |
 | 3 | 0% | 0% |  |
 
@@ -310,10 +310,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 53% | 100% | Median |
-| 1 | 11% | 47% |  |
-| 2 | 35% | 36% | Last Result |
-| 3 | 0.6% | 0.6% |  |
+| 0 | 54% | 100% | Median |
+| 1 | 10% | 46% |  |
+| 2 | 36% | 36% | Last Result |
+| 3 | 0.7% | 0.7% |  |
 | 4 | 0% | 0% |  |
 
 ### PRO România (ALDE)
@@ -326,8 +326,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 1.1% | 100% |  |
-| 3 | 51% | 98.9% | Median |
+| 2 | 1.2% | 100% |  |
+| 3 | 51% | 98.8% | Median |
 | 4 | 31% | 48% |  |
 | 5 | 16% | 17% |  |
 | 6 | 1.2% | 1.2% |  |
@@ -374,11 +374,11 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% | Last Result |
 | 7 | 0% | 100% |  |
 | 8 | 0.5% | 100% |  |
-| 9 | 6% | 99.5% |  |
-| 10 | 15% | 93% |  |
-| 11 | 26% | 78% |  |
-| 12 | 21% | 52% | Median |
-| 13 | 6% | 32% |  |
+| 9 | 7% | 99.5% |  |
+| 10 | 14% | 93% |  |
+| 11 | 26% | 79% |  |
+| 12 | 22% | 52% | Median |
+| 13 | 5% | 31% |  |
 | 14 | 3% | 25% |  |
 | 15 | 8% | 22% |  |
 | 16 | 10% | 14% |  |
@@ -395,12 +395,12 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0.4% | 100% |  |
 | 8 | 9% | 99.6% |  |
 | 9 | 12% | 91% | Last Result, Median |
-| 10 | 24% | 78% |  |
-| 11 | 18% | 54% |  |
-| 12 | 12% | 36% |  |
-| 13 | 16% | 24% |  |
-| 14 | 7% | 8% |  |
-| 15 | 2% | 2% |  |
+| 10 | 24% | 79% |  |
+| 11 | 19% | 55% |  |
+| 12 | 13% | 36% |  |
+| 13 | 14% | 23% |  |
+| 14 | 7% | 9% |  |
+| 15 | 1.3% | 1.4% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% | Majority |
 
@@ -412,11 +412,11 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 2% | 100% |  |
 | 8 | 14% | 98% |  |
-| 9 | 21% | 84% |  |
-| 10 | 32% | 62% | Median |
+| 9 | 22% | 84% |  |
+| 10 | 31% | 62% | Median |
 | 11 | 22% | 31% |  |
 | 12 | 8% | 9% |  |
-| 13 | 0.6% | 0.6% |  |
+| 13 | 0.7% | 0.7% |  |
 | 14 | 0% | 0% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% | Last Result |
@@ -425,6 +425,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 2,621,440
-+ **Error estimate:** 1.33%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 2.16%

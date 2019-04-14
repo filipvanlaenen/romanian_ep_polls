@@ -86,9 +86,9 @@ Last result: **16** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 8–11 | 8–12 | 8–12 | 7–13 |
 | [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
-| [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 10 | 9–10 | 9–11 | 9–11 | 8–11 |
+| [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
-| [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 11 | 11–12 | 10–12 | 10–12 | 10–13 |
+| [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 10 | 10–11 | 9–11 | 9–12 | 9–12 |
@@ -131,11 +131,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 2% | 100% |  |
 | 8 | 14% | 98% |  |
-| 9 | 21% | 84% |  |
-| 10 | 32% | 62% | Median |
+| 9 | 22% | 84% |  |
+| 10 | 31% | 62% | Median |
 | 11 | 22% | 31% |  |
 | 12 | 8% | 9% |  |
-| 13 | 0.6% | 0.6% |  |
+| 13 | 0.7% | 0.7% |  |
 | 14 | 0% | 0% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% | Last Result |

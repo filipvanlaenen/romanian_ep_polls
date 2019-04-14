@@ -91,7 +91,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 6 | 6–7 | 5–7 | 5–7 | 5–8 |

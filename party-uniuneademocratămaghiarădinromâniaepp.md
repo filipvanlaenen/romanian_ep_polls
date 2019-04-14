@@ -72,7 +72,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -115,8 +115,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 59% | 100% | Median |
-| 1 | 8% | 41% |  |
+| 0 | 58% | 100% | Median |
+| 1 | 9% | 42% |  |
 | 2 | 33% | 33% | Last Result |
 | 3 | 0% | 0% |  |
 
