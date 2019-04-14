@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 07 Apr 2019 09:45:34 +0200</pubDate>
+    <pubDate>Sun, 14 Apr 2019 15:20:34 +0200</pubDate>
     <item>
       <title>Opinion Poll by IMAS, 18 March–3 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-04-03-IMAS.html#seats</link>
@@ -40,14 +40,54 @@
       <dc:date>2019-04-07T09:45:34.6451+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by BCS for PSnews.ro, 15–20 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-03-20-BCS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 9–11 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 10–12 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-03-20-BCS-seats.png"
+        length="190037"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 14:57:12 +0200</pubDate>
+      <dc:date>2019-04-14T14:57:12.482167+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BCS for PSnews.ro, 15–20 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-03-20-BCS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-03-20-BCS-coalitions-seats.png"
+        length="117793"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 14:57:12 +0200</pubDate>
+      <dc:date>2019-04-14T14:57:12.482167+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by BCS for PSnews.ro, 15–20 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-03-20-BCS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 24.0–29.1%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 6.7–9.9%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 27.2–32.5%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.3–5.7%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 4.9–7.8%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 8.6–12.1%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 9.2–12.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-03-20-BCS.png"
         length="249671"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 21:18:52 +0200</pubDate>
-      <dc:date>2019-04-06T21:18:52.912351+02:00</dc:date>
+      <pubDate>Sun, 14 Apr 2019 14:57:12 +0200</pubDate>
+      <dc:date>2019-04-14T14:57:12.482167+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSCOP for Konrad-Adenauer-Stiftung, 5–13 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-03-13-INSCOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 9–11 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 9–11 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 5–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-03-13-INSCOP-seats.png"
+        length="191515"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 15:08:52 +0200</pubDate>
+      <dc:date>2019-04-14T15:08:52.417368+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSCOP for Konrad-Adenauer-Stiftung, 5–13 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-03-13-INSCOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-03-13-INSCOP-coalitions-seats.png"
+        length="140242"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 15:08:52 +0200</pubDate>
+      <dc:date>2019-04-14T15:08:52.417368+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSCOP for Konrad-Adenauer-Stiftung, 5–13 March 2019 – Voting Intentions</title>
@@ -56,8 +96,28 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-03-13-INSCOP.png"
         length="255858"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 21:34:27 +0200</pubDate>
-      <dc:date>2019-04-06T21:34:27.372118+02:00</dc:date>
+      <pubDate>Sun, 14 Apr 2019 15:08:52 +0200</pubDate>
+      <dc:date>2019-04-14T15:08:52.417368+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 13–28 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-02-28-CURS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 10–13 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 3–5 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-02-28-CURS-seats.png"
+        length="200074"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 15:20:34 +0200</pubDate>
+      <dc:date>2019-04-14T15:20:34.064867+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 13–28 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-02-28-CURS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-02-28-CURS-coalitions-seats.png"
+        length="134136"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 15:20:34 +0200</pubDate>
+      <dc:date>2019-04-14T15:20:34.064867+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 13–28 February 2019 – Voting Intentions</title>
@@ -66,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-02-28-CURS.png"
         length="240301"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 21:48:53 +0200</pubDate>
-      <dc:date>2019-04-06T21:48:53.468159+02:00</dc:date>
+      <pubDate>Sun, 14 Apr 2019 15:20:34 +0200</pubDate>
+      <dc:date>2019-04-14T15:20:34.064867+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMAS, 1–21 February 2019 – Seat Projections for the Parties</title>
@@ -819,6 +879,6 @@
       <pubDate>Sun, 03 Mar 2019 16:07:35 +0100</pubDate>
       <dc:date>2019-03-03T16:07:35.346583+01:00</dc:date>
     </item>
-    <dc:date>2019-04-07T09:45:34.6451+02:00</dc:date>
+    <dc:date>2019-04-14T15:20:34.064867+02:00</dc:date>
   </channel>
 </rss>
