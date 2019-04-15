@@ -10,23 +10,24 @@ Last result: **12.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.8% | 21.9–30.2% | 21.3–31.0% | 20.9–31.6% | 20.0–32.7% |
-| [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS | 25.2% | 23.5–27.1% | 23.1–27.6% | 22.7–28.0% | 21.9–28.9% |
+| N/A | [Poll Average](average.html) | 26.3% | 21.9–30.6% | 21.3–31.3% | 20.8–31.8% | 19.8–32.8% |
+| [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS <br> Europa FM | 25.2% | 23.5–27.1% | 23.1–27.6% | 22.7–28.0% | 21.9–28.9% |
+| [12–25 March 2019](2019-03-25-CURS.html) | CURS <br> STIRIPESURSE.RO | 21.9% | N/A | N/A | N/A | N/A |
 | [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 29.8% | 28.1–31.6% | 27.6–32.1% | 27.2–32.5% | 26.4–33.4% |
 | [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 26.3% | 24.6–28.1% | 24.1–28.6% | 23.7–29.1% | 22.9–29.9% |
 | [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 23.2% | 21.8–24.6% | 21.5–25.1% | 21.1–25.4% | 20.5–26.1% |
-| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 22.6% | 20.9–24.3% | 20.5–24.8% | 20.1–25.3% | 19.3–26.1% |
+| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS <br> Europa FM | 22.6% | 20.9–24.3% | 20.5–24.8% | 20.1–25.3% | 19.3–26.1% |
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 22.0% | 20.5–23.7% | 20.0–24.2% | 19.6–24.6% | 18.9–25.4% |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 26.7% | 25.0–28.5% | 24.5–29.0% | 24.1–29.4% | 23.3–30.3% |
-| [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 23.3% | 21.7–25.1% | 21.2–25.6% | 20.8–26.1% | 20.1–26.9% |
-| [4–20 December 2018](2018-12-20-IMAS.html) | IMAS | 26.1% | 24.4–28.0% | 23.9–28.5% | 23.5–28.9% | 22.7–29.8% |
+| [11–30 January 2019](2019-01-30-IMAS.html) | IMAS <br> Europa FM | 23.3% | 21.7–25.1% | 21.2–25.6% | 20.8–26.1% | 20.1–26.9% |
+| [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 26.1% | 24.4–28.0% | 23.9–28.5% | 23.5–28.9% | 22.7–29.8% |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 20.0% | 18.5–21.6% | 18.0–22.1% | 17.7–22.5% | 17.0–23.3% |
-| [1–30 November 2018](2018-11-30-IMAS.html) | IMAS | 23.3% | 21.6–25.0% | 21.2–25.5% | 20.8–26.0% | 20.0–26.8% |
+| [1–30 November 2018](2018-11-30-IMAS.html) | IMAS <br> Europa FM | 23.3% | 21.6–25.0% | 21.2–25.5% | 20.8–26.0% | 20.0–26.8% |
 | [26 October–12 November 2018](2018-11-12-CURS.html) | CURS <br> STIRIPESURSE.RO | 15.0% | 13.7–16.5% | 13.3–16.9% | 13.0–17.3% | 12.4–18.0% |
-| [1–31 October 2018](2018-10-31-IMAS.html) | IMAS | 21.9% | 20.3–23.7% | 19.8–24.1% | 19.4–24.6% | 18.7–25.4% |
+| [1–31 October 2018](2018-10-31-IMAS.html) | IMAS <br> Europa FM | 21.9% | 20.3–23.7% | 19.8–24.1% | 19.4–24.6% | 18.7–25.4% |
 | [3–4 October 2018](2018-10-04-Sociopol.html) | Sociopol | 23.0% | 21.3–24.9% | 20.8–25.5% | 20.3–25.9% | 19.5–26.9% |
 | [20 September–1 October 2018](2018-10-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 22.0% | 20.5–23.7% | 20.0–24.2% | 19.6–24.6% | 18.9–25.4% |
-| [1–30 September 2018](2018-09-30-IMAS.html) | IMAS | 27.1% | 25.3–29.0% | 24.9–29.5% | 24.4–29.9% | 23.6–30.8% |
+| [1–30 September 2018](2018-09-30-IMAS.html) | IMAS <br> Europa FM | 27.1% | 25.3–29.0% | 24.9–29.5% | 24.4–29.9% | 23.6–30.8% |
 | [22–27 September 2018](2018-09-27-Sociopol.html) | Sociopol | 20.0% | 18.5–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [7–20 August 2018](2018-08-20-Sociopol.html) | Sociopol | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
 | [23 June–1 July 2018](2018-07-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 24.3% | 22.6–26.0% | 22.2–26.5% | 21.8–26.9% | 21.0–27.8% |
@@ -61,20 +62,20 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0.2% | 100% |  |
-| 19.5–20.5% | 1.3% | 99.8% |  |
-| 20.5–21.5% | 5% | 98.5% |  |
-| 21.5–22.5% | 12% | 93% |  |
-| 22.5–23.5% | 16% | 81% |  |
-| 23.5–24.5% | 13% | 65% |  |
-| 24.5–25.5% | 9% | 52% | Median |
-| 25.5–26.5% | 8% | 44% |  |
-| 26.5–27.5% | 7% | 36% |  |
-| 27.5–28.5% | 6% | 29% |  |
-| 28.5–29.5% | 7% | 22% |  |
-| 29.5–30.5% | 7% | 15% |  |
-| 30.5–31.5% | 5% | 8% |  |
-| 31.5–32.5% | 2% | 3% |  |
-| 32.5–33.5% | 0.5% | 0.6% |  |
+| 19.5–20.5% | 2% | 99.7% |  |
+| 20.5–21.5% | 5% | 98% |  |
+| 21.5–22.5% | 9% | 93% |  |
+| 22.5–23.5% | 10% | 84% |  |
+| 23.5–24.5% | 8% | 74% |  |
+| 24.5–25.5% | 8% | 66% |  |
+| 25.5–26.5% | 10% | 58% | Median |
+| 26.5–27.5% | 10% | 48% |  |
+| 27.5–28.5% | 9% | 38% |  |
+| 28.5–29.5% | 10% | 30% |  |
+| 29.5–30.5% | 10% | 20% |  |
+| 30.5–31.5% | 7% | 10% |  |
+| 31.5–32.5% | 3% | 3% |  |
+| 32.5–33.5% | 0.7% | 0.8% |  |
 | 33.5–34.5% | 0.1% | 0.1% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
@@ -87,23 +88,24 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–12 | 7–12 | 7–12 |
-| [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
+| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–12 | 8–12 | 7–12 |
+| [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS <br> Europa FM | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
+| [12–25 March 2019](2019-03-25-CURS.html) | CURS <br> STIRIPESURSE.RO |  |  |  |  |  |
 | [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
-| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
+| [1–21 February 2019](2019-02-21-IMAS.html) | IMAS <br> Europa FM | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
-| [11–30 January 2019](2019-01-30-IMAS.html) | IMAS | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
-| [4–20 December 2018](2018-12-20-IMAS.html) | IMAS | 9 | 9–10 | 9–10 | 8–11 | 8–11 |
+| [11–30 January 2019](2019-01-30-IMAS.html) | IMAS <br> Europa FM | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
+| [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 9 | 9–10 | 9–10 | 8–11 | 8–11 |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
-| [1–30 November 2018](2018-11-30-IMAS.html) | IMAS | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
+| [1–30 November 2018](2018-11-30-IMAS.html) | IMAS <br> Europa FM | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [26 October–12 November 2018](2018-11-12-CURS.html) | CURS <br> STIRIPESURSE.RO | 5 | 5 | 5–6 | 4–6 | 4–6 |
-| [1–31 October 2018](2018-10-31-IMAS.html) | IMAS | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [1–31 October 2018](2018-10-31-IMAS.html) | IMAS <br> Europa FM | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [3–4 October 2018](2018-10-04-Sociopol.html) | Sociopol | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [20 September–1 October 2018](2018-10-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
-| [1–30 September 2018](2018-09-30-IMAS.html) | IMAS | 10 | 9–10 | 9–11 | 9–11 | 8–11 |
+| [1–30 September 2018](2018-09-30-IMAS.html) | IMAS <br> Europa FM | 10 | 9–10 | 9–11 | 9–11 | 8–11 |
 | [22–27 September 2018](2018-09-27-Sociopol.html) | Sociopol | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | [7–20 August 2018](2018-08-20-Sociopol.html) | Sociopol | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [23 June–1 July 2018](2018-07-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
@@ -134,13 +136,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
-| 7 | 4% | 100% |  |
-| 8 | 31% | 96% |  |
-| 9 | 22% | 65% | Median |
-| 10 | 19% | 43% |  |
-| 11 | 19% | 24% |  |
-| 12 | 5% | 5% |  |
-| 13 | 0.2% | 0.2% |  |
+| 7 | 2% | 100% |  |
+| 8 | 20% | 98% |  |
+| 9 | 20% | 77% |  |
+| 10 | 25% | 57% | Median |
+| 11 | 25% | 32% |  |
+| 12 | 7% | 7% |  |
+| 13 | 0.3% | 0.3% |  |
 | 14 | 0% | 0% |  |
 
 
