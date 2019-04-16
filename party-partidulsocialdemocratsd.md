@@ -10,7 +10,7 @@ Last result: **37.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.7% | 22.4–30.0% | 21.6–30.7% | 21.1–31.4% | 20.1–32.5% |
+| N/A | [Poll Average](average.html) | 26.7% | 21.0–30.0% | 20.2–30.7% | 19.7–31.4% | 18.8–32.5% |
 | [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS <br> Europa FM | 21.3% | 19.7–23.0% | 19.3–23.5% | 18.9–23.9% | 18.1–24.8% |
 | [12–25 March 2019](2019-03-25-CURS.html) | CURS <br> STIRIPESURSE.RO | 29.5% | 27.8–31.4% | 27.3–31.9% | 26.9–32.3% | 26.0–33.2% |
 | [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 26.5% | 24.9–28.2% | 24.4–28.7% | 24.0–29.1% | 23.2–30.0% |
@@ -54,15 +54,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.2% | 100% |  |
-| 19.5–20.5% | 1.0% | 99.8% |  |
-| 20.5–21.5% | 4% | 98.8% |  |
-| 21.5–22.5% | 7% | 95% |  |
-| 22.5–23.5% | 7% | 89% |  |
-| 23.5–24.5% | 7% | 81% |  |
-| 24.5–25.5% | 9% | 75% |  |
-| 25.5–26.5% | 14% | 66% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.3% | 100% |  |
+| 18.5–19.5% | 2% | 99.7% |  |
+| 19.5–20.5% | 5% | 98% |  |
+| 20.5–21.5% | 7% | 93% |  |
+| 21.5–22.5% | 6% | 86% |  |
+| 22.5–23.5% | 4% | 79% |  |
+| 23.5–24.5% | 3% | 76% |  |
+| 24.5–25.5% | 7% | 73% |  |
+| 25.5–26.5% | 13% | 65% |  |
 | 26.5–27.5% | 16% | 52% | Median |
 | 27.5–28.5% | 13% | 36% |  |
 | 28.5–29.5% | 10% | 24% |  |
@@ -85,7 +86,7 @@ Last result: **16** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–11 | 8–12 | 7–12 |
+| N/A | [Poll Average](average.html) | 10 | 7–11 | 7–11 | 7–12 | 7–12 |
 | [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS <br> Europa FM | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [12–25 March 2019](2019-03-25-CURS.html) | CURS <br> STIRIPESURSE.RO | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
@@ -131,10 +132,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 2% | 100% |  |
-| 8 | 14% | 98% |  |
-| 9 | 22% | 84% |  |
-| 10 | 34% | 62% | Median |
+| 6 | 0.4% | 100% |  |
+| 7 | 10% | 99.6% |  |
+| 8 | 14% | 90% |  |
+| 9 | 15% | 76% |  |
+| 10 | 34% | 61% | Median |
 | 11 | 23% | 27% |  |
 | 12 | 4% | 5% |  |
 | 13 | 0.2% | 0.2% |  |
