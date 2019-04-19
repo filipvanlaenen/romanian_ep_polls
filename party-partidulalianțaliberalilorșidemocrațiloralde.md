@@ -10,9 +10,9 @@ Last result: **15.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.5% | 7.7–13.4% | 7.3–13.9% | 7.0–14.4% | 6.5–15.2% |
+| N/A | [Poll Average](average.html) | 9.5% | 7.9–13.1% | 7.5–13.7% | 7.2–14.2% | 6.6–15.1% |
 | [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS <br> Europa FM | 12.8% | 11.5–14.2% | 11.2–14.6% | 10.9–15.0% | 10.3–15.7% |
-| [12–25 March 2019](2019-03-25-CURS.html) | CURS <br> STIRIPESURSE.RO | 9.6% | N/A | N/A | N/A | N/A |
+| [12–25 March 2019](2019-03-25-CURS.html) | CURS <br> STIRIPESURSE.RO | 9.6% | 8.5–10.8% | 8.2–11.2% | 7.9–11.5% | 7.5–12.1% |
 | [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 8.1% | 7.2–9.3% | 6.9–9.6% | 6.7–9.9% | 6.2–10.4% |
 | [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.7–11.2% | 7.2–11.8% |
 | [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 12.1% | N/A | N/A | N/A | N/A |
@@ -55,16 +55,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.5% | 100% |  |
-| 6.5–7.5% | 7% | 99.5% |  |
-| 7.5–8.5% | 21% | 92% |  |
-| 8.5–9.5% | 23% | 72% | Median |
-| 9.5–10.5% | 12% | 49% |  |
-| 10.5–11.5% | 6% | 36% |  |
-| 11.5–12.5% | 10% | 30% |  |
-| 12.5–13.5% | 12% | 20% |  |
-| 13.5–14.5% | 6% | 8% |  |
-| 14.5–15.5% | 2% | 2% | Last Result |
+| 5.5–6.5% | 0.4% | 100% |  |
+| 6.5–7.5% | 5% | 99.6% |  |
+| 7.5–8.5% | 18% | 94% |  |
+| 8.5–9.5% | 26% | 76% |  |
+| 9.5–10.5% | 18% | 50% | Median |
+| 10.5–11.5% | 8% | 31% |  |
+| 11.5–12.5% | 8% | 23% |  |
+| 12.5–13.5% | 9% | 15% |  |
+| 13.5–14.5% | 5% | 6% |  |
+| 14.5–15.5% | 1.2% | 1.4% | Last Result |
 | 15.5–16.5% | 0.2% | 0.2% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -77,11 +77,11 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
-| [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS <br> Europa FM | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [12–25 March 2019](2019-03-25-CURS.html) | CURS <br> STIRIPESURSE.RO |  |  |  |  |  |
-| [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 3 | 3 | 3 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
+| [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS <br> Europa FM | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [12–25 March 2019](2019-03-25-CURS.html) | CURS <br> STIRIPESURSE.RO | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO |  |  |  |  |  |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS <br> Europa FM |  |  |  |  |  |
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO |  |  |  |  |  |
@@ -123,10 +123,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 19% | 100% |  |
-| 3 | 51% | 81% | Median |
-| 4 | 19% | 31% |  |
-| 5 | 12% | 12% |  |
-| 6 | 0% | 0% | Last Result |
+| 2 | 11% | 100% |  |
+| 3 | 57% | 89% | Median |
+| 4 | 23% | 32% |  |
+| 5 | 8% | 9% |  |
+| 6 | 0.1% | 0.1% | Last Result |
+| 7 | 0% | 0% |  |
 
 
