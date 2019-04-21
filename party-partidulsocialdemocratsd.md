@@ -87,9 +87,9 @@ Last result: **16** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 7–11 | 7–11 | 7–11 | 6–12 |
-| [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS <br> Europa FM | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
-| [12–25 March 2019](2019-03-25-CURS.html) | CURS <br> STIRIPESURSE.RO | 10 | 10–11 | 10–11 | 9–12 | 9–12 |
-| [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 10 | 9–10 | 9–10 | 8–10 | 8–11 |
+| [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS <br> Europa FM | 7 | 7–8 | 7–8 | 6–9 | 6–9 |
+| [12–25 March 2019](2019-03-25-CURS.html) | CURS <br> STIRIPESURSE.RO | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
+| [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 10 | 9–10 | 9–10 | 8–11 | 8–11 |
 | [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO |  |  |  |  |  |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS <br> Europa FM |  |  |  |  |  |
@@ -132,14 +132,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 1.2% | 100% |  |
-| 7 | 12% | 98.8% |  |
-| 8 | 12% | 87% |  |
-| 9 | 22% | 74% |  |
-| 10 | 38% | 53% | Median |
-| 11 | 14% | 15% |  |
-| 12 | 1.1% | 1.2% |  |
-| 13 | 0.1% | 0.1% |  |
+| 6 | 1.0% | 100% |  |
+| 7 | 13% | 99.0% |  |
+| 8 | 12% | 86% |  |
+| 9 | 20% | 75% |  |
+| 10 | 36% | 55% | Median |
+| 11 | 17% | 19% |  |
+| 12 | 2% | 2% |  |
+| 13 | 0% | 0.1% |  |
 | 14 | 0% | 0% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% | Last Result |
