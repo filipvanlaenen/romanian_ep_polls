@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.7% | 7.4–11.7% | 7.0–12.2% | 6.6–12.6% | 6.1–13.4% |
-| [12–25 April 2019](2019-04-25-IMAS.html) | IMAS <br> Europa FM | 11.7% | N/A | N/A | N/A | N/A |
+| [12–25 April 2019](2019-04-25-IMAS.html) | IMAS <br> Europa FM | 11.7% | 10.5–13.1% | 10.1–13.5% | 9.8–13.8% | 9.3–14.5% |
 | [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS <br> Europa FM | 11.2% | 10.0–12.6% | 9.7–13.0% | 9.4–13.3% | 8.8–14.0% |
 | [12–25 March 2019](2019-03-25-CURS.html) | CURS <br> STIRIPESURSE.RO | 7.6% | 6.6–8.7% | 6.4–9.1% | 6.1–9.3% | 5.7–9.9% |
 | [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 10.2% | 9.2–11.5% | 8.9–11.8% | 8.6–12.1% | 8.1–12.7% |
@@ -82,7 +82,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| [12–25 April 2019](2019-04-25-IMAS.html) | IMAS <br> Europa FM |  |  |  |  |  |
+| [12–25 April 2019](2019-04-25-IMAS.html) | IMAS <br> Europa FM | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS <br> Europa FM | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [12–25 March 2019](2019-03-25-CURS.html) | CURS <br> STIRIPESURSE.RO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
