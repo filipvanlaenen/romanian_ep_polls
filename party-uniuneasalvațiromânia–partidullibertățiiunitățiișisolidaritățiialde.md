@@ -11,9 +11,10 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16.1% | 10.6–18.5% | 10.1–19.1% | 9.7–19.5% | 9.1–20.4% |
+| [5–28 April 2019](2019-04-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 12.0% | 11.0–13.1% | 10.7–13.5% | 10.4–13.7% | 10.0–14.3% |
 | [12–25 April 2019](2019-04-25-IMAS.html) | IMAS <br> Europa FM | 16.3% | 14.9–17.9% | 14.5–18.4% | 14.2–18.7% | 13.5–19.5% |
 | [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS <br> Europa FM | 17.7% | 16.2–19.3% | 15.8–19.8% | 15.5–20.2% | 14.8–21.0% |
-| [12–25 March 2019](2019-03-25-CURS.html) | CURS <br> STIRIPESURSE.RO | 17.2% | 15.7–18.7% | 15.3–19.2% | 15.0–19.5% | 14.4–20.3% |
+| [12–25 March 2019](2019-03-25-CURS.html) | CURS <br> STIRIPESURSE.RO | 13.0% | 15.7–18.7% | 15.3–19.2% | 15.0–19.5% | 14.4–20.3% |
 | [15–20 March 2019](2019-03-20-BCS.html) | BCS <br> PSnews.ro | 10.8% | 9.7–12.1% | 9.4–12.5% | 9.2–12.8% | 8.7–13.4% |
 | [5–13 March 2019](2019-03-13-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 15.3% | 13.9–16.8% | 13.6–17.2% | 13.2–17.6% | 12.6–18.3% |
 | [13–28 February 2019](2019-02-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 12.1% | N/A | N/A | N/A | N/A |
@@ -89,6 +90,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 3–6 | 3–7 | 3–7 | 3–7 |
+| [5–28 April 2019](2019-04-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [12–25 April 2019](2019-04-25-IMAS.html) | IMAS <br> Europa FM | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS <br> Europa FM | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [12–25 March 2019](2019-03-25-CURS.html) | CURS <br> STIRIPESURSE.RO | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
