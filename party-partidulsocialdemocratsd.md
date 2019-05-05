@@ -89,7 +89,7 @@ Last result: **16** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 7–11 | 7–11 | 7–11 | 6–12 |
-| [5–28 April 2019](2019-04-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 12 | 12 | 11–12 | 11–12 | 10–12 |
+| [5–28 April 2019](2019-04-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 11 | 11–12 | 11–12 | 10–13 | 10–13 |
 | [12–25 April 2019](2019-04-25-IMAS.html) | IMAS <br> Europa FM | 7 | 7–8 | 7–8 | 6–9 | 6–9 |
 | [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS <br> Europa FM | 7 | 7–8 | 7–8 | 6–9 | 6–9 |
 | [12–25 March 2019](2019-03-25-CURS.html) | CURS <br> STIRIPESURSE.RO | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
