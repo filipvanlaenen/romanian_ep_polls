@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/romanian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-05-04T17:09:15.831802+02:00</updated>
+  <updated>2019-05-06T18:14:50.110929+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat (S&amp;D): 29.7–34.4%, 10–13 seats</li><li>Partidul Alianța Liberalilor și Democraților (ALDE): 8.6–11.6%, 3–4 seats</li><li>Partidul Național Liberal (EPP): 22.9–27.3%, 8–10 seats</li><li>Uniunea Democrată Maghiară din România (EPP): 4.0–6.2%, 0–2 seats</li><li>Partidul Mișcarea Populară (EPP): 4.0–6.2%, 0–2 seats</li><li>PRO România (ALDE): 7.7–10.6%, 2–3 seats</li><li>Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 10.4–13.7%, 3–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/romanian_ep_polls/2019-04-28-CURS.html</id>
+    <link href="https://filipvanlaenen.github.io/romanian_ep_polls/2019-04-28-CURS.html"/>
+    <title>Opinion Poll by CURS for STIRIPESURSE.RO, 5–28 April 2019</title>
+    <updated>2019-05-06T18:14:50.110929+02:00</updated>
+    <dc:date>2019-05-06T18:14:50.110929+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat (S&amp;D): 19.5–24.6%, 6–9 seats</li><li>Partidul Alianța Liberalilor și Democraților (ALDE): 10.3–14.3%, 3–5 seats</li><li>Partidul Național Liberal (EPP): 22.9–28.3%, 8–10 seats</li><li>Uniunea Democrată Maghiară din România (EPP): 4.3–7.1%, 0–2 seats</li><li>Partidul Mișcarea Populară (EPP): 4.3–7.1%, 0–2 seats</li><li>PRO România (ALDE): 9.8–13.8%, 3–5 seats</li><li>Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 14.2–18.7%, 5–6 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/romanian_ep_polls/2019-04-25-IMAS.html</id>
@@ -47,5 +55,5 @@
     <updated>2019-05-01T11:03:12.180462+02:00</updated>
     <dc:date>2019-05-01T11:03:12.180462+02:00</dc:date>
   </entry>
-  <dc:date>2019-05-04T17:09:15.831802+02:00</dc:date>
+  <dc:date>2019-05-06T18:14:50.110929+02:00</dc:date>
 </feed>
