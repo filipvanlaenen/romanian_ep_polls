@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 06 May 2019 18:14:50 +0200</pubDate>
+    <pubDate>Mon, 20 May 2019 18:19:40 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by INSCOP for Konrad-Adenauer-Stiftung, 12 April–3 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-05-03-INSCOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 23.0–28.3%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 7.3–10.7%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 24.9–30.3%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.8–6.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.2–5.7%&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 6.7–10.0%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 14.6–19.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-05-03-INSCOP.png"
+        length="254613"
+        type="image/png"/>
+      <pubDate>Mon, 20 May 2019 18:19:40 +0200</pubDate>
+      <dc:date>2019-05-20T18:19:40.02612+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 5–28 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-04-28-CURS.html#seats</link>
@@ -189,6 +199,6 @@
       <pubDate>Wed, 01 May 2019 11:03:12 +0200</pubDate>
       <dc:date>2019-05-01T11:03:12.180462+02:00</dc:date>
     </item>
-    <dc:date>2019-05-06T18:14:50.110929+02:00</dc:date>
+    <dc:date>2019-05-20T18:19:40.02612+02:00</dc:date>
   </channel>
 </rss>
