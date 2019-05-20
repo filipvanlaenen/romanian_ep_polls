@@ -11,7 +11,7 @@ Last result: **15.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.8% | 7.9–12.5% | 7.5–13.1% | 7.2–13.6% | 6.6–14.4% |
-| [12 April–3 May 2019](2019-05-03-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 8.9% | N/A | N/A | N/A | N/A |
+| [12 April–3 May 2019](2019-05-03-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 8.9% | 7.8–10.1% | 7.5–10.4% | 7.3–10.7% | 6.8–11.4% |
 | [5–28 April 2019](2019-04-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 10.0% | 9.1–11.1% | 8.8–11.4% | 8.6–11.6% | 8.2–12.2% |
 | [12–25 April 2019](2019-04-25-IMAS.html) | IMAS <br> Europa FM | 12.2% | 10.9–13.6% | 10.6–14.0% | 10.3–14.3% | 9.7–15.1% |
 | [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS <br> Europa FM | 12.8% | 11.5–14.2% | 11.2–14.6% | 10.9–15.0% | 10.3–15.7% |
@@ -80,7 +80,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| [12 April–3 May 2019](2019-05-03-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung |  |  |  |  |  |
+| [12 April–3 May 2019](2019-05-03-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [5–28 April 2019](2019-04-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12–25 April 2019](2019-04-25-IMAS.html) | IMAS <br> Europa FM | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [18 March–3 April 2019](2019-04-03-IMAS.html) | IMAS <br> Europa FM | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
