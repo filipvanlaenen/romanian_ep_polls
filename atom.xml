@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/romanian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-05-06T18:14:50.110929+02:00</updated>
+  <updated>2019-05-21T02:15:35.586196+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat (S&amp;D): 23.0–28.3%, 8–10 seats</li><li>Partidul Alianța Liberalilor și Democraților (ALDE): 7.3–10.7%, 2–4 seats</li><li>Partidul Național Liberal (EPP): 24.9–30.3%, 9–11 seats</li><li>Uniunea Democrată Maghiară din România (EPP): 3.8–6.4%, 0–2 seats</li><li>Partidul Mișcarea Populară (EPP): 3.2–5.7%, 0–2 seats</li><li>PRO România (ALDE): 6.7–10.0%, 2–3 seats</li><li>Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 14.6–19.1%, 5–7 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/romanian_ep_polls/2019-05-03-INSCOP.html</id>
+    <link href="https://filipvanlaenen.github.io/romanian_ep_polls/2019-05-03-INSCOP.html"/>
+    <title>Opinion Poll by INSCOP for Konrad-Adenauer-Stiftung, 12 April–3 May 2019</title>
+    <updated>2019-05-21T02:15:35.586196+02:00</updated>
+    <dc:date>2019-05-21T02:15:35.586196+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat (S&amp;D): 29.7–34.4%, 10–13 seats</li><li>Partidul Alianța Liberalilor și Democraților (ALDE): 8.6–11.6%, 3–4 seats</li><li>Partidul Național Liberal (EPP): 22.9–27.3%, 8–10 seats</li><li>Uniunea Democrată Maghiară din România (EPP): 4.0–6.2%, 0–2 seats</li><li>Partidul Mișcarea Populară (EPP): 4.0–6.2%, 0–2 seats</li><li>PRO România (ALDE): 7.7–10.6%, 2–3 seats</li><li>Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 10.4–13.7%, 3–5 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/romanian_ep_polls/2019-04-28-CURS.html</id>
@@ -55,5 +63,5 @@
     <updated>2019-05-01T11:03:12.180462+02:00</updated>
     <dc:date>2019-05-01T11:03:12.180462+02:00</dc:date>
   </entry>
-  <dc:date>2019-05-06T18:14:50.110929+02:00</dc:date>
+  <dc:date>2019-05-21T02:15:35.586196+02:00</dc:date>
 </feed>
