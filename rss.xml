@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 20 May 2019 18:19:40 +0200</pubDate>
+    <pubDate>Tue, 21 May 2019 02:15:35 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by INSCOP for Konrad-Adenauer-Stiftung, 12 April–3 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-05-03-INSCOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 9–11 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;PRO România (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE): 5–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-05-03-INSCOP-seats.png"
+        length="183551"
+        type="image/png"/>
+      <pubDate>Tue, 21 May 2019 02:15:35 +0200</pubDate>
+      <dc:date>2019-05-21T02:15:35.586196+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSCOP for Konrad-Adenauer-Stiftung, 12 April–3 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-05-03-INSCOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-05-03-INSCOP-coalitions-seats.png"
+        length="140061"
+        type="image/png"/>
+      <pubDate>Tue, 21 May 2019 02:15:35 +0200</pubDate>
+      <dc:date>2019-05-21T02:15:35.586196+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by INSCOP for Konrad-Adenauer-Stiftung, 12 April–3 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-05-03-INSCOP.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-05-03-INSCOP.png"
         length="254613"
         type="image/png"/>
-      <pubDate>Mon, 20 May 2019 18:19:40 +0200</pubDate>
-      <dc:date>2019-05-20T18:19:40.02612+02:00</dc:date>
+      <pubDate>Tue, 21 May 2019 02:15:35 +0200</pubDate>
+      <dc:date>2019-05-21T02:15:35.586196+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 5–28 April 2019 – Seat Projections for the Parties</title>
@@ -199,6 +219,6 @@
       <pubDate>Wed, 01 May 2019 11:03:12 +0200</pubDate>
       <dc:date>2019-05-01T11:03:12.180462+02:00</dc:date>
     </item>
-    <dc:date>2019-05-20T18:19:40.02612+02:00</dc:date>
+    <dc:date>2019-05-21T02:15:35.586196+02:00</dc:date>
   </channel>
 </rss>
