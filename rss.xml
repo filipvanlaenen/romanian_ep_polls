@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 24 May 2019 20:36:27 +0200</pubDate>
+    <pubDate>Fri, 24 May 2019 23:03:21 +0200</pubDate>
     <item>
       <title>Opinion Poll by IMAS for Europa FM, 2–20 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-05-20-IMAS.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-05-20-IMAS.png"
         length="255707"
         type="image/png"/>
-      <pubDate>Fri, 24 May 2019 20:29:41 +0200</pubDate>
-      <dc:date>2019-05-24T20:29:41.318462+02:00</dc:date>
+      <pubDate>Fri, 24 May 2019 22:51:44 +0200</pubDate>
+      <dc:date>2019-05-24T22:51:44.302088+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novel for PNL, 14–19 May 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-05-19-Novel.png"
         length="247326"
         type="image/png"/>
-      <pubDate>Fri, 24 May 2019 20:36:27 +0200</pubDate>
-      <dc:date>2019-05-24T20:36:27.266133+02:00</dc:date>
+      <pubDate>Fri, 24 May 2019 23:03:21 +0200</pubDate>
+      <dc:date>2019-05-24T23:03:21.78534+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSCOP for Konrad-Adenauer-Stiftung, 12 April–3 May 2019 – Voting Intentions</title>
@@ -159,6 +159,6 @@
       <pubDate>Wed, 01 May 2019 11:03:12 +0200</pubDate>
       <dc:date>2019-05-01T11:03:12.180462+02:00</dc:date>
     </item>
-    <dc:date>2019-05-24T20:36:27.266133+02:00</dc:date>
+    <dc:date>2019-05-24T23:03:21.78534+02:00</dc:date>
   </channel>
 </rss>
