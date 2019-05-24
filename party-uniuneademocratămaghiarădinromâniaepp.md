@@ -10,7 +10,9 @@ Last result: **6.3%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.0% | 4.1–6.0% | 3.8–6.4% | 3.6–6.7% | 3.3–7.2% |
+| N/A | [Poll Average](average.html) | 5.0% | 4.3–5.9% | 4.1–6.1% | 3.9–6.3% | 3.6–6.8% |
+| [2–20 May 2019](2019-05-20-IMAS.html) | IMAS <br> Europa FM | 3.8% | N/A | N/A | N/A | N/A |
+| [14–19 May 2019](2019-05-19-Novel.html) | Novel <br> PNL | 5.0% | N/A | N/A | N/A | N/A |
 | [12 April–3 May 2019](2019-05-03-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
 | [5–28 April 2019](2019-04-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [12–25 April 2019](2019-04-25-IMAS.html) | IMAS <br> Europa FM | 5.5% | 4.7–6.6% | 4.5–6.9% | 4.3–7.1% | 3.9–7.7% |
@@ -58,13 +60,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 25% | 98% |  |
-| 4.5–5.5% | 48% | 73% | Median |
-| 5.5–6.5% | 21% | 25% | Last Result |
-| 6.5–7.5% | 3% | 3% |  |
-| 7.5–8.5% | 0.2% | 0.2% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.5% | 100% |  |
+| 3.5–4.5% | 21% | 99.5% |  |
+| 4.5–5.5% | 58% | 78% | Median |
+| 5.5–6.5% | 19% | 21% | Last Result |
+| 6.5–7.5% | 1.2% | 1.2% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -76,6 +77,8 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [2–20 May 2019](2019-05-20-IMAS.html) | IMAS <br> Europa FM |  |  |  |  |  |
+| [14–19 May 2019](2019-05-19-Novel.html) | Novel <br> PNL |  |  |  |  |  |
 | [12 April–3 May 2019](2019-05-03-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [5–28 April 2019](2019-04-28-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [12–25 April 2019](2019-04-25-IMAS.html) | IMAS <br> Europa FM | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -124,8 +127,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Median |
-| 1 | 20% | 50% |  |
+| 0 | 51% | 100% | Median |
+| 1 | 19% | 49% |  |
 | 2 | 30% | 30% | Last Result |
 | 3 | 0% | 0% |  |
 
