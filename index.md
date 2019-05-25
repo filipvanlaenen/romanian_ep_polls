@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 60 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PSD | ALDE | PNL | UDMR | PMP | PLUS | PRO | USR | USR–PLUS |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 20–34% <br> 6–12 | 7–11% <br> 2–4 | 24–31% <br> 8–11 | 3–6% <br> 0–2 | 4–8% <br> 0–2 | N/A <br> N/A | 7–11% <br> 2–4 | N/A <br> N/A | 11–21% <br> 4–7 |
+| N/A | [Poll Average](average.html) | 20–34% <br> 7–12 | 7–11% <br> 2–4 | 24–31% <br> 8–11 | 3–6% <br> 0–2 | 4–8% <br> 0–2 | N/A <br> N/A | 7–11% <br> 2–4 | N/A <br> N/A | 11–21% <br> 4–7 |
 | [2–20 May 2019](2019-05-20-IMAS.html) | IMAS <br> Europa FM | 19–24% <br> 6–8 | 8–12% <br> 2–4 | 26–31% <br> 9–11 | 3–5% <br> 0–1 | 5–8% <br> 0–2 | N/A <br> N/A | 8–12% <br> 2–4 | N/A <br> N/A | 17–22% <br> 6–8 |
 | [14–19 May 2019](2019-05-19-Novel.html) | Novel <br> PNL | 26–31% <br> 9–11 | 7–10% <br> 2–3 | 26–31% <br> 9–11 | 4–6% <br> 0–2 | 5–8% <br> 1–3 | N/A <br> N/A | 6–10% <br> 2–3 | N/A <br> N/A | 13–17% <br> 4–6 |
 | [12 April–3 May 2019](2019-05-03-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 23–28% <br> 8–10 | 7–11% <br> 2–4 | 25–30% <br> 9–11 | 4–6% <br> 0–2 | 3–6% <br> 0–2 | N/A <br> N/A | 7–10% <br> 2–3 | N/A <br> N/A | 15–19% <br> 5–7 |
