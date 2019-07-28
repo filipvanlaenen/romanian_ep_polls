@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PSD | ALDE | PNL | UDMR | PMP | PLUS | PRO | USR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 17–21% <br> 6–8 | 7–10% <br> 2–4 | 25–30% <br> 9–11 | 2–4% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | 8–12% <br> 3–4 | N/A <br> N/A |
 | 26 May 2019 | General Election | 37.6% <br> 16 | 15.0% <br> 6 | 12.2% <br> 5 | 6.3% <br> 2 | 6.2% <br> 2 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
