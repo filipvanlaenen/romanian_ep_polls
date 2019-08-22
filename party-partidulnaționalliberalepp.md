@@ -4,13 +4,16 @@
 
 ## Voting Intentions
 
-Last result: **12.2%** (General Election of 26 May 2019)
+Last result: **27.0%** (General Election of 26 May 2019)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.5% | 25.8–29.4% | 25.3–29.9% | 24.9–30.4% | 24.0–31.3% |
+| N/A | [Poll Average](average.html) | 28.3% | 26.3–30.3% | 25.7–30.9% | 25.2–31.4% | 24.4–32.3% |
+| [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 31.0% | 29.5–32.5% | 29.1–33.0% | 28.8–33.3% | 28.1–34.0% |
+| [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 25.5% | 23.8–27.4% | 23.4–27.9% | 22.9–28.3% | 22.1–29.2% |
+| [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 29.0% | 27.2–30.8% | 26.7–31.3% | 26.3–31.8% | 25.5–32.6% |
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 27.5% | 25.8–29.4% | 25.3–29.9% | 24.9–30.4% | 24.0–31.3% |
 
 ### Probability Mass Function
@@ -19,40 +22,34 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0% | 100% | Last Result |
-| 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0.1% | 100% |  |
-| 23.5–24.5% | 1.3% | 99.8% |  |
-| 24.5–25.5% | 6% | 98.6% |  |
-| 25.5–26.5% | 16% | 93% |  |
-| 26.5–27.5% | 26% | 76% |  |
-| 27.5–28.5% | 26% | 50% | Median |
-| 28.5–29.5% | 16% | 24% |  |
-| 29.5–30.5% | 6% | 8% |  |
-| 30.5–31.5% | 2% | 2% |  |
-| 31.5–32.5% | 0.3% | 0.3% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 23.5–24.5% | 0.7% | 99.9% |  |
+| 24.5–25.5% | 3% | 99.3% |  |
+| 25.5–26.5% | 10% | 96% |  |
+| 26.5–27.5% | 19% | 86% | Last Result |
+| 27.5–28.5% | 24% | 68% | Median |
+| 28.5–29.5% | 22% | 43% |  |
+| 29.5–30.5% | 14% | 21% |  |
+| 30.5–31.5% | 6% | 8% |  |
+| 31.5–32.5% | 2% | 2% |  |
+| 32.5–33.5% | 0.3% | 0.3% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
 
-Last result: **5** seats (General Election of 26 May 2019)
+Last result: **10** seats (General Election of 26 May 2019)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
-| [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
+| [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
+| [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 9 | 9–10 | 8–10 | 8–10 | 8–11 |
+| [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 11 | 10–12 | 10–12 | 9–12 | 9–12 |
+| [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 
 ### Probability Mass Function
 
@@ -62,14 +59,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0% | 100% | Last Result |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
 | 8 | 0.2% | 100% |  |
 | 9 | 13% | 99.8% |  |
-| 10 | 58% | 86% | Median |
-| 11 | 28% | 28% |  |
-| 12 | 0.8% | 0.8% |  |
-| 13 | 0% | 0% |  |
+| 10 | 41% | 87% | Last Result, Median |
+| 11 | 40% | 46% |  |
+| 12 | 6% | 6% |  |
+| 13 | 0.1% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 
