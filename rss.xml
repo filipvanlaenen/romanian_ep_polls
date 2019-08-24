@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 23 Aug 2019 18:28:19 +0200</pubDate>
+    <pubDate>Fri, 23 Aug 2019 23:41:37 +0200</pubDate>
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 19 July–5 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-05-CURS.html</link>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-07-08-CURS.png"
         length="245908"
         type="image/png"/>
-      <pubDate>Thu, 22 Aug 2019 21:59:43 +0200</pubDate>
-      <dc:date>2019-08-22T21:59:43.716041+02:00</dc:date>
+      <pubDate>Fri, 23 Aug 2019 23:41:37 +0200</pubDate>
+      <dc:date>2019-08-23T23:41:37.258407+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMAS for Europa FM, 7–26 June 2019 – Voting Intentions</title>
@@ -69,6 +69,6 @@
       <pubDate>Thu, 22 Aug 2019 22:02:38 +0200</pubDate>
       <dc:date>2019-08-22T22:02:38.561617+02:00</dc:date>
     </item>
-    <dc:date>2019-08-23T18:28:19.33374+02:00</dc:date>
+    <dc:date>2019-08-23T23:41:37.258407+02:00</dc:date>
   </channel>
 </rss>
