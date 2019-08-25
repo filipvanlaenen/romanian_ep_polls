@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 23 Aug 2019 23:41:37 +0200</pubDate>
+    <pubDate>Sun, 25 Aug 2019 13:25:08 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 19 July–5 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-05-CURS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 8–9 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 10–12 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;PRO România (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS (RE): 6–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-05-CURS-seats.png"
+        length="167430"
+        type="image/png"/>
+      <pubDate>Sun, 25 Aug 2019 13:25:08 +0200</pubDate>
+      <dc:date>2019-08-25T13:25:08.90316+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 19 July–5 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-05-CURS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-05-CURS-coalitions-seats.png"
+        length="132931"
+        type="image/png"/>
+      <pubDate>Sun, 25 Aug 2019 13:25:08 +0200</pubDate>
+      <dc:date>2019-08-25T13:25:08.90316+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 19 July–5 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-05-CURS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-05-CURS.png"
         length="234394"
         type="image/png"/>
-      <pubDate>Thu, 22 Aug 2019 21:56:59 +0200</pubDate>
-      <dc:date>2019-08-22T21:56:59.126788+02:00</dc:date>
+      <pubDate>Sun, 25 Aug 2019 13:25:08 +0200</pubDate>
+      <dc:date>2019-08-25T13:25:08.90316+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMAS for Europa FM, 15 July–2 August 2019 – Seat Projections for the Parties</title>
@@ -69,6 +89,6 @@
       <pubDate>Thu, 22 Aug 2019 22:02:38 +0200</pubDate>
       <dc:date>2019-08-22T22:02:38.561617+02:00</dc:date>
     </item>
-    <dc:date>2019-08-23T23:41:37.258407+02:00</dc:date>
+    <dc:date>2019-08-25T13:25:08.90316+02:00</dc:date>
   </channel>
 </rss>
