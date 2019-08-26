@@ -51,7 +51,7 @@ Last result: **8** seats (General Election of 26 May 2019)
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 
 ### Probability Mass Function
 
@@ -62,11 +62,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.1% | 100% |  |
-| 7 | 7% | 99.9% |  |
-| 8 | 35% | 93% | Last Result |
-| 9 | 46% | 58% | Median |
-| 10 | 11% | 11% |  |
-| 11 | 0.2% | 0.2% |  |
+| 7 | 10% | 99.9% |  |
+| 8 | 31% | 90% | Last Result |
+| 9 | 47% | 59% | Median |
+| 10 | 11% | 12% |  |
+| 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 
 
