@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PNL | PSD | A2020 | PRO | PMP | UDMR | ALDE | PLUS | USR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 27.0% <br> 10 | 22.5% <br> 9 | 22.4% <br> 8 | 6.4% <br> 2 | 5.8% <br> 2 | 5.3% <br> 2 | 4.1% <br> 0 | 22.4% <br> 4 | 22.4% <br> 4 |
-| N/A | [Poll Average](average.html) | 25–31% <br> 9–12 | 17–28% <br> 6–10 | 20–28% <br> 7–10 | 7–12% <br> 2–4 | 3–5% <br> 0–1 | 2–5% <br> 0 | 4–10% <br> 0–3 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 25–31% <br> 9–12 | 17–28% <br> 6–11 | 20–28% <br> 7–10 | 7–12% <br> 2–4 | 3–5% <br> 0–2 | 2–5% <br> 0 | 4–10% <br> 0–3 | N/A <br> N/A | N/A <br> N/A |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 26–32% <br> 9–12 | 23–29% <br> 8–11 | 20–25% <br> 7–9 | 6–10% <br> 2–3 | 3–5% <br> 0–2 | 3–5% <br> 0–2 | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
-| [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 25–30% <br> 9–11 | 17–21% <br> 6–8 | 23–28% <br> 8–10 | 8–12% <br> 3–4 | 3–5% <br> 0–1 | 2–4% <br> 0 | 7–10% <br> 2–3 | N/A <br> N/A | N/A <br> N/A |
+| [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 25–30% <br> 9–11 | 17–21% <br> 6–8 | 23–28% <br> 8–10 | 8–12% <br> 3–4 | 3–5% <br> 0 | 2–4% <br> 0 | 7–10% <br> 2–3 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 27.0% <br> 10 | 22.5% <br> 9 | 22.4% <br> 8 | 6.4% <br> 2 | 5.8% <br> 2 | 5.3% <br> 2 | 4.1% <br> 0 | 22.4% <br> 4 | 22.4% <br> 4 |
 
 Only polls for which at least the sample size has been published are included in the table above.
