@@ -52,7 +52,7 @@ Last result: **9** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [16–20 September 2019](2019-09-20-SocioData.html) | Socio Data | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| [16–20 September 2019](2019-09-20-SocioData.html) | Socio Data | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
@@ -69,9 +69,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 6% | 100% |  |
 | 7 | 21% | 93% |  |
-| 8 | 32% | 72% | Median |
-| 9 | 35% | 41% | Last Result |
-| 10 | 5% | 5% |  |
-| 11 | 0% | 0% |  |
+| 8 | 28% | 72% | Median |
+| 9 | 38% | 45% | Last Result |
+| 10 | 7% | 7% |  |
+| 11 | 0.4% | 0.4% |  |
+| 12 | 0% | 0% |  |
 
 
