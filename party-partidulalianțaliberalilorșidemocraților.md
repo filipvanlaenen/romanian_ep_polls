@@ -47,7 +47,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 2 | 2 | 1–2 | 1–3 | 0–3 |
-| [16–20 September 2019](2019-09-20-SocioData.html) | Socio Data | 0 | 0 | 0 | 0–2 | 0–2 |
+| [16–20 September 2019](2019-09-20-SocioData.html) | Socio Data | 0 | 0 | 0–1 | 0–2 | 0–2 |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
