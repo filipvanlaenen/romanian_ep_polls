@@ -10,7 +10,9 @@ Last result: **4.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 3.7–8.4% | 3.4–8.8% | 3.2–9.1% | 2.8–9.6% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| [25 October–3 November 2019](2019-11-03-USR.html) | USR | 0.0% | N/A | N/A | N/A | N/A |
+| [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 4.3% | 3.5–5.2% | 3.3–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.1–8.1% | 4.7–8.7% |
 | [16–20 September 2019](2019-09-20-SocioData.html) | Socio Data | 3.9% | 3.3–4.8% | 3.1–5.0% | 2.9–5.3% | 2.6–5.7% |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 7.4% | 6.5–8.6% | 6.2–8.9% | 6.0–9.2% | 5.5–9.8% |
@@ -25,16 +27,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 7% | 99.9% |  |
-| 3.5–4.5% | 20% | 92% | Last Result |
-| 4.5–5.5% | 9% | 73% |  |
-| 5.5–6.5% | 15% | 64% | Median |
-| 6.5–7.5% | 20% | 49% |  |
-| 7.5–8.5% | 21% | 29% |  |
-| 8.5–9.5% | 7% | 8% |  |
-| 9.5–10.5% | 0.6% | 0.6% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 16% | 99.8% |  |
+| 3.5–4.5% | 57% | 84% | Last Result, Median |
+| 4.5–5.5% | 24% | 27% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -45,7 +45,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–2 | 0–2 | 0–2 |
+| [25 October–3 November 2019](2019-11-03-USR.html) | USR |  |  |  |  |  |
+| [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 2 | 2 | 1–2 | 1–3 | 0–3 |
 | [16–20 September 2019](2019-09-20-SocioData.html) | Socio Data | 0 | 0 | 0–1 | 0–2 | 0–2 |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -62,10 +64,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% | Last Result |
-| 1 | 3% | 68% |  |
-| 2 | 46% | 65% | Median |
-| 3 | 19% | 19% |  |
-| 4 | 0% | 0% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 3% | 8% |  |
+| 2 | 5% | 5% |  |
+| 3 | 0% | 0% |  |
 
 
