@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 18 Oct 2019 23:16:34 +0200</pubDate>
+    <pubDate>Fri, 29 Nov 2019 18:24:12 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by USR, 25 October–3 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-03-USR.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 21.7–26.5%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 35.5–41.0%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.5–5.8%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.3–5.6%&lt;/li&gt;&lt;li&gt;PRO România (S&amp;amp;D): 3.7–6.2%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS (RE): 17.8–22.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-03-USR.png"
+        length="207403"
+        type="image/png"/>
+      <pubDate>Thu, 28 Nov 2019 22:58:13 +0100</pubDate>
+      <dc:date>2019-11-28T22:58:13.297006+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Europa FM, 8–28 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-28-IMAS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 18.8–23.8%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (*): 3.2–5.7%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 26.9–32.5%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 4.3–7.1%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 2.4–4.7%&lt;/li&gt;&lt;li&gt;PRO România (S&amp;amp;D): 8.9–12.8%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS (RE): 18.5–23.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-28-IMAS.png"
+        length="247075"
+        type="image/png"/>
+      <pubDate>Fri, 29 Nov 2019 18:24:12 +0100</pubDate>
+      <dc:date>2019-11-29T18:24:12.459678+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IMAS for Europa FM, 5–28 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-28-IMAS.html#seats</link>
@@ -219,6 +239,6 @@
       <pubDate>Mon, 26 Aug 2019 18:38:58 +0200</pubDate>
       <dc:date>2019-08-26T18:38:58.736361+02:00</dc:date>
     </item>
-    <dc:date>2019-10-18T23:16:34.481221+02:00</dc:date>
+    <dc:date>2019-11-29T18:24:12.459678+01:00</dc:date>
   </channel>
 </rss>
