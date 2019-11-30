@@ -58,8 +58,8 @@ Last result: **10** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–16 | 10–16 | 9–16 | 9–16 |
-| [25 October–3 November 2019](2019-11-03-USR.html) | USR | 16 | 15–16 | 15–16 | 15–16 | 13–16 |
+| N/A | [Poll Average](average.html) | 11 | 10–15 | 10–15 | 9–15 | 9–16 |
+| [25 October–3 November 2019](2019-11-03-USR.html) | USR | 14 | 13–15 | 13–16 | 13–16 | 13–16 |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [16–20 September 2019](2019-09-20-SocioData.html) | Socio Data | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
@@ -80,12 +80,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0.1% | 100% |  |
 | 9 | 5% | 99.9% |  |
 | 10 | 25% | 95% | Last Result |
-| 11 | 31% | 70% | Median |
-| 12 | 5% | 39% |  |
-| 13 | 0.6% | 34% |  |
-| 14 | 0.3% | 33% |  |
-| 15 | 3% | 33% |  |
-| 16 | 30% | 30% |  |
+| 11 | 29% | 70% | Median |
+| 12 | 7% | 40% |  |
+| 13 | 4% | 34% |  |
+| 14 | 13% | 29% |  |
+| 15 | 14% | 16% |  |
+| 16 | 2% | 2% |  |
 | 17 | 0% | 0% | Majority |
 
 

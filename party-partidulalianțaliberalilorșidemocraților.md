@@ -47,7 +47,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR |  |  |  |  |  |
-| [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 2 | 2 | 1–2 | 1–3 | 0–3 |
 | [16–20 September 2019](2019-09-20-SocioData.html) | Socio Data | 0 | 0 | 0–1 | 0–2 | 0–2 |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -64,9 +64,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 3% | 8% |  |
-| 2 | 5% | 5% |  |
+| 0 | 91% | 100% | Last Result, Median |
+| 1 | 2% | 9% |  |
+| 2 | 7% | 7% |  |
 | 3 | 0% | 0% |  |
 
 

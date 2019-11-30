@@ -51,9 +51,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–3 | 0–4 | 0–4 | 0–5 |
-| [25 October–3 November 2019](2019-11-03-USR.html) | USR | 0 | 0 | 0 | 0–2 | 0–2 |
-| [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [25 October–3 November 2019](2019-11-03-USR.html) | USR | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [16–20 September 2019](2019-09-20-SocioData.html) | Socio Data | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
@@ -70,12 +70,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% |  |
-| 1 | 0.1% | 68% |  |
-| 2 | 4% | 68% | Last Result |
-| 3 | 54% | 64% | Median |
-| 4 | 8% | 9% |  |
-| 5 | 1.3% | 1.3% |  |
+| 0 | 20% | 100% |  |
+| 1 | 4% | 80% |  |
+| 2 | 13% | 76% | Last Result |
+| 3 | 41% | 64% | Median |
+| 4 | 22% | 23% |  |
+| 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% |  |
 
 
