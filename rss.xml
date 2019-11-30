@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 29 Nov 2019 18:24:12 +0100</pubDate>
+    <pubDate>Sat, 30 Nov 2019 12:56:11 +0100</pubDate>
     <item>
       <title>Opinion Poll by USR, 25 October–3 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-03-USR.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-03-USR.png"
         length="207403"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 22:58:13 +0100</pubDate>
-      <dc:date>2019-11-28T22:58:13.297006+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 12:44:22 +0100</pubDate>
+      <dc:date>2019-11-30T12:44:22.932253+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMAS for Europa FM, 8–28 October 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-28-IMAS.png"
         length="247075"
         type="image/png"/>
-      <pubDate>Fri, 29 Nov 2019 18:24:12 +0100</pubDate>
-      <dc:date>2019-11-29T18:24:12.459678+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 12:56:11 +0100</pubDate>
+      <dc:date>2019-11-30T12:56:11.340913+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMAS for Europa FM, 5–28 September 2019 – Seat Projections for the Parties</title>
@@ -239,6 +239,6 @@
       <pubDate>Mon, 26 Aug 2019 18:38:58 +0200</pubDate>
       <dc:date>2019-08-26T18:38:58.736361+02:00</dc:date>
     </item>
-    <dc:date>2019-11-29T18:24:12.459678+01:00</dc:date>
+    <dc:date>2019-11-30T12:56:11.340913+01:00</dc:date>
   </channel>
 </rss>
