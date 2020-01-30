@@ -10,7 +10,9 @@ Last result: **5.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 2.8–5.6% | 2.5–5.9% | 2.3–6.2% | 2.0–6.7% |
+| N/A | [Poll Average](average.html) | 4.2% | 2.7–5.5% | 2.5–5.8% | 2.3–6.1% | 2.0–6.7% |
+| [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [4–18 December 2019](2019-12-18-IMAS.html) | IMAS <br> Europa FM | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [12–17 December 2019](2019-12-17-CURS.html) | CURS <br> STIRIPESURSE.RO | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
 | [11–27 November 2019](2019-11-27-IMAS.html) | IMAS <br> Europa FM | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 4.3% | 3.7–5.2% | 3.5–5.4% | 3.3–5.6% | 3.0–6.1% |
@@ -30,12 +32,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 6% | 100% |  |
-| 2.5–3.5% | 18% | 94% |  |
-| 3.5–4.5% | 29% | 76% |  |
-| 4.5–5.5% | 36% | 48% | Median |
-| 5.5–6.5% | 11% | 12% | Last Result |
-| 6.5–7.5% | 0.9% | 0.9% |  |
+| 1.5–2.5% | 7% | 100% |  |
+| 2.5–3.5% | 28% | 93% |  |
+| 3.5–4.5% | 28% | 66% | Median |
+| 4.5–5.5% | 29% | 38% |  |
+| 5.5–6.5% | 9% | 9% | Last Result |
+| 6.5–7.5% | 0.7% | 0.7% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -48,6 +50,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
+| [4–18 December 2019](2019-12-18-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
 | [12–17 December 2019](2019-12-17-CURS.html) | CURS <br> STIRIPESURSE.RO | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [11–27 November 2019](2019-11-27-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -68,9 +72,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Median |
-| 1 | 8% | 27% |  |
-| 2 | 20% | 20% | Last Result |
+| 0 | 78% | 100% | Median |
+| 1 | 6% | 22% |  |
+| 2 | 16% | 16% | Last Result |
 | 3 | 0% | 0% |  |
 
 
