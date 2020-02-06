@@ -5,12 +5,11 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PNL | PSD | A2020 | PRO | PMP | UDMR | ALDE | PLUS | USR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 27.0% <br> 10 | 22.5% <br> 9 | 22.4% <br> 8 | 6.4% <br> 2 | 5.8% <br> 2 | 5.3% <br> 2 | 4.1% <br> 0 | 22.4% <br> 4 | 22.4% <br> 4 |
-| N/A | [Poll Average](average.html) | 26–49% <br> 9–19 | 17–33% <br> 6–12 | 12–23% <br> 4–9 | 4–10% <br> 0–3 | 2–6% <br> 0–2 | 3–6% <br> 0–2 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 36–50% <br> 13–19 | 21–26% <br> 8–10 | 11–22% <br> 4–8 | 4–6% <br> 0–2 | 2–5% <br> 0–2 | 3–6% <br> 0–2 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [13–31 January 2020](2020-01-31-IMAS.html) | IMAS <br> Europa FM | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20–30 January 2020](2020-01-30-CURS.html) | CURS <br> STIRIPESURSE.RO | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol | 44–50% <br> 16–19 | 20–26% <br> 7–10 | 11–15% <br> 4–6 | 4–7% <br> 0–2 | 2–4% <br> 0 | 3–5% <br> 0–2 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [4–18 December 2019](2019-12-18-IMAS.html) | IMAS <br> Europa FM | 41–48% <br> 15–18 | 16–21% <br> 6–8 | 13–17% <br> 4–6 | 5–8% <br> 0–3 | 2–4% <br> 0 | 4–6% <br> 0–2 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [12–17 December 2019](2019-12-17-CURS.html) | CURS <br> STIRIPESURSE.RO | 32–38% <br> 12–14 | 28–34% <br> 10–13 | 12–16% <br> 4–6 | 5–8% <br> 0–2 | 4–6% <br> 0–2 | 3–5% <br> 0–2 | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 36–41% <br> 13–16 | 22–26% <br> 8–10 | 18–22% <br> 6–8 | 4–6% <br> 0–2 | 3–6% <br> 0–2 | 3–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [16–20 September 2019](2019-09-20-SocioData.html) | Socio Data | 25–31% <br> 9–12 | 22–27% <br> 8–10 | 19–24% <br> 7–9 | 7–11% <br> 2–4 | 4–6% <br> 0–2 | 4–6% <br> 0–2 | 3–5% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 27.0% <br> 10 | 22.5% <br> 9 | 22.4% <br> 8 | 6.4% <br> 2 | 5.8% <br> 2 | 5.3% <br> 2 | 4.1% <br> 0 | 22.4% <br> 4 | 22.4% <br> 4 |
 
 Only polls for which at least the sample size has been published are included in the table above.
