@@ -10,9 +10,9 @@ Last result: **22.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.6% | 21.8–25.3% | 21.3–25.8% | 20.9–26.2% | 20.0–27.0% |
-| [13–31 January 2020](2020-01-31-IMAS.html) | IMAS <br> Europa FM | 20.6% | N/A | N/A | N/A | N/A |
-| [20–30 January 2020](2020-01-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 26.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 23.5% | 20.2–26.5% | 19.5–27.2% | 19.0–27.7% | 18.1–28.7% |
+| [13–31 January 2020](2020-01-31-IMAS.html) | IMAS <br> Europa FM | 20.6% | 19.0–22.3% | 18.6–22.8% | 18.2–23.2% | 17.5–24.0% |
+| [20–30 January 2020](2020-01-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 26.0% | 24.5–27.7% | 24.0–28.2% | 23.7–28.6% | 22.9–29.4% |
 | [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
 | [4–18 December 2019](2019-12-18-IMAS.html) | IMAS <br> Europa FM | 18.3% | 16.8–19.9% | 16.4–20.4% | 16.0–20.8% | 15.3–21.6% |
 | [12–17 December 2019](2019-12-17-CURS.html) | CURS <br> STIRIPESURSE.RO | 31.0% | 29.2–32.9% | 28.7–33.4% | 28.3–33.9% | 27.5–34.8% |
@@ -33,18 +33,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.2% | 100% |  |
-| 19.5–20.5% | 1.3% | 99.8% |  |
-| 20.5–21.5% | 6% | 98.6% |  |
-| 21.5–22.5% | 16% | 93% |  |
-| 22.5–23.5% | 26% | 77% | Last Result |
-| 23.5–24.5% | 27% | 50% | Median |
-| 24.5–25.5% | 16% | 23% |  |
-| 25.5–26.5% | 6% | 7% |  |
-| 26.5–27.5% | 1.2% | 1.3% |  |
-| 27.5–28.5% | 0.1% | 0.2% |  |
-| 28.5–29.5% | 0% | 0% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 1.1% | 99.9% |  |
+| 18.5–19.5% | 4% | 98.8% |  |
+| 19.5–20.5% | 8% | 95% |  |
+| 20.5–21.5% | 10% | 87% |  |
+| 21.5–22.5% | 12% | 77% |  |
+| 22.5–23.5% | 15% | 65% | Last Result |
+| 23.5–24.5% | 16% | 50% | Median |
+| 24.5–25.5% | 14% | 34% |  |
+| 25.5–26.5% | 11% | 20% |  |
+| 26.5–27.5% | 6% | 9% |  |
+| 27.5–28.5% | 2% | 3% |  |
+| 28.5–29.5% | 0.6% | 0.6% |  |
+| 29.5–30.5% | 0.1% | 0.1% |  |
+| 30.5–31.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -55,22 +59,22 @@ Last result: **9** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
-| [13–31 January 2020](2020-01-31-IMAS.html) | IMAS <br> Europa FM |  |  |  |  |  |
-| [20–30 January 2020](2020-01-30-CURS.html) | CURS <br> STIRIPESURSE.RO |  |  |  |  |  |
-| [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol | 8 | 8–9 | 8–9 | 7–10 | 7–10 |
-| [4–18 December 2019](2019-12-18-IMAS.html) | IMAS <br> Europa FM | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
-| [12–17 December 2019](2019-12-17-CURS.html) | CURS <br> STIRIPESURSE.RO | 11 | 11–12 | 10–12 | 10–13 | 10–13 |
-| [11–27 November 2019](2019-11-27-IMAS.html) | IMAS <br> Europa FM | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| [25 October–3 November 2019](2019-11-03-USR.html) | USR | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
-| [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
-| [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [16–20 September 2019](2019-09-20-SocioData.html) | Socio Data | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 7–11 | 7–11 | 7–11 |
+| [13–31 January 2020](2020-01-31-IMAS.html) | IMAS <br> Europa FM | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| [20–30 January 2020](2020-01-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
+| [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
+| [4–18 December 2019](2019-12-18-IMAS.html) | IMAS <br> Europa FM | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [12–17 December 2019](2019-12-17-CURS.html) | CURS <br> STIRIPESURSE.RO | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
+| [11–27 November 2019](2019-11-27-IMAS.html) | IMAS <br> Europa FM | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
+| [25 October–3 November 2019](2019-11-03-USR.html) | USR | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
+| [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
+| [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [16–20 September 2019](2019-09-20-SocioData.html) | Socio Data | 9 | 9–10 | 8–10 | 8–11 | 8–11 |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
-| [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
-| [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
-| [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
+| [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
+| [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
+| [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 
 ### Probability Mass Function
 
@@ -80,11 +84,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 2% | 100% |  |
-| 8 | 37% | 98% |  |
-| 9 | 52% | 60% | Last Result, Median |
-| 10 | 8% | 9% |  |
-| 11 | 0.2% | 0.2% |  |
-| 12 | 0% | 0% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 8% | 99.8% |  |
+| 8 | 26% | 92% |  |
+| 9 | 35% | 65% | Last Result, Median |
+| 10 | 24% | 31% |  |
+| 11 | 7% | 7% |  |
+| 12 | 0.4% | 0.4% |  |
+| 13 | 0% | 0% |  |
 
 
