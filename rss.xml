@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 06 Apr 2020 20:12:43 +0200</pubDate>
+    <pubDate>Wed, 08 Apr 2020 19:18:50 +0200</pubDate>
     <item>
       <title>Opinion Poll by IMAS for Europa FM, 5–26 March 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-03-26-IMAS.html#seats</link>
@@ -310,6 +310,16 @@
       <dc:date>2019-12-09T19:37:08.021022+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by USR, 15–23 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-23-USR.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 20.0–24.7%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (*): 2.7–4.8%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 30.3–35.6%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 4.6–7.3%&lt;/li&gt;&lt;li&gt;PRO România (S&amp;amp;D): 2.6–4.7%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS (RE): 19.2–23.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-23-USR.png"
+        length="190016"
+        type="image/png"/>
+      <pubDate>Wed, 08 Apr 2020 18:38:11 +0200</pubDate>
+      <dc:date>2020-04-08T18:38:11.687363+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IMAS for Europa FM, 5–28 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-28-IMAS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 18.1–23.1%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (*): 5.1–8.1%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 26.5–32.1%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 4.3–7.1%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 2.4–4.7%&lt;/li&gt;&lt;li&gt;PRO România (S&amp;amp;D): 7.8–11.5%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS (RE): 21.7–27.0%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -320,34 +330,74 @@
       <dc:date>2019-10-22T19:38:33.321497+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Socio Data, 16–20 September 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-20-SocioData.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 8–11 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (*): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 9–12 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;PRO România (S&amp;amp;D): 2–4 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS (RE): 7–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-20-SocioData-seats.png"
-        length="196465"
+      <title>Opinion Poll by USR, 3–24 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-24-USR.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 20.6–24.9%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (*): 2.1–3.8%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 30.6–35.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 4.0–6.2%&lt;/li&gt;&lt;li&gt;PRO România (S&amp;amp;D): 3.7–5.9%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS (RE): 19.6–23.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-24-USR.png"
+        length="184681"
         type="image/png"/>
-      <pubDate>Mon, 30 Dec 2019 18:06:08 +0100</pubDate>
-      <dc:date>2019-12-30T18:06:08.441615+01:00</dc:date>
+      <pubDate>Wed, 08 Apr 2020 18:43:55 +0200</pubDate>
+      <dc:date>2020-04-08T18:43:55.272688+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Socio Data, 16–20 September 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-20-SocioData.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-20-SocioData-coalitions-seats.png"
-        length="139784"
+      <title>Opinion Poll by Socio-Data, 16–20 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-20-Socio-Data.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 22.5–27.7%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (*): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 25.4–30.8%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.9–6.5%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.9–6.5%&lt;/li&gt;&lt;li&gt;PRO România (S&amp;amp;D): 7.4–10.8%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS (RE): 19.6–24.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-20-Socio-Data.png"
+        length="247064"
         type="image/png"/>
-      <pubDate>Mon, 30 Dec 2019 18:06:08 +0100</pubDate>
-      <dc:date>2019-12-30T18:06:08.441615+01:00</dc:date>
+      <pubDate>Wed, 08 Apr 2020 18:49:18 +0200</pubDate>
+      <dc:date>2020-04-08T18:49:18.780975+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Socio Data, 16–20 September 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-20-SocioData.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 22.3–27.5%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (*): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 25.1–30.5%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.8–6.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.8–6.4%&lt;/li&gt;&lt;li&gt;PRO România (S&amp;amp;D): 7.3–10.7%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS (RE): 19.4–24.4%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-20-SocioData.png"
-        length="249389"
+      <title>Opinion Poll by Socio-Data, 9–13 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-13-Socio-Data.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 23.4–28.7%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (*): 3.9–6.5%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 29.2–34.8%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 2.1–4.2%&lt;/li&gt;&lt;li&gt;PRO România (S&amp;amp;D): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS (RE): 19.6–24.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-13-Socio-Data.png"
+        length="239613"
         type="image/png"/>
-      <pubDate>Mon, 30 Dec 2019 18:06:08 +0100</pubDate>
-      <dc:date>2019-12-30T18:06:08.441615+01:00</dc:date>
+      <pubDate>Wed, 08 Apr 2020 18:55:01 +0200</pubDate>
+      <dc:date>2020-04-08T18:55:01.729325+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Socio-Data, 2–6 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-06-Socio-Data.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 20.8–25.9%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (*): 4.5–7.4%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 28.3–33.9%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.7–6.3%&lt;/li&gt;&lt;li&gt;PRO România (S&amp;amp;D): 7.1–10.5%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS (RE): 18.1–22.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-06-Socio-Data.png"
+        length="244596"
+        type="image/png"/>
+      <pubDate>Wed, 08 Apr 2020 19:00:46 +0200</pubDate>
+      <dc:date>2020-04-08T19:00:46.158072+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sociopol, 19–31 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-31-Sociopol.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 17.6–22.6%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (*): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 32.1–38.0%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.8–6.5%&lt;/li&gt;&lt;li&gt;PRO România (S&amp;amp;D): 9.2–13.1%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS (RE): 13.8–18.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-31-Sociopol.png"
+        length="237738"
+        type="image/png"/>
+      <pubDate>Wed, 08 Apr 2020 19:06:48 +0200</pubDate>
+      <dc:date>2020-04-08T19:06:48.227464+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verifield, 26–30 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Verifield.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 22.4–27.8%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (*): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 25.3–30.9%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 1.3–3.1%&lt;/li&gt;&lt;li&gt;PRO România (S&amp;amp;D): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS (RE): 20.5–25.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Verifield.png"
+        length="248151"
+        type="image/png"/>
+      <pubDate>Wed, 08 Apr 2020 19:13:01 +0200</pubDate>
+      <dc:date>2020-04-08T19:13:01.729257+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Socio-Data, 26–30 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Socio-Data.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 19.6–24.6%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților (*): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 23.4–28.7%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (EPP): 3.9–6.5%&lt;/li&gt;&lt;li&gt;PRO România (S&amp;amp;D): 8.3–11.9%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS (RE): 21.6–26.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Socio-Data.png"
+        length="254669"
+        type="image/png"/>
+      <pubDate>Wed, 08 Apr 2020 19:18:50 +0200</pubDate>
+      <dc:date>2020-04-08T19:18:50.690454+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMAS for Europa FM, 5–28 August 2019 – Voting Intentions</title>
@@ -399,6 +449,6 @@
       <pubDate>Fri, 14 Feb 2020 20:42:14 +0100</pubDate>
       <dc:date>2020-02-14T20:42:14.796538+01:00</dc:date>
     </item>
-    <dc:date>2020-04-06T20:12:43.907622+02:00</dc:date>
+    <dc:date>2020-04-08T19:18:50.690454+02:00</dc:date>
   </channel>
 </rss>
