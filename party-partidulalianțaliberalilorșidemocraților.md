@@ -21,8 +21,15 @@ Last result: **4.1%** (General Election of 26 May 2019)
 | [11–27 November 2019](2019-11-27-IMAS.html) | IMAS <br> Europa FM | 3.3% | 2.7–4.1% | 2.5–4.3% | 2.3–4.6% | 2.1–5.0% |
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 0.0% | N/A | N/A | N/A | N/A |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 4.3% | 3.5–5.2% | 3.3–5.5% | 3.2–5.7% | 2.9–6.2% |
+| [15–23 October 2019](2019-10-23-USR.html) | USR | 3.6% | 3.0–4.4% | 2.8–4.6% | 2.7–4.8% | 2.4–5.2% |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.1–8.1% | 4.7–8.7% |
-| [16–20 September 2019](2019-09-20-SocioData.html) | Socio Data | 3.9% | 3.3–4.8% | 3.1–5.0% | 2.9–5.3% | 2.6–5.7% |
+| [3–24 September 2019](2019-09-24-USR.html) | USR | 2.9% | 2.4–3.5% | 2.2–3.7% | 2.1–3.8% | 1.9–4.2% |
+| [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 4.0% | 3.3–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.8% |
+| [9–13 September 2019](2019-09-13-Socio-Data.html) | Socio-Data | 5.0% | 4.3–6.0% | 4.1–6.3% | 3.9–6.5% | 3.6–7.0% |
+| [2–6 September 2019](2019-09-06-Socio-Data.html) | Socio-Data | 5.8% | 5.0–6.8% | 4.7–7.1% | 4.5–7.4% | 4.2–7.9% |
+| [19–31 August 2019](2019-08-31-Sociopol.html) | Sociopol | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
+| [26–30 August 2019](2019-08-30-Verifield.html) | Verifield | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
+| [26–30 August 2019](2019-08-30-Socio-Data.html) | Socio-Data | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 7.4% | 6.5–8.6% | 6.2–8.9% | 6.0–9.2% | 5.5–9.8% |
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 8.0% | 7.2–8.9% | 7.0–9.2% | 6.8–9.4% | 6.4–9.9% |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 7.3% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.4–9.7% |
@@ -63,8 +70,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11–27 November 2019](2019-11-27-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR |  |  |  |  |  |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0–2 | 0–2 | 0–2 |
+| [15–23 October 2019](2019-10-23-USR.html) | USR | 0 | 0 | 0 | 0 | 0–1 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 2 | 2 | 2 | 1–3 | 0–3 |
-| [16–20 September 2019](2019-09-20-SocioData.html) | Socio Data | 0 | 0 | 0–1 | 0–2 | 0–2 |
+| [3–24 September 2019](2019-09-24-USR.html) | USR | 0 | 0 | 0 | 0 | 0 |
+| [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 0 | 0 | 0–1 | 0–2 | 0–2 |
+| [9–13 September 2019](2019-09-13-Socio-Data.html) | Socio-Data | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [2–6 September 2019](2019-09-06-Socio-Data.html) | Socio-Data | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [19–31 August 2019](2019-08-31-Sociopol.html) | Sociopol | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [26–30 August 2019](2019-08-30-Verifield.html) | Verifield | 2 | 2 | 0–2 | 0–2 | 0–3 |
+| [26–30 August 2019](2019-08-30-Socio-Data.html) | Socio-Data | 2 | 2 | 0–2 | 0–3 | 0–3 |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
