@@ -11,6 +11,8 @@ Last result: **22.4%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16.6% | 13.6–20.1% | 13.2–20.7% | 12.8–21.1% | 12.2–22.0% |
+| [11–15 April 2020](2020-04-15-BCS.html) | BCS | 20.6% | N/A | N/A | N/A | N/A |
+| [6–12 April 2020](2020-04-12-Avangarde.html) | Avangarde <br> STIRIPESURSE.RO | 15.4% | N/A | N/A | N/A | N/A |
 | [5–26 March 2020](2020-03-26-IMAS.html) | IMAS <br> Europa FM | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
 | [11–28 February 2020](2020-02-28-IMAS.html) | IMAS <br> Europa FM | 13.5% | 12.2–14.9% | 11.8–15.3% | 11.5–15.7% | 10.9–16.4% |
 | [13–31 January 2020](2020-01-31-IMAS.html) | IMAS <br> Europa FM | 15.6% | 14.2–17.2% | 13.9–17.6% | 13.5–18.0% | 12.9–18.8% |
@@ -67,6 +69,8 @@ Last result: **8** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
+| [11–15 April 2020](2020-04-15-BCS.html) | BCS |  |  |  |  |  |
+| [6–12 April 2020](2020-04-12-Avangarde.html) | Avangarde <br> STIRIPESURSE.RO |  |  |  |  |  |
 | [5–26 March 2020](2020-03-26-IMAS.html) | IMAS <br> Europa FM | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [11–28 February 2020](2020-02-28-IMAS.html) | IMAS <br> Europa FM | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [13–31 January 2020](2020-01-31-IMAS.html) | IMAS <br> Europa FM | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
