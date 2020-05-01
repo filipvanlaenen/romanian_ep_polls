@@ -84,7 +84,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–31 August 2019](2019-08-31-Sociopol.html) | Sociopol | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [26–30 August 2019](2019-08-30-Verifield.html) | Verifield | 2 | 2 | 0–2 | 0–2 | 0–3 |
 | [26–30 August 2019](2019-08-30-Socio-Data.html) | Socio-Data | 2 | 2 | 0–2 | 0–3 | 0–3 |
-| [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
