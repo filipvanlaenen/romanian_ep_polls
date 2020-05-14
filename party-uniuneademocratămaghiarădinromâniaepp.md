@@ -10,7 +10,8 @@ Last result: **5.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.4–6.0% | 3.2–6.4% | 3.0–6.7% | 2.6–7.2% |
+| N/A | [Poll Average](average.html) | 4.9% | 3.7–6.2% | 3.4–6.6% | 3.2–6.9% | 2.9–7.4% |
+| [1–7 May 2020](2020-05-07-BCS.html) | BCS | 1.3% | N/A | N/A | N/A | N/A |
 | [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 5.5% | 4.7–6.6% | 4.5–6.9% | 4.3–7.1% | 3.9–7.7% |
 | [11–15 April 2020](2020-04-15-BCS.html) | BCS | 3.7% | 3.0–4.6% | 2.8–4.8% | 2.7–5.0% | 2.4–5.5% |
 | [6–12 April 2020](2020-04-12-Avangarde.html) | Avangarde <br> STIRIPESURSE.RO | 4.2% | 3.4–5.1% | 3.2–5.4% | 3.0–5.7% | 2.7–6.2% |
@@ -25,6 +26,7 @@ Last result: **5.3%** (General Election of 26 May 2019)
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 4.5% | 3.8–5.3% | 3.6–5.6% | 3.5–5.8% | 3.2–6.2% |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 5.5% | 4.7–6.6% | 4.5–6.9% | 4.3–7.1% | 3.9–7.7% |
 | [15–23 October 2019](2019-10-23-USR.html) | USR | 0.0% | N/A | N/A | N/A | N/A |
+| [12–19 October 2019](2019-10-19-BCS.html) | BCS | 3.0% | N/A | N/A | N/A | N/A |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 5.5% | 4.7–6.6% | 4.5–6.9% | 4.3–7.1% | 3.9–7.7% |
 | [3–24 September 2019](2019-09-24-USR.html) | USR | 0.0% | N/A | N/A | N/A | N/A |
 | [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 5.0% | 4.3–6.0% | 4.1–6.3% | 3.9–6.5% | 3.6–7.0% |
@@ -45,14 +47,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.4% | 100% |  |
-| 2.5–3.5% | 13% | 99.6% |  |
-| 3.5–4.5% | 32% | 87% |  |
-| 4.5–5.5% | 34% | 55% | Last Result, Median |
-| 5.5–6.5% | 18% | 21% |  |
-| 6.5–7.5% | 3% | 3% |  |
-| 7.5–8.5% | 0.2% | 0.2% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 7% | 99.9% |  |
+| 3.5–4.5% | 30% | 93% |  |
+| 4.5–5.5% | 34% | 62% | Last Result, Median |
+| 5.5–6.5% | 23% | 28% |  |
+| 6.5–7.5% | 5% | 5% |  |
+| 7.5–8.5% | 0.4% | 0.4% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -65,6 +66,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [1–7 May 2020](2020-05-07-BCS.html) | BCS |  |  |  |  |  |
 | [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [11–15 April 2020](2020-04-15-BCS.html) | BCS | 0 | 0 | 0 | 0 | 0–2 |
 | [6–12 April 2020](2020-04-12-Avangarde.html) | Avangarde <br> STIRIPESURSE.RO | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -79,6 +81,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [15–23 October 2019](2019-10-23-USR.html) | USR |  |  |  |  |  |
+| [12–19 October 2019](2019-10-19-BCS.html) | BCS |  |  |  |  |  |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [3–24 September 2019](2019-09-24-USR.html) | USR |  |  |  |  |  |
 | [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -101,10 +104,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 63% | 100% | Median |
-| 1 | 4% | 37% |  |
-| 2 | 33% | 34% | Last Result |
-| 3 | 0.2% | 0.2% |  |
+| 0 | 54% | 100% | Median |
+| 1 | 4% | 46% |  |
+| 2 | 42% | 42% | Last Result |
+| 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% |  |
 
 
