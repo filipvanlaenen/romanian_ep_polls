@@ -10,7 +10,7 @@ Last result: **5.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 3.7–6.2% | 3.4–6.6% | 3.2–6.9% | 2.9–7.4% |
+| N/A | [Poll Average](average.html) | 4.2% | 1.2–6.0% | 1.1–6.4% | 0.9–6.7% | 0.8–7.3% |
 | [1–7 May 2020](2020-05-07-BCS.html) | BCS | 1.3% | N/A | N/A | N/A | N/A |
 | [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 5.5% | 4.7–6.6% | 4.5–6.9% | 4.3–7.1% | 3.9–7.7% |
 | [11–15 April 2020](2020-04-15-BCS.html) | BCS | 3.7% | 3.0–4.6% | 2.8–4.8% | 2.7–5.0% | 2.4–5.5% |
@@ -38,6 +38,7 @@ Last result: **5.3%** (General Election of 26 May 2019)
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 4.6% | 3.8–5.5% | 3.6–5.8% | 3.4–6.0% | 3.1–6.5% |
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 4.2% | 3.4–5.1% | 3.2–5.3% | 3.1–5.6% | 2.8–6.1% |
+| [7–23 July 2019](2019-07-23-BCS.html) | BCS | 5.2% | N/A | N/A | N/A | N/A |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–4.0% |
 
@@ -47,13 +48,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 7% | 99.9% |  |
-| 3.5–4.5% | 30% | 93% |  |
-| 4.5–5.5% | 34% | 62% | Last Result, Median |
-| 5.5–6.5% | 23% | 28% |  |
-| 6.5–7.5% | 5% | 5% |  |
-| 7.5–8.5% | 0.4% | 0.4% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 25% | 100% |  |
+| 1.5–2.5% | 8% | 75% |  |
+| 2.5–3.5% | 5% | 67% |  |
+| 3.5–4.5% | 20% | 62% | Median |
+| 4.5–5.5% | 23% | 42% | Last Result |
+| 5.5–6.5% | 15% | 19% |  |
+| 6.5–7.5% | 3% | 4% |  |
+| 7.5–8.5% | 0.2% | 0.2% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -93,6 +96,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0 | 0 | 0–1 | 0–2 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [7–23 July 2019](2019-07-23-BCS.html) | BCS |  |  |  |  |  |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0 | 0 | 0–2 | 0–2 |
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
 
