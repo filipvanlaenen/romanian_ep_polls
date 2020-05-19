@@ -26,7 +26,7 @@ Last result: **5.8%** (General Election of 26 May 2019)
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 4.3% | 3.7–5.2% | 3.5–5.4% | 3.3–5.6% | 3.0–6.1% |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 3.4% | 2.7–4.2% | 2.6–4.5% | 2.4–4.7% | 2.1–5.1% |
 | [15–23 October 2019](2019-10-23-USR.html) | USR | 5.8% | 5.0–6.8% | 4.8–7.0% | 4.6–7.3% | 4.3–7.7% |
-| [12–19 October 2019](2019-10-19-BCS.html) | BCS | 5.0% | N/A | N/A | N/A | N/A |
+| [12–19 October 2019](2019-10-19-BCS.html) | BCS | 5.0% | 4.3–6.0% | 4.1–6.2% | 3.9–6.5% | 3.6–6.9% |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 3.4% | 2.7–4.2% | 2.6–4.5% | 2.4–4.7% | 2.1–5.1% |
 | [3–24 September 2019](2019-09-24-USR.html) | USR | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 5.0% | 4.3–6.0% | 4.1–6.3% | 3.9–6.5% | 3.6–7.0% |
@@ -38,7 +38,7 @@ Last result: **5.8%** (General Election of 26 May 2019)
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 5.0% | 4.4–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
-| [7–23 July 2019](2019-07-23-BCS.html) | BCS | 4.4% | N/A | N/A | N/A | N/A |
+| [7–23 July 2019](2019-07-23-BCS.html) | BCS | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.4–5.8% | 3.1–6.3% |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 3.7% | 3.0–4.5% | 2.8–4.8% | 2.7–5.0% | 2.4–5.5% |
 
@@ -81,7 +81,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0–1 |
 | [15–23 October 2019](2019-10-23-USR.html) | USR | 2 | 1–2 | 0–2 | 0–2 | 0–2 |
-| [12–19 October 2019](2019-10-19-BCS.html) | BCS |  |  |  |  |  |
+| [12–19 October 2019](2019-10-19-BCS.html) | BCS | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0–1 |
 | [3–24 September 2019](2019-09-24-USR.html) | USR | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -93,7 +93,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
-| [7–23 July 2019](2019-07-23-BCS.html) | BCS |  |  |  |  |  |
+| [7–23 July 2019](2019-07-23-BCS.html) | BCS | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0 | 0–1 | 0–2 | 0–2 |
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0–1 | 0–2 |
 
