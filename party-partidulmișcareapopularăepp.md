@@ -10,7 +10,8 @@ Last result: **5.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.7–4.9% | 2.5–5.2% | 2.3–5.4% | 2.0–5.9% |
+| N/A | [Poll Average](average.html) | 4.2% | 2.8–8.1% | 2.6–8.6% | 2.4–9.0% | 2.1–9.7% |
+| [15–20 May 2020](2020-05-20-INSCOP.html) | INSCOP | 7.9% | 6.9–9.0% | 6.6–9.3% | 6.4–9.6% | 6.0–10.2% |
 | [1–7 May 2020](2020-05-07-BCS.html) | BCS | 4.6% | 4.0–5.4% | 3.8–5.6% | 3.7–5.8% | 3.4–6.1% |
 | [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 3.4% | 2.7–4.2% | 2.6–4.5% | 2.4–4.7% | 2.1–5.1% |
 | [11–15 April 2020](2020-04-15-BCS.html) | BCS | 6.9% | 6.0–8.1% | 5.7–8.4% | 5.5–8.7% | 5.1–9.3% |
@@ -49,12 +50,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 6% | 100% |  |
-| 2.5–3.5% | 39% | 94% |  |
-| 3.5–4.5% | 34% | 55% | Median |
-| 4.5–5.5% | 18% | 20% |  |
-| 5.5–6.5% | 2% | 2% | Last Result |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 29% | 95% |  |
+| 3.5–4.5% | 26% | 66% | Median |
+| 4.5–5.5% | 14% | 40% |  |
+| 5.5–6.5% | 2% | 26% | Last Result |
+| 6.5–7.5% | 7% | 24% |  |
+| 7.5–8.5% | 12% | 17% |  |
+| 8.5–9.5% | 5% | 5% |  |
+| 9.5–10.5% | 0.6% | 0.7% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -65,7 +70,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [15–20 May 2020](2020-05-20-INSCOP.html) | INSCOP | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–7 May 2020](2020-05-07-BCS.html) | BCS | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0–1 |
 | [11–15 April 2020](2020-04-15-BCS.html) | BCS | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -105,9 +111,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Median |
-| 1 | 4% | 8% |  |
-| 2 | 4% | 4% | Last Result |
-| 3 | 0% | 0% |  |
+| 0 | 69% | 100% | Median |
+| 1 | 3% | 31% |  |
+| 2 | 14% | 28% | Last Result |
+| 3 | 14% | 14% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 
