@@ -35,7 +35,7 @@ The table below lists all polls registered and analyzed so far.
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 23–28% <br> 8–11 | 17–22% <br> 6–8 | 25–30% <br> 9–12 | 7–11% <br> 2–4 | 2–4% <br> 0 | 3–6% <br> 0–2 | 6–9% <br> 2–3 | N/A <br> N/A | N/A <br> N/A |
 | [7–23 July 2019](2019-07-23-BCS.html) | BCS | 29–34% <br> 10–13 | 21–26% <br> 8–10 | 19–24% <br> 7–9 | 1–2% <br> 0 | 3–6% <br> 0–2 | 4–7% <br> 0–2 | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 26–32% <br> 10–12 | 23–29% <br> 9–11 | 20–25% <br> 7–9 | 6–10% <br> 2–3 | 3–5% <br> 0–2 | 3–5% <br> 0–2 | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
-| [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 25–30% <br> 9–11 | 17–21% <br> 6–8 | 23–28% <br> 8–11 | 8–12% <br> 3–4 | 3–5% <br> 0–1 | 2–4% <br> 0 | 7–10% <br> 2–4 | N/A <br> N/A | N/A <br> N/A |
+| [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 25–30% <br> 9–11 | 17–21% <br> 6–8 | 23–28% <br> 8–10 | 8–12% <br> 3–4 | 3–5% <br> 0 | 2–4% <br> 0 | 7–10% <br> 2–4 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 27.0% <br> 10 | 22.5% <br> 9 | 22.4% <br> 8 | 6.4% <br> 2 | 5.8% <br> 2 | 5.3% <br> 2 | 4.1% <br> 0 | 22.4% <br> 4 | 22.4% <br> 4 |
 
 Only polls for which at least the sample size has been published are included in the table above.
