@@ -109,7 +109,7 @@ Last result: **8** seats (General Election of 26 May 2019)
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 10 | 10–11 | 9–11 | 9–12 | 9–12 |
 | [7–23 July 2019](2019-07-23-BCS.html) | BCS | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
-| [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 9 | 9–10 | 9–10 | 8–11 | 8–11 |
+| [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 9 | 9–10 | 9–10 | 8–10 | 8–11 |
 
 ### Probability Mass Function
 

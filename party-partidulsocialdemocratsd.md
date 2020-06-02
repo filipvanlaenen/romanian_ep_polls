@@ -105,7 +105,7 @@ Last result: **9** seats (General Election of 26 May 2019)
 | [26–30 August 2019](2019-08-30-Socio-Data.html) | Socio-Data | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
-| [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
+| [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [7–23 July 2019](2019-07-23-BCS.html) | BCS | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
