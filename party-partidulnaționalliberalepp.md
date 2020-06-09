@@ -97,19 +97,19 @@ Last result: **10** seats (General Election of 26 May 2019)
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
 | [15–23 October 2019](2019-10-23-USR.html) | USR | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
-| [12–19 October 2019](2019-10-19-BCS.html) | BCS | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
+| [12–19 October 2019](2019-10-19-BCS.html) | BCS | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
 | [3–24 September 2019](2019-09-24-USR.html) | USR | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
-| [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 10 | 10–12 | 9–12 | 9–12 | 9–12 |
+| [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
 | [9–13 September 2019](2019-09-13-Socio-Data.html) | Socio-Data | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [2–6 September 2019](2019-09-06-Socio-Data.html) | Socio-Data | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
 | [19–31 August 2019](2019-08-31-Sociopol.html) | Sociopol | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
 | [26–30 August 2019](2019-08-30-Verifield.html) | Verifield | 11 | 10–11 | 9–11 | 9–12 | 9–12 |
-| [26–30 August 2019](2019-08-30-Socio-Data.html) | Socio-Data | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
+| [26–30 August 2019](2019-08-30-Socio-Data.html) | Socio-Data | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 11 | 11–12 | 10–12 | 10–13 | 10–13 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
-| [7–23 July 2019](2019-07-23-BCS.html) | BCS | 12 | 11–12 | 11–13 | 10–13 | 10–14 |
+| [7–23 July 2019](2019-07-23-BCS.html) | BCS | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
 

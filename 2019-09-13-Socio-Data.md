@@ -46,11 +46,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.6% | 100% | Last Result |
-| 11 | 15% | 99.4% |  |
-| 12 | 58% | 84% | Median |
-| 13 | 21% | 26% |  |
-| 14 | 5% | 5% |  |
+| 10 | 0.7% | 100% | Last Result |
+| 11 | 19% | 99.3% |  |
+| 12 | 51% | 80% | Median |
+| 13 | 26% | 29% |  |
+| 14 | 3% | 3% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
@@ -63,10 +63,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 2% | 100% |  |
-| 9 | 33% | 98% | Last Result |
-| 10 | 54% | 65% | Median |
+| 9 | 34% | 98% | Last Result |
+| 10 | 53% | 64% | Median |
 | 11 | 11% | 11% |  |
-| 12 | 0.5% | 0.5% |  |
+| 12 | 0.4% | 0.4% |  |
 | 13 | 0% | 0% |  |
 
 ### Alianța 2020 USR-PLUS (RE)
@@ -78,10 +78,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.1% | 100% |  |
-| 7 | 14% | 99.9% |  |
-| 8 | 61% | 85% | Last Result, Median |
-| 9 | 23% | 24% |  |
-| 10 | 1.1% | 1.1% |  |
+| 7 | 12% | 99.9% |  |
+| 8 | 61% | 88% | Last Result, Median |
+| 9 | 26% | 27% |  |
+| 10 | 1.4% | 1.4% |  |
 | 11 | 0% | 0% |  |
 
 ### PRO România (S&D)
@@ -93,8 +93,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 7% | 100% |  |
-| 1 | 1.1% | 93% |  |
-| 2 | 89% | 92% | Last Result, Median |
+| 1 | 2% | 93% |  |
+| 2 | 88% | 91% | Last Result, Median |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
@@ -106,9 +106,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 18% | 60% | Median |
-| 2 | 42% | 42% |  |
+| 0 | 44% | 100% | Last Result |
+| 1 | 10% | 56% | Median |
+| 2 | 46% | 46% |  |
 | 3 | 0% | 0% |  |
 
 ### Uniunea Democrată Maghiară din România (EPP)
@@ -120,7 +120,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 93% | 100% | Median |
-| 1 | 3% | 7% |  |
+| 1 | 2% | 7% |  |
 | 2 | 4% | 4% | Last Result |
 | 3 | 0% | 0% |  |
 
@@ -155,12 +155,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.3% | 100% |  |
-| 11 | 12% | 99.7% |  |
-| 12 | 57% | 88% | Median |
-| 13 | 22% | 30% |  |
-| 14 | 8% | 8% | Last Result |
-| 15 | 0.5% | 0.5% |  |
+| 10 | 0.4% | 100% |  |
+| 11 | 17% | 99.6% |  |
+| 12 | 50% | 83% | Median |
+| 13 | 28% | 34% |  |
+| 14 | 5% | 5% | Last Result |
+| 15 | 0.3% | 0.3% |  |
 | 16 | 0% | 0% |  |
 
 ### Partidul Social Democrat (S&D) – PRO România (S&D)
@@ -169,10 +169,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 1.2% | 100% |  |
-| 10 | 5% | 98.8% |  |
-| 11 | 33% | 94% | Last Result |
-| 12 | 51% | 60% | Median |
+| 9 | 0.7% | 100% |  |
+| 10 | 6% | 99.3% |  |
+| 11 | 35% | 93% | Last Result |
+| 12 | 48% | 58% | Median |
 | 13 | 9% | 9% |  |
 | 14 | 0.3% | 0.3% |  |
 | 15 | 0% | 0% |  |
@@ -183,9 +183,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 18% | 60% | Median |
-| 2 | 42% | 42% |  |
+| 0 | 44% | 100% | Last Result |
+| 1 | 10% | 56% | Median |
+| 2 | 46% | 46% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -200,6 +200,6 @@
 ### Calculations
 
 + **Sample size:** 1070
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.42%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.02%
 

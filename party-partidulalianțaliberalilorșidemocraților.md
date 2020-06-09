@@ -86,7 +86,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR |  |  |  |  |  |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | [15–23 October 2019](2019-10-23-USR.html) | USR | 0 | 0 | 0 | 0 | 0–1 |
-| [12–19 October 2019](2019-10-19-BCS.html) | BCS | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [12–19 October 2019](2019-10-19-BCS.html) | BCS | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 2 | 2 | 2 | 1–3 | 0–3 |
 | [3–24 September 2019](2019-09-24-USR.html) | USR | 0 | 0 | 0 | 0 | 0 |
 | [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 0 | 0 | 0–1 | 0–2 | 0–2 |
@@ -94,7 +94,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–6 September 2019](2019-09-06-Socio-Data.html) | Socio-Data | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [19–31 August 2019](2019-08-31-Sociopol.html) | Sociopol | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [26–30 August 2019](2019-08-30-Verifield.html) | Verifield | 2 | 2 | 0–2 | 0–2 | 0–3 |
-| [26–30 August 2019](2019-08-30-Socio-Data.html) | Socio-Data | 2 | 2 | 0–2 | 0–3 | 0–3 |
+| [26–30 August 2019](2019-08-30-Socio-Data.html) | Socio-Data | 2 | 1–2 | 0–2 | 0–2 | 0–3 |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 2 | 2–3 | 2–3 | 2–3 | 2–3 |

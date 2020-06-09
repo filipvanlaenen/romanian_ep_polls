@@ -97,10 +97,10 @@ Last result: **8** seats (General Election of 26 May 2019)
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 8 | 7–8 | 7–8 | 6–9 | 6–9 |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [15–23 October 2019](2019-10-23-USR.html) | USR | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
-| [12–19 October 2019](2019-10-19-BCS.html) | BCS | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
+| [12–19 October 2019](2019-10-19-BCS.html) | BCS | 7 | 7–8 | 7–8 | 6–9 | 6–9 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [3–24 September 2019](2019-09-24-USR.html) | USR | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
-| [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [9–13 September 2019](2019-09-13-Socio-Data.html) | Socio-Data | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [2–6 September 2019](2019-09-06-Socio-Data.html) | Socio-Data | 7 | 7–8 | 7–8 | 6–9 | 6–9 |
 | [19–31 August 2019](2019-08-31-Sociopol.html) | Sociopol | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
