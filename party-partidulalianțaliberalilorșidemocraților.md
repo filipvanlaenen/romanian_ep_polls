@@ -11,6 +11,7 @@ Last result: **4.1%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.5% | 3.5–6.1% | 3.3–6.5% | 3.1–6.7% | 2.7–7.2% |
+| [5–27 June 2020](2020-06-27-IMAS.html) | IMAS <br> Europa FM | 4.3% | 3.5–5.2% | 3.3–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [8–27 May 2020](2020-05-27-IMAS.html) | IMAS <br> Europa FM | 4.3% | 3.5–5.2% | 3.3–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [15–20 May 2020](2020-05-20-INSCOP.html) | INSCOP | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.3–5.7% | 3.0–6.1% |
@@ -71,6 +72,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [5–27 June 2020](2020-06-27-IMAS.html) | IMAS <br> Europa FM | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [8–27 May 2020](2020-05-27-IMAS.html) | IMAS <br> Europa FM | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0–2 |
 | [15–20 May 2020](2020-05-20-INSCOP.html) | INSCOP | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -90,7 +92,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | [15–23 October 2019](2019-10-23-USR.html) | USR | 0 | 0 | 0 | 0 | 0–1 |
 | [12–19 October 2019](2019-10-19-BCS.html) | BCS | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 2 | 2 | 2 | 1–3 | 0–3 |
+| [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 2 | 2 | 1–2 | 1–3 | 0–3 |
 | [3–24 September 2019](2019-09-24-USR.html) | USR | 0 | 0 | 0 | 0 | 0 |
 | [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 0 | 0 | 0–1 | 0–2 | 0–2 |
 | [9–13 September 2019](2019-09-13-Socio-Data.html) | Socio-Data | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
