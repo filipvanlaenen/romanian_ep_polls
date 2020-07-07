@@ -78,7 +78,7 @@ Last result: **10** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 11–13 | 10–13 | 10–14 | 10–14 |
-| [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 11 | 11–12 | 10–12 | 10–13 | 10–13 |
+| [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
 | [5–27 June 2020](2020-06-27-IMAS.html) | IMAS <br> Europa FM | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [8–27 May 2020](2020-05-27-IMAS.html) | IMAS <br> Europa FM | 13 | 12–13 | 11–14 | 11–14 | 11–14 |
 | [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
@@ -124,9 +124,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.1% | 100% |  |
 | 10 | 6% | 99.9% | Last Result |
-| 11 | 42% | 93% |  |
-| 12 | 36% | 51% | Median |
-| 13 | 12% | 16% |  |
+| 11 | 39% | 94% |  |
+| 12 | 38% | 55% | Median |
+| 13 | 14% | 17% |  |
 | 14 | 3% | 3% |  |
 | 15 | 0.3% | 0.3% |  |
 | 16 | 0% | 0% |  |
