@@ -97,7 +97,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [3–24 September 2019](2019-09-24-USR.html) | USR | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [9–13 September 2019](2019-09-13-Socio-Data.html) | Socio-Data | 2 | 2 | 0–2 | 0–2 | 0–3 |
-| [2–6 September 2019](2019-09-06-Socio-Data.html) | Socio-Data | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [2–6 September 2019](2019-09-06-Socio-Data.html) | Socio-Data | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [19–31 August 2019](2019-08-31-Sociopol.html) | Sociopol | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [26–30 August 2019](2019-08-30-Verifield.html) | Verifield | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [26–30 August 2019](2019-08-30-Socio-Data.html) | Socio-Data | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
