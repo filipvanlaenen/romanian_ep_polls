@@ -2,286 +2,550 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>All Registered Polls for the European Parliament</title>
-    <link>null</link>
+    <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 26 Feb 2020 23:13:16 +0100</pubDate>
+    <pubDate>Thu, 16 Jul 2020 17:09:43 +0200</pubDate>
     <item>
-      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 19–30 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-30-CURS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CURS for STIRIPESURSE.RO, 19–30 June 2020<br/><img src="null/2020-06-30-CURS.png"/><br/>Details on null/2020-06-30-CURS.html]]></description>
-      <enclosure url="null/2020-06-30-CURS.png" length="275845" type="image/png"/>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 19–30 June 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-06-30-CURS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by CURS for STIRIPESURSE.RO, 19–30 June 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-06-30-CURS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-06-30-CURS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-06-30-CURS-seats.png" length="239764" type="image/png"/>
       <pubDate>Mon, 6 Jul 2020 22:04:28 +0200</pubDate>
       <dc:date>2020-07-06T22:04:28.426429+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by IMAS for Europa FM, 5–27 June 2020 – Voting Intentions</title>
-      <link>null/2020-06-27-IMAS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 5–27 June 2020<br/><img src="null/2020-06-27-IMAS.png"/><br/>Details on null/2020-06-27-IMAS.html]]></description>
-      <enclosure url="null/2020-06-27-IMAS.png" length="273912" type="image/png"/>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 19–30 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-06-30-CURS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CURS for STIRIPESURSE.RO, 19–30 June 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-06-30-CURS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-06-30-CURS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-06-30-CURS.png" length="275845" type="image/png"/>
+      <pubDate>Mon, 6 Jul 2020 22:04:28 +0200</pubDate>
+      <dc:date>2020-07-06T22:04:28.426429+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Europa FM, 5–27 June 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-06-27-IMAS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by IMAS for Europa FM, 5–27 June 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-06-27-IMAS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-06-27-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-06-27-IMAS-seats.png" length="229184" type="image/png"/>
       <pubDate>Sat, 4 Jul 2020 14:34:15 +0200</pubDate>
       <dc:date>2020-07-04T14:34:15.412389+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by IMAS for Europa FM, 8–27 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-27-IMAS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 8–27 May 2020<br/><img src="null/2020-05-27-IMAS.png"/><br/>Details on null/2020-05-27-IMAS.html]]></description>
-      <enclosure url="null/2020-05-27-IMAS.png" length="275133" type="image/png"/>
+      <title>Opinion Poll by IMAS for Europa FM, 5–27 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-06-27-IMAS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 5–27 June 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-06-27-IMAS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-06-27-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-06-27-IMAS.png" length="273912" type="image/png"/>
+      <pubDate>Sat, 4 Jul 2020 14:34:15 +0200</pubDate>
+      <dc:date>2020-07-04T14:34:15.412389+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Europa FM, 8–27 May 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-27-IMAS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by IMAS for Europa FM, 8–27 May 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-27-IMAS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-27-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-27-IMAS-seats.png" length="249183" type="image/png"/>
       <pubDate>Thu, 4 Jun 2020 13:00:48 +0200</pubDate>
       <dc:date>2020-06-04T13:00:48.558671+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Avangarde, 15–26 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-26-Avangarde.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Avangarde, 15–26 May 2020<br/><img src="null/2020-05-26-Avangarde.png"/><br/>Details on null/2020-05-26-Avangarde.html]]></description>
-      <enclosure url="null/2020-05-26-Avangarde.png" length="272708" type="image/png"/>
+      <title>Opinion Poll by IMAS for Europa FM, 8–27 May 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-27-IMAS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 8–27 May 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-27-IMAS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-27-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-27-IMAS.png" length="275133" type="image/png"/>
+      <pubDate>Thu, 4 Jun 2020 13:00:48 +0200</pubDate>
+      <dc:date>2020-06-04T13:00:48.558671+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Avangarde, 15–26 May 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-26-Avangarde.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by Avangarde, 15–26 May 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-26-Avangarde-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-26-Avangarde.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-26-Avangarde-seats.png" length="241369" type="image/png"/>
       <pubDate>Fri, 12 Jun 2020 20:48:25 +0200</pubDate>
       <dc:date>2020-06-12T20:48:25.114253+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by INSCOP, 15–20 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-20-INSCOP.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by INSCOP, 15–20 May 2020<br/><img src="null/2020-05-20-INSCOP.png"/><br/>Details on null/2020-05-20-INSCOP.html]]></description>
-      <enclosure url="null/2020-05-20-INSCOP.png" length="266072" type="image/png"/>
+      <title>Opinion Poll by Avangarde, 15–26 May 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-26-Avangarde.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Avangarde, 15–26 May 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-26-Avangarde.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-26-Avangarde.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-26-Avangarde.png" length="272708" type="image/png"/>
+      <pubDate>Fri, 12 Jun 2020 20:48:25 +0200</pubDate>
+      <dc:date>2020-06-12T20:48:25.114253+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSCOP, 15–20 May 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-20-INSCOP.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by INSCOP, 15–20 May 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-20-INSCOP-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-20-INSCOP.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-20-INSCOP-seats.png" length="226476" type="image/png"/>
       <pubDate>Tue, 26 May 2020 19:40:13 +0200</pubDate>
       <dc:date>2020-05-26T19:40:13.577941+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by BCS, 1–7 May 2020 – Voting Intentions</title>
-      <link>null/2020-05-07-BCS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by BCS, 1–7 May 2020<br/><img src="null/2020-05-07-BCS.png"/><br/>Details on null/2020-05-07-BCS.html]]></description>
-      <enclosure url="null/2020-05-07-BCS.png" length="258446" type="image/png"/>
+      <title>Opinion Poll by INSCOP, 15–20 May 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-20-INSCOP.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by INSCOP, 15–20 May 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-20-INSCOP.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-20-INSCOP.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-20-INSCOP.png" length="266072" type="image/png"/>
+      <pubDate>Tue, 26 May 2020 19:40:13 +0200</pubDate>
+      <dc:date>2020-05-26T19:40:13.577941+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BCS, 1–7 May 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-07-BCS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by BCS, 1–7 May 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-07-BCS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-07-BCS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-07-BCS-seats.png" length="224438" type="image/png"/>
       <pubDate>Fri, 15 May 2020 20:36:21 +0200</pubDate>
       <dc:date>2020-05-15T20:36:21.523195+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by IMAS for Europa FM, 6–24 April 2020 – Voting Intentions</title>
-      <link>null/2020-04-24-IMAS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 6–24 April 2020<br/><img src="null/2020-04-24-IMAS.png"/><br/>Details on null/2020-04-24-IMAS.html]]></description>
-      <enclosure url="null/2020-04-24-IMAS.png" length="273193" type="image/png"/>
+      <title>Opinion Poll by BCS, 1–7 May 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-07-BCS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by BCS, 1–7 May 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-07-BCS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-07-BCS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-05-07-BCS.png" length="258446" type="image/png"/>
+      <pubDate>Fri, 15 May 2020 20:36:21 +0200</pubDate>
+      <dc:date>2020-05-15T20:36:21.523195+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Europa FM, 6–24 April 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-24-IMAS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by IMAS for Europa FM, 6–24 April 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-24-IMAS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-24-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-24-IMAS-seats.png" length="240461" type="image/png"/>
       <pubDate>Mon, 4 May 2020 23:16:00 +0200</pubDate>
       <dc:date>2020-05-04T23:16:00.424556+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by BCS, 11–15 April 2020 – Voting Intentions</title>
-      <link>null/2020-04-15-BCS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by BCS, 11–15 April 2020<br/><img src="null/2020-04-15-BCS.png"/><br/>Details on null/2020-04-15-BCS.html]]></description>
-      <enclosure url="null/2020-04-15-BCS.png" length="0" type="image/png"/>
+      <title>Opinion Poll by IMAS for Europa FM, 6–24 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-24-IMAS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 6–24 April 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-24-IMAS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-24-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-24-IMAS.png" length="273193" type="image/png"/>
+      <pubDate>Mon, 4 May 2020 23:16:00 +0200</pubDate>
+      <dc:date>2020-05-04T23:16:00.424556+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BCS, 11–15 April 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by BCS, 11–15 April 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS-seats.png" length="0" type="image/png"/>
       <pubDate>Sat, 25 Apr 2020 19:48:24 +0200</pubDate>
       <dc:date>2020-04-25T19:48:24.840807+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Avangarde for STIRIPESURSE.RO, 6–12 April 2020 – Voting Intentions</title>
-      <link>null/2020-04-12-Avangarde.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Avangarde for STIRIPESURSE.RO, 6–12 April 2020<br/><img src="null/2020-04-12-Avangarde.png"/><br/>Details on null/2020-04-12-Avangarde.html]]></description>
-      <enclosure url="null/2020-04-12-Avangarde.png" length="0" type="image/png"/>
+      <title>Opinion Poll by BCS, 11–15 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by BCS, 11–15 April 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS.png" length="0" type="image/png"/>
+      <pubDate>Sat, 25 Apr 2020 19:48:24 +0200</pubDate>
+      <dc:date>2020-04-25T19:48:24.840807+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Avangarde for STIRIPESURSE.RO, 6–12 April 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-12-Avangarde.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by Avangarde for STIRIPESURSE.RO, 6–12 April 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-12-Avangarde-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-12-Avangarde.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-12-Avangarde-seats.png" length="0" type="image/png"/>
       <pubDate>Sat, 25 Apr 2020 20:09:00 +0200</pubDate>
       <dc:date>2020-04-25T20:09:00.074805+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by IMAS for Europa FM, 5–26 March 2020 – Voting Intentions</title>
-      <link>null/2020-03-26-IMAS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 5–26 March 2020<br/><img src="null/2020-03-26-IMAS.png"/><br/>Details on null/2020-03-26-IMAS.html]]></description>
-      <enclosure url="null/2020-03-26-IMAS.png" length="233475" type="image/png"/>
+      <title>Opinion Poll by Avangarde for STIRIPESURSE.RO, 6–12 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-12-Avangarde.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Avangarde for STIRIPESURSE.RO, 6–12 April 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-12-Avangarde.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-12-Avangarde.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-12-Avangarde.png" length="0" type="image/png"/>
+      <pubDate>Sat, 25 Apr 2020 20:09:00 +0200</pubDate>
+      <dc:date>2020-04-25T20:09:00.074805+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Europa FM, 5–26 March 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-03-26-IMAS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by IMAS for Europa FM, 5–26 March 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-03-26-IMAS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-03-26-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-03-26-IMAS-seats.png" length="169375" type="image/png"/>
       <pubDate>Mon, 6 Apr 2020 20:12:43 +0200</pubDate>
       <dc:date>2020-04-06T20:12:43.907622+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by IMAS for Europa FM, 11–28 February 2020 – Voting Intentions</title>
-      <link>null/2020-02-28-IMAS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 11–28 February 2020<br/><img src="null/2020-02-28-IMAS.png"/><br/>Details on null/2020-02-28-IMAS.html]]></description>
-      <enclosure url="null/2020-02-28-IMAS.png" length="231432" type="image/png"/>
+      <title>Opinion Poll by IMAS for Europa FM, 5–26 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-03-26-IMAS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 5–26 March 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-03-26-IMAS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-03-26-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-03-26-IMAS.png" length="233475" type="image/png"/>
+      <pubDate>Mon, 6 Apr 2020 20:12:43 +0200</pubDate>
+      <dc:date>2020-04-06T20:12:43.907622+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Europa FM, 11–28 February 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-02-28-IMAS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by IMAS for Europa FM, 11–28 February 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-02-28-IMAS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-02-28-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-02-28-IMAS-seats.png" length="156029" type="image/png"/>
       <pubDate>Mon, 30 Mar 2020 19:24:16 +0200</pubDate>
       <dc:date>2020-03-30T19:24:16.572844+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by IMAS for Europa FM, 13–31 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-31-IMAS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 13–31 January 2020<br/><img src="null/2020-01-31-IMAS.png"/><br/>Details on null/2020-01-31-IMAS.html]]></description>
-      <enclosure url="null/2020-01-31-IMAS.png" length="222686" type="image/png"/>
+      <title>Opinion Poll by IMAS for Europa FM, 11–28 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-02-28-IMAS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 11–28 February 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-02-28-IMAS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-02-28-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-02-28-IMAS.png" length="231432" type="image/png"/>
+      <pubDate>Mon, 30 Mar 2020 19:24:16 +0200</pubDate>
+      <dc:date>2020-03-30T19:24:16.572844+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Europa FM, 13–31 January 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-01-31-IMAS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by IMAS for Europa FM, 13–31 January 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-01-31-IMAS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-01-31-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-01-31-IMAS-seats.png" length="155472" type="image/png"/>
       <pubDate>Mon, 30 Mar 2020 22:46:13 +0200</pubDate>
       <dc:date>2020-03-30T22:46:13.070585+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 20–30 January 2020 – Voting Intentions</title>
-      <link>null/2020-01-30-CURS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CURS for STIRIPESURSE.RO, 20–30 January 2020<br/><img src="null/2020-01-30-CURS.png"/><br/>Details on null/2020-01-30-CURS.html]]></description>
-      <enclosure url="null/2020-01-30-CURS.png" length="230810" type="image/png"/>
+      <title>Opinion Poll by IMAS for Europa FM, 13–31 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-01-31-IMAS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 13–31 January 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-01-31-IMAS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-01-31-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-01-31-IMAS.png" length="222686" type="image/png"/>
+      <pubDate>Mon, 30 Mar 2020 22:46:13 +0200</pubDate>
+      <dc:date>2020-03-30T22:46:13.070585+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 20–30 January 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-01-30-CURS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by CURS for STIRIPESURSE.RO, 20–30 January 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-01-30-CURS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-01-30-CURS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-01-30-CURS-seats.png" length="181959" type="image/png"/>
       <pubDate>Tue, 31 Mar 2020 07:24:30 +0200</pubDate>
       <dc:date>2020-03-31T07:24:30.63328+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sociopol, 13–18 December 2019 – Voting Intentions</title>
-      <link>null/2019-12-18-Sociopol.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Sociopol, 13–18 December 2019<br/><img src="null/2019-12-18-Sociopol.png"/><br/>Details on null/2019-12-18-Sociopol.html]]></description>
-      <enclosure url="null/2019-12-18-Sociopol.png" length="221249" type="image/png"/>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 20–30 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-01-30-CURS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CURS for STIRIPESURSE.RO, 20–30 January 2020<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-01-30-CURS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-01-30-CURS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-01-30-CURS.png" length="230810" type="image/png"/>
+      <pubDate>Tue, 31 Mar 2020 07:24:30 +0200</pubDate>
+      <dc:date>2020-03-31T07:24:30.63328+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sociopol, 13–18 December 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-18-Sociopol.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by Sociopol, 13–18 December 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-18-Sociopol-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-18-Sociopol.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-18-Sociopol-seats.png" length="151120" type="image/png"/>
       <pubDate>Fri, 31 Jan 2020 18:24:15 +0100</pubDate>
       <dc:date>2020-01-31T18:24:15.676105+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by IMAS for Europa FM, 4–18 December 2019 – Voting Intentions</title>
-      <link>null/2019-12-18-IMAS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 4–18 December 2019<br/><img src="null/2019-12-18-IMAS.png"/><br/>Details on null/2019-12-18-IMAS.html]]></description>
-      <enclosure url="null/2019-12-18-IMAS.png" length="227406" type="image/png"/>
+      <title>Opinion Poll by Sociopol, 13–18 December 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-18-Sociopol.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Sociopol, 13–18 December 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-18-Sociopol.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-18-Sociopol.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-18-Sociopol.png" length="221249" type="image/png"/>
+      <pubDate>Fri, 31 Jan 2020 18:24:15 +0100</pubDate>
+      <dc:date>2020-01-31T18:24:15.676105+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Europa FM, 4–18 December 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-18-IMAS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by IMAS for Europa FM, 4–18 December 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-18-IMAS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-18-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-18-IMAS-seats.png" length="158684" type="image/png"/>
       <pubDate>Fri, 31 Jan 2020 18:24:11 +0100</pubDate>
       <dc:date>2020-01-31T18:24:11.14801+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 12–17 December 2019 – Voting Intentions</title>
-      <link>null/2019-12-17-CURS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CURS for STIRIPESURSE.RO, 12–17 December 2019<br/><img src="null/2019-12-17-CURS.png"/><br/>Details on null/2019-12-17-CURS.html]]></description>
-      <enclosure url="null/2019-12-17-CURS.png" length="240630" type="image/png"/>
+      <title>Opinion Poll by IMAS for Europa FM, 4–18 December 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-18-IMAS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 4–18 December 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-18-IMAS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-18-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-18-IMAS.png" length="227406" type="image/png"/>
+      <pubDate>Fri, 31 Jan 2020 18:24:11 +0100</pubDate>
+      <dc:date>2020-01-31T18:24:11.14801+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 12–17 December 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-17-CURS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by CURS for STIRIPESURSE.RO, 12–17 December 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-17-CURS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-17-CURS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-17-CURS-seats.png" length="192692" type="image/png"/>
       <pubDate>Thu, 26 Dec 2019 11:46:00 +0100</pubDate>
       <dc:date>2019-12-26T11:46:00.942609+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by IMAS for Europa FM, 11–27 November 2019 – Voting Intentions</title>
-      <link>null/2019-11-27-IMAS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 11–27 November 2019<br/><img src="null/2019-11-27-IMAS.png"/><br/>Details on null/2019-11-27-IMAS.html]]></description>
-      <enclosure url="null/2019-11-27-IMAS.png" length="233228" type="image/png"/>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 12–17 December 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-17-CURS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CURS for STIRIPESURSE.RO, 12–17 December 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-17-CURS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-17-CURS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-12-17-CURS.png" length="240630" type="image/png"/>
+      <pubDate>Thu, 26 Dec 2019 11:46:00 +0100</pubDate>
+      <dc:date>2019-12-26T11:46:00.942609+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Europa FM, 11–27 November 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-27-IMAS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by IMAS for Europa FM, 11–27 November 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-27-IMAS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-27-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-27-IMAS-seats.png" length="161288" type="image/png"/>
       <pubDate>Fri, 27 Dec 2019 13:26:21 +0100</pubDate>
       <dc:date>2019-12-27T13:26:21.743123+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by USR, 25 October–3 November 2019 – Voting Intentions</title>
-      <link>null/2019-11-03-USR.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by USR, 25 October–3 November 2019<br/><img src="null/2019-11-03-USR.png"/><br/>Details on null/2019-11-03-USR.html]]></description>
-      <enclosure url="null/2019-11-03-USR.png" length="208672" type="image/png"/>
+      <title>Opinion Poll by IMAS for Europa FM, 11–27 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-27-IMAS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 11–27 November 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-27-IMAS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-27-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-27-IMAS.png" length="233228" type="image/png"/>
+      <pubDate>Fri, 27 Dec 2019 13:26:21 +0100</pubDate>
+      <dc:date>2019-12-27T13:26:21.743123+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by USR, 25 October–3 November 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-03-USR.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by USR, 25 October–3 November 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-03-USR-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-03-USR.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-03-USR-seats.png" length="160802" type="image/png"/>
       <pubDate>Sat, 7 Dec 2019 10:35:16 +0100</pubDate>
       <dc:date>2019-12-07T10:35:16.410545+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by USR, 25 October–3 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-03-USR.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by USR, 25 October–3 November 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-03-USR.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-03-USR.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-11-03-USR.png" length="208672" type="image/png"/>
+      <pubDate>Sat, 7 Dec 2019 10:35:16 +0100</pubDate>
+      <dc:date>2019-12-07T10:35:16.410545+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Europa FM, 8–28 October 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-28-IMAS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by IMAS for Europa FM, 8–28 October 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-28-IMAS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-28-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-28-IMAS-seats.png" length="189833" type="image/png"/>
+      <pubDate>Mon, 9 Dec 2019 19:37:08 +0100</pubDate>
+      <dc:date>2019-12-09T19:37:08.021022+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IMAS for Europa FM, 8–28 October 2019 – Voting Intentions</title>
-      <link>null/2019-10-28-IMAS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 8–28 October 2019<br/><img src="null/2019-10-28-IMAS.png"/><br/>Details on null/2019-10-28-IMAS.html]]></description>
-      <enclosure url="null/2019-10-28-IMAS.png" length="248439" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-28-IMAS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 8–28 October 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-28-IMAS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-28-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-28-IMAS.png" length="248439" type="image/png"/>
       <pubDate>Mon, 9 Dec 2019 19:37:08 +0100</pubDate>
       <dc:date>2019-12-09T19:37:08.021022+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by USR, 15–23 October 2019 – Voting Intentions</title>
-      <link>null/2019-10-23-USR.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by USR, 15–23 October 2019<br/><img src="null/2019-10-23-USR.png"/><br/>Details on null/2019-10-23-USR.html]]></description>
-      <enclosure url="null/2019-10-23-USR.png" length="190016" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-23-USR.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by USR, 15–23 October 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-23-USR.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-23-USR.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-23-USR.png" length="190016" type="image/png"/>
       <pubDate>Wed, 8 Apr 2020 18:38:11 +0200</pubDate>
       <dc:date>2020-04-08T18:38:11.687363+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by BCS, 12–19 October 2019 – Voting Intentions</title>
-      <link>null/2019-10-19-BCS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by BCS, 12–19 October 2019<br/><img src="null/2019-10-19-BCS.png"/><br/>Details on null/2019-10-19-BCS.html]]></description>
-      <enclosure url="null/2019-10-19-BCS.png" length="266075" type="image/png"/>
+      <title>Opinion Poll by BCS, 12–19 October 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-19-BCS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by BCS, 12–19 October 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-19-BCS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-19-BCS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-19-BCS-seats.png" length="229300" type="image/png"/>
       <pubDate>Tue, 9 Jun 2020 17:27:25 +0200</pubDate>
       <dc:date>2020-06-09T17:27:25.566048+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by BCS, 12–19 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-19-BCS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by BCS, 12–19 October 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-19-BCS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-19-BCS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-10-19-BCS.png" length="266075" type="image/png"/>
+      <pubDate>Tue, 9 Jun 2020 17:27:25 +0200</pubDate>
+      <dc:date>2020-06-09T17:27:25.566048+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Europa FM, 5–28 September 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-28-IMAS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by IMAS for Europa FM, 5–28 September 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-28-IMAS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-28-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-28-IMAS-seats.png" length="268855" type="image/png"/>
+      <pubDate>Wed, 24 Jun 2020 22:06:43 +0200</pubDate>
+      <dc:date>2020-06-24T22:06:43.176574+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IMAS for Europa FM, 5–28 September 2019 – Voting Intentions</title>
-      <link>null/2019-09-28-IMAS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 5–28 September 2019<br/><img src="null/2019-09-28-IMAS.png"/><br/>Details on null/2019-09-28-IMAS.html]]></description>
-      <enclosure url="null/2019-09-28-IMAS.png" length="280815" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-28-IMAS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 5–28 September 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-28-IMAS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-28-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-28-IMAS.png" length="280815" type="image/png"/>
       <pubDate>Wed, 24 Jun 2020 22:06:43 +0200</pubDate>
       <dc:date>2020-06-24T22:06:43.176574+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by USR, 3–24 September 2019 – Voting Intentions</title>
-      <link>null/2019-09-24-USR.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by USR, 3–24 September 2019<br/><img src="null/2019-09-24-USR.png"/><br/>Details on null/2019-09-24-USR.html]]></description>
-      <enclosure url="null/2019-09-24-USR.png" length="184681" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-24-USR.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by USR, 3–24 September 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-24-USR.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-24-USR.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-24-USR.png" length="184681" type="image/png"/>
       <pubDate>Wed, 8 Apr 2020 18:43:55 +0200</pubDate>
       <dc:date>2020-04-08T18:43:55.272688+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Socio-Data, 16–20 September 2019 – Voting Intentions</title>
-      <link>null/2019-09-20-Socio-Data.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Socio-Data, 16–20 September 2019<br/><img src="null/2019-09-20-Socio-Data.png"/><br/>Details on null/2019-09-20-Socio-Data.html]]></description>
-      <enclosure url="null/2019-09-20-Socio-Data.png" length="276005" type="image/png"/>
+      <title>Opinion Poll by Socio-Data, 16–20 September 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-20-Socio-Data.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by Socio-Data, 16–20 September 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-20-Socio-Data-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-20-Socio-Data.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-20-Socio-Data-seats.png" length="264010" type="image/png"/>
       <pubDate>Tue, 9 Jun 2020 18:12:21 +0200</pubDate>
       <dc:date>2020-06-09T18:12:21.370127+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Socio-Data, 9–13 September 2019 – Voting Intentions</title>
-      <link>null/2019-09-13-Socio-Data.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Socio-Data, 9–13 September 2019<br/><img src="null/2019-09-13-Socio-Data.png"/><br/>Details on null/2019-09-13-Socio-Data.html]]></description>
-      <enclosure url="null/2019-09-13-Socio-Data.png" length="270932" type="image/png"/>
+      <title>Opinion Poll by Socio-Data, 16–20 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-20-Socio-Data.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Socio-Data, 16–20 September 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-20-Socio-Data.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-20-Socio-Data.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-20-Socio-Data.png" length="276005" type="image/png"/>
+      <pubDate>Tue, 9 Jun 2020 18:12:21 +0200</pubDate>
+      <dc:date>2020-06-09T18:12:21.370127+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Socio-Data, 9–13 September 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-13-Socio-Data.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by Socio-Data, 9–13 September 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-13-Socio-Data-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-13-Socio-Data.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-13-Socio-Data-seats.png" length="238126" type="image/png"/>
       <pubDate>Tue, 9 Jun 2020 19:56:07 +0200</pubDate>
       <dc:date>2020-06-09T19:56:07.448041+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Socio-Data, 2–6 September 2019 – Voting Intentions</title>
-      <link>null/2019-09-06-Socio-Data.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Socio-Data, 2–6 September 2019<br/><img src="null/2019-09-06-Socio-Data.png"/><br/>Details on null/2019-09-06-Socio-Data.html]]></description>
-      <enclosure url="null/2019-09-06-Socio-Data.png" length="274186" type="image/png"/>
+      <title>Opinion Poll by Socio-Data, 9–13 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-13-Socio-Data.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Socio-Data, 9–13 September 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-13-Socio-Data.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-13-Socio-Data.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-13-Socio-Data.png" length="270932" type="image/png"/>
+      <pubDate>Tue, 9 Jun 2020 19:56:07 +0200</pubDate>
+      <dc:date>2020-06-09T19:56:07.448041+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Socio-Data, 2–6 September 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-06-Socio-Data.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by Socio-Data, 2–6 September 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-06-Socio-Data-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-06-Socio-Data.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-06-Socio-Data-seats.png" length="257226" type="image/png"/>
       <pubDate>Thu, 9 Jul 2020 18:31:52 +0200</pubDate>
       <dc:date>2020-07-09T18:31:52.229356+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sociopol, 19–31 August 2019 – Voting Intentions</title>
-      <link>null/2019-08-31-Sociopol.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Sociopol, 19–31 August 2019<br/><img src="null/2019-08-31-Sociopol.png"/><br/>Details on null/2019-08-31-Sociopol.html]]></description>
-      <enclosure url="null/2019-08-31-Sociopol.png" length="267129" type="image/png"/>
+      <title>Opinion Poll by Socio-Data, 2–6 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-06-Socio-Data.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Socio-Data, 2–6 September 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-06-Socio-Data.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-06-Socio-Data.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-09-06-Socio-Data.png" length="274186" type="image/png"/>
+      <pubDate>Thu, 9 Jul 2020 18:31:52 +0200</pubDate>
+      <dc:date>2020-07-09T18:31:52.229356+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sociopol, 19–31 August 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-31-Sociopol.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by Sociopol, 19–31 August 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-31-Sociopol-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-31-Sociopol.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-31-Sociopol-seats.png" length="229068" type="image/png"/>
       <pubDate>Mon, 22 Jun 2020 23:01:09 +0200</pubDate>
       <dc:date>2020-06-22T23:01:09.813673+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Socio-Data, 26–30 August 2019 – Voting Intentions</title>
-      <link>null/2019-08-30-Socio-Data.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Socio-Data, 26–30 August 2019<br/><img src="null/2019-08-30-Socio-Data.png"/><br/>Details on null/2019-08-30-Socio-Data.html]]></description>
-      <enclosure url="null/2019-08-30-Socio-Data.png" length="280475" type="image/png"/>
+      <title>Opinion Poll by Sociopol, 19–31 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-31-Sociopol.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Sociopol, 19–31 August 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-31-Sociopol.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-31-Sociopol.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-31-Sociopol.png" length="267129" type="image/png"/>
+      <pubDate>Mon, 22 Jun 2020 23:01:09 +0200</pubDate>
+      <dc:date>2020-06-22T23:01:09.813673+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Socio-Data, 26–30 August 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Socio-Data.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by Socio-Data, 26–30 August 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Socio-Data-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Socio-Data.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Socio-Data-seats.png" length="258110" type="image/png"/>
       <pubDate>Mon, 8 Jun 2020 21:38:03 +0200</pubDate>
       <dc:date>2020-06-08T21:38:03.292327+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Verifield, 26–30 August 2019 – Voting Intentions</title>
-      <link>null/2019-08-30-Verifield.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Verifield, 26–30 August 2019<br/><img src="null/2019-08-30-Verifield.png"/><br/>Details on null/2019-08-30-Verifield.html]]></description>
-      <enclosure url="null/2019-08-30-Verifield.png" length="276162" type="image/png"/>
+      <title>Opinion Poll by Socio-Data, 26–30 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Socio-Data.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Socio-Data, 26–30 August 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Socio-Data.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Socio-Data.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Socio-Data.png" length="280475" type="image/png"/>
+      <pubDate>Mon, 8 Jun 2020 21:38:03 +0200</pubDate>
+      <dc:date>2020-06-08T21:38:03.292327+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verifield, 26–30 August 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Verifield.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by Verifield, 26–30 August 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Verifield-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Verifield.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Verifield-seats.png" length="260005" type="image/png"/>
       <pubDate>Fri, 10 Jul 2020 17:11:41 +0200</pubDate>
       <dc:date>2020-07-10T17:11:41.886598+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by IMAS for Europa FM, 5–28 August 2019 – Voting Intentions</title>
-      <link>null/2019-08-28-IMAS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 5–28 August 2019<br/><img src="null/2019-08-28-IMAS.png"/><br/>Details on null/2019-08-28-IMAS.html]]></description>
-      <enclosure url="null/2019-08-28-IMAS.png" length="279987" type="image/png"/>
+      <title>Opinion Poll by Verifield, 26–30 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Verifield.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Verifield, 26–30 August 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Verifield.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Verifield.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-30-Verifield.png" length="276162" type="image/png"/>
+      <pubDate>Fri, 10 Jul 2020 17:11:41 +0200</pubDate>
+      <dc:date>2020-07-10T17:11:41.886598+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Europa FM, 5–28 August 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-28-IMAS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by IMAS for Europa FM, 5–28 August 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-28-IMAS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-28-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-28-IMAS-seats.png" length="241651" type="image/png"/>
       <pubDate>Fri, 1 May 2020 11:45:07 +0200</pubDate>
       <dc:date>2020-05-01T11:45:07.84951+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 19 July–5 August 2019 – Voting Intentions</title>
-      <link>null/2019-08-05-CURS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CURS for STIRIPESURSE.RO, 19 July–5 August 2019<br/><img src="null/2019-08-05-CURS.png"/><br/>Details on null/2019-08-05-CURS.html]]></description>
-      <enclosure url="null/2019-08-05-CURS.png" length="271340" type="image/png"/>
+      <title>Opinion Poll by IMAS for Europa FM, 5–28 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-28-IMAS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 5–28 August 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-28-IMAS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-28-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-28-IMAS.png" length="279987" type="image/png"/>
+      <pubDate>Fri, 1 May 2020 11:45:07 +0200</pubDate>
+      <dc:date>2020-05-01T11:45:07.84951+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 19 July–5 August 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-05-CURS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by CURS for STIRIPESURSE.RO, 19 July–5 August 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-05-CURS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-05-CURS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-05-CURS-seats.png" length="235735" type="image/png"/>
       <pubDate>Sat, 11 Jul 2020 20:03:48 +0200</pubDate>
       <dc:date>2020-07-11T20:03:48.967946+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by IMAS for Europa FM, 15 July–2 August 2019 – Voting Intentions</title>
-      <link>null/2019-08-02-IMAS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 15 July–2 August 2019<br/><img src="null/2019-08-02-IMAS.png"/><br/>Details on null/2019-08-02-IMAS.html]]></description>
-      <enclosure url="null/2019-08-02-IMAS.png" length="280363" type="image/png"/>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 19 July–5 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-05-CURS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CURS for STIRIPESURSE.RO, 19 July–5 August 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-05-CURS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-05-CURS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-05-CURS.png" length="271340" type="image/png"/>
+      <pubDate>Sat, 11 Jul 2020 20:03:48 +0200</pubDate>
+      <dc:date>2020-07-11T20:03:48.967946+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Europa FM, 15 July–2 August 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-02-IMAS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by IMAS for Europa FM, 15 July–2 August 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-02-IMAS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-02-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-02-IMAS-seats.png" length="240835" type="image/png"/>
       <pubDate>Mon, 1 Jun 2020 21:32:05 +0200</pubDate>
       <dc:date>2020-06-01T21:32:05.508233+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by BCS, 7–23 July 2019 – Voting Intentions</title>
-      <link>null/2019-07-23-BCS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by BCS, 7–23 July 2019<br/><img src="null/2019-07-23-BCS.png"/><br/>Details on null/2019-07-23-BCS.html]]></description>
-      <enclosure url="null/2019-07-23-BCS.png" length="263099" type="image/png"/>
+      <title>Opinion Poll by IMAS for Europa FM, 15 July–2 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-02-IMAS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 15 July–2 August 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-02-IMAS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-02-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-08-02-IMAS.png" length="280363" type="image/png"/>
+      <pubDate>Mon, 1 Jun 2020 21:32:05 +0200</pubDate>
+      <dc:date>2020-06-01T21:32:05.508233+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BCS, 7–23 July 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-07-23-BCS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by BCS, 7–23 July 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-07-23-BCS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-07-23-BCS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-07-23-BCS-seats.png" length="259105" type="image/png"/>
       <pubDate>Tue, 9 Jun 2020 19:43:09 +0200</pubDate>
       <dc:date>2020-06-09T19:43:09.328517+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 28 June–8 July 2019 – Voting Intentions</title>
-      <link>null/2019-07-08-CURS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CURS for STIRIPESURSE.RO, 28 June–8 July 2019<br/><img src="null/2019-07-08-CURS.png"/><br/>Details on null/2019-07-08-CURS.html]]></description>
-      <enclosure url="null/2019-07-08-CURS.png" length="278867" type="image/png"/>
+      <title>Opinion Poll by BCS, 7–23 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-07-23-BCS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by BCS, 7–23 July 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-07-23-BCS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-07-23-BCS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-07-23-BCS.png" length="263099" type="image/png"/>
+      <pubDate>Tue, 9 Jun 2020 19:43:09 +0200</pubDate>
+      <dc:date>2020-06-09T19:43:09.328517+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 28 June–8 July 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-07-08-CURS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by CURS for STIRIPESURSE.RO, 28 June–8 July 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-07-08-CURS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-07-08-CURS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-07-08-CURS-seats.png" length="237416" type="image/png"/>
       <pubDate>Thu, 9 Jul 2020 18:57:54 +0200</pubDate>
       <dc:date>2020-07-09T18:57:54.514231+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 28 June–8 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-07-08-CURS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CURS for STIRIPESURSE.RO, 28 June–8 July 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-07-08-CURS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-07-08-CURS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-07-08-CURS.png" length="278867" type="image/png"/>
+      <pubDate>Thu, 9 Jul 2020 18:57:54 +0200</pubDate>
+      <dc:date>2020-07-09T18:57:54.514231+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Europa FM, 7–26 June 2019 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-06-26-IMAS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by IMAS for Europa FM, 7–26 June 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-06-26-IMAS-seats.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-06-26-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-06-26-IMAS-seats.png" length="232354" type="image/png"/>
+      <pubDate>Tue, 2 Jun 2020 18:33:01 +0200</pubDate>
+      <dc:date>2020-06-02T18:33:01.50145+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IMAS for Europa FM, 7–26 June 2019 – Voting Intentions</title>
-      <link>null/2019-06-26-IMAS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 7–26 June 2019<br/><img src="null/2019-06-26-IMAS.png"/><br/>Details on null/2019-06-26-IMAS.html]]></description>
-      <enclosure url="null/2019-06-26-IMAS.png" length="278962" type="image/png"/>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2019-06-26-IMAS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 7–26 June 2019<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2019-06-26-IMAS.png"/><br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2019-06-26-IMAS.html]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2019-06-26-IMAS.png" length="278962" type="image/png"/>
       <pubDate>Tue, 2 Jun 2020 18:33:01 +0200</pubDate>
       <dc:date>2020-06-02T18:33:01.50145+02:00</dc:date>
     </item>
