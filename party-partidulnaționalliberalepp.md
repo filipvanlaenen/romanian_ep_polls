@@ -100,7 +100,7 @@ Last result: **10** seats (General Election of 26 May 2019)
 | [15–23 October 2019](2019-10-23-USR.html) | USR | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
 | [12–19 October 2019](2019-10-19-BCS.html) | BCS | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
-| [3–24 September 2019](2019-09-24-USR.html) | USR | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
+| [3–24 September 2019](2019-09-24-USR.html) | USR | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
 | [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
 | [9–13 September 2019](2019-09-13-Socio-Data.html) | Socio-Data | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [2–6 September 2019](2019-09-06-Socio-Data.html) | Socio-Data | 12 | 11–12 | 10–13 | 10–13 | 10–13 |
