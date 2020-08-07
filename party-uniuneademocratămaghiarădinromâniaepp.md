@@ -10,11 +10,12 @@ Last result: **5.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 1.3–5.2% | 1.2–5.5% | 1.0–5.8% | 0.8–6.3% |
-| [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 4.8% | 4.1–5.8% | 3.9–6.0% | 3.7–6.3% | 3.4–6.7% |
+| N/A | [Poll Average](average.html) | 4.8% | 1.3–6.0% | 1.2–6.4% | 1.0–6.7% | 0.8–7.3% |
+| [10–29 July 2020](2020-07-29-IMAS.html) | IMAS <br> Europa FM | 5.6% | 4.8–6.7% | 4.6–7.0% | 4.4–7.3% | 4.0–7.8% |
+| [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 5.0% | 4.3–6.0% | 4.0–6.2% | 3.9–6.5% | 3.5–7.0% |
 | [5–27 June 2020](2020-06-27-IMAS.html) | IMAS <br> Europa FM | 3.4% | 2.7–4.2% | 2.6–4.5% | 2.4–4.7% | 2.1–5.1% |
 | [8–27 May 2020](2020-05-27-IMAS.html) | IMAS <br> Europa FM | 5.1% | 4.4–6.2% | 4.1–6.4% | 3.9–6.7% | 3.6–7.2% |
-| [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
+| [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [15–20 May 2020](2020-05-20-INSCOP.html) | INSCOP | 4.5% | 3.8–5.4% | 3.6–5.7% | 3.4–5.9% | 3.1–6.3% |
 | [1–7 May 2020](2020-05-07-BCS.html) | BCS | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.8–2.0% | 0.7–2.2% |
 | [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 5.5% | 4.7–6.6% | 4.5–6.9% | 4.3–7.1% | 3.9–7.7% |
@@ -55,13 +56,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 15% | 100% |  |
-| 1.5–2.5% | 6% | 85% |  |
-| 2.5–3.5% | 18% | 79% |  |
-| 3.5–4.5% | 34% | 61% | Median |
-| 4.5–5.5% | 23% | 27% | Last Result |
-| 5.5–6.5% | 4% | 5% |  |
-| 6.5–7.5% | 0.2% | 0.2% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 5% | 85% |  |
+| 2.5–3.5% | 1.1% | 80% |  |
+| 3.5–4.5% | 19% | 79% |  |
+| 4.5–5.5% | 38% | 60% | Last Result, Median |
+| 5.5–6.5% | 19% | 23% |  |
+| 6.5–7.5% | 3% | 4% |  |
+| 7.5–8.5% | 0.2% | 0.2% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -72,11 +74,12 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
-| [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [10–29 July 2020](2020-07-29-IMAS.html) | IMAS <br> Europa FM | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [5–27 June 2020](2020-06-27-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0–1 |
 | [8–27 May 2020](2020-05-27-IMAS.html) | IMAS <br> Europa FM | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
+| [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [15–20 May 2020](2020-05-20-INSCOP.html) | INSCOP | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [1–7 May 2020](2020-05-07-BCS.html) | BCS | 0 | 0 | 0 | 0 | 0 |
 | [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
@@ -117,9 +120,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Median |
-| 1 | 4% | 13% |  |
-| 2 | 8% | 8% | Last Result |
-| 3 | 0% | 0% |  |
+| 0 | 51% | 100% | Median |
+| 1 | 9% | 49% |  |
+| 2 | 39% | 40% | Last Result |
+| 3 | 0.2% | 0.2% |  |
+| 4 | 0% | 0% |  |
 
 

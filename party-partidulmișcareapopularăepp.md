@@ -10,11 +10,12 @@ Last result: **5.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.8% | 4.6–10.2% | 4.3–10.8% | 4.0–11.3% | 3.7–12.1% |
-| [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 6.7% | 5.8–7.8% | 5.6–8.1% | 5.4–8.4% | 5.0–8.9% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.6–7.9% | 3.3–8.5% | 3.1–8.9% | 2.8–9.6% |
+| [10–29 July 2020](2020-07-29-IMAS.html) | IMAS <br> Europa FM | 3.9% | 3.2–4.8% | 3.0–5.0% | 2.8–5.2% | 2.5–5.7% |
+| [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 5.0% | 4.3–6.0% | 4.0–6.2% | 3.9–6.5% | 3.5–7.0% |
 | [5–27 June 2020](2020-06-27-IMAS.html) | IMAS <br> Europa FM | 10.1% | 9.0–11.4% | 8.7–11.8% | 8.4–12.1% | 7.9–12.8% |
 | [8–27 May 2020](2020-05-27-IMAS.html) | IMAS <br> Europa FM | 3.8% | 3.1–4.6% | 2.9–4.9% | 2.7–5.1% | 2.5–5.6% |
-| [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.4–7.3% | 4.1–7.9% |
+| [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [15–20 May 2020](2020-05-20-INSCOP.html) | INSCOP | 7.9% | 6.9–9.0% | 6.6–9.3% | 6.4–9.6% | 6.0–10.2% |
 | [1–7 May 2020](2020-05-07-BCS.html) | BCS | 4.6% | 4.0–5.4% | 3.8–5.6% | 3.7–5.8% | 3.4–6.1% |
 | [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 3.4% | 2.7–4.2% | 2.6–4.5% | 2.4–4.7% | 2.1–5.1% |
@@ -53,19 +54,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 9% | 99.7% |  |
-| 4.5–5.5% | 18% | 90% |  |
-| 5.5–6.5% | 18% | 73% | Last Result |
-| 6.5–7.5% | 18% | 55% | Median |
-| 7.5–8.5% | 13% | 37% |  |
-| 8.5–9.5% | 9% | 24% |  |
-| 9.5–10.5% | 8% | 15% |  |
-| 10.5–11.5% | 5% | 7% |  |
-| 11.5–12.5% | 1.4% | 2% |  |
-| 12.5–13.5% | 0.2% | 0.2% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 9% | 99.9% |  |
+| 3.5–4.5% | 36% | 90% |  |
+| 4.5–5.5% | 28% | 54% | Median |
+| 5.5–6.5% | 7% | 26% | Last Result |
+| 6.5–7.5% | 6% | 20% |  |
+| 7.5–8.5% | 9% | 14% |  |
+| 8.5–9.5% | 4% | 4% |  |
+| 9.5–10.5% | 0.5% | 0.5% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -76,11 +75,12 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 2 | 2–3 | 2–3 | 2–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [10–29 July 2020](2020-07-29-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0–2 | 0–2 |
+| [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [5–27 June 2020](2020-06-27-IMAS.html) | IMAS <br> Europa FM | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [8–27 May 2020](2020-05-27-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0–1 | 0–2 |
-| [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | [15–20 May 2020](2020-05-20-INSCOP.html) | INSCOP | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–7 May 2020](2020-05-07-BCS.html) | BCS | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0–1 |
@@ -121,12 +121,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% |  |
-| 1 | 3% | 82% |  |
-| 2 | 44% | 79% | Last Result, Median |
-| 3 | 24% | 35% |  |
-| 4 | 10% | 10% |  |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 0 | 63% | 100% | Median |
+| 1 | 8% | 37% |  |
+| 2 | 18% | 29% | Last Result |
+| 3 | 11% | 11% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 
