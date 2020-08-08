@@ -83,7 +83,7 @@ Last result: **9** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–11 | 7–12 | 7–12 | 7–13 |
-| [10–29 July 2020](2020-07-29-IMAS.html) | IMAS <br> Europa FM | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
+| [10–29 July 2020](2020-07-29-IMAS.html) | IMAS <br> Europa FM | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [5–27 June 2020](2020-06-27-IMAS.html) | IMAS <br> Europa FM | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [8–27 May 2020](2020-05-27-IMAS.html) | IMAS <br> Europa FM | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
@@ -130,9 +130,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.4% | 100% |  |
 | 7 | 16% | 99.6% |  |
-| 8 | 28% | 84% |  |
-| 9 | 20% | 56% | Last Result, Median |
-| 10 | 12% | 36% |  |
+| 8 | 27% | 84% |  |
+| 9 | 20% | 57% | Last Result, Median |
+| 10 | 12% | 37% |  |
 | 11 | 19% | 25% |  |
 | 12 | 5% | 6% |  |
 | 13 | 0.6% | 0.7% |  |
