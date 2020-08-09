@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PNL | PSD | A2020 | PRO | PMP | UDMR | ALDE | PLUS | USR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 27.0% <br> 10 | 22.5% <br> 9 | 22.4% <br> 8 | 6.4% <br> 2 | 5.8% <br> 2 | 5.3% <br> 2 | 4.1% <br> 0 | 22.4% <br> 4 | 22.4% <br> 4 |
-| N/A | [Poll Average](average.html) | 28–37% <br> 10–14 | 19–31% <br> 7–12 | 12–26% <br> 4–10 | 1–11% <br> 0–4 | 3–9% <br> 0–3 | 1–7% <br> 0–2 | 3–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 28–37% <br> 10–15 | 19–31% <br> 7–12 | 12–26% <br> 4–10 | 1–11% <br> 0–4 | 3–9% <br> 0–3 | 1–7% <br> 0–2 | 3–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
 | [10–29 July 2020](2020-07-29-IMAS.html) | IMAS <br> Europa FM | 31–36% <br> 11–14 | 21–26% <br> 8–10 | 15–20% <br> 5–7 | 8–12% <br> 3–4 | 3–5% <br> 0–2 | 4–7% <br> 0–2 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 29–35% <br> 10–13 | 25–31% <br> 9–12 | 14–18% <br> 5–7 | 6–9% <br> 2–3 | 4–6% <br> 0–2 | 4–6% <br> 0–2 | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
 | [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 32–38% <br> 12–15 | 26–32% <br> 10–13 | 11–15% <br> 4–6 | 5–8% <br> 0–3 | 3–5% <br> 0–2 | 4–7% <br> 0–2 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
