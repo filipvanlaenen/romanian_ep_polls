@@ -79,12 +79,12 @@ Last result: **10** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–14 | 11–14 | 10–14 | 10–15 |
+| N/A | [Poll Average](average.html) | 12 | 11–14 | 11–14 | 10–15 | 10–15 |
 | [10–29 July 2020](2020-07-29-IMAS.html) | IMAS <br> Europa FM | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
-| [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
+| [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [5–27 June 2020](2020-06-27-IMAS.html) | IMAS <br> Europa FM | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [8–27 May 2020](2020-05-27-IMAS.html) | IMAS <br> Europa FM | 13 | 12–13 | 11–14 | 11–14 | 11–14 |
-| [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 13 | 13–15 | 12–15 | 12–15 | 12–16 |
+| [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [15–20 May 2020](2020-05-20-INSCOP.html) | INSCOP | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
 | [1–7 May 2020](2020-05-07-BCS.html) | BCS | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 12 | 12–13 | 11–14 | 11–14 | 11–15 |
@@ -127,11 +127,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 4% | 100% | Last Result |
 | 11 | 26% | 96% |  |
-| 12 | 34% | 70% | Median |
-| 13 | 26% | 37% |  |
-| 14 | 9% | 11% |  |
-| 15 | 2% | 2% |  |
-| 16 | 0.1% | 0.1% |  |
+| 12 | 33% | 70% | Median |
+| 13 | 24% | 37% |  |
+| 14 | 10% | 13% |  |
+| 15 | 3% | 3% |  |
+| 16 | 0.3% | 0.3% |  |
 | 17 | 0% | 0% | Majority |
 
 

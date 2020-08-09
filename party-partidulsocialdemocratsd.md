@@ -84,10 +84,10 @@ Last result: **9** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–11 | 7–12 | 7–12 | 7–13 |
 | [10–29 July 2020](2020-07-29-IMAS.html) | IMAS <br> Europa FM | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
-| [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
+| [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
 | [5–27 June 2020](2020-06-27-IMAS.html) | IMAS <br> Europa FM | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [8–27 May 2020](2020-05-27-IMAS.html) | IMAS <br> Europa FM | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
-| [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
+| [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 11 | 10–12 | 10–13 | 10–13 | 10–13 |
 | [15–20 May 2020](2020-05-20-INSCOP.html) | INSCOP | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [1–7 May 2020](2020-05-07-BCS.html) | BCS | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
@@ -131,11 +131,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0.4% | 100% |  |
 | 7 | 16% | 99.6% |  |
 | 8 | 27% | 84% |  |
-| 9 | 20% | 57% | Last Result, Median |
-| 10 | 12% | 37% |  |
-| 11 | 19% | 25% |  |
-| 12 | 5% | 6% |  |
-| 13 | 0.6% | 0.7% |  |
+| 9 | 17% | 57% | Last Result, Median |
+| 10 | 15% | 39% |  |
+| 11 | 17% | 24% |  |
+| 12 | 6% | 7% |  |
+| 13 | 1.1% | 1.1% |  |
 | 14 | 0% | 0% |  |
 
 
