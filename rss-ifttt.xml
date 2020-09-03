@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 17:09:43 +0200</pubDate>
     <item>
+      <title>Opinion Poll by IMAS for Europa FM, 6–26 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-08-26-IMAS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IMAS for Europa FM, 6–26 August 2020<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-08-26-IMAS.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-08-26-IMAS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-08-26-IMAS.png" length="271048" type="image/png"/>
+      <pubDate>Thu, 3 Sep 2020 07:43:48 +0200</pubDate>
+      <dc:date>2020-09-03T07:43:48.434109+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by CURS, 29 July–5 August 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-08-05-CURS.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by CURS, 29 July–5 August 2020<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-08-05-CURS.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-08-05-CURS-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-24-IMAS.png" length="273193" type="image/png"/>
       <pubDate>Mon, 4 May 2020 23:16:00 +0200</pubDate>
       <dc:date>2020-05-04T23:16:00.424556+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by BCS, 11–15 April 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by BCS, 11–15 April 2020<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS-seating-plan.png" length="0" type="image/png"/>
-      <pubDate>Sat, 25 Apr 2020 19:48:24 +0200</pubDate>
-      <dc:date>2020-04-25T19:48:24.840807+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by BCS, 11–15 April 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by BCS, 11–15 April 2020<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS-seats.png" length="0" type="image/png"/>
-      <pubDate>Sat, 25 Apr 2020 19:48:24 +0200</pubDate>
-      <dc:date>2020-04-25T19:48:24.840807+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by BCS, 11–15 April 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by BCS, 11–15 April 2020<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2020-04-15-BCS.png" length="0" type="image/png"/>
-      <pubDate>Sat, 25 Apr 2020 19:48:24 +0200</pubDate>
-      <dc:date>2020-04-25T19:48:24.840807+02:00</dc:date>
     </item>
   </channel>
 </rss>
