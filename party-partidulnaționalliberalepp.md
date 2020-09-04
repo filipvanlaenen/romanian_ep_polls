@@ -80,7 +80,7 @@ Last result: **10** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
+| N/A | [Poll Average](average.html) | 12 | 11–13 | 11–14 | 10–14 | 10–14 |
 | [6–26 August 2020](2020-08-26-IMAS.html) | IMAS <br> Europa FM | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [29 July–5 August 2020](2020-08-05-CURS.html) | CURS | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [10–29 July 2020](2020-07-29-IMAS.html) | IMAS <br> Europa FM | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
@@ -130,10 +130,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 3% | 100% | Last Result |
 | 11 | 23% | 97% |  |
-| 12 | 38% | 74% | Median |
-| 13 | 29% | 36% |  |
-| 14 | 7% | 8% |  |
-| 15 | 0.7% | 0.7% |  |
+| 12 | 41% | 74% | Median |
+| 13 | 27% | 33% |  |
+| 14 | 6% | 6% |  |
+| 15 | 0.3% | 0.4% |  |
 | 16 | 0% | 0% |  |
 
 
