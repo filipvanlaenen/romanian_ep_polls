@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PNL | PSD | A2020 | PRO | PMP | UDMR | ALDE | PLUS | USR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 27.0% <br> 10 | 22.5% <br> 9 | 22.4% <br> 8 | 6.4% <br> 2 | 5.8% <br> 2 | 5.3% <br> 2 | 4.1% <br> 0 | 22.4% <br> 4 | 22.4% <br> 4 |
-| [6–26 August 2020](2020-08-26-IMAS.html) | IMAS <br> Europa FM | 31–37% <br> 11–14 | 18–23% <br> 7–9 | 16–21% <br> 6–8 | 9–13% <br> 3–5 | 3–5% <br> 0–2 | 4–7% <br> 0–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [6–26 August 2020](2020-08-26-IMAS.html) | IMAS <br> Europa FM | 31–37% <br> 11–14 | 18–23% <br> 7–9 | 16–21% <br> 6–8 | 9–13% <br> 3–4 | 3–5% <br> 0–2 | 4–7% <br> 0–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [29 July–5 August 2020](2020-08-05-CURS.html) | CURS | 28–34% <br> 10–13 | 25–31% <br> 9–12 | 12–16% <br> 4–6 | 6–9% <br> 2–3 | 4–6% <br> 0–2 | 3–5% <br> 0–2 | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
 | [10–29 July 2020](2020-07-29-IMAS.html) | IMAS <br> Europa FM | 31–36% <br> 11–14 | 21–26% <br> 8–10 | 15–20% <br> 5–7 | 8–12% <br> 3–4 | 3–5% <br> 0–2 | 4–7% <br> 0–2 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 29–35% <br> 10–13 | 25–31% <br> 9–12 | 14–18% <br> 5–7 | 6–9% <br> 2–3 | 4–6% <br> 0–2 | 4–6% <br> 0–2 | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A |
