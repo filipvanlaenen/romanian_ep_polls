@@ -10,7 +10,11 @@ Last result: **22.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.9% | 12.3–20.7% | 11.8–21.4% | 11.4–22.0% | 10.7–23.0% |
+| N/A | [Poll Average](average.html) | 16.5% | 12.4–18.6% | 11.9–19.1% | 11.5–19.6% | 10.8–20.5% |
+| [28–29 November 2020](2020-11-29-Sociopol.html) | Sociopol | 13.0% | 11.7–14.4% | 11.4–14.8% | 11.1–15.2% | 10.5–15.9% |
+| [22–28 November 2020](2020-11-28-IRSOP.html) | IRSOP | 17.0% | 15.6–18.6% | 15.2–19.1% | 14.8–19.5% | 14.2–20.3% |
+| [6–27 November 2020](2020-11-27-IMAS.html) | IMAS <br> Europa FM | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.8–20.5% | 15.1–21.3% |
+| [20–25 November 2020](2020-11-25-Verifield.html) | Verifield | 17.0% | 15.6–18.5% | 15.2–19.0% | 14.9–19.3% | 14.3–20.1% |
 | [11–18 November 2020](2020-11-18-ADS.html) | ADS <br> PER | 12.5% | 11.4–13.8% | 11.1–14.1% | 10.8–14.4% | 10.3–15.1% |
 | [1–10 November 2020](2020-11-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 16.0% | 14.7–17.5% | 14.3–18.0% | 13.9–18.4% | 13.3–19.1% |
 | [25–30 October 2020](2020-10-30-BCS.html) | BCS <br> PMP | 17.6% | 16.4–18.9% | 16.0–19.3% | 15.7–19.6% | 15.2–20.3% |
@@ -66,19 +70,17 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0.3% | 100% |  |
 | 10.5–11.5% | 3% | 99.7% |  |
 | 11.5–12.5% | 9% | 97% |  |
-| 12.5–13.5% | 9% | 87% |  |
-| 13.5–14.5% | 5% | 78% |  |
-| 14.5–15.5% | 7% | 73% |  |
-| 15.5–16.5% | 12% | 67% |  |
-| 16.5–17.5% | 14% | 55% | Median |
-| 17.5–18.5% | 13% | 41% |  |
-| 18.5–19.5% | 9% | 28% |  |
-| 19.5–20.5% | 8% | 19% |  |
-| 20.5–21.5% | 7% | 11% |  |
-| 21.5–22.5% | 3% | 4% | Last Result |
-| 22.5–23.5% | 0.9% | 1.1% |  |
-| 23.5–24.5% | 0.2% | 0.2% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 12.5–13.5% | 10% | 88% |  |
+| 13.5–14.5% | 6% | 78% |  |
+| 14.5–15.5% | 7% | 71% |  |
+| 15.5–16.5% | 15% | 64% |  |
+| 16.5–17.5% | 21% | 49% | Median |
+| 17.5–18.5% | 18% | 28% |  |
+| 18.5–19.5% | 8% | 11% |  |
+| 19.5–20.5% | 2% | 3% |  |
+| 20.5–21.5% | 0.4% | 0.4% |  |
+| 21.5–22.5% | 0% | 0% | Last Result |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -89,7 +91,11 @@ Last result: **8** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–7 | 4–8 | 4–8 | 4–9 |
+| N/A | [Poll Average](average.html) | 6 | 4–7 | 4–7 | 4–7 | 4–7 |
+| [28–29 November 2020](2020-11-29-Sociopol.html) | Sociopol | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [22–28 November 2020](2020-11-28-IRSOP.html) | IRSOP | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [6–27 November 2020](2020-11-27-IMAS.html) | IMAS <br> Europa FM | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
+| [20–25 November 2020](2020-11-25-Verifield.html) | Verifield | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [11–18 November 2020](2020-11-18-ADS.html) | ADS <br> PER | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [1–10 November 2020](2020-11-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [25–30 October 2020](2020-10-30-BCS.html) | BCS <br> PMP | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
@@ -144,12 +150,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.3% | 100% |  |
-| 4 | 17% | 99.7% |  |
-| 5 | 21% | 83% |  |
-| 6 | 29% | 61% | Median |
-| 7 | 23% | 32% |  |
-| 8 | 9% | 9% | Last Result |
-| 9 | 0.6% | 0.6% |  |
-| 10 | 0% | 0% |  |
+| 4 | 18% | 99.7% |  |
+| 5 | 24% | 82% |  |
+| 6 | 43% | 58% | Median |
+| 7 | 14% | 15% |  |
+| 8 | 0.3% | 0.3% | Last Result |
+| 9 | 0% | 0% |  |
 
 

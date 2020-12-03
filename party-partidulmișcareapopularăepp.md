@@ -10,7 +10,11 @@ Last result: **5.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 4.3–7.9% | 4.0–8.3% | 3.8–8.6% | 3.5–9.1% |
+| N/A | [Poll Average](average.html) | 4.8% | 2.9–7.6% | 2.6–8.0% | 2.4–8.3% | 2.0–8.9% |
+| [28–29 November 2020](2020-11-29-Sociopol.html) | Sociopol | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
+| [22–28 November 2020](2020-11-28-IRSOP.html) | IRSOP | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.7% |
+| [6–27 November 2020](2020-11-27-IMAS.html) | IMAS <br> Europa FM | 4.6% | 3.8–5.5% | 3.6–5.8% | 3.4–6.0% | 3.1–6.5% |
+| [20–25 November 2020](2020-11-25-Verifield.html) | Verifield | 4.8% | 4.1–5.8% | 3.9–6.0% | 3.7–6.3% | 3.4–6.7% |
 | [11–18 November 2020](2020-11-18-ADS.html) | ADS <br> PER | 4.8% | 4.1–5.6% | 3.9–5.9% | 3.7–6.1% | 3.4–6.5% |
 | [1–10 November 2020](2020-11-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 7.0% | 6.1–8.1% | 5.9–8.5% | 5.6–8.7% | 5.2–9.3% |
 | [25–30 October 2020](2020-10-30-BCS.html) | BCS <br> PMP | 7.4% | 6.6–8.4% | 6.4–8.6% | 6.2–8.9% | 5.8–9.4% |
@@ -62,14 +66,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.7% | 100% |  |
-| 3.5–4.5% | 16% | 99.3% |  |
-| 4.5–5.5% | 27% | 83% |  |
-| 5.5–6.5% | 14% | 56% | Last Result, Median |
-| 6.5–7.5% | 24% | 42% |  |
-| 7.5–8.5% | 16% | 18% |  |
-| 8.5–9.5% | 2% | 3% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 4% | 100% |  |
+| 2.5–3.5% | 20% | 96% |  |
+| 3.5–4.5% | 20% | 76% |  |
+| 4.5–5.5% | 22% | 56% | Median |
+| 5.5–6.5% | 9% | 34% | Last Result |
+| 6.5–7.5% | 14% | 24% |  |
+| 7.5–8.5% | 9% | 10% |  |
+| 8.5–9.5% | 1.4% | 1.5% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
@@ -82,7 +87,11 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
+| [28–29 November 2020](2020-11-29-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
+| [22–28 November 2020](2020-11-28-IRSOP.html) | IRSOP | 0 | 0 | 0 | 0 | 0 |
+| [6–27 November 2020](2020-11-27-IMAS.html) | IMAS <br> Europa FM | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [20–25 November 2020](2020-11-25-Verifield.html) | Verifield | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [11–18 November 2020](2020-11-18-ADS.html) | ADS <br> PER | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [1–10 November 2020](2020-11-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [25–30 October 2020](2020-10-30-BCS.html) | BCS <br> PMP | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -136,10 +145,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 31% | 100% |  |
-| 1 | 8% | 69% |  |
-| 2 | 49% | 61% | Last Result, Median |
-| 3 | 12% | 12% |  |
+| 0 | 56% | 100% | Median |
+| 1 | 8% | 44% |  |
+| 2 | 29% | 36% | Last Result |
+| 3 | 7% | 7% |  |
 | 4 | 0% | 0% |  |
 
 
