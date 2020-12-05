@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
+| N/A | [Poll Average](average.html) | 4.9% | 2.6–7.7% | 2.4–8.1% | 2.3–8.4% | 2.0–9.0% |
+| [2–3 December 2020](2020-12-03-IRES.html) | IRES | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [28–29 November 2020](2020-11-29-Sociopol.html) | Sociopol | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
 | [22–28 November 2020](2020-11-28-IRSOP.html) | IRSOP | 0.0% | N/A | N/A | N/A | N/A |
 | [6–27 November 2020](2020-11-27-IMAS.html) | IMAS <br> Europa FM | 0.0% | N/A | N/A | N/A | N/A |
@@ -68,15 +69,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 2% | 100% |  |
-| 5.5–6.5% | 25% | 98% |  |
-| 6.5–7.5% | 47% | 73% | Median |
-| 7.5–8.5% | 23% | 26% |  |
-| 8.5–9.5% | 3% | 4% |  |
-| 9.5–10.5% | 0.2% | 0.2% |  |
+| 1.5–2.5% | 8% | 100% |  |
+| 2.5–3.5% | 33% | 92% |  |
+| 3.5–4.5% | 9% | 59% |  |
+| 4.5–5.5% | 1.4% | 50% | Median |
+| 5.5–6.5% | 12% | 49% |  |
+| 6.5–7.5% | 23% | 36% |  |
+| 7.5–8.5% | 11% | 13% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -88,7 +89,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
+| [2–3 December 2020](2020-12-03-IRES.html) | IRES | 0 | 0 | 0 | 0 | 0 |
 | [28–29 November 2020](2020-11-29-Sociopol.html) | Sociopol | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [22–28 November 2020](2020-11-28-IRSOP.html) | IRSOP |  |  |  |  |  |
 | [6–27 November 2020](2020-11-27-IMAS.html) | IMAS <br> Europa FM |  |  |  |  |  |
@@ -146,10 +148,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% | Last Result |
-| 1 | 1.0% | 99.7% |  |
-| 2 | 85% | 98.7% | Median |
-| 3 | 14% | 14% |  |
+| 0 | 50% | 100% | Last Result, Median |
+| 1 | 0.5% | 50% |  |
+| 2 | 43% | 49% |  |
+| 3 | 7% | 7% |  |
 | 4 | 0% | 0% |  |
 
 
