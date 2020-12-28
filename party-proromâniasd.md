@@ -10,7 +10,7 @@ Last result: **6.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.7% | 1.2–12.3% | 1.0–13.2% | 0.8–13.8% | 0.6–14.8% |
+| N/A | [Poll Average](average.html) | 1.6% | 0.8–2.4% | 0.7–2.7% | 0.6–2.8% | 0.5–3.2% |
 | [17–21 December 2020](2020-12-21-CURS.html) | CURS | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [10–20 December 2020](2020-12-20-Avangarde.html) | Avangarde | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
 | [2–3 December 2020](2020-12-03-IRES.html) | IRES | 7.0% | 6.1–8.1% | 5.9–8.5% | 5.6–8.7% | 5.2–9.3% |
@@ -69,24 +69,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.4% | 100% |  |
-| 0.5–1.5% | 14% | 99.6% |  |
-| 1.5–2.5% | 12% | 86% |  |
-| 2.5–3.5% | 2% | 73% |  |
-| 3.5–4.5% | 0.2% | 71% |  |
-| 4.5–5.5% | 4% | 71% |  |
-| 5.5–6.5% | 14% | 67% | Last Result |
-| 6.5–7.5% | 17% | 53% | Median |
-| 7.5–8.5% | 10% | 37% |  |
-| 8.5–9.5% | 7% | 27% |  |
-| 9.5–10.5% | 5% | 20% |  |
-| 10.5–11.5% | 3% | 15% |  |
-| 11.5–12.5% | 4% | 13% |  |
-| 12.5–13.5% | 5% | 9% |  |
-| 13.5–14.5% | 3% | 4% |  |
-| 14.5–15.5% | 0.7% | 0.8% |  |
-| 15.5–16.5% | 0.1% | 0.1% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 0.0–0.5% | 1.5% | 100% |  |
+| 0.5–1.5% | 48% | 98.5% |  |
+| 1.5–2.5% | 43% | 50% | Median |
+| 2.5–3.5% | 7% | 7% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0% |  |
+| 5.5–6.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -97,7 +86,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 0–4 | 0–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [17–21 December 2020](2020-12-21-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
 | [10–20 December 2020](2020-12-20-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
 | [2–3 December 2020](2020-12-03-IRES.html) | IRES | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -158,13 +147,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 30% | 100% |  |
-| 1 | 1.3% | 70% |  |
-| 2 | 36% | 69% | Last Result, Median |
-| 3 | 18% | 33% |  |
-| 4 | 10% | 15% |  |
-| 5 | 5% | 5% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 0 | 100% | 100% | Median |
+| 1 | 0% | 0% |  |
+| 2 | 0% | 0% | Last Result |
 
 

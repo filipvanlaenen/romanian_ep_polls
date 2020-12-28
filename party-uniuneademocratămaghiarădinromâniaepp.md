@@ -10,7 +10,7 @@ Last result: **5.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 3.2–6.2% | 2.8–6.6% | 2.6–6.9% | 2.2–7.6% |
+| N/A | [Poll Average](average.html) | 4.5% | 3.6–5.7% | 3.3–6.1% | 3.1–6.4% | 2.8–6.9% |
 | [17–21 December 2020](2020-12-21-CURS.html) | CURS | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
 | [10–20 December 2020](2020-12-20-Avangarde.html) | Avangarde | 5.0% | 4.2–6.1% | 3.9–6.4% | 3.7–6.6% | 3.4–7.2% |
 | [2–3 December 2020](2020-12-03-IRES.html) | IRES | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
@@ -69,14 +69,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 13% | 98% |  |
-| 3.5–4.5% | 25% | 85% |  |
-| 4.5–5.5% | 35% | 60% | Last Result, Median |
-| 5.5–6.5% | 21% | 26% |  |
-| 6.5–7.5% | 5% | 5% |  |
-| 7.5–8.5% | 0.5% | 0.5% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 10% | 99.9% |  |
+| 3.5–4.5% | 41% | 90% |  |
+| 4.5–5.5% | 35% | 49% | Last Result, Median |
+| 5.5–6.5% | 12% | 14% |  |
+| 6.5–7.5% | 1.5% | 2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -149,10 +148,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 56% | 100% | Median |
-| 1 | 12% | 44% |  |
-| 2 | 32% | 32% | Last Result |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
+| 0 | 71% | 100% | Median |
+| 1 | 10% | 29% |  |
+| 2 | 19% | 19% | Last Result |
+| 3 | 0% | 0% |  |
 
 
