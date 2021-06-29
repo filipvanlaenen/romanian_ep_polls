@@ -10,19 +10,19 @@ Last result: **27.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.7% | 21.0–26.6% | 20.5–27.2% | 20.0–27.7% | 19.2–28.7% |
+| N/A | [Poll Average](average.html) | 23.6% | 21.2–27.5% | 20.6–28.2% | 20.2–28.8% | 19.4–29.9% |
 | [1–30 June 2021](2021-06-30-INSOMAR.html) | INSOMAR <br> Realitatea.net | 25.4% | 23.7–27.2% | 23.3–27.8% | 22.9–28.2% | 22.1–29.1% |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 22.0% | 20.5–23.7% | 20.0–24.2% | 19.6–24.6% | 18.9–25.4% |
-| [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 22.2% | N/A | N/A | N/A | N/A |
-| [1–31 May 2021](2021-05-31-IRES.html) | IRES | 27.2% | N/A | N/A | N/A | N/A |
-| [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 23.0% | N/A | N/A | N/A | N/A |
-| [7 May 2021](2021-05-07-INSOMAR.html) | INSOMAR <br> Realitatea.net | 23.4% | N/A | N/A | N/A | N/A |
-| [14–17 April 2021](2021-04-17-CURS.html) | CURS | 21.0% | N/A | N/A | N/A | N/A |
+| [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 22.2% | 20.6–23.9% | 20.2–24.3% | 19.8–24.7% | 19.1–25.6% |
+| [1–31 May 2021](2021-05-31-IRES.html) | IRES | 27.2% | 25.5–29.0% | 25.0–29.5% | 24.6–29.9% | 23.8–30.8% |
+| [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 23.0% | 21.4–24.7% | 21.0–25.2% | 20.6–25.6% | 19.9–26.4% |
+| [7 May 2021](2021-05-07-INSOMAR.html) | INSOMAR <br> Realitatea.net | 23.4% | 21.8–25.2% | 21.3–25.7% | 20.9–26.1% | 20.1–26.9% |
+| [14–17 April 2021](2021-04-17-CURS.html) | CURS | 21.0% | 19.4–22.6% | 19.0–23.1% | 18.7–23.5% | 18.0–24.3% |
 | [30 March–11 April 2021](2021-04-11-BCS.html) | BCS | 22.3% | 20.9–23.8% | 20.6–24.2% | 20.2–24.6% | 19.6–25.3% |
 | [12–28 March 2021](2021-03-28-Sociopol.html) | Sociopol | 26.0% | 24.2–28.0% | 23.6–28.5% | 23.2–29.0% | 22.3–30.0% |
 | [1–12 March 2021](2021-03-12-INSCOP.html) | INSCOP | 26.3% | 24.6–28.0% | 24.2–28.5% | 23.7–29.0% | 23.0–29.8% |
-| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 25.0% | N/A | N/A | N/A | N/A |
-| [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net | 27.0% | N/A | N/A | N/A | N/A |
+| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 25.0% | 23.4–26.7% | 22.9–27.2% | 22.5–27.6% | 21.8–28.5% |
+| [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net | 27.0% | 25.3–28.8% | 24.8–29.3% | 24.4–29.8% | 23.5–30.7% |
 | [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde | 23.9% | 22.0–26.1% | 21.4–26.7% | 20.9–27.2% | 20.0–28.3% |
 | [11–15 January 2021](2021-01-15-CURS.html) | CURS | 26.0% | 24.4–27.8% | 23.9–28.2% | 23.5–28.7% | 22.7–29.5% |
 | [17–21 December 2020](2020-12-21-CURS.html) | CURS | 26.0% | 24.4–27.8% | 23.9–28.2% | 23.5–28.7% | 22.7–29.5% |
@@ -83,21 +83,21 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0.1% | 100% |  |
-| 18.5–19.5% | 1.0% | 99.9% |  |
-| 19.5–20.5% | 5% | 98.9% |  |
-| 20.5–21.5% | 12% | 94% |  |
-| 21.5–22.5% | 16% | 83% |  |
-| 22.5–23.5% | 14% | 67% |  |
-| 23.5–24.5% | 13% | 52% | Median |
-| 24.5–25.5% | 15% | 39% |  |
-| 25.5–26.5% | 13% | 24% |  |
-| 26.5–27.5% | 7% | 11% | Last Result |
-| 27.5–28.5% | 3% | 3% |  |
-| 28.5–29.5% | 0.6% | 0.7% |  |
-| 29.5–30.5% | 0.1% | 0.1% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 18.5–19.5% | 0.7% | 99.9% |  |
+| 19.5–20.5% | 4% | 99.3% |  |
+| 20.5–21.5% | 11% | 96% |  |
+| 21.5–22.5% | 17% | 85% |  |
+| 22.5–23.5% | 17% | 67% |  |
+| 23.5–24.5% | 13% | 51% | Median |
+| 24.5–25.5% | 10% | 38% |  |
+| 25.5–26.5% | 10% | 28% |  |
+| 26.5–27.5% | 9% | 18% | Last Result |
+| 27.5–28.5% | 6% | 9% |  |
+| 28.5–29.5% | 3% | 3% |  |
+| 29.5–30.5% | 0.7% | 0.9% |  |
+| 30.5–31.5% | 0.1% | 0.2% |  |
+| 31.5–32.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -108,19 +108,19 @@ Last result: **10** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [1–30 June 2021](2021-06-30-INSOMAR.html) | INSOMAR <br> Realitatea.net | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
-| [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol |  |  |  |  |  |
-| [1–31 May 2021](2021-05-31-IRES.html) | IRES |  |  |  |  |  |
-| [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde |  |  |  |  |  |
-| [7 May 2021](2021-05-07-INSOMAR.html) | INSOMAR <br> Realitatea.net |  |  |  |  |  |
-| [14–17 April 2021](2021-04-17-CURS.html) | CURS |  |  |  |  |  |
+| [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| [1–31 May 2021](2021-05-31-IRES.html) | IRES | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
+| [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
+| [7 May 2021](2021-05-07-INSOMAR.html) | INSOMAR <br> Realitatea.net | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
+| [14–17 April 2021](2021-04-17-CURS.html) | CURS | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [30 March–11 April 2021](2021-04-11-BCS.html) | BCS | 8 | 8–9 | 8–9 | 7–10 | 7–10 |
 | [12–28 March 2021](2021-03-28-Sociopol.html) | Sociopol | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
 | [1–12 March 2021](2021-03-12-INSCOP.html) | INSCOP | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
-| [22–26 February 2021](2021-02-26-CURS.html) | CURS |  |  |  |  |  |
-| [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net |  |  |  |  |  |
+| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
+| [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [11–15 January 2021](2021-01-15-CURS.html) | CURS | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
 | [17–21 December 2020](2020-12-21-CURS.html) | CURS | 10 | 9–10 | 9–10 | 9–11 | 8–11 |
@@ -183,11 +183,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 2% | 100% |  |
-| 8 | 29% | 98% |  |
-| 9 | 55% | 69% | Median |
-| 10 | 14% | 14% | Last Result |
-| 11 | 0.2% | 0.2% |  |
+| 6 | 0.1% | 100% |  |
+| 7 | 7% | 99.9% |  |
+| 8 | 30% | 93% |  |
+| 9 | 42% | 63% | Median |
+| 10 | 18% | 21% | Last Result |
+| 11 | 2% | 2% |  |
 | 12 | 0% | 0% |  |
 
 
