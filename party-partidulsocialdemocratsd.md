@@ -117,11 +117,11 @@ Last result: **9** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 8–14 | 8–14 | 7–15 | 7–15 |
+| N/A | [Poll Average](average.html) | 13 | 8–14 | 8–14 | 8–15 | 7–15 |
 | [1–30 June 2021](2021-06-30-INSOMAR.html) | INSOMAR <br> Realitatea.net | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
-| [11–18 June 2021](2021-06-18-CURS.html) | CURS | 14 | 13–15 | 12–15 | 12–15 | 12–15 |
-| [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 13 | 12–14 | 12–14 | 12–14 | 12–15 |
-| [1–31 May 2021](2021-05-31-IRES.html) | IRES | 13 | 12–13 | 12–14 | 11–14 | 11–14 |
+| [11–18 June 2021](2021-06-18-CURS.html) | CURS | 13 | 13–14 | 12–15 | 12–15 | 12–15 |
+| [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 13 | 13–14 | 12–14 | 12–15 | 12–15 |
+| [1–31 May 2021](2021-05-31-IRES.html) | IRES | 13 | 12–13 | 12–14 | 12–14 | 11–14 |
 | [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 14 | 13–14 | 12–15 | 12–15 | 12–15 |
 | [7 May 2021](2021-05-07-INSOMAR.html) | INSOMAR <br> Realitatea.net | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [14–17 April 2021](2021-04-17-CURS.html) | CURS | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
@@ -192,15 +192,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 3% | 100% |  |
-| 8 | 13% | 97% |  |
-| 9 | 4% | 84% | Last Result |
+| 7 | 2% | 100% |  |
+| 8 | 13% | 98% |  |
+| 9 | 5% | 85% | Last Result |
 | 10 | 0.2% | 80% |  |
-| 11 | 0.7% | 80% |  |
-| 12 | 15% | 79% |  |
-| 13 | 35% | 65% | Median |
-| 14 | 26% | 30% |  |
+| 11 | 0.6% | 80% |  |
+| 12 | 13% | 79% |  |
+| 13 | 39% | 66% | Median |
+| 14 | 24% | 27% |  |
 | 15 | 4% | 4% |  |
-| 16 | 0% | 0% |  |
+| 16 | 0.1% | 0.1% |  |
+| 17 | 0% | 0% | Majority |
 
 

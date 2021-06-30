@@ -109,11 +109,11 @@ Last result: **8** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
 | [1–30 June 2021](2021-06-30-INSOMAR.html) | INSOMAR <br> Realitatea.net | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| [1–31 May 2021](2021-05-31-IRES.html) | IRES | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [1–31 May 2021](2021-05-31-IRES.html) | IRES | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [7 May 2021](2021-05-07-INSOMAR.html) | INSOMAR <br> Realitatea.net | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [14–17 April 2021](2021-04-17-CURS.html) | CURS | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -184,11 +184,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 11% | 100% |  |
-| 4 | 15% | 89% |  |
-| 5 | 56% | 74% | Median |
-| 6 | 18% | 18% |  |
-| 7 | 0.4% | 0.4% |  |
+| 3 | 10% | 100% |  |
+| 4 | 16% | 90% |  |
+| 5 | 55% | 74% | Median |
+| 6 | 18% | 19% |  |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% | Last Result |
 
 

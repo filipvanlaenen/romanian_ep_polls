@@ -110,10 +110,10 @@ Last result: **10** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [1–30 June 2021](2021-06-30-INSOMAR.html) | INSOMAR <br> Realitatea.net | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
-| [11–18 June 2021](2021-06-18-CURS.html) | CURS | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
-| [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| [1–31 May 2021](2021-05-31-IRES.html) | IRES | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
-| [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
+| [11–18 June 2021](2021-06-18-CURS.html) | CURS | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
+| [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [1–31 May 2021](2021-05-31-IRES.html) | IRES | 10 | 9–10 | 9–11 | 9–11 | 8–11 |
+| [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 8 | 8–9 | 8–9 | 7–10 | 7–10 |
 | [7 May 2021](2021-05-07-INSOMAR.html) | INSOMAR <br> Realitatea.net | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [14–17 April 2021](2021-04-17-CURS.html) | CURS | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [30 March–11 April 2021](2021-04-11-BCS.html) | BCS | 8 | 8–9 | 8–9 | 7–10 | 7–10 |
@@ -184,10 +184,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.1% | 100% |  |
-| 7 | 7% | 99.9% |  |
-| 8 | 30% | 93% |  |
-| 9 | 42% | 63% | Median |
-| 10 | 18% | 21% | Last Result |
+| 7 | 6% | 99.9% |  |
+| 8 | 37% | 94% |  |
+| 9 | 38% | 57% | Median |
+| 10 | 17% | 19% | Last Result |
 | 11 | 2% | 2% |  |
 | 12 | 0% | 0% |  |
 

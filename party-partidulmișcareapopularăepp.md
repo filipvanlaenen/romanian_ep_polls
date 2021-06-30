@@ -104,7 +104,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [1–30 June 2021](2021-06-30-INSOMAR.html) | INSOMAR <br> Realitatea.net |  |  |  |  |  |
-| [11–18 June 2021](2021-06-18-CURS.html) | CURS | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [11–18 June 2021](2021-06-18-CURS.html) | CURS | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES |  |  |  |  |  |
 | [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
@@ -177,9 +177,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Median |
-| 1 | 0.1% | 12% |  |
-| 2 | 12% | 12% | Last Result |
+| 0 | 83% | 100% | Median |
+| 1 | 0.2% | 17% |  |
+| 2 | 17% | 17% | Last Result |
 | 3 | 0% | 0% |  |
 
 

@@ -32,8 +32,8 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#partidul-social-democrat-(s&d)">Partidul Social Democrat (S&D)</a> | 9 | 14 | 13–14 |12–15 |12–15 |12–15 |
-| <a href="#partidul-național-liberal-(epp)">Partidul Național Liberal (EPP)</a> | 10 | 9 | 8–9 |8–9 |8–10 |7–10 |
-| <a href="#alianța-pentru-unirea-românilor-(ecr)">Alianța pentru Unirea Românilor (ECR)</a> | 0 | 5 | 5–6 |5–6 |5–6 |4–6 |
+| <a href="#partidul-național-liberal-(epp)">Partidul Național Liberal (EPP)</a> | 10 | 8 | 8–9 |8–9 |7–10 |7–10 |
+| <a href="#alianța-pentru-unirea-românilor-(ecr)">Alianța pentru Unirea Românilor (ECR)</a> | 0 | 5 | 5–6 |5–6 |4–6 |4–6 |
 | <a href="#alianța-2020-usr-plus-(re)">Alianța 2020 USR-PLUS (RE)</a> | 8 | 5 | 4–5 |4–6 |4–6 |4–6 |
 | <a href="#uniunea-democrată-maghiară-din-românia-(epp)">Uniunea Democrată Maghiară din România (EPP)</a> | 2 | 0 | 0–2 |0–2 |0–2 |0–2 |
 | <a href="#partidul-mișcarea-populară-(epp)">Partidul Mișcarea Populară (EPP)</a> | 2 | 0 | 0 |0 |0 |0 |
@@ -50,11 +50,11 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0% | 100% | Last Result |
 | 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 8% | 100% |  |
-| 13 | 33% | 92% |  |
-| 14 | 52% | 59% | Median |
-| 15 | 7% | 7% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 7% | 99.9% |  |
+| 13 | 42% | 93% |  |
+| 14 | 46% | 51% | Median |
+| 15 | 5% | 5% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% | Majority |
 
@@ -66,10 +66,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 2% | 100% |  |
-| 8 | 40% | 98% |  |
-| 9 | 54% | 58% | Median |
-| 10 | 4% | 4% | Last Result |
+| 7 | 4% | 100% |  |
+| 8 | 55% | 96% | Median |
+| 9 | 38% | 41% |  |
+| 10 | 3% | 3% | Last Result |
 | 11 | 0% | 0% |  |
 
 ### Alianța pentru Unirea Românilor (ECR)
@@ -84,9 +84,9 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 2% | 100% |  |
-| 5 | 72% | 98% | Median |
-| 6 | 25% | 25% |  |
+| 4 | 4% | 100% |  |
+| 5 | 62% | 96% | Median |
+| 6 | 34% | 34% |  |
 | 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
 
@@ -98,8 +98,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 14% | 100% |  |
-| 5 | 77% | 86% | Median |
+| 4 | 13% | 100% |  |
+| 5 | 77% | 87% | Median |
 | 6 | 9% | 9% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% | Last Result |
@@ -112,9 +112,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 66% | 100% | Median |
-| 1 | 5% | 34% |  |
-| 2 | 30% | 30% | Last Result |
+| 0 | 51% | 100% | Median |
+| 1 | 13% | 49% |  |
+| 2 | 35% | 35% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### Partidul Mișcarea Populară (EPP)
@@ -162,7 +162,7 @@
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Partidul Social Democrat (S&D) – PRO România (S&D) – Partidul Puterii Umaniste (social-liberal) (S&D) | 11 | 14 | 0% | 13–14 | 12–15 | 12–15 | 12–15 |
 | Partidul Național Liberal (EPP) – Uniunea Democrată Maghiară din România (EPP) – Partidul Mișcarea Populară (EPP) | 14 | 9 | 0% | 8–10 | 8–11 | 8–11 | 7–11 |
-| Alianța pentru Unirea Românilor (ECR) | 0 | 5 | 0% | 5–6 | 5–6 | 5–6 | 4–6 |
+| Alianța pentru Unirea Românilor (ECR) | 0 | 5 | 0% | 5–6 | 5–6 | 4–6 | 4–6 |
 
 ### Partidul Social Democrat (S&D) – PRO România (S&D) – Partidul Puterii Umaniste (social-liberal) (S&D)
 
@@ -170,11 +170,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0% | 100% | Last Result |
-| 12 | 8% | 100% |  |
-| 13 | 33% | 92% |  |
-| 14 | 52% | 59% | Median |
-| 15 | 7% | 7% |  |
+| 11 | 0.1% | 100% | Last Result |
+| 12 | 7% | 99.9% |  |
+| 13 | 42% | 93% |  |
+| 14 | 46% | 51% | Median |
+| 15 | 5% | 5% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% | Majority |
 
@@ -184,12 +184,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.6% | 100% |  |
-| 8 | 16% | 99.4% |  |
-| 9 | 51% | 84% | Median |
-| 10 | 24% | 33% |  |
-| 11 | 8% | 8% |  |
-| 12 | 0.3% | 0.3% |  |
+| 7 | 0.5% | 100% |  |
+| 8 | 20% | 99.5% | Median |
+| 9 | 41% | 79% |  |
+| 10 | 31% | 38% |  |
+| 11 | 7% | 7% |  |
+| 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 | 14 | 0% | 0% | Last Result |
 
@@ -203,9 +203,9 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 2% | 100% |  |
-| 5 | 72% | 98% | Median |
-| 6 | 25% | 25% |  |
+| 4 | 4% | 100% |  |
+| 5 | 62% | 96% | Median |
+| 6 | 34% | 34% |  |
 | 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
 
@@ -221,6 +221,6 @@
 ### Calculations
 
 + **Sample size:** 1100
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.89%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.80%
 
