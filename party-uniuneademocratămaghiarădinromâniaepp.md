@@ -109,7 +109,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES | 0 | 0 | 0 | 0 | 0 |
 | [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [7 May 2021](2021-05-07-INSOMAR.html) | INSOMAR <br> Realitatea.net | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [14–17 April 2021](2021-04-17-CURS.html) | CURS | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [14–17 April 2021](2021-04-17-CURS.html) | CURS | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | [30 March–11 April 2021](2021-04-11-BCS.html) | BCS | 0 | 0 | 0 | 0–2 | 0–2 |
 | [12–28 March 2021](2021-03-28-Sociopol.html) | Sociopol | 0 | 0 | 0–1 | 0–2 | 0–2 |
 | [1–12 March 2021](2021-03-12-INSCOP.html) | INSCOP |  |  |  |  |  |
