@@ -13,6 +13,7 @@ Last result: **5.3%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 4.8% | 2.9–6.3% | 2.6–6.7% | 2.4–7.1% | 2.1–7.7% |
 | [1–30 June 2021](2021-06-30-INSOMAR.html) | INSOMAR <br> Realitatea.net | 5.2% | 4.5–6.2% | 4.2–6.5% | 4.0–6.8% | 3.7–7.3% |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
+| [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 6.1% | 5.3–7.1% | 5.0–7.4% | 4.8–7.7% | 4.5–8.2% |
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.1–4.1% | 1.8–4.5% |
 | [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 5.0% | 4.3–6.0% | 4.0–6.2% | 3.9–6.5% | 3.5–7.0% |
@@ -105,6 +106,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [1–30 June 2021](2021-06-30-INSOMAR.html) | INSOMAR <br> Realitatea.net | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 0 | 0 | 0–2 | 0–2 | 0–2 |
+| [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 2 | 1–2 | 1–2 | 0–2 | 0–3 |
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES | 0 | 0 | 0 | 0 | 0 |
 | [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 0 | 0–2 | 0–2 | 0–2 | 0–2 |

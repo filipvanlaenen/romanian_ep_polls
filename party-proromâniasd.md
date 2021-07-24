@@ -10,9 +10,10 @@ Last result: **6.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.7–5.1% | 1.5–5.6% | 1.4–6.0% | 1.2–6.6% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.7–5.1% | 1.5–5.6% | 1.4–5.9% | 1.2–6.5% |
 | [1–30 June 2021](2021-06-30-INSOMAR.html) | INSOMAR <br> Realitatea.net | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
+| [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP | 4.3% | 3.6–5.2% | 3.4–5.4% | 3.2–5.6% | 2.9–6.1% |
 | [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 5.1% | 4.3–6.1% | 4.1–6.3% | 3.9–6.6% | 3.6–7.0% |
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.1–4.1% | 1.8–4.5% |
 | [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
@@ -84,13 +85,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 49% | 94% | Median |
-| 2.5–3.5% | 22% | 45% |  |
-| 3.5–4.5% | 6% | 23% |  |
-| 4.5–5.5% | 11% | 16% |  |
-| 5.5–6.5% | 5% | 6% | Last Result |
-| 6.5–7.5% | 0.5% | 0.5% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 41% | 95% |  |
+| 2.5–3.5% | 20% | 54% | Median |
+| 3.5–4.5% | 15% | 34% |  |
+| 4.5–5.5% | 15% | 20% |  |
+| 5.5–6.5% | 5% | 5% | Last Result |
+| 6.5–7.5% | 0.4% | 0.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -105,6 +106,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [1–30 June 2021](2021-06-30-INSOMAR.html) | INSOMAR <br> Realitatea.net | 0 | 0 | 0 | 0 | 0 |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
+| [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES | 0 | 0 | 0 | 0 | 0 |
 | [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
