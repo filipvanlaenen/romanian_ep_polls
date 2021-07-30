@@ -10,9 +10,11 @@ Last result: **5.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 2.9–6.3% | 2.6–6.7% | 2.4–7.1% | 2.1–7.7% |
-| [1–30 June 2021](2021-06-30-INSOMAR.html) | INSOMAR <br> Realitatea.net | 5.2% | 4.5–6.2% | 4.2–6.5% | 4.0–6.8% | 3.7–7.3% |
+| N/A | [Poll Average](average.html) | 4.6% | 2.8–7.4% | 2.6–7.9% | 2.4–8.3% | 2.0–8.9% |
+| [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 7.2% | 6.3–8.3% | 6.0–8.6% | 5.8–8.9% | 5.4–9.4% |
+| [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 5.1% | 4.4–6.1% | 4.1–6.4% | 3.9–6.7% | 3.6–7.2% |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
+| [1–15 June 2021](2021-06-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 5.2% | 4.5–6.2% | 4.2–6.5% | 4.0–6.8% | 3.7–7.3% |
 | [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 6.1% | 5.3–7.1% | 5.0–7.4% | 4.8–7.7% | 4.5–8.2% |
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.1–4.1% | 1.8–4.5% |
@@ -85,14 +87,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 17% | 96% |  |
-| 3.5–4.5% | 22% | 79% |  |
-| 4.5–5.5% | 29% | 57% | Last Result, Median |
-| 5.5–6.5% | 21% | 28% |  |
-| 6.5–7.5% | 6% | 7% |  |
-| 7.5–8.5% | 0.7% | 0.7% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 21% | 95% |  |
+| 3.5–4.5% | 22% | 74% |  |
+| 4.5–5.5% | 19% | 52% | Last Result, Median |
+| 5.5–6.5% | 12% | 33% |  |
+| 6.5–7.5% | 13% | 21% |  |
+| 7.5–8.5% | 7% | 9% |  |
+| 8.5–9.5% | 1.3% | 1.4% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -103,9 +107,11 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [1–30 June 2021](2021-06-30-INSOMAR.html) | INSOMAR <br> Realitatea.net | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
+| [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 0 | 0 | 0–2 | 0–2 | 0–2 |
+| [1–15 June 2021](2021-06-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 2 | 1–2 | 1–2 | 0–2 | 0–3 |
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES | 0 | 0 | 0 | 0 | 0 |
@@ -179,10 +185,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 56% | 100% | Median |
-| 1 | 9% | 44% |  |
-| 2 | 34% | 34% | Last Result |
-| 3 | 0.2% | 0.2% |  |
+| 0 | 58% | 100% | Median |
+| 1 | 8% | 42% |  |
+| 2 | 29% | 34% | Last Result |
+| 3 | 5% | 5% |  |
 | 4 | 0% | 0% |  |
 
 
