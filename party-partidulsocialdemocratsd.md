@@ -119,7 +119,7 @@ Last result: **9** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 11–14 | 11–14 | 10–15 | 10–15 |
 | [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
-| [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
+| [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 13 | 12–14 | 12–14 | 12–15 | 12–15 |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 13 | 13–14 | 12–15 | 12–15 | 12–15 |
 | [1–15 June 2021](2021-06-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
@@ -131,8 +131,8 @@ Last result: **9** seats (General Election of 26 May 2019)
 | [30 March–11 April 2021](2021-04-11-BCS.html) | BCS | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [12–28 March 2021](2021-03-28-Sociopol.html) | Sociopol | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [1–12 March 2021](2021-03-12-INSCOP.html) | INSCOP | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
-| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 14 | 13–14 | 13–15 | 12–15 | 12–15 |
-| [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
+| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 13 | 13–14 | 13–15 | 12–15 | 12–15 |
+| [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net | 10 | 10–11 | 9–11 | 9–12 | 9–12 |
 | [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [11–15 January 2021](2021-01-15-CURS.html) | CURS | 13 | 12–14 | 12–14 | 11–14 | 11–14 |
 | [17–21 December 2020](2020-12-21-CURS.html) | CURS | 13 | 12–14 | 12–14 | 12–14 | 12–15 |

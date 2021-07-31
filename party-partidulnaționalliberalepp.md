@@ -119,7 +119,7 @@ Last result: **10** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 5–10 | 5–11 | 4–11 | 4–11 |
+| N/A | [Poll Average](average.html) | 9 | 5–10 | 5–11 | 5–11 | 4–11 |
 | [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
@@ -197,9 +197,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 3% | 100% |  |
-| 5 | 13% | 97% |  |
-| 6 | 4% | 84% |  |
+| 4 | 2% | 100% |  |
+| 5 | 15% | 98% |  |
+| 6 | 3% | 83% |  |
 | 7 | 0.9% | 80% |  |
 | 8 | 9% | 79% |  |
 | 9 | 25% | 70% | Median |

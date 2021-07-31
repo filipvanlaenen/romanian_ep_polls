@@ -130,7 +130,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 March–11 April 2021](2021-04-11-BCS.html) | BCS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12–28 March 2021](2021-03-28-Sociopol.html) | Sociopol | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [1–12 March 2021](2021-03-12-INSCOP.html) | INSCOP | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [11–15 January 2021](2021-01-15-CURS.html) | CURS | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
@@ -199,8 +199,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 15% | 100% |  |
 | 4 | 28% | 85% |  |
-| 5 | 52% | 56% | Median |
-| 6 | 4% | 4% |  |
+| 5 | 52% | 57% | Median |
+| 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
 
 

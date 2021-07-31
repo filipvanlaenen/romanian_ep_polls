@@ -126,7 +126,7 @@ Last result: **8** seats (General Election of 26 May 2019)
 | [30 March–11 April 2021](2021-04-11-BCS.html) | BCS | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [12–28 March 2021](2021-03-28-Sociopol.html) | Sociopol | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [1–12 March 2021](2021-03-12-INSCOP.html) | INSCOP | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [11–15 January 2021](2021-01-15-CURS.html) | CURS | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
