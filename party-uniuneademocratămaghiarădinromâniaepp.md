@@ -10,7 +10,9 @@ Last result: **5.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 2.8–7.4% | 2.6–7.9% | 2.4–8.3% | 2.0–8.9% |
+| N/A | [Poll Average](average.html) | 5.4% | 4.4–7.4% | 4.1–7.9% | 3.9–8.3% | 3.6–8.9% |
+| [12–20 August 2021](2021-08-20-CURS.html) | CURS | 5.0% | 4.3–6.0% | 4.0–6.2% | 3.9–6.5% | 3.5–7.0% |
+| [15–19 August 2021](2021-08-19-IRES.html) | IRES | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.4–7.0% |
 | [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 7.2% | 6.3–8.3% | 6.0–8.6% | 5.8–8.9% | 5.4–9.4% |
 | [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 5.1% | 4.4–6.1% | 4.1–6.4% | 3.9–6.7% | 3.6–7.2% |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
@@ -86,13 +88,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 5% | 100% |  |
-| 2.5–3.5% | 21% | 95% |  |
-| 3.5–4.5% | 22% | 74% |  |
-| 4.5–5.5% | 19% | 52% | Last Result, Median |
-| 5.5–6.5% | 12% | 33% |  |
-| 6.5–7.5% | 13% | 21% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.4% | 100% |  |
+| 3.5–4.5% | 15% | 99.6% |  |
+| 4.5–5.5% | 40% | 84% | Last Result, Median |
+| 5.5–6.5% | 22% | 44% |  |
+| 6.5–7.5% | 13% | 22% |  |
 | 7.5–8.5% | 7% | 9% |  |
 | 8.5–9.5% | 1.3% | 1.4% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
@@ -107,7 +108,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 2 | 0–2 | 0–3 | 0–3 | 0–3 |
+| [12–20 August 2021](2021-08-20-CURS.html) | CURS | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [15–19 August 2021](2021-08-19-IRES.html) | IRES | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 0 | 0 | 0–2 | 0–2 | 0–2 |
@@ -185,9 +188,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 58% | 100% | Median |
-| 1 | 8% | 42% |  |
-| 2 | 29% | 34% | Last Result |
+| 0 | 32% | 100% |  |
+| 1 | 15% | 68% |  |
+| 2 | 48% | 53% | Last Result, Median |
 | 3 | 5% | 5% |  |
 | 4 | 0% | 0% |  |
 
