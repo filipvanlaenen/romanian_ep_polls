@@ -5,6 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PNL | PSD | A2020 | PRO | PMP | UDMR | ALDE | PLUS | USR | AUR | PPU-SL |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 27.0% <br> 10 | 22.5% <br> 9 | 22.4% <br> 8 | 6.4% <br> 2 | 5.8% <br> 2 | 5.3% <br> 2 | 4.1% <br> 0 | 22.4% <br> 4 | 22.4% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [8–10 September 2021](2021-09-10-CURS.html) | CURS | 17–22% <br> 6–8 | 33–39% <br> 12–16 | 9–13% <br> 3–5 | 4–7% <br> 0–2 | 4–7% <br> 0–2 | 4–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 12–17% <br> 4–6 | 3–5% <br> 0–2 |
+| [3–5 September 2021](2021-09-05-CURS.html) | CURS | 17–23% <br> 6–9 | 32–38% <br> 12–15 | 9–13% <br> 3–5 | 5–8% <br> 0–3 | 4–7% <br> 0–2 | 4–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 3–5 | 3–6% <br> 0–1 |
+| [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 18–24% <br> 6–9 | 32–38% <br> 12–15 | 12–16% <br> 4–6 | 1–3% <br> 0 | 4–7% <br> 0–2 | 4–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 13–17% <br> 5–6 | 1–2% <br> 0 |
 | [12–20 August 2021](2021-08-20-CURS.html) | CURS | 18–22% <br> 6–9 | 31–37% <br> 12–15 | 10–14% <br> 4–5 | 5–8% <br> 0–3 | 4–6% <br> 0–2 | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 3–5 | 3–5% <br> 0–2 |
 | [15–19 August 2021](2021-08-19-IRES.html) | IRES | 24–30% <br> 9–11 | 32–38% <br> 12–14 | 12–16% <br> 4–6 | 2–4% <br> 0 | 1–3% <br> 0 | 4–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 12–16% <br> 4–6 | N/A <br> N/A |
 | [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 25–31% <br> 9–11 | 29–35% <br> 11–13 | 13–18% <br> 5–6 | 3–5% <br> 0–2 | 1–3% <br> 0 | 6–9% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 3–4 | N/A <br> N/A |
