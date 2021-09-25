@@ -111,8 +111,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
-| [8–10 September 2021](2021-09-10-CURS.html) | CURS | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [8–10 September 2021](2021-09-10-CURS.html) | CURS | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [3–5 September 2021](2021-09-05-CURS.html) | CURS | 2 | 2 | 2–3 | 0–3 | 0–3 |
 | [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
 | [12–20 August 2021](2021-08-20-CURS.html) | CURS | 2 | 2 | 0–2 | 0–3 | 0–3 |
@@ -194,9 +194,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Median |
-| 1 | 6% | 14% |  |
-| 2 | 8% | 8% | Last Result |
-| 3 | 0% | 0% |  |
+| 0 | 84% | 100% | Median |
+| 1 | 5% | 16% |  |
+| 2 | 10% | 10% | Last Result |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 

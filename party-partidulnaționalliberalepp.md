@@ -127,7 +127,7 @@ Last result: **10** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 8 | 5–10 | 5–11 | 5–11 | 4–11 |
 | [8–10 September 2021](2021-09-10-CURS.html) | CURS | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [3–5 September 2021](2021-09-05-CURS.html) | CURS | 7 | 7–8 | 7–8 | 6–9 | 6–9 |
-| [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
+| [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [12–20 August 2021](2021-08-20-CURS.html) | CURS | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [15–19 August 2021](2021-08-19-IRES.html) | IRES | 10 | 9–10 | 9–11 | 9–11 | 8–11 |
 | [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
@@ -209,10 +209,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
 | 5 | 15% | 98% |  |
-| 6 | 8% | 83% |  |
-| 7 | 18% | 75% |  |
-| 8 | 16% | 57% | Median |
-| 9 | 11% | 41% |  |
+| 6 | 7% | 83% |  |
+| 7 | 18% | 76% |  |
+| 8 | 16% | 58% | Median |
+| 9 | 13% | 42% |  |
 | 10 | 22% | 29% | Last Result |
 | 11 | 7% | 7% |  |
 | 12 | 0.1% | 0.1% |  |

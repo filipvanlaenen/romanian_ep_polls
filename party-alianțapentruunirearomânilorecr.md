@@ -122,10 +122,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
 | [8–10 September 2021](2021-09-10-CURS.html) | CURS | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [3–5 September 2021](2021-09-05-CURS.html) | CURS | 4 | 4 | 4–5 | 3–5 | 3–5 |
-| [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [12–20 August 2021](2021-08-20-CURS.html) | CURS | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [15–19 August 2021](2021-08-19-IRES.html) | IRES | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -209,10 +209,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 15% | 100% |  |
-| 4 | 15% | 85% |  |
-| 5 | 53% | 70% | Median |
-| 6 | 16% | 17% |  |
-| 7 | 0.4% | 0.4% |  |
+| 4 | 16% | 85% |  |
+| 5 | 53% | 69% | Median |
+| 6 | 16% | 16% |  |
+| 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
 
 
