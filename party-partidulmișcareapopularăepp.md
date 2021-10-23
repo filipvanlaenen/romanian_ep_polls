@@ -10,7 +10,9 @@ Last result: **5.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 1.7–5.7% | 1.6–6.1% | 1.5–6.4% | 1.2–7.0% |
+| N/A | [Poll Average](average.html) | 3.0% | 1.8–5.2% | 1.6–5.6% | 1.5–6.0% | 1.2–6.7% |
+| [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP | 2.9% | 2.4–3.6% | 2.2–3.8% | 2.1–4.0% | 1.9–4.4% |
+| [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde | 4.0% | 3.3–5.0% | 3.1–5.2% | 2.9–5.5% | 2.6–6.0% |
 | [8–10 September 2021](2021-09-10-CURS.html) | CURS | 5.0% | 4.2–6.1% | 3.9–6.4% | 3.7–6.7% | 3.4–7.2% |
 | [3–5 September 2021](2021-09-05-CURS.html) | CURS | 5.0% | 4.2–6.1% | 4.0–6.4% | 3.8–6.7% | 3.4–7.3% |
 | [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 5.0% | 4.2–6.1% | 3.9–6.4% | 3.7–6.6% | 3.4–7.2% |
@@ -93,14 +95,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 37% | 96% |  |
-| 2.5–3.5% | 9% | 59% | Median |
-| 3.5–4.5% | 12% | 50% |  |
-| 4.5–5.5% | 25% | 38% |  |
-| 5.5–6.5% | 12% | 13% | Last Result |
-| 6.5–7.5% | 2% | 2% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 1.5–2.5% | 33% | 96% |  |
+| 2.5–3.5% | 25% | 63% | Median |
+| 3.5–4.5% | 18% | 38% |  |
+| 4.5–5.5% | 14% | 20% |  |
+| 5.5–6.5% | 5% | 6% | Last Result |
+| 6.5–7.5% | 0.6% | 0.7% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -111,7 +112,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP | 0 | 0 | 0 | 0 | 0 |
+| [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | [8–10 September 2021](2021-09-10-CURS.html) | CURS | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [3–5 September 2021](2021-09-05-CURS.html) | CURS | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -194,9 +197,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 75% | 100% | Median |
-| 1 | 5% | 25% |  |
-| 2 | 19% | 19% | Last Result |
+| 0 | 88% | 100% | Median |
+| 1 | 3% | 12% |  |
+| 2 | 9% | 9% | Last Result |
 | 3 | 0% | 0% |  |
 
 
