@@ -10,7 +10,15 @@ Last result: **22.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.0% | 30.2–33.8% | 29.7–34.4% | 29.3–34.8% | 28.5–35.7% |
+| N/A | [Poll Average](average.html) | 38.4% | 34.7–41.1% | 34.0–41.8% | 33.4–42.4% | 32.4–43.5% |
+| [25–30 October 2021](2021-10-30-CURS.html) | CURS | 39.0% | 37.1–40.9% | 36.6–41.5% | 36.2–41.9% | 35.3–42.8% |
+| [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 39.9% | 37.8–42.0% | 37.2–42.6% | 36.7–43.1% | 35.8–44.2% |
+| [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 35.5% | 33.6–37.3% | 33.1–37.9% | 32.7–38.3% | 31.8–39.2% |
+| [12–20 October 2021](2021-10-20-CURS.html) | CURS | 39.0% | N/A | N/A | N/A | N/A |
+| [12–17 October 2021](2021-10-17-INSCOP.html) | INSCOP | 36.6% | N/A | N/A | N/A | N/A |
+| [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol | 32.0% | N/A | N/A | N/A | N/A |
+| [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică | 27.7% | N/A | N/A | N/A | N/A |
+| [28 September 2021](2021-09-28-INSOMAR.html) | INSOMAR | 31.6% | N/A | N/A | N/A | N/A |
 | [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP | 35.4% | N/A | N/A | N/A | N/A |
 | [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde | 37.0% | N/A | N/A | N/A | N/A |
 | [8–10 September 2021](2021-09-10-CURS.html) | CURS | 36.0% | N/A | N/A | N/A | N/A |
@@ -97,18 +105,26 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 0% | 100% |  |
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0% | 100% |  |
-| 26.5–27.5% | 0.1% | 100% |  |
-| 27.5–28.5% | 0.5% | 99.9% |  |
-| 28.5–29.5% | 3% | 99.4% |  |
-| 29.5–30.5% | 11% | 96% |  |
-| 30.5–31.5% | 22% | 86% |  |
-| 31.5–32.5% | 28% | 63% | Median |
-| 32.5–33.5% | 21% | 35% |  |
-| 33.5–34.5% | 10% | 14% |  |
-| 34.5–35.5% | 3% | 4% |  |
-| 35.5–36.5% | 0.6% | 0.7% |  |
-| 36.5–37.5% | 0.1% | 0.1% |  |
-| 37.5–38.5% | 0% | 0% |  |
+| 26.5–27.5% | 0% | 100% |  |
+| 27.5–28.5% | 0% | 100% |  |
+| 28.5–29.5% | 0% | 100% |  |
+| 29.5–30.5% | 0% | 100% |  |
+| 30.5–31.5% | 0.1% | 100% |  |
+| 31.5–32.5% | 0.6% | 99.9% |  |
+| 32.5–33.5% | 2% | 99.3% |  |
+| 33.5–34.5% | 6% | 97% |  |
+| 34.5–35.5% | 9% | 91% |  |
+| 35.5–36.5% | 10% | 82% |  |
+| 36.5–37.5% | 11% | 72% |  |
+| 37.5–38.5% | 13% | 61% | Median |
+| 38.5–39.5% | 17% | 48% |  |
+| 39.5–40.5% | 15% | 32% |  |
+| 40.5–41.5% | 10% | 17% |  |
+| 41.5–42.5% | 5% | 7% |  |
+| 42.5–43.5% | 2% | 2% |  |
+| 43.5–44.5% | 0.4% | 0.5% |  |
+| 44.5–45.5% | 0.1% | 0.1% |  |
+| 45.5–46.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -119,7 +135,15 @@ Last result: **9** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
+| N/A | [Poll Average](average.html) | 15 | 13–16 | 13–17 | 13–17 | 12–17 |
+| [25–30 October 2021](2021-10-30-CURS.html) | CURS | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
+| [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 15 | 15–16 | 14–17 | 14–17 | 13–18 |
+| [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
+| [12–20 October 2021](2021-10-20-CURS.html) | CURS |  |  |  |  |  |
+| [12–17 October 2021](2021-10-17-INSCOP.html) | INSCOP |  |  |  |  |  |
+| [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol |  |  |  |  |  |
+| [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică |  |  |  |  |  |
+| [28 September 2021](2021-09-28-INSOMAR.html) | INSOMAR |  |  |  |  |  |
 | [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [8–10 September 2021](2021-09-10-CURS.html) | CURS |  |  |  |  |  |
@@ -205,11 +229,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0% | 100% | Last Result |
-| 10 | 1.4% | 100% |  |
-| 11 | 37% | 98.6% |  |
-| 12 | 52% | 61% | Median |
-| 13 | 9% | 9% |  |
-| 14 | 0.2% | 0.2% |  |
-| 15 | 0% | 0% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 2% | 100% |  |
+| 13 | 11% | 98% |  |
+| 14 | 23% | 87% |  |
+| 15 | 38% | 64% | Median |
+| 16 | 20% | 27% |  |
+| 17 | 6% | 6% | Majority |
+| 18 | 0.4% | 0.4% |  |
+| 19 | 0% | 0% |  |
 
 
