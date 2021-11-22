@@ -10,13 +10,13 @@ Last result: **22.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.2% | 10.5–13.9% | 10.1–14.4% | 9.7–14.8% | 9.1–15.7% |
+| N/A | [Poll Average](average.html) | 12.4% | 10.7–14.1% | 10.2–14.5% | 9.9–14.9% | 9.2–15.7% |
 | [25–30 October 2021](2021-10-30-CURS.html) | CURS | 11.0% | 9.9–12.3% | 9.6–12.7% | 9.3–13.0% | 8.8–13.6% |
 | [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 13.0% | 11.7–14.5% | 11.3–15.0% | 11.0–15.4% | 10.3–16.1% |
 | [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 12.4% | 11.2–13.7% | 10.8–14.1% | 10.5–14.4% | 10.0–15.1% |
 | [12–20 October 2021](2021-10-20-CURS.html) | CURS | 11.0% | N/A | N/A | N/A | N/A |
 | [12–17 October 2021](2021-10-17-INSCOP.html) | INSCOP | 16.4% | N/A | N/A | N/A | N/A |
-| [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol | 13.0% | N/A | N/A | N/A | N/A |
+| [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol | 13.0% | 11.7–14.4% | 11.3–14.8% | 11.0–15.2% | 10.4–15.9% |
 | [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică | 17.8% | N/A | N/A | N/A | N/A |
 | [28 September 2021](2021-09-28-INSOMAR.html) | INSOMAR | 15.0% | N/A | N/A | N/A | N/A |
 | [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP | 9.8% | N/A | N/A | N/A | N/A |
@@ -102,14 +102,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 2% | 99.9% |  |
-| 9.5–10.5% | 9% | 98% |  |
-| 10.5–11.5% | 21% | 89% |  |
-| 11.5–12.5% | 28% | 68% | Median |
-| 12.5–13.5% | 24% | 40% |  |
-| 13.5–14.5% | 12% | 16% |  |
-| 14.5–15.5% | 3% | 4% |  |
-| 15.5–16.5% | 0.6% | 0.6% |  |
+| 8.5–9.5% | 1.2% | 99.9% |  |
+| 9.5–10.5% | 7% | 98.7% |  |
+| 10.5–11.5% | 18% | 92% |  |
+| 11.5–12.5% | 27% | 74% | Median |
+| 12.5–13.5% | 27% | 47% |  |
+| 13.5–14.5% | 15% | 20% |  |
+| 14.5–15.5% | 4% | 5% |  |
+| 15.5–16.5% | 0.7% | 0.8% |  |
 | 16.5–17.5% | 0.1% | 0.1% |  |
 | 17.5–18.5% | 0% | 0% |  |
 | 18.5–19.5% | 0% | 0% |  |
@@ -132,7 +132,7 @@ Last result: **8** seats (General Election of 26 May 2019)
 | [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [12–20 October 2021](2021-10-20-CURS.html) | CURS |  |  |  |  |  |
 | [12–17 October 2021](2021-10-17-INSCOP.html) | INSCOP |  |  |  |  |  |
-| [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol |  |  |  |  |  |
+| [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică |  |  |  |  |  |
 | [28 September 2021](2021-09-28-INSOMAR.html) | INSOMAR |  |  |  |  |  |
 | [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP |  |  |  |  |  |
@@ -219,10 +219,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 8% | 100% |  |
-| 4 | 49% | 92% | Median |
-| 5 | 41% | 43% |  |
-| 6 | 2% | 2% |  |
+| 3 | 7% | 100% |  |
+| 4 | 55% | 93% | Median |
+| 5 | 37% | 38% |  |
+| 6 | 1.4% | 1.4% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% | Last Result |
 

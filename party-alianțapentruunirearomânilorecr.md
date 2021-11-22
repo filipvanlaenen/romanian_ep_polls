@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.5% | 11.5–15.3% | 11.0–15.8% | 10.7–16.2% | 10.0–17.0% |
+| N/A | [Poll Average](average.html) | 14.2% | 11.7–21.3% | 11.2–22.1% | 10.8–22.7% | 10.1–23.7% |
 | [25–30 October 2021](2021-10-30-CURS.html) | CURS | 12.0% | 10.8–13.4% | 10.5–13.7% | 10.2–14.1% | 9.7–14.7% |
 | [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 14.0% | 12.6–15.6% | 12.2–16.0% | 11.9–16.4% | 11.2–17.2% |
 | [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 14.2% | 12.9–15.6% | 12.5–16.0% | 12.2–16.4% | 11.7–17.1% |
 | [12–20 October 2021](2021-10-20-CURS.html) | CURS | 13.0% | N/A | N/A | N/A | N/A |
 | [12–17 October 2021](2021-10-17-INSCOP.html) | INSCOP | 15.3% | N/A | N/A | N/A | N/A |
-| [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol | 21.0% | N/A | N/A | N/A | N/A |
+| [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol | 21.0% | 19.4–22.7% | 18.9–23.2% | 18.5–23.6% | 17.8–24.4% |
 | [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică | 17.3% | N/A | N/A | N/A | N/A |
 | [28 September 2021](2021-09-28-INSOMAR.html) | INSOMAR | 17.0% | N/A | N/A | N/A | N/A |
 | [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP | 17.1% | N/A | N/A | N/A | N/A |
@@ -111,16 +111,23 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.1% | 100% |  |
-| 9.5–10.5% | 2% | 99.9% |  |
-| 10.5–11.5% | 9% | 98% |  |
-| 11.5–12.5% | 17% | 89% |  |
-| 12.5–13.5% | 23% | 72% |  |
-| 13.5–14.5% | 25% | 49% | Median |
-| 14.5–15.5% | 17% | 24% |  |
-| 15.5–16.5% | 6% | 7% |  |
-| 16.5–17.5% | 1.1% | 1.2% |  |
-| 17.5–18.5% | 0.1% | 0.1% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 9.5–10.5% | 1.3% | 99.9% |  |
+| 10.5–11.5% | 7% | 98.6% |  |
+| 11.5–12.5% | 13% | 92% |  |
+| 12.5–13.5% | 17% | 79% |  |
+| 13.5–14.5% | 19% | 62% | Median |
+| 14.5–15.5% | 13% | 43% |  |
+| 15.5–16.5% | 4% | 30% |  |
+| 16.5–17.5% | 0.9% | 26% |  |
+| 17.5–18.5% | 0.6% | 25% |  |
+| 18.5–19.5% | 3% | 24% |  |
+| 19.5–20.5% | 6% | 22% |  |
+| 20.5–21.5% | 8% | 16% |  |
+| 21.5–22.5% | 5% | 8% |  |
+| 22.5–23.5% | 2% | 3% |  |
+| 23.5–24.5% | 0.6% | 0.7% |  |
+| 24.5–25.5% | 0.1% | 0.1% |  |
+| 25.5–26.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -131,13 +138,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–8 | 3–8 |
 | [25–30 October 2021](2021-10-30-CURS.html) | CURS | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [12–20 October 2021](2021-10-20-CURS.html) | CURS |  |  |  |  |  |
 | [12–17 October 2021](2021-10-17-INSCOP.html) | INSCOP |  |  |  |  |  |
-| [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol |  |  |  |  |  |
+| [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică |  |  |  |  |  |
 | [28 September 2021](2021-09-28-INSOMAR.html) | INSOMAR |  |  |  |  |  |
 | [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP |  |  |  |  |  |
@@ -227,11 +234,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.7% | 100% |  |
-| 4 | 27% | 99.3% |  |
-| 5 | 56% | 73% | Median |
-| 6 | 16% | 16% |  |
-| 7 | 0.4% | 0.4% |  |
-| 8 | 0% | 0% |  |
+| 3 | 0.6% | 100% |  |
+| 4 | 20% | 99.4% |  |
+| 5 | 42% | 79% | Median |
+| 6 | 15% | 37% |  |
+| 7 | 18% | 22% |  |
+| 8 | 4% | 4% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% |  |
 
 
