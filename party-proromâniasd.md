@@ -10,14 +10,14 @@ Last result: **6.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 1.9–4.7% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.6–5.2% | 2.4–5.6% | 2.2–5.9% | 1.9–6.4% |
 | [25–30 October 2021](2021-10-30-CURS.html) | CURS | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 3.0% | 2.4–3.9% | 2.2–4.1% | 2.1–4.3% | 1.8–4.8% |
 | [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.4% | 2.0–4.8% |
 | [12–20 October 2021](2021-10-20-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 October 2021](2021-10-17-INSCOP.html) | INSCOP | 3.0% | N/A | N/A | N/A | N/A |
 | [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
-| [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică | 5.0% | N/A | N/A | N/A | N/A |
+| [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică | 5.0% | 4.3–5.9% | 4.1–6.2% | 3.9–6.4% | 3.6–6.8% |
 | [28 September 2021](2021-09-28-INSOMAR.html) | INSOMAR | 2.3% | N/A | N/A | N/A | N/A |
 | [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP | 4.4% | N/A | N/A | N/A | N/A |
 | [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde | 2.0% | N/A | N/A | N/A | N/A |
@@ -102,11 +102,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 13% | 100% |  |
-| 2.5–3.5% | 64% | 87% | Median |
-| 3.5–4.5% | 22% | 23% |  |
-| 4.5–5.5% | 1.0% | 1.0% |  |
-| 5.5–6.5% | 0% | 0% | Last Result |
+| 1.5–2.5% | 10% | 100% |  |
+| 2.5–3.5% | 48% | 90% | Median |
+| 3.5–4.5% | 21% | 42% |  |
+| 4.5–5.5% | 15% | 20% |  |
+| 5.5–6.5% | 5% | 5% | Last Result |
+| 6.5–7.5% | 0.3% | 0.3% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -117,14 +119,14 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [25–30 October 2021](2021-10-30-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
 | [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
 | [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 0 | 0 | 0 | 0 | 0 |
 | [12–20 October 2021](2021-10-20-CURS.html) | CURS |  |  |  |  |  |
 | [12–17 October 2021](2021-10-17-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol |  |  |  |  |  |
-| [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică |  |  |  |  |  |
+| [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [28 September 2021](2021-09-28-INSOMAR.html) | INSOMAR |  |  |  |  |  |
 | [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde |  |  |  |  |  |
@@ -210,9 +212,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Median |
-| 1 | 0.1% | 0.1% |  |
-| 2 | 0.1% | 0.1% | Last Result |
+| 0 | 81% | 100% | Median |
+| 1 | 2% | 19% |  |
+| 2 | 17% | 17% | Last Result |
 | 3 | 0% | 0% |  |
 
 
