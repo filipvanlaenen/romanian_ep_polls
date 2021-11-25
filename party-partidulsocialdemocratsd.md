@@ -18,14 +18,14 @@ Last result: **22.5%** (General Election of 26 May 2019)
 | [12–17 October 2021](2021-10-17-INSCOP.html) | INSCOP | 36.6% | N/A | N/A | N/A | N/A |
 | [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol | 32.0% | 30.2–34.0% | 29.7–34.5% | 29.2–35.0% | 28.3–35.9% |
 | [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică | 27.7% | 26.1–29.4% | 25.6–29.9% | 25.2–30.3% | 24.5–31.1% |
-| [28 September 2021](2021-09-28-INSOMAR.html) | INSOMAR | 31.6% | N/A | N/A | N/A | N/A |
+| [28 September 2021](2021-09-28-INSOMAR.html) | INSOMAR | 31.6% | 29.7–33.5% | 29.2–34.0% | 28.8–34.5% | 27.9–35.4% |
 | [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP | 35.4% | N/A | N/A | N/A | N/A |
 | [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde | 37.0% | N/A | N/A | N/A | N/A |
 | [8–10 September 2021](2021-09-10-CURS.html) | CURS | 36.0% | N/A | N/A | N/A | N/A |
 | [3–5 September 2021](2021-09-05-CURS.html) | CURS | 35.1% | N/A | N/A | N/A | N/A |
 | [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 35.0% | N/A | N/A | N/A | N/A |
 | [12–20 August 2021](2021-08-20-CURS.html) | CURS | 34.0% | N/A | N/A | N/A | N/A |
-| [15–19 August 2021](2021-08-19-IRES.html) | IRES | 35.0% | N/A | N/A | N/A | N/A |
+| [15–19 August 2021](2021-08-19-IRES.html) | IRES | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–38.9% |
 | [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 32.0% | 30.2–33.9% | 29.7–34.4% | 29.3–34.8% | 28.5–35.7% |
 | [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 38.1% | 36.1–40.0% | 35.6–40.6% | 35.1–41.1% | 34.2–42.0% |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 34.0% | 32.2–35.9% | 31.7–36.5% | 31.2–36.9% | 30.4–37.8% |
@@ -143,14 +143,14 @@ Last result: **9** seats (General Election of 26 May 2019)
 | [12–17 October 2021](2021-10-17-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
-| [28 September 2021](2021-09-28-INSOMAR.html) | INSOMAR |  |  |  |  |  |
+| [28 September 2021](2021-09-28-INSOMAR.html) | INSOMAR | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
 | [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [8–10 September 2021](2021-09-10-CURS.html) | CURS |  |  |  |  |  |
 | [3–5 September 2021](2021-09-05-CURS.html) | CURS |  |  |  |  |  |
 | [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [12–20 August 2021](2021-08-20-CURS.html) | CURS |  |  |  |  |  |
-| [15–19 August 2021](2021-08-19-IRES.html) | IRES |  |  |  |  |  |
+| [15–19 August 2021](2021-08-19-IRES.html) | IRES | 13 | 12–14 | 12–14 | 12–14 | 11–14 |
 | [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
 | [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 13 | 12–14 | 12–14 | 12–15 | 12–15 |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 13 | 13–14 | 12–15 | 12–15 | 12–15 |
