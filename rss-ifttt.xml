@@ -125,5 +125,29 @@
       <pubDate>Mon, 22 Nov 2021 23:03:40 +0100</pubDate>
       <dc:date>2021-11-22T23:03:40.074479+01:00</dc:date>
     </item>
+    <item>
+      <title>Opinion Poll by INSOMAR, 28 September 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2021-09-28-INSOMAR.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by INSOMAR, 28 September 2021<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2021-09-28-INSOMAR.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2021-09-28-INSOMAR-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2021-09-28-INSOMAR-seating-plan.png" length="321217" type="image/png"/>
+      <pubDate>Wed, 24 Nov 2021 20:29:53 +0100</pubDate>
+      <dc:date>2021-11-24T20:29:53.651989+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSOMAR, 28 September 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2021-09-28-INSOMAR.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by INSOMAR, 28 September 2021<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2021-09-28-INSOMAR.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2021-09-28-INSOMAR-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2021-09-28-INSOMAR-seats.png" length="240640" type="image/png"/>
+      <pubDate>Wed, 24 Nov 2021 20:29:53 +0100</pubDate>
+      <dc:date>2021-11-24T20:29:53.651989+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSOMAR, 28 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2021-09-28-INSOMAR.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by INSOMAR, 28 September 2021<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2021-09-28-INSOMAR.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2021-09-28-INSOMAR.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2021-09-28-INSOMAR.png" length="273047" type="image/png"/>
+      <pubDate>Wed, 24 Nov 2021 20:29:53 +0100</pubDate>
+      <dc:date>2021-11-24T20:29:53.651989+01:00</dc:date>
+    </item>
   </channel>
 </rss>
