@@ -5,6 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PNL | PSD | A2020 | PRO | PMP | UDMR | ALDE | PLUS | USR | AUR | PPU-SL |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 27.0% <br> 10 | 22.5% <br> 9 | 22.4% <br> 8 | 6.4% <br> 2 | 5.8% <br> 2 | 5.3% <br> 2 | 4.1% <br> 0 | 22.4% <br> 4 | 22.4% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [13–17 December 2021](2021-12-17-CURS.html) | CURS | 17–21% <br> 6–8 | 35–41% <br> 13–16 | 9–13% <br> 3–5 | N/A <br> N/A | 4–6% <br> 0–2 | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 4–6 | 3–5% <br> 0–2 |
+| [16–24 November 2021](2021-11-24-Avangarde.html) | Avangarde | 15–20% <br> 5–8 | 37–43% <br> 14–17 | 9–13% <br> 3–5 | 1–3% <br> 0 | 3–5% <br> 0–2 | 4–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 13–17% <br> 5–7 | 3–5% <br> 0–2 |
+| [17–22 November 2021](2021-11-22-CURS.html) | CURS | 16–20% <br> 6–8 | 35–41% <br> 14–17 | 9–13% <br> 3–5 | 3–5% <br> 0–2 | 3–5% <br> 0–2 | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 12–16% <br> 4–6 | 2–4% <br> 0 |
 | [25–30 October 2021](2021-10-30-CURS.html) | CURS | 17–21% <br> 6–8 | 36–42% <br> 14–17 | 9–13% <br> 3–5 | 2–4% <br> 0 | 4–6% <br> 0–2 | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 4–5 | 3–5% <br> 0–2 |
 | [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 15–20% <br> 5–8 | 37–43% <br> 14–17 | 11–15% <br> 4–6 | 2–4% <br> 0 | 3–6% <br> 0–2 | 4–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 12–16% <br> 4–6 | 3–6% <br> 0–2 |
 | [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 20–24% <br> 7–9 | 33–38% <br> 12–15 | 11–14% <br> 4–5 | 2–4% <br> 0 | 2–4% <br> 0 | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 12–16% <br> 4–6 | 0–1% <br> 0 |
