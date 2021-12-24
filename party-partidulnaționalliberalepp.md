@@ -11,6 +11,9 @@ Last result: **27.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.8% | 16.1–22.1% | 15.6–22.9% | 15.2–23.4% | 14.4–24.5% |
+| [13–17 December 2021](2021-12-17-CURS.html) | CURS | 19.0% | 17.5–20.6% | 17.1–21.0% | 16.8–21.4% | 16.1–22.2% |
+| [16–24 November 2021](2021-11-24-Avangarde.html) | Avangarde | 17.0% | 15.5–18.7% | 15.1–19.2% | 14.7–19.6% | 14.0–20.4% |
+| [17–22 November 2021](2021-11-22-CURS.html) | CURS | 18.0% | 16.6–19.6% | 16.2–20.0% | 15.8–20.4% | 15.2–21.2% |
 | [25–30 October 2021](2021-10-30-CURS.html) | CURS | 19.0% | 17.5–20.6% | 17.1–21.0% | 16.8–21.4% | 16.1–22.2% |
 | [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 17.0% | 15.5–18.7% | 15.0–19.2% | 14.7–19.6% | 14.0–20.4% |
 | [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 21.9% | 20.4–23.6% | 19.9–24.1% | 19.6–24.5% | 18.8–25.3% |
@@ -127,6 +130,9 @@ Last result: **10** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
+| [13–17 December 2021](2021-12-17-CURS.html) | CURS | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [16–24 November 2021](2021-11-24-Avangarde.html) | Avangarde | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
+| [17–22 November 2021](2021-11-22-CURS.html) | CURS | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [25–30 October 2021](2021-10-30-CURS.html) | CURS | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
@@ -219,11 +225,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 4% | 100% |  |
-| 6 | 35% | 96% |  |
-| 7 | 36% | 61% | Median |
-| 8 | 18% | 25% |  |
-| 9 | 7% | 7% |  |
+| 5 | 3% | 100% |  |
+| 6 | 35% | 97% |  |
+| 7 | 38% | 62% | Median |
+| 8 | 16% | 23% |  |
+| 9 | 6% | 7% |  |
 | 10 | 0.3% | 0.3% | Last Result |
 | 11 | 0% | 0% |  |
 
