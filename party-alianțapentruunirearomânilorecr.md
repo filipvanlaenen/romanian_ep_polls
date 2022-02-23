@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.5% | 12.8–23.0% | 12.3–23.9% | 11.9–24.6% | 11.1–25.7% |
+| N/A | [Poll Average](average.html) | 20.0% | 16.0–24.2% | 15.5–24.7% | 15.0–25.2% | 14.3–26.2% |
+| [22–29 January 2022](2022-01-29-CURS.html) | CURS | 15.6% | N/A | N/A | N/A | N/A |
+| [10–18 January 2022](2022-01-18-INSCOP.html) | INSCOP | 20.9% | N/A | N/A | N/A | N/A |
 | [15–23 December 2021](2021-12-23-Avangarde.html) | Avangarde | 17.0% | 15.5–18.7% | 15.0–19.1% | 14.7–19.6% | 14.0–20.4% |
 | [17–22 December 2021](2021-12-22-Sociopol.html) | Sociopol | 23.0% | 21.3–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
 | [13–17 December 2021](2021-12-17-CURS.html) | CURS | 13.0% | 11.8–14.4% | 11.4–14.8% | 11.1–15.1% | 10.6–15.8% |
@@ -31,14 +33,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 15.0% | N/A | N/A | N/A | N/A |
 | [12–20 August 2021](2021-08-20-CURS.html) | CURS | 11.0% | N/A | N/A | N/A | N/A |
 | [15–19 August 2021](2021-08-19-IRES.html) | IRES | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
-| [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 10.3% | 9.2–11.5% | 8.9–11.9% | 8.6–12.2% | 8.1–12.8% |
+| [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 9.9% | N/A | N/A | N/A | N/A |
 | [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 15.0% | 13.7–16.6% | 13.3–17.0% | 13.0–17.4% | 12.4–18.1% |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 12.0% | 10.8–13.4% | 10.5–13.7% | 10.2–14.1% | 9.6–14.8% |
 | [1–15 June 2021](2021-06-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 18.3% | 16.9–20.0% | 16.5–20.4% | 16.1–20.8% | 15.4–21.6% |
 | [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP | 14.2% | 12.9–15.6% | 12.5–16.0% | 12.2–16.4% | 11.7–17.1% |
-| [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 11.1% | 10.0–12.4% | 9.6–12.8% | 9.4–13.1% | 8.8–13.7% |
-| [1–31 May 2021](2021-05-31-IRES.html) | IRES | 13.6% | 12.4–15.0% | 12.0–15.5% | 11.7–15.8% | 11.2–16.5% |
-| [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 15.0% | 13.7–16.5% | 13.3–16.9% | 13.0–17.2% | 12.4–18.0% |
+| [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 11.0% | N/A | N/A | N/A | N/A |
+| [1–31 May 2021](2021-05-31-IRES.html) | IRES | 13.5% | N/A | N/A | N/A | N/A |
+| [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 14.8% | N/A | N/A | N/A | N/A |
 | [7 May 2021](2021-05-07-INSOMAR.html) | INSOMAR <br> Realitatea.net | 15.4% | 14.1–17.0% | 13.7–17.4% | 13.4–17.8% | 12.7–18.5% |
 | [14–17 April 2021](2021-04-17-CURS.html) | CURS | 12.0% | 10.8–13.4% | 10.5–13.7% | 10.2–14.1% | 9.7–14.7% |
 | [30 March–11 April 2021](2021-04-11-BCS.html) | BCS | 10.0% | 9.0–11.1% | 8.8–11.4% | 8.5–11.7% | 8.1–12.2% |
@@ -116,24 +118,24 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 1.3% | 99.9% |  |
-| 11.5–12.5% | 6% | 98.6% |  |
-| 12.5–13.5% | 12% | 93% |  |
-| 13.5–14.5% | 12% | 81% |  |
-| 14.5–15.5% | 9% | 69% |  |
-| 15.5–16.5% | 11% | 59% | Median |
-| 16.5–17.5% | 13% | 49% |  |
-| 17.5–18.5% | 10% | 35% |  |
-| 18.5–19.5% | 4% | 25% |  |
-| 19.5–20.5% | 1.4% | 21% |  |
-| 20.5–21.5% | 2% | 20% |  |
-| 21.5–22.5% | 5% | 17% |  |
-| 22.5–23.5% | 6% | 13% |  |
-| 23.5–24.5% | 4% | 7% |  |
-| 24.5–25.5% | 2% | 3% |  |
-| 25.5–26.5% | 0.5% | 0.6% |  |
-| 26.5–27.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0.1% | 100% |  |
+| 13.5–14.5% | 0.9% | 99.9% |  |
+| 14.5–15.5% | 5% | 99.0% |  |
+| 15.5–16.5% | 12% | 94% |  |
+| 16.5–17.5% | 15% | 82% |  |
+| 17.5–18.5% | 11% | 67% |  |
+| 18.5–19.5% | 5% | 56% |  |
+| 19.5–20.5% | 2% | 51% | Median |
+| 20.5–21.5% | 5% | 49% |  |
+| 21.5–22.5% | 12% | 43% |  |
+| 22.5–23.5% | 15% | 32% |  |
+| 23.5–24.5% | 11% | 17% |  |
+| 24.5–25.5% | 5% | 6% |  |
+| 25.5–26.5% | 1.3% | 2% |  |
+| 26.5–27.5% | 0.2% | 0.3% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
 
@@ -145,19 +147,21 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 4–9 | 4–9 | 4–9 |
-| [15–23 December 2021](2021-12-23-Avangarde.html) | Avangarde | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
-| [17–22 December 2021](2021-12-22-Sociopol.html) | Sociopol | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–10 | 5–10 | 5–10 |
+| [22–29 January 2022](2022-01-29-CURS.html) | CURS |  |  |  |  |  |
+| [10–18 January 2022](2022-01-18-INSCOP.html) | INSCOP |  |  |  |  |  |
+| [15–23 December 2021](2021-12-23-Avangarde.html) | Avangarde | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [17–22 December 2021](2021-12-22-Sociopol.html) | Sociopol | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [13–17 December 2021](2021-12-17-CURS.html) | CURS | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [16–24 November 2021](2021-11-24-Avangarde.html) | Avangarde | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [17–22 November 2021](2021-11-22-CURS.html) | CURS | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [25–30 October 2021](2021-10-30-CURS.html) | CURS | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [12–20 October 2021](2021-10-20-CURS.html) | CURS |  |  |  |  |  |
 | [12–17 October 2021](2021-10-17-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | [28 September 2021](2021-09-28-INSOMAR.html) | INSOMAR | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde |  |  |  |  |  |
@@ -166,14 +170,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [12–20 August 2021](2021-08-20-CURS.html) | CURS |  |  |  |  |  |
 | [15–19 August 2021](2021-08-19-IRES.html) | IRES | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [1–15 June 2021](2021-06-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [1–31 May 2021](2021-05-31-IRES.html) | IRES | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol |  |  |  |  |  |
+| [1–31 May 2021](2021-05-31-IRES.html) | IRES |  |  |  |  |  |
+| [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [7 May 2021](2021-05-07-INSOMAR.html) | INSOMAR <br> Realitatea.net | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [14–17 April 2021](2021-04-17-CURS.html) | CURS | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [30 March–11 April 2021](2021-04-11-BCS.html) | BCS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -246,14 +250,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.1% | 100% |  |
-| 4 | 9% | 99.9% |  |
-| 5 | 27% | 91% |  |
-| 6 | 31% | 64% | Median |
-| 7 | 14% | 33% |  |
-| 8 | 12% | 19% |  |
-| 9 | 7% | 7% |  |
-| 10 | 0.4% | 0.4% |  |
-| 11 | 0% | 0% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 5% | 100% |  |
+| 6 | 31% | 95% |  |
+| 7 | 14% | 64% | Median |
+| 8 | 14% | 50% |  |
+| 9 | 28% | 36% |  |
+| 10 | 7% | 8% |  |
+| 11 | 0.3% | 0.3% |  |
+| 12 | 0% | 0% |  |
 
 
