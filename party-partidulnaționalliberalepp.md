@@ -10,9 +10,9 @@ Last result: **27.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.5% | 14.1–19.1% | 13.6–19.7% | 13.2–20.2% | 12.5–21.1% |
-| [22–29 January 2022](2022-01-29-CURS.html) | CURS | 16.6% | N/A | N/A | N/A | N/A |
-| [10–18 January 2022](2022-01-18-INSCOP.html) | INSCOP | 16.8% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 16.6% | 14.6–18.7% | 14.0–19.3% | 13.6–19.8% | 12.8–20.8% |
+| [22–29 January 2022](2022-01-29-CURS.html) | CURS | 16.6% | 15.1–18.1% | 14.7–18.6% | 14.4–19.0% | 13.7–19.8% |
+| [10–18 January 2022](2022-01-18-INSCOP.html) | INSCOP | 16.8% | 15.4–18.3% | 15.1–18.7% | 14.7–19.1% | 14.1–19.8% |
 | [15–23 December 2021](2021-12-23-Avangarde.html) | Avangarde | 18.0% | 16.4–19.7% | 16.0–20.2% | 15.6–20.6% | 14.9–21.5% |
 | [17–22 December 2021](2021-12-22-Sociopol.html) | Sociopol | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.3% | 12.3–18.1% |
 | [13–17 December 2021](2021-12-17-CURS.html) | CURS | 19.0% | 17.5–20.6% | 17.1–21.0% | 16.8–21.4% | 16.1–22.2% |
@@ -109,17 +109,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.5% | 100% |  |
-| 12.5–13.5% | 4% | 99.5% |  |
-| 13.5–14.5% | 12% | 96% |  |
-| 14.5–15.5% | 18% | 83% |  |
-| 15.5–16.5% | 16% | 65% | Median |
-| 16.5–17.5% | 16% | 49% |  |
-| 17.5–18.5% | 16% | 33% |  |
-| 18.5–19.5% | 11% | 17% |  |
-| 19.5–20.5% | 5% | 6% |  |
-| 20.5–21.5% | 1.2% | 1.4% |  |
-| 21.5–22.5% | 0.2% | 0.2% |  |
+| 11.5–12.5% | 0.2% | 100% |  |
+| 12.5–13.5% | 2% | 99.7% |  |
+| 13.5–14.5% | 7% | 98% |  |
+| 14.5–15.5% | 15% | 90% |  |
+| 15.5–16.5% | 23% | 75% |  |
+| 16.5–17.5% | 24% | 52% | Median |
+| 17.5–18.5% | 17% | 28% |  |
+| 18.5–19.5% | 8% | 11% |  |
+| 19.5–20.5% | 3% | 3% |  |
+| 20.5–21.5% | 0.6% | 0.7% |  |
+| 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 | 23.5–24.5% | 0% | 0% |  |
 | 24.5–25.5% | 0% | 0% |  |
@@ -135,9 +135,9 @@ Last result: **10** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
-| [22–29 January 2022](2022-01-29-CURS.html) | CURS |  |  |  |  |  |
-| [10–18 January 2022](2022-01-18-INSCOP.html) | INSCOP |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [22–29 January 2022](2022-01-29-CURS.html) | CURS | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [10–18 January 2022](2022-01-18-INSCOP.html) | INSCOP | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [15–23 December 2021](2021-12-23-Avangarde.html) | Avangarde | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [17–22 December 2021](2021-12-22-Sociopol.html) | Sociopol | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [13–17 December 2021](2021-12-17-CURS.html) | CURS | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -235,12 +235,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.4% | 100% |  |
-| 5 | 22% | 99.6% |  |
-| 6 | 37% | 78% | Median |
-| 7 | 37% | 41% |  |
-| 8 | 3% | 3% |  |
-| 9 | 0% | 0% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 11% | 99.8% |  |
+| 6 | 41% | 88% | Median |
+| 7 | 39% | 47% |  |
+| 8 | 8% | 8% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% | Last Result |
 
 
