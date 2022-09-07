@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.6–2.3% | 1.5–2.4% | 1.5–2.5% | 1.3–2.7% |
+| [22–31 July 2022](2022-07-31-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
+| [22–30 June 2022](2022-06-30-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
+| [16–26 May 2022](2022-05-26-CURS.html) | CURS | 1.9% | 1.6–2.3% | 1.5–2.4% | 1.5–2.5% | 1.3–2.7% |
 | [12–20 April 2022](2022-04-20-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
 | [28 March–11 April 2022](2022-04-11-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [22–29 March 2022](2022-03-29-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
@@ -115,9 +118,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 80% | 100% | Last Result, Median |
-| 0.5–1.5% | 20% | 20% |  |
-| 1.5–2.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 93% | 95% | Median |
+| 2.5–3.5% | 2% | 2% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -129,6 +134,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [22–31 July 2022](2022-07-31-Avangarde.html) | Avangarde |  |  |  |  |  |
+| [22–30 June 2022](2022-06-30-Avangarde.html) | Avangarde |  |  |  |  |  |
+| [16–26 May 2022](2022-05-26-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
 | [12–20 April 2022](2022-04-20-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [28 March–11 April 2022](2022-04-11-CURS.html) | CURS |  |  |  |  |  |
 | [22–29 March 2022](2022-03-29-Avangarde.html) | Avangarde |  |  |  |  |  |
