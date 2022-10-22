@@ -10,9 +10,12 @@ Last result: **5.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 3.5–6.2% | 3.3–6.4% | 3.1–6.6% | 2.7–6.9% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.3–5.0% | 3.1–5.2% | 2.9–5.5% | 2.6–6.0% |
+| [8–22 September 2022](2022-09-22-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
+| [1–31 August 2022](2022-08-31-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
+| [5–17 August 2022](2022-08-17-CURS.html) | CURS | 4.0% | N/A | N/A | N/A | N/A |
 | [22–31 July 2022](2022-07-31-Avangarde.html) | Avangarde | 4.0% | 3.3–5.0% | 3.1–5.2% | 2.9–5.5% | 2.6–6.0% |
-| [22–30 June 2022](2022-06-30-Avangarde.html) | Avangarde | 5.0% | N/A | N/A | N/A | N/A |
+| [22–30 June 2022](2022-06-30-Avangarde.html) | Avangarde | 4.9% | N/A | N/A | N/A | N/A |
 | [16–26 May 2022](2022-05-26-CURS.html) | CURS | 5.8% | 5.3–6.4% | 5.1–6.6% | 5.0–6.8% | 4.8–7.1% |
 | [12–20 April 2022](2022-04-20-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
 | [28 March–11 April 2022](2022-04-11-CURS.html) | CURS | 5.0% | 4.5–5.6% | 4.4–5.8% | 4.3–5.9% | 4.0–6.2% |
@@ -119,12 +122,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 10% | 99.8% |  |
-| 3.5–4.5% | 28% | 90% |  |
-| 4.5–5.5% | 23% | 62% | Median |
-| 5.5–6.5% | 35% | 38% | Last Result |
-| 6.5–7.5% | 3% | 3% |  |
+| 1.5–2.5% | 0.4% | 100% |  |
+| 2.5–3.5% | 20% | 99.6% |  |
+| 3.5–4.5% | 56% | 79% | Median |
+| 4.5–5.5% | 22% | 24% |  |
+| 5.5–6.5% | 2% | 2% | Last Result |
+| 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -136,8 +139,11 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
-| [22–31 July 2022](2022-07-31-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–2 | 0–2 | 0–2 |
+| [8–22 September 2022](2022-09-22-CURS.html) | CURS |  |  |  |  |  |
+| [1–31 August 2022](2022-08-31-Sociopol.html) | Sociopol |  |  |  |  |  |
+| [5–17 August 2022](2022-08-17-CURS.html) | CURS |  |  |  |  |  |
+| [22–31 July 2022](2022-07-31-Avangarde.html) | Avangarde | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | [22–30 June 2022](2022-06-30-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [16–26 May 2022](2022-05-26-CURS.html) | CURS | 2 | 2 | 2 | 2 | 0–3 |
 | [12–20 April 2022](2022-04-20-Avangarde.html) | Avangarde |  |  |  |  |  |
@@ -246,10 +252,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 48% | 100% |  |
-| 1 | 0% | 52% |  |
-| 2 | 51% | 51% | Last Result, Median |
-| 3 | 0.5% | 0.5% |  |
-| 4 | 0% | 0% |  |
+| 0 | 91% | 100% | Median |
+| 1 | 0% | 9% |  |
+| 2 | 9% | 9% | Last Result |
+| 3 | 0% | 0% |  |
 
 

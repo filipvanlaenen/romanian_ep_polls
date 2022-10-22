@@ -1,4 +1,4 @@
-# Partidul Puterii Umaniste (social-liberal) (S&D)
+# Reînnoim Proiectul European al României (RE)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,56 +10,56 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.6–4.6% | 2.4–4.9% | 2.2–5.1% | 1.9–5.6% |
-| [8–22 September 2022](2022-09-22-CURS.html) | CURS | 3.9% | 3.3–4.8% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
+| [8–22 September 2022](2022-09-22-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 August 2022](2022-08-31-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
-| [5–17 August 2022](2022-08-17-CURS.html) | CURS | 4.0% | N/A | N/A | N/A | N/A |
-| [22–31 July 2022](2022-07-31-Avangarde.html) | Avangarde | 3.0% | 2.4–3.9% | 2.2–4.1% | 2.1–4.3% | 1.8–4.8% |
-| [22–30 June 2022](2022-06-30-Avangarde.html) | Avangarde | 3.9% | N/A | N/A | N/A | N/A |
-| [16–26 May 2022](2022-05-26-CURS.html) | CURS | 3.9% | 3.4–4.4% | 3.3–4.6% | 3.2–4.7% | 3.0–5.0% |
+| [5–17 August 2022](2022-08-17-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
+| [22–31 July 2022](2022-07-31-Avangarde.html) | Avangarde | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
+| [22–30 June 2022](2022-06-30-Avangarde.html) | Avangarde | 2.0% | N/A | N/A | N/A | N/A |
+| [16–26 May 2022](2022-05-26-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [12–20 April 2022](2022-04-20-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
-| [28 March–11 April 2022](2022-04-11-CURS.html) | CURS | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.5–2.6% | 1.4–2.8% |
+| [28 March–11 April 2022](2022-04-11-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [22–29 March 2022](2022-03-29-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
-| [2–11 March 2022](2022-03-11-CURS.html) | CURS | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
+| [2–11 March 2022](2022-03-11-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [2–7 March 2022](2022-03-07-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
-| [9–19 February 2022](2022-02-19-Sociopol.html) | Sociopol | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [9–19 February 2022](2022-02-19-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
 | [20–31 January 2022](2022-01-31-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
-| [22–29 January 2022](2022-01-29-CURS.html) | CURS | 3.9% | 3.2–4.8% | 3.0–5.0% | 2.9–5.3% | 2.6–5.7% |
-| [10–18 January 2022](2022-01-18-INSCOP.html) | INSCOP | 1.3% | 0.9–1.8% | 0.9–2.0% | 0.8–2.1% | 0.6–2.4% |
-| [15–23 December 2021](2021-12-23-Avangarde.html) | Avangarde | 4.0% | 3.2–4.9% | 3.0–5.2% | 2.9–5.5% | 2.6–6.0% |
+| [22–29 January 2022](2022-01-29-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
+| [10–18 January 2022](2022-01-18-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
+| [15–23 December 2021](2021-12-23-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
 | [17–22 December 2021](2021-12-22-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
-| [13–17 December 2021](2021-12-17-CURS.html) | CURS | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
-| [16–24 November 2021](2021-11-24-Avangarde.html) | Avangarde | 4.0% | 3.2–4.9% | 3.0–5.2% | 2.9–5.5% | 2.6–6.0% |
-| [17–22 November 2021](2021-11-22-CURS.html) | CURS | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
-| [25–30 October 2021](2021-10-30-CURS.html) | CURS | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
-| [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 4.0% | 3.3–5.0% | 3.1–5.2% | 2.9–5.5% | 2.6–6.0% |
-| [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.3% |
+| [13–17 December 2021](2021-12-17-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
+| [16–24 November 2021](2021-11-24-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
+| [17–22 November 2021](2021-11-22-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
+| [25–30 October 2021](2021-10-30-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
+| [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
+| [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
 | [12–20 October 2021](2021-10-20-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 October 2021](2021-10-17-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
 | [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
 | [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică | 0.0% | N/A | N/A | N/A | N/A |
 | [28 September 2021](2021-09-28-INSOMAR.html) | INSOMAR | 0.0% | N/A | N/A | N/A | N/A |
 | [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
-| [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde | 4.0% | N/A | N/A | N/A | N/A |
-| [8–10 September 2021](2021-09-10-CURS.html) | CURS | 3.9% | N/A | N/A | N/A | N/A |
-| [3–5 September 2021](2021-09-05-CURS.html) | CURS | 4.0% | N/A | N/A | N/A | N/A |
-| [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 1.0% | N/A | N/A | N/A | N/A |
-| [12–20 August 2021](2021-08-20-CURS.html) | CURS | 4.0% | N/A | N/A | N/A | N/A |
+| [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
+| [8–10 September 2021](2021-09-10-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
+| [3–5 September 2021](2021-09-05-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
+| [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
+| [12–20 August 2021](2021-08-20-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [15–19 August 2021](2021-08-19-IRES.html) | IRES | 0.0% | N/A | N/A | N/A | N/A |
 | [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
 | [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 0.0% | N/A | N/A | N/A | N/A |
-| [11–18 June 2021](2021-06-18-CURS.html) | CURS | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
+| [11–18 June 2021](2021-06-18-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [1–15 June 2021](2021-06-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 0.0% | N/A | N/A | N/A | N/A |
 | [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
-| [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 1.0% | N/A | N/A | N/A | N/A |
+| [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES | 0.0% | N/A | N/A | N/A | N/A |
-| [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 1.0% | N/A | N/A | N/A | N/A |
+| [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
 | [7 May 2021](2021-05-07-INSOMAR.html) | INSOMAR <br> Realitatea.net | 0.0% | N/A | N/A | N/A | N/A |
-| [14–17 April 2021](2021-04-17-CURS.html) | CURS | 4.0% | 3.3–4.8% | 3.1–5.1% | 3.0–5.3% | 2.7–5.7% |
+| [14–17 April 2021](2021-04-17-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [30 March–11 April 2021](2021-04-11-BCS.html) | BCS | 0.0% | N/A | N/A | N/A | N/A |
 | [12–28 March 2021](2021-03-28-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
 | [1–12 March 2021](2021-03-12-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
-| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
+| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net | 0.0% | N/A | N/A | N/A | N/A |
 | [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
 | [11–15 January 2021](2021-01-15-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
@@ -117,18 +117,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Partidul Puterii Umaniste (social-liberal) (S&D).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Reînnoim Proiectul European al României (RE).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 8% | 100% |  |
-| 2.5–3.5% | 42% | 92% |  |
-| 3.5–4.5% | 39% | 49% | Median |
-| 4.5–5.5% | 10% | 10% |  |
-| 5.5–6.5% | 0.6% | 0.6% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.0–0.5% | 3% | 100% | Last Result |
+| 0.5–1.5% | 86% | 97% | Median |
+| 1.5–2.5% | 11% | 11% |  |
+| 2.5–3.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -139,30 +136,30 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–2 | 0–2 |
-| [8–22 September 2022](2022-09-22-CURS.html) | CURS | 0 | 0 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–22 September 2022](2022-09-22-CURS.html) | CURS |  |  |  |  |  |
 | [1–31 August 2022](2022-08-31-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [5–17 August 2022](2022-08-17-CURS.html) | CURS |  |  |  |  |  |
 | [22–31 July 2022](2022-07-31-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
 | [22–30 June 2022](2022-06-30-Avangarde.html) | Avangarde |  |  |  |  |  |
-| [16–26 May 2022](2022-05-26-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
+| [16–26 May 2022](2022-05-26-CURS.html) | CURS |  |  |  |  |  |
 | [12–20 April 2022](2022-04-20-Avangarde.html) | Avangarde |  |  |  |  |  |
-| [28 March–11 April 2022](2022-04-11-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
+| [28 March–11 April 2022](2022-04-11-CURS.html) | CURS |  |  |  |  |  |
 | [22–29 March 2022](2022-03-29-Avangarde.html) | Avangarde |  |  |  |  |  |
-| [2–11 March 2022](2022-03-11-CURS.html) | CURS | 0 | 0 | 0 | 0–2 | 0–2 |
+| [2–11 March 2022](2022-03-11-CURS.html) | CURS |  |  |  |  |  |
 | [2–7 March 2022](2022-03-07-INSCOP.html) | INSCOP |  |  |  |  |  |
-| [9–19 February 2022](2022-02-19-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
+| [9–19 February 2022](2022-02-19-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [20–31 January 2022](2022-01-31-Avangarde.html) | Avangarde |  |  |  |  |  |
-| [22–29 January 2022](2022-01-29-CURS.html) | CURS | 0 | 0 | 0 | 0–2 | 0–2 |
-| [10–18 January 2022](2022-01-18-INSCOP.html) | INSCOP | 0 | 0 | 0 | 0 | 0 |
-| [15–23 December 2021](2021-12-23-Avangarde.html) | Avangarde | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [22–29 January 2022](2022-01-29-CURS.html) | CURS |  |  |  |  |  |
+| [10–18 January 2022](2022-01-18-INSCOP.html) | INSCOP |  |  |  |  |  |
+| [15–23 December 2021](2021-12-23-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [17–22 December 2021](2021-12-22-Sociopol.html) | Sociopol |  |  |  |  |  |
-| [13–17 December 2021](2021-12-17-CURS.html) | CURS | 0 | 0 | 0–1 | 0–2 | 0–2 |
-| [16–24 November 2021](2021-11-24-Avangarde.html) | Avangarde | 0 | 0 | 0–2 | 0–2 | 0–2 |
-| [17–22 November 2021](2021-11-22-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
-| [25–30 October 2021](2021-10-30-CURS.html) | CURS | 0 | 0 | 0–2 | 0–2 | 0–2 |
-| [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 0 | 0 | 0–2 | 0–2 | 0–2 |
-| [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 0 | 0 | 0 | 0 | 0 |
+| [13–17 December 2021](2021-12-17-CURS.html) | CURS |  |  |  |  |  |
+| [16–24 November 2021](2021-11-24-Avangarde.html) | Avangarde |  |  |  |  |  |
+| [17–22 November 2021](2021-11-22-CURS.html) | CURS |  |  |  |  |  |
+| [25–30 October 2021](2021-10-30-CURS.html) | CURS |  |  |  |  |  |
+| [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde |  |  |  |  |  |
+| [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [12–20 October 2021](2021-10-20-CURS.html) | CURS |  |  |  |  |  |
 | [12–17 October 2021](2021-10-17-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol |  |  |  |  |  |
@@ -177,18 +174,18 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [15–19 August 2021](2021-08-19-IRES.html) | IRES |  |  |  |  |  |
 | [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net |  |  |  |  |  |
-| [11–18 June 2021](2021-06-18-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
+| [11–18 June 2021](2021-06-18-CURS.html) | CURS |  |  |  |  |  |
 | [1–15 June 2021](2021-06-15-INSOMAR.html) | INSOMAR <br> Realitatea.net |  |  |  |  |  |
 | [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES |  |  |  |  |  |
 | [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [7 May 2021](2021-05-07-INSOMAR.html) | INSOMAR <br> Realitatea.net |  |  |  |  |  |
-| [14–17 April 2021](2021-04-17-CURS.html) | CURS | 0 | 0 | 0–2 | 0–2 | 0–2 |
+| [14–17 April 2021](2021-04-17-CURS.html) | CURS |  |  |  |  |  |
 | [30 March–11 April 2021](2021-04-11-BCS.html) | BCS |  |  |  |  |  |
 | [12–28 March 2021](2021-03-28-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [1–12 March 2021](2021-03-12-INSCOP.html) | INSCOP |  |  |  |  |  |
-| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
+| [22–26 February 2021](2021-02-26-CURS.html) | CURS |  |  |  |  |  |
 | [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net |  |  |  |  |  |
 | [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [11–15 January 2021](2021-01-15-CURS.html) | CURS |  |  |  |  |  |
@@ -246,15 +243,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-partidulputeriiumanistesocial-liberalsd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-reînnoimproiectuleuropeanalromânieire.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Partidul Puterii Umaniste (social-liberal) (S&D).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Reînnoim Proiectul European al României (RE).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 0.9% | 4% |  |
-| 2 | 3% | 3% |  |
-| 3 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
