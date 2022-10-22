@@ -17,6 +17,7 @@ The table below lists the polls on which the average is based. They are the most
 
 Only polls for which at least the sample size has been published are included in the table above.
 
+
 **Legend:**
 + **Top half of each row:** Voting intentions (95% confidence interval)
 + **Bottom half of each row:** Seat projections for the European Parliament (95% confidence interval)
