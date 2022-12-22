@@ -10,7 +10,10 @@ Last result: **22.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.1% | 7.4–11.6% | 7.0–12.2% | 6.7–12.6% | 6.2–13.5% |
+| N/A | [Poll Average](average.html) | 10.4% | 8.6–12.1% | 8.2–12.5% | 7.8–12.9% | 7.3–13.6% |
+| [1–31 December 2022](2022-12-31-INSCOP.html) | INSCOP | 10.9% | 9.7–12.2% | 9.4–12.6% | 9.1–12.9% | 8.6–13.5% |
+| [8–22 November 2022](2022-11-22-CURS.html) | CURS | 9.0% | 8.0–10.2% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
+| [1–31 October 2022](2022-10-31-Sociopol.html) | Sociopol | 11.0% | 9.7–12.5% | 9.4–12.9% | 9.1–13.3% | 8.5–14.0% |
 | [8–22 September 2022](2022-09-22-CURS.html) | CURS | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [1–31 August 2022](2022-08-31-Sociopol.html) | Sociopol | 11.0% | 9.7–12.5% | 9.4–12.9% | 9.1–13.3% | 8.5–14.0% |
 | [5–17 August 2022](2022-08-17-CURS.html) | CURS | 10.0% | N/A | N/A | N/A | N/A |
@@ -121,16 +124,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.5% | 100% |  |
-| 6.5–7.5% | 11% | 98.5% |  |
-| 7.5–8.5% | 24% | 87% |  |
-| 8.5–9.5% | 22% | 63% | Median |
-| 9.5–10.5% | 16% | 41% |  |
-| 10.5–11.5% | 14% | 25% |  |
-| 11.5–12.5% | 8% | 11% |  |
-| 12.5–13.5% | 3% | 3% |  |
-| 13.5–14.5% | 0.4% | 0.4% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 1.1% | 100% |  |
+| 7.5–8.5% | 9% | 98.8% |  |
+| 8.5–9.5% | 19% | 90% |  |
+| 9.5–10.5% | 25% | 71% | Median |
+| 10.5–11.5% | 27% | 46% |  |
+| 11.5–12.5% | 15% | 19% |  |
+| 12.5–13.5% | 4% | 5% |  |
+| 13.5–14.5% | 0.6% | 0.6% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% |  |
@@ -149,7 +151,10 @@ Last result: **8** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3–5 | 3–5 | 3–6 | 2–6 |
+| [1–31 December 2022](2022-12-31-INSCOP.html) | INSCOP | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [8–22 November 2022](2022-11-22-CURS.html) | CURS | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [1–31 October 2022](2022-10-31-Sociopol.html) | Sociopol | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
 | [8–22 September 2022](2022-09-22-CURS.html) | CURS | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [1–31 August 2022](2022-08-31-Sociopol.html) | Sociopol | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [5–17 August 2022](2022-08-17-CURS.html) | CURS |  |  |  |  |  |
@@ -262,11 +267,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 13% | 100% |  |
-| 3 | 56% | 87% | Median |
-| 4 | 30% | 31% |  |
-| 5 | 0.4% | 0.4% |  |
-| 6 | 0% | 0% |  |
+| 2 | 2% | 100% |  |
+| 3 | 51% | 98% | Median |
+| 4 | 35% | 47% |  |
+| 5 | 9% | 12% |  |
+| 6 | 4% | 4% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% | Last Result |
 

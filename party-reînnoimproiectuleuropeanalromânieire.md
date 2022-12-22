@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.3–5.0% | 3.1–5.3% | 2.9–5.5% | 2.6–6.0% |
+| [1–31 December 2022](2022-12-31-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
+| [8–22 November 2022](2022-11-22-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
+| [1–31 October 2022](2022-10-31-Sociopol.html) | Sociopol | 4.0% | 3.3–5.0% | 3.1–5.3% | 2.9–5.5% | 2.6–6.1% |
 | [8–22 September 2022](2022-09-22-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 August 2022](2022-08-31-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
 | [5–17 August 2022](2022-08-17-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
@@ -121,11 +124,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% | Last Result |
-| 0.5–1.5% | 86% | 97% | Median |
-| 1.5–2.5% | 11% | 11% |  |
-| 2.5–3.5% | 0.1% | 0.1% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.4% | 100% |  |
+| 2.5–3.5% | 20% | 99.6% |  |
+| 3.5–4.5% | 55% | 80% | Median |
+| 4.5–5.5% | 22% | 25% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -136,7 +143,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–2 | 0–2 |
+| [1–31 December 2022](2022-12-31-INSCOP.html) | INSCOP |  |  |  |  |  |
+| [8–22 November 2022](2022-11-22-CURS.html) | CURS |  |  |  |  |  |
+| [1–31 October 2022](2022-10-31-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0–2 | 0–2 |
 | [8–22 September 2022](2022-09-22-CURS.html) | CURS |  |  |  |  |  |
 | [1–31 August 2022](2022-08-31-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [5–17 August 2022](2022-08-17-CURS.html) | CURS |  |  |  |  |  |
@@ -249,6 +259,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 0% | 4% |  |
+| 2 | 4% | 4% |  |
+| 3 | 0% | 0% |  |
 
 
