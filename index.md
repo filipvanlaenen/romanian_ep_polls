@@ -1,14 +1,12 @@
 # Overview
 
-The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | PNL | PSD | A2020 | PRO | PMP | UDMR | ALDE | PLUS | USR | AUR | PPU-SL | PER | APP | FD | REPER | SOSRO |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 27.0% <br> 10 | 22.5% <br> 9 | 22.4% <br> 8 | 6.4% <br> 2 | 5.8% <br> 2 | 5.3% <br> 2 | 4.1% <br> 0 | 22.4% <br> 4 | 22.4% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 17–26% <br> 6–10 | 30–38% <br> 10–16 | 8–13% <br> 3–6 | 1–3% <br> 0 | 1–5% <br> 0 | 3–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–20% <br> 4–7 | 0–5% <br> 0–1 | 2–4% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 | 3–6% <br> 0–2 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 18–23% <br> 6–8 | 29–34% <br> 10–12 | 9–13% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 16–20% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–31 December 2022](2022-12-31-INSCOP.html) | INSCOP | 18–23% <br> 6–8 | 29–34% <br> 10–12 | 9–13% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 16–21% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [8–22 November 2022](2022-11-22-CURS.html) | CURS | 22–27% <br> 8–10 | 31–37% <br> 12–14 | 7–11% <br> 2–4 | N/A <br> N/A | 3–5% <br> 0 | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 3–5 | 3–5% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [1–31 October 2022](2022-10-31-Sociopol.html) | Sociopol | 16–22% <br> 7–9 | 33–39% <br> 13–17 | 9–13% <br> 3–6 | 1–3% <br> 0 | 1–3% <br> 0 | 3–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 12–16% <br> 5–7 | 0–1% <br> 0 | 2–4% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 | 3–6% <br> 0–2 | N/A <br> N/A |
 | 26 May 2019 | General Election | 27.0% <br> 10 | 22.5% <br> 9 | 22.4% <br> 8 | 6.4% <br> 2 | 5.8% <br> 2 | 5.3% <br> 2 | 4.1% <br> 0 | 22.4% <br> 4 | 22.4% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
