@@ -10,7 +10,9 @@ Last result: **22.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.9% | 9.7–12.2% | 9.4–12.6% | 9.1–12.9% | 8.6–13.5% |
+| N/A | [Poll Average](average.html) | 12.9% | 12.0–13.9% | 11.7–14.2% | 11.5–14.4% | 11.1–14.9% |
+| [27–30 January 2023](2023-01-30-AtlasIntel.html) | Atlas Intel | 12.9% | 12.0–13.9% | 11.7–14.2% | 11.5–14.4% | 11.1–15.0% |
+| [10–20 January 2023](2023-01-20-CURS.html) | CURS | 8.0% | N/A | N/A | N/A | N/A |
 | [1–31 December 2022](2022-12-31-INSCOP.html) | INSCOP | 10.9% | 9.7–12.2% | 9.4–12.6% | 9.1–12.9% | 8.6–13.5% |
 | [8–22 November 2022](2022-11-22-CURS.html) | CURS | 9.0% | 8.0–10.2% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
 | [1–31 October 2022](2022-10-31-Sociopol.html) | Sociopol | 11.0% | 9.7–12.5% | 9.4–12.9% | 9.1–13.3% | 8.5–14.0% |
@@ -124,15 +126,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.4% | 100% |  |
-| 8.5–9.5% | 7% | 99.6% |  |
-| 9.5–10.5% | 28% | 93% |  |
-| 10.5–11.5% | 39% | 65% | Median |
-| 11.5–12.5% | 20% | 25% |  |
-| 12.5–13.5% | 5% | 5% |  |
-| 13.5–14.5% | 0.5% | 0.5% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 3% | 100% |  |
+| 11.5–12.5% | 27% | 97% |  |
+| 12.5–13.5% | 49% | 70% | Median |
+| 13.5–14.5% | 19% | 21% |  |
+| 14.5–15.5% | 2% | 2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% |  |
 | 17.5–18.5% | 0% | 0% |  |
@@ -150,7 +149,9 @@ Last result: **8** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [27–30 January 2023](2023-01-30-AtlasIntel.html) | Atlas Intel | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [10–20 January 2023](2023-01-20-CURS.html) | CURS |  |  |  |  |  |
 | [1–31 December 2022](2022-12-31-INSCOP.html) | INSCOP | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [8–22 November 2022](2022-11-22-CURS.html) | CURS | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [1–31 October 2022](2022-10-31-Sociopol.html) | Sociopol | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
@@ -266,11 +267,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.4% | 100% |  |
-| 3 | 65% | 99.6% | Median |
-| 4 | 34% | 35% |  |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 4 | 17% | 100% |  |
+| 5 | 82% | 83% | Median |
+| 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% | Last Result |
 
