@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.0% | 3.3–4.8% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
+| [19–27 May 2023](2023-05-27-CURS.html) | CURS | 4.0% | 3.3–4.8% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
+| [12–17 May 2023](2023-05-17-CURS.html) | CURS | 3.0% | N/A | N/A | N/A | N/A |
 | [10–20 March 2023](2023-03-20-CURS.html) | CURS | 4.0% | 3.3–4.8% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
 | [5–19 February 2023](2023-02-19-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
 | [1–13 February 2023](2023-02-13-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
@@ -132,8 +134,8 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 19% | 99.8% |  |
-| 3.5–4.5% | 61% | 80% | Median |
+| 2.5–3.5% | 20% | 99.8% |  |
+| 3.5–4.5% | 60% | 80% | Median |
 | 4.5–5.5% | 19% | 20% |  |
 | 5.5–6.5% | 1.1% | 1.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -148,6 +150,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–2 | 0–2 |
+| [19–27 May 2023](2023-05-27-CURS.html) | CURS | 0 | 0 | 0–1 | 0–2 | 0–2 |
+| [12–17 May 2023](2023-05-17-CURS.html) | CURS |  |  |  |  |  |
 | [10–20 March 2023](2023-03-20-CURS.html) | CURS | 0 | 0 | 0–1 | 0–2 | 0–2 |
 | [5–19 February 2023](2023-02-19-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [1–13 February 2023](2023-02-13-INSCOP.html) | INSCOP |  |  |  |  |  |
@@ -268,8 +272,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Last Result, Median |
-| 1 | 3% | 6% |  |
+| 0 | 95% | 100% | Last Result, Median |
+| 1 | 2% | 5% |  |
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
