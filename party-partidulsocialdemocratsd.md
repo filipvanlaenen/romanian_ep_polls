@@ -162,8 +162,8 @@ Last result: **9** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
-| [23 October–2 November 2023](2023-11-02-INSCOP.html) | INSCOP <br> News.ro | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
+| N/A | [Poll Average](average.html) | 12 | 11–13 | 11–13 | 11–13 | 10–13 |
+| [23 October–2 November 2023](2023-11-02-INSCOP.html) | INSCOP <br> News.ro | 12 | 11–13 | 11–13 | 11–13 | 10–13 |
 | [15–22 September 2023](2023-09-22-INSCOP.html) | INSCOP <br> News.ro | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
 | [12–22 September 2023](2023-09-22-CURS.html) | CURS | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [28–31 August 2023](2023-08-31-INSOMAR.html) | INSOMAR | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
@@ -294,10 +294,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0% | 100% | Last Result |
-| 10 | 1.3% | 100% |  |
-| 11 | 30% | 98.7% |  |
-| 12 | 62% | 69% | Median |
-| 13 | 7% | 7% |  |
+| 10 | 1.0% | 100% |  |
+| 11 | 17% | 99.0% |  |
+| 12 | 60% | 82% | Median |
+| 13 | 22% | 22% |  |
 | 14 | 0.3% | 0.3% |  |
 | 15 | 0% | 0% |  |
 
