@@ -10,7 +10,10 @@ Last result: **22.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.0% | 29.0–33.1% | 28.4–33.7% | 28.0–34.2% | 27.0–35.2% |
+| N/A | [Poll Average](average.html) | 29.0% | 27.1–31.0% | 26.5–31.6% | 26.1–32.1% | 25.2–33.1% |
+| [1–31 January 2024](2024-01-31-Sociopol.html) | Sociopol | 29.0% | 27.1–31.0% | 26.5–31.6% | 26.1–32.1% | 25.2–33.1% |
+| [15–27 January 2024](2024-01-27-CURS.html) | CURS | 30.0% | N/A | N/A | N/A | N/A |
+| [16–24 January 2024](2024-01-24-INSCOP.html) | INSCOP <br> News.ro | 29.5% | N/A | N/A | N/A | N/A |
 | [26–30 December 2023](2023-12-30-CURS.html) | CURS | 31.0% | 29.0–33.1% | 28.4–33.7% | 28.0–34.2% | 27.0–35.2% |
 | [20–27 November 2023](2023-11-27-INSCOP.html) | INSCOP <br> News.ro | 30.4% | 28.7–32.3% | 28.2–32.8% | 27.8–33.2% | 26.9–34.1% |
 | [23 October–2 November 2023](2023-11-02-INSCOP.html) | INSCOP <br> News.ro | 29.5% | 27.7–31.3% | 27.3–31.8% | 26.8–32.2% | 26.0–33.1% |
@@ -142,20 +145,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 22.5–23.5% | 0% | 100% | Last Result |
-| 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0% | 100% |  |
-| 25.5–26.5% | 0.2% | 100% |  |
-| 26.5–27.5% | 1.1% | 99.8% |  |
-| 27.5–28.5% | 4% | 98.7% |  |
-| 28.5–29.5% | 12% | 94% |  |
-| 29.5–30.5% | 21% | 82% |  |
-| 30.5–31.5% | 25% | 62% | Median |
-| 31.5–32.5% | 20% | 37% |  |
-| 32.5–33.5% | 11% | 17% |  |
-| 33.5–34.5% | 4% | 6% |  |
-| 34.5–35.5% | 1.2% | 1.4% |  |
-| 35.5–36.5% | 0.2% | 0.3% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 23.5–24.5% | 0.1% | 100% |  |
+| 24.5–25.5% | 0.9% | 99.9% |  |
+| 25.5–26.5% | 4% | 99.0% |  |
+| 26.5–27.5% | 12% | 95% |  |
+| 27.5–28.5% | 21% | 83% |  |
+| 28.5–29.5% | 26% | 62% | Median |
+| 29.5–30.5% | 20% | 36% |  |
+| 30.5–31.5% | 11% | 16% |  |
+| 31.5–32.5% | 4% | 5% |  |
+| 32.5–33.5% | 1.0% | 1.2% |  |
+| 33.5–34.5% | 0.2% | 0.2% |  |
+| 34.5–35.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -166,7 +167,10 @@ Last result: **9** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
+| N/A | [Poll Average](average.html) | 12 | 11–12 | 10–12 | 10–13 | 9–13 |
+| [1–31 January 2024](2024-01-31-Sociopol.html) | Sociopol | 12 | 11–12 | 10–12 | 10–13 | 9–13 |
+| [15–27 January 2024](2024-01-27-CURS.html) | CURS |  |  |  |  |  |
+| [16–24 January 2024](2024-01-24-INSCOP.html) | INSCOP <br> News.ro |  |  |  |  |  |
 | [26–30 December 2023](2023-12-30-CURS.html) | CURS | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [20–27 November 2023](2023-11-27-INSCOP.html) | INSCOP <br> News.ro | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
 | [23 October–2 November 2023](2023-11-02-INSCOP.html) | INSCOP <br> News.ro | 12 | 11–13 | 11–13 | 11–13 | 10–13 |
@@ -299,13 +303,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0% | 100% | Last Result |
-| 10 | 1.1% | 100% |  |
-| 11 | 14% | 98.9% |  |
-| 12 | 44% | 85% | Median |
-| 13 | 32% | 41% |  |
-| 14 | 7% | 9% |  |
-| 15 | 1.1% | 1.1% |  |
-| 16 | 0% | 0% |  |
+| 9 | 0.9% | 100% | Last Result |
+| 10 | 9% | 99.1% |  |
+| 11 | 17% | 90% |  |
+| 12 | 71% | 74% | Median |
+| 13 | 3% | 3% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 
