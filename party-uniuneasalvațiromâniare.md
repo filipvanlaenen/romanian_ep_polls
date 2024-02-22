@@ -10,8 +10,8 @@ Last result: **22.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.7% | 7.6–9.9% | 7.3–10.3% | 7.1–10.6% | 6.6–11.3% |
-| [3–14 February 2024](2024-02-14-CURS.html) | CURS | 8.6% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 8.7% | 7.6–9.9% | 7.3–10.2% | 7.1–10.6% | 6.6–11.2% |
+| [3–14 February 2024](2024-02-14-CURS.html) | CURS | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.1–10.5% | 6.6–11.1% |
 | [1–31 January 2024](2024-01-31-Sociopol.html) | Sociopol | 8.7% | 7.6–10.1% | 7.3–10.4% | 7.0–10.8% | 6.5–11.4% |
 | [15–27 January 2024](2024-01-27-CURS.html) | CURS | 9.3% | 8.3–10.6% | 8.0–10.9% | 7.7–11.2% | 7.3–11.8% |
 | [16–24 January 2024](2024-01-24-INSCOP.html) | INSCOP <br> News.ro | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.1–10.5% | 6.7–11.1% |
@@ -149,9 +149,9 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0.4% | 100% |  |
 | 6.5–7.5% | 8% | 99.6% |  |
 | 7.5–8.5% | 34% | 91% |  |
-| 8.5–9.5% | 39% | 58% | Median |
-| 9.5–10.5% | 16% | 19% |  |
-| 10.5–11.5% | 3% | 3% |  |
+| 8.5–9.5% | 39% | 57% | Median |
+| 9.5–10.5% | 15% | 18% |  |
+| 10.5–11.5% | 2% | 3% |  |
 | 11.5–12.5% | 0.2% | 0.2% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -174,7 +174,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
-| [3–14 February 2024](2024-02-14-CURS.html) | CURS |  |  |  |  |  |
+| [3–14 February 2024](2024-02-14-CURS.html) | CURS | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [1–31 January 2024](2024-01-31-Sociopol.html) | Sociopol | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | [15–27 January 2024](2024-01-27-CURS.html) | CURS | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [16–24 January 2024](2024-01-24-INSCOP.html) | INSCOP <br> News.ro | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
@@ -311,8 +311,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 3% | 100% |  |
-| 3 | 70% | 97% | Median |
-| 4 | 26% | 27% | Last Result |
+| 3 | 67% | 97% | Median |
+| 4 | 30% | 31% | Last Result |
 | 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
 

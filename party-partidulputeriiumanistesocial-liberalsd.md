@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.6% | 0.6–1.8% | 0.6–1.9% | 0.4–2.3% |
-| [3–14 February 2024](2024-02-14-CURS.html) | CURS | 2.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.6% | 0.8–2.4% | 0.7–2.6% | 0.6–2.8% | 0.5–3.2% |
+| [3–14 February 2024](2024-02-14-CURS.html) | CURS | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
 | [1–31 January 2024](2024-01-31-Sociopol.html) | Sociopol | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
 | [15–27 January 2024](2024-01-27-CURS.html) | CURS | 3.0% | 2.4–3.7% | 2.2–4.0% | 2.1–4.1% | 1.9–4.6% |
 | [16–24 January 2024](2024-01-24-INSCOP.html) | INSCOP <br> News.ro | 0.0% | N/A | N/A | N/A | N/A |
@@ -145,11 +145,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 85% | 98% | Median |
-| 1.5–2.5% | 13% | 13% |  |
-| 2.5–3.5% | 0.1% | 0.1% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 1.2% | 100% | Last Result |
+| 0.5–1.5% | 48% | 98.8% |  |
+| 1.5–2.5% | 44% | 51% | Median |
+| 2.5–3.5% | 7% | 7% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -161,7 +162,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [3–14 February 2024](2024-02-14-CURS.html) | CURS |  |  |  |  |  |
+| [3–14 February 2024](2024-02-14-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
 | [1–31 January 2024](2024-01-31-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [15–27 January 2024](2024-01-27-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
 | [16–24 January 2024](2024-01-24-INSCOP.html) | INSCOP <br> News.ro |  |  |  |  |  |
