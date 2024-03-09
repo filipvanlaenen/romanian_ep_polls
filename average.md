@@ -427,8 +427,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Median |
-| 1 | 2% | 24% |  |
+| 0 | 77% | 100% | Median |
+| 1 | 1.5% | 23% |  |
 | 2 | 22% | 22% | Last Result |
 | 3 | 0% | 0% |  |
 
@@ -510,7 +510,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 74% | 100% | Last Result, Median |
-| 1 | 0.1% | 26% |  |
+| 1 | 0.3% | 26% |  |
 | 2 | 22% | 26% |  |
 | 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
@@ -577,7 +577,6 @@ Only polls for which at least the sample size has been published are included in
 | Partidul S.O.S. România (ID) | 0 | 0 | 0% | 0–2 | 0–2 | 0–3 | 0–3 |
 | Partidul Alianța Liberalilor și Democraților (*) – Alianța pentru Patrie (*) – Blocul Suveranist Român (*) – Partidul Ecologist Român (*) | 0 | 0 | 0% | 0 | 0 | 0–2 | 0–2 |
 | Alianța AER pentru România (Greens/EFA) – Partidul Verde (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
-| Partidul Alianța Liberalilor și Democraților (*) – Alianța pentru Patrie (*) – Partidul Ecologist Român (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Partidul Național Liberal (EPP) – Partidul Mișcarea Populară (EPP) – Uniunea Democrată Maghiară din România (EPP) – Forța Dreptei (EPP) – Forța Dreptei–Partidul Mișcarea Populară (EPP)
 
@@ -591,7 +590,7 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 25% | 50% |  |
 | 12 | 23% | 25% |  |
 | 13 | 2% | 3% |  |
-| 14 | 0.2% | 0.2% | Last Result |
+| 14 | 0.3% | 0.4% | Last Result |
 | 15 | 0% | 0% |  |
 
 ### Alianța pentru Unirea Românilor (ECR)
@@ -661,7 +660,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 74% | 100% | Last Result, Median |
-| 1 | 0.1% | 26% |  |
+| 1 | 0.3% | 26% |  |
 | 2 | 22% | 26% |  |
 | 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
@@ -672,9 +671,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 0.4% | 4% |  |
-| 2 | 4% | 4% |  |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 0.3% | 3% |  |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 ### Alianța AER pentru România (Greens/EFA) – Partidul Verde (Greens/EFA)
@@ -688,18 +687,10 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
-### Partidul Alianța Liberalilor și Democraților (*) – Alianța pentru Patrie (*) – Partidul Ecologist Român (*)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-alde–app–per.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
 
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 0
-+ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 4,194,304
 + **Error estimate:** 1.91%
