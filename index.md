@@ -2,14 +2,15 @@
 
 The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | PNL | PSD | A2020 | PRO | PMP | UDMR | ALDE | PLUS | USR | AUR | PPU-SL | PER | APP | FD | REPER | SOSRO | FD–PMP | PV | AER |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 26 May 2019 | General Election | 27.0% <br> 10 | 22.5% <br> 9 | 22.4% <br> 8 | 6.4% <br> 2 | 5.8% <br> 2 | 5.3% <br> 2 | 4.1% <br> 0 | 22.4% <br> 4 | 22.4% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 21–27% <br> 8–11 | 22–28% <br> 8–11 | N/A <br> N/A | 1–4% <br> 0 | N/A <br> N/A | 3–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 7–11% <br> 2–4 | 17–25% <br> 6–10 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 2–8% <br> 0–3 | 3–6% <br> 1–2 | N/A <br> N/A | 1–4% <br> 0 |
-| [3–14 February 2024](2024-02-14-CURS.html) | CURS | 23–28% <br> 9–11 | 24–29% <br> 9–11 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 3–5% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 7–10% <br> 3–4 | 18–22% <br> 7–9 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–2 | 3–6% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
-| [1–31 January 2024](2024-01-31-Sociopol.html) | Sociopol | 20–25% <br> 8–10 | 21–26% <br> 8–11 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 4–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 7–11% <br> 2–4 | 20–26% <br> 8–10 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0 | 3–6% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 |
-| [16–24 January 2024](2024-01-24-INSCOP.html) | INSCOP <br> News.ro | 21–26% <br> 8–10 | 22–27% <br> 8–11 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 7–10% <br> 2–4 | 16–21% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 5–8% <br> 2–3 | 3–6% <br> 1–2 | N/A <br> N/A | 2–5% <br> 0 |
-| 26 May 2019 | General Election | 27.0% <br> 10 | 22.5% <br> 9 | 22.4% <br> 8 | 6.4% <br> 2 | 5.8% <br> 2 | 5.3% <br> 2 | 4.1% <br> 0 | 22.4% <br> 4 | 22.4% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | PNL | PSD | A2020 | PRO | PMP | UDMR | ALDE | PLUS | USR | AUR | PPU-SL | PER | APP | FD | REPER | SOSRO | FD–PMP | PV | AER | BSR |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 26 May 2019 | General Election | 27.0% <br> 10 | 22.5% <br> 9 | 22.4% <br> 8 | 6.4% <br> 2 | 5.8% <br> 2 | 5.3% <br> 2 | 4.1% <br> 0 | 22.4% <br> 4 | 22.4% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 18–27% <br> 7–11 | 19–28% <br> 7–11 | N/A <br> N/A | 1–5% <br> 0 | N/A <br> N/A | 3–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 7–11% <br> 3–4 | 18–32% <br> 7–13 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 2–7% <br> 0–3 | 3–6% <br> 1–2 | N/A <br> N/A | 1–4% <br> 0 | 3–6% <br> 0–2 |
+| [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol | 18–23% <br> 7–9 | 19–24% <br> 7–10 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 4–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 3–4 | 25–31% <br> 9–11 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0 | 4–7% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A |
+| [1–29 February 2024](2024-02-29-INSOMAR.html) | INSOMAR | 18–23% <br> 7–9 | 18–23% <br> 7–9 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 3–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 2–4 | 28–33% <br> 11–13 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 3–5% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–2 |
+| [22–29 February 2024](2024-02-29-INSCOP.html) | INSCOP <br> News.ro | 19–24% <br> 8–9 | 20–25% <br> 8–10 | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 8–11% <br> 3–4 | 18–23% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 5–8% <br> 2–3 | 3–6% <br> 1–2 | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A |
+| [3–14 February 2024](2024-02-14-CURS.html) | CURS | 23–28% <br> 9–11 | 24–29% <br> 9–11 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 3–5% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 7–10% <br> 3–4 | 18–22% <br> 7–9 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–2 | 3–6% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| 26 May 2019 | General Election | 27.0% <br> 10 | 22.5% <br> 9 | 22.4% <br> 8 | 6.4% <br> 2 | 5.8% <br> 2 | 5.3% <br> 2 | 4.1% <br> 0 | 22.4% <br> 4 | 22.4% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -35,6 +36,7 @@ Only polls for which at least the sample size has been published are included in
 + **FD–PMP:** Forța Dreptei–Partidul Mișcarea Populară (EPP)
 + **PV:** Partidul Verde (Greens/EFA)
 + **AER:** Alianța AER pentru România (Greens/EFA)
++ **BSR:** Blocul Suveranist Român (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
