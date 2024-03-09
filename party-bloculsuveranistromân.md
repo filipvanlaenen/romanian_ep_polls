@@ -1,4 +1,4 @@
-# Forța Dreptei–Partidul Mișcarea Populară (EPP)
+# Blocul Suveranist Român (*)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,17 +10,17 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.5–5.6% | 3.3–5.9% | 3.1–6.2% | 2.7–6.8% |
-| [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol | 5.0% | 4.2–6.1% | 4.0–6.4% | 3.8–6.7% | 3.4–7.3% |
-| [1–29 February 2024](2024-02-29-INSOMAR.html) | INSOMAR | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.1% | 2.5–5.6% |
-| [22–29 February 2024](2024-02-29-INSCOP.html) | INSCOP <br> News.ro | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.5–5.9% | 3.1–6.4% |
-| [3–14 February 2024](2024-02-14-CURS.html) | CURS | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
-| [1–31 January 2024](2024-01-31-Sociopol.html) | Sociopol | 4.4% | 3.6–5.4% | 3.4–5.7% | 3.2–5.9% | 2.9–6.4% |
-| [1–31 January 2024](2024-01-31-INSOMAR.html) | INSOMAR | 3.9% | N/A | N/A | N/A | N/A |
-| [15–27 January 2024](2024-01-27-CURS.html) | CURS | 4.6% | 3.9–5.5% | 3.7–5.8% | 3.5–6.1% | 3.2–6.5% |
-| [16–24 January 2024](2024-01-24-INSCOP.html) | INSCOP <br> News.ro | 4.3% | 3.6–5.2% | 3.4–5.4% | 3.2–5.6% | 2.9–6.1% |
-| [26–30 December 2023](2023-12-30-CURS.html) | CURS | 4.7% | 4.2–6.1% | 4.0–6.5% | 3.8–6.7% | 3.4–7.3% |
-| [20–27 November 2023](2023-11-27-INSCOP.html) | INSCOP <br> News.ro | 1.9% | 1.5–2.6% | 1.4–2.8% | 1.3–2.9% | 1.1–3.3% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.5–5.1% | 3.3–5.3% | 3.1–5.6% | 2.8–6.0% |
+| [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
+| [1–29 February 2024](2024-02-29-INSOMAR.html) | INSOMAR | 4.2% | 3.5–5.1% | 3.3–5.3% | 3.1–5.6% | 2.8–6.1% |
+| [22–29 February 2024](2024-02-29-INSCOP.html) | INSCOP <br> News.ro | 0.0% | N/A | N/A | N/A | N/A |
+| [3–14 February 2024](2024-02-14-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
+| [1–31 January 2024](2024-01-31-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
+| [1–31 January 2024](2024-01-31-INSOMAR.html) | INSOMAR | 3.2% | N/A | N/A | N/A | N/A |
+| [15–27 January 2024](2024-01-27-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
+| [16–24 January 2024](2024-01-24-INSCOP.html) | INSCOP <br> News.ro | 0.0% | N/A | N/A | N/A | N/A |
+| [26–30 December 2023](2023-12-30-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
+| [20–27 November 2023](2023-11-27-INSCOP.html) | INSCOP <br> News.ro | 0.0% | N/A | N/A | N/A | N/A |
 | [23 October–2 November 2023](2023-11-02-INSCOP.html) | INSCOP <br> News.ro | 0.0% | N/A | N/A | N/A | N/A |
 | [15–22 September 2023](2023-09-22-INSCOP.html) | INSCOP <br> News.ro | 0.0% | N/A | N/A | N/A | N/A |
 | [12–22 September 2023](2023-09-22-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
@@ -145,20 +145,19 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Forța Dreptei–Partidul Mișcarea Populară (EPP).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Blocul Suveranist Român (*).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 11% | 99.8% |  |
-| 3.5–4.5% | 44% | 89% | Median |
-| 4.5–5.5% | 35% | 45% |  |
-| 5.5–6.5% | 9% | 10% |  |
-| 6.5–7.5% | 1.0% | 1.0% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 12% | 99.9% |  |
+| 3.5–4.5% | 57% | 88% | Median |
+| 4.5–5.5% | 28% | 31% |  |
+| 5.5–6.5% | 3% | 3% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
-| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -169,17 +168,17 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| [1–29 February 2024](2024-02-29-INSOMAR.html) | INSOMAR | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [22–29 February 2024](2024-02-29-INSCOP.html) | INSCOP <br> News.ro | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [3–14 February 2024](2024-02-14-CURS.html) | CURS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–31 January 2024](2024-01-31-Sociopol.html) | Sociopol | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol |  |  |  |  |  |
+| [1–29 February 2024](2024-02-29-INSOMAR.html) | INSOMAR | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [22–29 February 2024](2024-02-29-INSCOP.html) | INSCOP <br> News.ro |  |  |  |  |  |
+| [3–14 February 2024](2024-02-14-CURS.html) | CURS |  |  |  |  |  |
+| [1–31 January 2024](2024-01-31-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [1–31 January 2024](2024-01-31-INSOMAR.html) | INSOMAR |  |  |  |  |  |
-| [15–27 January 2024](2024-01-27-CURS.html) | CURS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [16–24 January 2024](2024-01-24-INSCOP.html) | INSCOP <br> News.ro | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [26–30 December 2023](2023-12-30-CURS.html) | CURS | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [20–27 November 2023](2023-11-27-INSCOP.html) | INSCOP <br> News.ro | 0 | 0 | 0 | 0 | 0 |
+| [15–27 January 2024](2024-01-27-CURS.html) | CURS |  |  |  |  |  |
+| [16–24 January 2024](2024-01-24-INSCOP.html) | INSCOP <br> News.ro |  |  |  |  |  |
+| [26–30 December 2023](2023-12-30-CURS.html) | CURS |  |  |  |  |  |
+| [20–27 November 2023](2023-11-27-INSCOP.html) | INSCOP <br> News.ro |  |  |  |  |  |
 | [23 October–2 November 2023](2023-11-02-INSCOP.html) | INSCOP <br> News.ro |  |  |  |  |  |
 | [15–22 September 2023](2023-09-22-INSCOP.html) | INSCOP <br> News.ro |  |  |  |  |  |
 | [12–22 September 2023](2023-09-22-CURS.html) | CURS |  |  |  |  |  |
@@ -304,16 +303,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-forțadreptei–partidulmișcareapopularăepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-bloculsuveranistromân.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Forța Dreptei–Partidul Mișcarea Populară (EPP).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Blocul Suveranist Român (*).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 50% | 100% | Median |
-| 2 | 49% | 50% |  |
-| 3 | 0.5% | 0.5% |  |
-| 4 | 0% | 0% |  |
+| 0 | 87% | 100% | Last Result, Median |
+| 1 | 1.1% | 13% |  |
+| 2 | 12% | 12% |  |
+| 3 | 0% | 0% |  |
 
 

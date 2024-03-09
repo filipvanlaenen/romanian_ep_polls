@@ -10,9 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 2.8–7.0% | 2.5–7.4% | 2.3–7.7% | 2.0–8.3% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.0–6.6% | 1.7–7.0% | 1.6–7.4% | 1.3–8.0% |
+| [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol | 3.0% | 2.4–3.9% | 2.2–4.1% | 2.0–4.3% | 1.8–4.8% |
+| [1–29 February 2024](2024-02-29-INSOMAR.html) | INSOMAR | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
+| [22–29 February 2024](2024-02-29-INSCOP.html) | INSCOP <br> News.ro | 6.4% | 5.5–7.4% | 5.3–7.7% | 5.1–8.0% | 4.7–8.5% |
 | [3–14 February 2024](2024-02-14-CURS.html) | CURS | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [1–31 January 2024](2024-01-31-Sociopol.html) | Sociopol | 3.0% | 2.4–3.9% | 2.2–4.1% | 2.0–4.3% | 1.8–4.8% |
+| [1–31 January 2024](2024-01-31-INSOMAR.html) | INSOMAR | 3.2% | N/A | N/A | N/A | N/A |
 | [15–27 January 2024](2024-01-27-CURS.html) | CURS | 4.0% | 3.3–4.8% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
 | [16–24 January 2024](2024-01-24-INSCOP.html) | INSCOP <br> News.ro | 6.5% | 5.7–7.6% | 5.4–7.9% | 5.2–8.2% | 4.8–8.7% |
 | [26–30 December 2023](2023-12-30-CURS.html) | CURS | 5.0% | 4.2–6.1% | 4.0–6.5% | 3.8–6.7% | 3.4–7.3% |
@@ -146,15 +150,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 6% | 100% |  |
-| 2.5–3.5% | 26% | 94% |  |
-| 3.5–4.5% | 26% | 68% | Median |
-| 4.5–5.5% | 10% | 41% |  |
-| 5.5–6.5% | 14% | 32% |  |
-| 6.5–7.5% | 14% | 17% |  |
-| 7.5–8.5% | 3% | 4% |  |
-| 8.5–9.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 23% | 98% |  |
+| 2.5–3.5% | 24% | 75% |  |
+| 3.5–4.5% | 20% | 51% | Median |
+| 4.5–5.5% | 8% | 31% |  |
+| 5.5–6.5% | 12% | 23% |  |
+| 6.5–7.5% | 9% | 11% |  |
+| 7.5–8.5% | 2% | 2% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -167,8 +171,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
+| [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
+| [1–29 February 2024](2024-02-29-INSOMAR.html) | INSOMAR | 0 | 0 | 0 | 0 | 0 |
+| [22–29 February 2024](2024-02-29-INSCOP.html) | INSCOP <br> News.ro | 2 | 2–3 | 2–3 | 2–3 | 0–3 |
 | [3–14 February 2024](2024-02-14-CURS.html) | CURS | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | [1–31 January 2024](2024-01-31-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
+| [1–31 January 2024](2024-01-31-INSOMAR.html) | INSOMAR |  |  |  |  |  |
 | [15–27 January 2024](2024-01-27-CURS.html) | CURS | 0 | 0 | 0–1 | 0–2 | 0–2 |
 | [16–24 January 2024](2024-01-24-INSCOP.html) | INSCOP <br> News.ro | 2 | 2 | 2–3 | 2–3 | 0–3 |
 | [26–30 December 2023](2023-12-30-CURS.html) | CURS | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -303,10 +311,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 65% | 100% | Last Result, Median |
-| 1 | 0.3% | 35% |  |
-| 2 | 32% | 35% |  |
-| 3 | 3% | 3% |  |
+| 0 | 74% | 100% | Last Result, Median |
+| 1 | 0.1% | 26% |  |
+| 2 | 22% | 26% |  |
+| 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
 

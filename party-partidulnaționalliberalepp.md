@@ -10,9 +10,13 @@ Last result: **27.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.8% | 21.6–26.0% | 21.1–26.6% | 20.6–27.1% | 19.6–28.0% |
+| N/A | [Poll Average](average.html) | 21.3% | 19.2–25.4% | 18.6–26.2% | 18.2–26.8% | 17.4–27.8% |
+| [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol | 20.6% | 18.9–22.5% | 18.5–23.0% | 18.1–23.4% | 17.3–24.3% |
+| [1–29 February 2024](2024-02-29-INSOMAR.html) | INSOMAR | 20.0% | 18.5–21.7% | 18.0–22.1% | 17.7–22.6% | 16.9–23.4% |
+| [22–29 February 2024](2024-02-29-INSCOP.html) | INSCOP <br> News.ro | 21.5% | 19.9–23.1% | 19.5–23.6% | 19.1–24.0% | 18.4–24.8% |
 | [3–14 February 2024](2024-02-14-CURS.html) | CURS | 25.0% | 23.4–26.8% | 22.9–27.3% | 22.5–27.7% | 21.7–28.6% |
 | [1–31 January 2024](2024-01-31-Sociopol.html) | Sociopol | 22.6% | 20.8–24.5% | 20.3–25.0% | 19.9–25.5% | 19.1–26.4% |
+| [1–31 January 2024](2024-01-31-INSOMAR.html) | INSOMAR | 23.7% | N/A | N/A | N/A | N/A |
 | [15–27 January 2024](2024-01-27-CURS.html) | CURS | 24.0% | 22.4–25.8% | 22.0–26.2% | 21.6–26.7% | 20.8–27.5% |
 | [16–24 January 2024](2024-01-24-INSCOP.html) | INSCOP <br> News.ro | 23.6% | 22.0–25.3% | 21.6–25.8% | 21.2–26.2% | 20.5–27.1% |
 | [26–30 December 2023](2023-12-30-CURS.html) | CURS | 19.0% | 17.4–20.8% | 16.9–21.3% | 16.5–21.8% | 15.8–22.7% |
@@ -145,18 +149,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.4% | 100% |  |
-| 19.5–20.5% | 2% | 99.6% |  |
-| 20.5–21.5% | 7% | 98% |  |
-| 21.5–22.5% | 14% | 91% |  |
-| 22.5–23.5% | 21% | 77% |  |
-| 23.5–24.5% | 23% | 56% | Median |
-| 24.5–25.5% | 18% | 33% |  |
-| 25.5–26.5% | 10% | 15% |  |
-| 26.5–27.5% | 4% | 5% | Last Result |
-| 27.5–28.5% | 1.0% | 1.1% |  |
-| 28.5–29.5% | 0.2% | 0.2% |  |
+| 15.5–16.5% | 0.1% | 100% |  |
+| 16.5–17.5% | 0.6% | 99.9% |  |
+| 17.5–18.5% | 4% | 99.3% |  |
+| 18.5–19.5% | 11% | 96% |  |
+| 19.5–20.5% | 18% | 85% |  |
+| 20.5–21.5% | 20% | 66% | Median |
+| 21.5–22.5% | 14% | 46% |  |
+| 22.5–23.5% | 8% | 32% |  |
+| 23.5–24.5% | 7% | 24% |  |
+| 24.5–25.5% | 8% | 16% |  |
+| 25.5–26.5% | 6% | 9% |  |
+| 26.5–27.5% | 3% | 3% | Last Result |
+| 27.5–28.5% | 0.7% | 0.8% |  |
+| 28.5–29.5% | 0.1% | 0.1% |  |
 | 29.5–30.5% | 0% | 0% |  |
 
 
@@ -168,9 +174,13 @@ Last result: **10** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
+| N/A | [Poll Average](average.html) | 8 | 8–10 | 7–10 | 7–11 | 7–11 |
+| [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [1–29 February 2024](2024-02-29-INSOMAR.html) | INSOMAR | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [22–29 February 2024](2024-02-29-INSCOP.html) | INSCOP <br> News.ro | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [3–14 February 2024](2024-02-14-CURS.html) | CURS | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [1–31 January 2024](2024-01-31-Sociopol.html) | Sociopol | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
+| [1–31 January 2024](2024-01-31-INSOMAR.html) | INSOMAR |  |  |  |  |  |
 | [15–27 January 2024](2024-01-27-CURS.html) | CURS | 9 | 9–10 | 8–10 | 8–11 | 8–11 |
 | [16–24 January 2024](2024-01-24-INSCOP.html) | INSCOP <br> News.ro | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [26–30 December 2023](2023-12-30-CURS.html) | CURS | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
@@ -305,11 +315,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.3% | 100% |  |
-| 8 | 16% | 99.7% |  |
-| 9 | 43% | 84% | Median |
-| 10 | 35% | 41% | Last Result |
-| 11 | 6% | 6% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 10% | 99.8% |  |
+| 8 | 48% | 90% | Median |
+| 9 | 21% | 42% |  |
+| 10 | 17% | 21% | Last Result |
+| 11 | 4% | 4% |  |
 | 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0% |  |
 

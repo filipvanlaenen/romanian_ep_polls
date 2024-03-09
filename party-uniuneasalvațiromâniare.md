@@ -10,9 +10,13 @@ Last result: **22.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.7% | 7.6–9.9% | 7.3–10.2% | 7.1–10.6% | 6.6–11.2% |
+| N/A | [Poll Average](average.html) | 8.9% | 7.4–10.5% | 7.0–11.0% | 6.7–11.4% | 6.1–12.3% |
+| [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol | 10.0% | 8.8–11.4% | 8.4–11.8% | 8.1–12.1% | 7.6–12.8% |
+| [1–29 February 2024](2024-02-29-INSOMAR.html) | INSOMAR | 7.7% | 6.7–8.8% | 6.4–9.2% | 6.2–9.5% | 5.8–10.1% |
+| [22–29 February 2024](2024-02-29-INSCOP.html) | INSCOP <br> News.ro | 9.1% | 8.1–10.3% | 7.8–10.6% | 7.5–10.9% | 7.1–11.6% |
 | [3–14 February 2024](2024-02-14-CURS.html) | CURS | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.1–10.5% | 6.6–11.1% |
 | [1–31 January 2024](2024-01-31-Sociopol.html) | Sociopol | 8.7% | 7.6–10.1% | 7.3–10.4% | 7.0–10.8% | 6.5–11.4% |
+| [1–31 January 2024](2024-01-31-INSOMAR.html) | INSOMAR | 7.7% | N/A | N/A | N/A | N/A |
 | [15–27 January 2024](2024-01-27-CURS.html) | CURS | 9.3% | 8.3–10.6% | 8.0–10.9% | 7.7–11.2% | 7.3–11.8% |
 | [16–24 January 2024](2024-01-24-INSCOP.html) | INSCOP <br> News.ro | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.1–10.5% | 6.7–11.1% |
 | [26–30 December 2023](2023-12-30-CURS.html) | CURS | 9.4% | N/A | N/A | N/A | N/A |
@@ -146,14 +150,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.4% | 100% |  |
-| 6.5–7.5% | 8% | 99.6% |  |
-| 7.5–8.5% | 34% | 91% |  |
-| 8.5–9.5% | 39% | 57% | Median |
-| 9.5–10.5% | 15% | 18% |  |
-| 10.5–11.5% | 2% | 3% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 5.5–6.5% | 2% | 100% |  |
+| 6.5–7.5% | 11% | 98% |  |
+| 7.5–8.5% | 26% | 87% |  |
+| 8.5–9.5% | 31% | 60% | Median |
+| 9.5–10.5% | 20% | 29% |  |
+| 10.5–11.5% | 8% | 10% |  |
+| 11.5–12.5% | 2% | 2% |  |
+| 12.5–13.5% | 0.2% | 0.3% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
@@ -173,9 +177,13 @@ Last result: **4** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [1–29 February 2024](2024-02-29-INSOMAR.html) | INSOMAR | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [22–29 February 2024](2024-02-29-INSCOP.html) | INSCOP <br> News.ro | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [3–14 February 2024](2024-02-14-CURS.html) | CURS | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [1–31 January 2024](2024-01-31-Sociopol.html) | Sociopol | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
+| [1–31 January 2024](2024-01-31-INSOMAR.html) | INSOMAR |  |  |  |  |  |
 | [15–27 January 2024](2024-01-27-CURS.html) | CURS | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [16–24 January 2024](2024-01-24-INSCOP.html) | INSCOP <br> News.ro | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [26–30 December 2023](2023-12-30-CURS.html) | CURS |  |  |  |  |  |
@@ -310,10 +318,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 3% | 100% |  |
-| 3 | 67% | 97% | Median |
-| 4 | 30% | 31% | Last Result |
-| 5 | 0.6% | 0.6% |  |
+| 2 | 2% | 100% |  |
+| 3 | 59% | 98% | Median |
+| 4 | 38% | 39% | Last Result |
+| 5 | 1.0% | 1.0% |  |
 | 6 | 0% | 0% |  |
 
 
