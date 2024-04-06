@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 1.0–3.2% | 0.8–3.5% | 0.7–3.8% | 0.5–4.3% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.0–4.3% | 0.8–4.6% | 0.7–4.9% | 0.5–5.4% |
+| [17–29 March 2024](2024-03-29-CSPS.html) | CSPS | 0.0% | N/A | N/A | N/A | N/A |
+| [19–28 March 2024](2024-03-28-CURS.html) | CURS | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.8–4.7% |
 | [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
 | [1–29 February 2024](2024-02-29-INSOMAR.html) | INSOMAR | 1.5% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.7–2.7% |
@@ -151,12 +153,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.6% | 100% | Last Result |
-| 0.5–1.5% | 37% | 99.4% |  |
-| 1.5–2.5% | 37% | 62% | Median |
-| 2.5–3.5% | 20% | 25% |  |
-| 3.5–4.5% | 5% | 5% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 35% | 99.4% |  |
+| 1.5–2.5% | 19% | 65% | Median |
+| 2.5–3.5% | 21% | 46% |  |
+| 3.5–4.5% | 20% | 25% |  |
+| 4.5–5.5% | 6% | 6% |  |
+| 5.5–6.5% | 0.4% | 0.4% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -167,7 +170,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–2 |
+| [17–29 March 2024](2024-03-29-CSPS.html) | CSPS |  |  |  |  |  |
+| [19–28 March 2024](2024-03-28-CURS.html) | CURS | 0 | 0 | 0–1 | 0–2 | 0–2 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0 | 0 | 0 | 0 | 0 |
 | [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [1–29 February 2024](2024-02-29-INSOMAR.html) | INSOMAR | 0 | 0 | 0 | 0 | 0 |
@@ -309,6 +314,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 0.8% | 2% |  |
+| 2 | 1.1% | 1.1% |  |
+| 3 | 0% | 0% |  |
 
 
