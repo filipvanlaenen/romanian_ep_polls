@@ -181,7 +181,7 @@ Last result: **9** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–10 | 7–11 | 7–11 | 7–12 |
 | [17–29 March 2024](2024-03-29-CSPS.html) | CSPS | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| [19–28 March 2024](2024-03-28-CURS.html) | CURS | 11 | 10–11 | 9–12 | 9–12 | 9–12 |
+| [19–28 March 2024](2024-03-28-CURS.html) | CURS | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol | 8 | 8–9 | 7–9 | 7–10 | 6–10 |
 | [1–29 February 2024](2024-02-29-INSOMAR.html) | INSOMAR | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
@@ -329,7 +329,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 27% | 49% | Last Result |
 | 10 | 14% | 22% |  |
 | 11 | 7% | 8% |  |
-| 12 | 1.5% | 2% |  |
+| 12 | 1.3% | 1.4% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
