@@ -177,7 +177,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17–29 March 2024](2024-03-29-CSPS.html) | CSPS | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19–28 March 2024](2024-03-28-CURS.html) | CURS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [1–29 February 2024](2024-02-29-INSOMAR.html) | INSOMAR | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–29 February 2024](2024-02-29-INSCOP.html) | INSCOP <br> News.ro | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–14 February 2024](2024-02-14-CURS.html) | CURS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -318,8 +318,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 36% | 100% |  |
-| 2 | 55% | 64% | Median |
+| 1 | 37% | 100% |  |
+| 2 | 54% | 63% | Median |
 | 3 | 9% | 9% |  |
 | 4 | 0% | 0% |  |
 

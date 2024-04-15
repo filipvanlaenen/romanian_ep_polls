@@ -179,13 +179,13 @@ Last result: **9** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–10 | 7–11 | 7–11 | 7–12 |
+| N/A | [Poll Average](average.html) | 9 | 7–10 | 7–11 | 7–11 | 7–12 |
 | [17–29 March 2024](2024-03-29-CSPS.html) | CSPS | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [19–28 March 2024](2024-03-28-CURS.html) | CURS | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
 | [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol | 8 | 8–9 | 7–9 | 7–10 | 6–10 |
-| [1–29 February 2024](2024-02-29-INSOMAR.html) | INSOMAR | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
-| [22–29 February 2024](2024-02-29-INSCOP.html) | INSCOP <br> News.ro | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| [1–29 February 2024](2024-02-29-INSOMAR.html) | INSOMAR | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
+| [22–29 February 2024](2024-02-29-INSCOP.html) | INSCOP <br> News.ro | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [3–14 February 2024](2024-02-14-CURS.html) | CURS | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
 | [1–31 January 2024](2024-01-31-Sociopol.html) | Sociopol | 9 | 8–11 | 8–11 | 8–11 | 8–11 |
 | [1–31 January 2024](2024-01-31-INSOMAR.html) | INSOMAR |  |  |  |  |  |
@@ -323,11 +323,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.3% | 100% |  |
-| 7 | 13% | 99.7% |  |
-| 8 | 38% | 87% | Median |
-| 9 | 27% | 49% | Last Result |
-| 10 | 14% | 22% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 14% | 99.8% |  |
+| 8 | 36% | 86% |  |
+| 9 | 29% | 50% | Last Result, Median |
+| 10 | 13% | 22% |  |
 | 11 | 7% | 8% |  |
 | 12 | 1.3% | 1.4% |  |
 | 13 | 0.1% | 0.1% |  |
