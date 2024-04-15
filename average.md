@@ -13,9 +13,9 @@ The table below lists the polls on which the average is based. They are the most
 | [17–29 March 2024](2024-03-29-CSPS.html) | CSPS | 17–20% <br> 6–8 | 17–21% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 13–16% <br> 5–6 | 25–29% <br> 10–11 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–8% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [19–28 March 2024](2024-03-28-CURS.html) | CURS | 23–29% <br> 9–12 | 24–30% <br> 9–12 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 8–11% <br> 3–5 | 12–16% <br> 4–6 | 3–5% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–2 | 4–6% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 18–24% <br> 7–9 | 19–24% <br> 7–10 | N/A <br> N/A | 4–7% <br> 0–2 | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 3–5 | 18–23% <br> 7–9 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–3 | 4–6% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol | 18–23% <br> 7–9 | 19–24% <br> 7–10 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 4–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 3–4 | 25–31% <br> 9–11 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0 | 4–7% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A |
+| [1–29 February 2024](2024-02-29-Sociopol.html) | Sociopol | 18–23% <br> 7–9 | 19–24% <br> 7–10 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 4–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 3–5 | 25–31% <br> 9–12 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0 | 4–7% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A |
 | [1–29 February 2024](2024-02-29-INSOMAR.html) | INSOMAR | 18–23% <br> 7–9 | 18–23% <br> 7–9 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 3–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 2–4 | 28–33% <br> 11–13 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 3–5% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–2 |
-| [22–29 February 2024](2024-02-29-INSCOP.html) | INSCOP <br> News.ro | 19–24% <br> 8–9 | 20–25% <br> 8–10 | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 8–11% <br> 3–4 | 18–23% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 5–8% <br> 2–3 | 3–6% <br> 1–2 | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A |
+| [22–29 February 2024](2024-02-29-INSCOP.html) | INSCOP <br> News.ro | 19–24% <br> 7–10 | 20–25% <br> 8–10 | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | 3–5% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 8–11% <br> 3–4 | 18–23% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 5–8% <br> 0–3 | 3–6% <br> 1–2 | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A |
 | 26 May 2019 | General Election | 27.0% <br> 10 | 22.5% <br> 9 | 22.4% <br> 8 | 6.4% <br> 2 | 5.8% <br> 2 | 5.3% <br> 2 | 4.1% <br> 0 | 22.4% <br> 4 | 22.4% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -328,7 +328,7 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#partidul-național-liberal-(epp)">Partidul Național Liberal (EPP)</a> | 10 | 8 | 7–10 |7–10 | 7–11 | 6–11 |
-| <a href="#partidul-social-democrat-(s&d)">Partidul Social Democrat (S&D)</a> | 9 | 8 | 7–10 |7–11 | 7–11 | 7–12 |
+| <a href="#partidul-social-democrat-(s&d)">Partidul Social Democrat (S&D)</a> | 9 | 9 | 7–10 |7–11 | 7–11 | 7–12 |
 | <a href="#alianța-2020-usr-plus-(re)">Alianța 2020 USR-PLUS (RE)</a> | 8 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#partidul-libertății,-unității-și-solidarității-(re)">Partidul Libertății, Unității și Solidarității (RE)</a> | 4 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#uniunea-salvați-românia-(re)">Uniunea Salvați România (RE)</a> | 4 | 4 | 3–5 |3–6 | 3–6 | 2–6 |
@@ -358,9 +358,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 1.1% | 100% |  |
 | 7 | 22% | 98.9% |  |
-| 8 | 43% | 77% | Median |
-| 9 | 20% | 34% |  |
-| 10 | 10% | 14% | Last Result |
+| 8 | 40% | 77% | Median |
+| 9 | 21% | 36% |  |
+| 10 | 10% | 15% | Last Result |
 | 11 | 4% | 5% |  |
 | 12 | 0.4% | 0.4% |  |
 | 13 | 0% | 0% |  |
@@ -373,11 +373,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.3% | 100% |  |
-| 7 | 13% | 99.7% |  |
-| 8 | 38% | 87% | Median |
-| 9 | 27% | 49% | Last Result |
-| 10 | 14% | 22% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 14% | 99.8% |  |
+| 8 | 36% | 86% |  |
+| 9 | 29% | 50% | Last Result, Median |
+| 10 | 13% | 22% |  |
 | 11 | 7% | 8% |  |
 | 12 | 1.3% | 1.4% |  |
 | 13 | 0.1% | 0.1% |  |
@@ -403,10 +403,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 1.3% | 100% |  |
-| 3 | 42% | 98.7% |  |
-| 4 | 38% | 57% | Last Result, Median |
-| 5 | 10% | 18% |  |
+| 2 | 2% | 100% |  |
+| 3 | 40% | 98% |  |
+| 4 | 40% | 59% | Last Result, Median |
+| 5 | 10% | 19% |  |
 | 6 | 8% | 8% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
@@ -439,8 +439,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 77% | 100% | Median |
-| 1 | 1.5% | 23% |  |
-| 2 | 22% | 22% | Last Result |
+| 1 | 3% | 23% |  |
+| 2 | 20% | 20% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### Partidul Alianța Liberalilor și Democraților (*)
@@ -464,13 +464,13 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 2% | 100% |  |
 | 5 | 12% | 98% |  |
 | 6 | 4% | 87% |  |
-| 7 | 6% | 83% |  |
-| 8 | 21% | 77% |  |
-| 9 | 7% | 57% | Median |
-| 10 | 21% | 50% |  |
-| 11 | 16% | 28% |  |
-| 12 | 7% | 12% |  |
-| 13 | 5% | 5% |  |
+| 7 | 7% | 83% |  |
+| 8 | 21% | 76% |  |
+| 9 | 7% | 56% | Median |
+| 10 | 19% | 49% |  |
+| 11 | 17% | 30% |  |
+| 12 | 10% | 13% |  |
+| 13 | 3% | 4% |  |
 | 14 | 0.2% | 0.2% |  |
 | 15 | 0% | 0% |  |
 
@@ -525,8 +525,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 52% | 100% | Last Result, Median |
 | 1 | 1.2% | 48% |  |
-| 2 | 43% | 47% |  |
-| 3 | 4% | 4% |  |
+| 2 | 43% | 46% |  |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 ### Forța Dreptei–Partidul Mișcarea Populară (EPP)
@@ -538,8 +538,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 36% | 100% |  |
-| 2 | 55% | 64% | Median |
+| 1 | 37% | 100% |  |
+| 2 | 54% | 63% | Median |
 | 3 | 9% | 9% |  |
 | 4 | 0% | 0% |  |
 
@@ -557,8 +557,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.6% | 100% | Last Result, Median |
-| 1 | 0% | 0.4% |  |
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0% | 0.3% |  |
 | 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
@@ -570,9 +570,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Last Result, Median |
-| 1 | 1.1% | 13% |  |
-| 2 | 12% | 12% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 0.6% | 12% |  |
+| 2 | 11% | 11% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -599,10 +599,10 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 3% | 100% |  |
-| 9 | 25% | 97% |  |
-| 10 | 32% | 72% | Median |
-| 11 | 16% | 40% |  |
-| 12 | 15% | 24% |  |
+| 9 | 24% | 97% |  |
+| 10 | 32% | 73% | Median |
+| 11 | 20% | 41% |  |
+| 12 | 12% | 21% |  |
 | 13 | 6% | 9% |  |
 | 14 | 3% | 4% | Last Result |
 | 15 | 0.5% | 0.5% |  |
@@ -621,13 +621,13 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 2% | 100% |  |
 | 5 | 12% | 98% |  |
 | 6 | 4% | 87% |  |
-| 7 | 6% | 83% |  |
-| 8 | 21% | 77% |  |
-| 9 | 7% | 57% | Median |
-| 10 | 21% | 50% |  |
-| 11 | 16% | 28% |  |
-| 12 | 7% | 12% |  |
-| 13 | 5% | 5% |  |
+| 7 | 7% | 83% |  |
+| 8 | 21% | 76% |  |
+| 9 | 7% | 56% | Median |
+| 10 | 19% | 49% |  |
+| 11 | 17% | 30% |  |
+| 12 | 10% | 13% |  |
+| 13 | 3% | 4% |  |
 | 14 | 0.2% | 0.2% |  |
 | 15 | 0% | 0% |  |
 
@@ -637,11 +637,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.3% | 100% |  |
-| 7 | 12% | 99.7% |  |
-| 8 | 34% | 87% | Median |
-| 9 | 24% | 54% |  |
-| 10 | 17% | 30% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 13% | 99.8% |  |
+| 8 | 32% | 86% |  |
+| 9 | 26% | 55% | Median |
+| 10 | 17% | 29% |  |
 | 11 | 11% | 13% | Last Result |
 | 12 | 2% | 2% |  |
 | 13 | 0.2% | 0.2% |  |
@@ -653,10 +653,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 1.3% | 100% |  |
-| 3 | 42% | 98.7% |  |
-| 4 | 38% | 57% | Median |
-| 5 | 10% | 18% |  |
+| 2 | 2% | 100% |  |
+| 3 | 40% | 98% |  |
+| 4 | 40% | 59% | Median |
+| 5 | 10% | 19% |  |
 | 6 | 8% | 8% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
@@ -699,7 +699,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 98% | 100% | Last Result, Median |
-| 1 | 0.2% | 2% |  |
+| 1 | 0.1% | 2% |  |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
@@ -707,6 +707,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 6
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 9,437,184
-+ **Error estimate:** 1.91%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 12,582,912
++ **Error estimate:** 1.71%
