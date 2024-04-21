@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.7–6.9% | 3.5–7.3% | 3.2–7.6% | 2.8–8.1% |
+| N/A | [Poll Average](average.html) | 7.0% | 4.4–8.4% | 4.1–8.8% | 3.9–9.0% | 3.5–9.6% |
+| [5–9 April 2024](2024-04-09-AtlasIntel.html) | Atlas Intel <br> Digi24 | 8.0% | 7.3–8.9% | 7.1–9.2% | 6.9–9.4% | 6.5–9.9% |
+| [26 March–2 April 2024](2024-04-02-Sociopol.html) | Sociopol | 4.7% | N/A | N/A | N/A | N/A |
 | [17–29 March 2024](2024-03-29-CSPS.html) | CSPS | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.7–8.6% |
 | [19–28 March 2024](2024-03-28-CURS.html) | CURS | 4.7% | 3.9–5.6% | 3.7–5.9% | 3.6–6.1% | 3.2–6.6% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 4.7% | 4.0–5.7% | 3.7–6.0% | 3.6–6.3% | 3.2–6.8% |
@@ -154,15 +156,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 6% | 99.9% |  |
-| 3.5–4.5% | 32% | 93% |  |
-| 4.5–5.5% | 34% | 62% | Median |
-| 5.5–6.5% | 13% | 27% |  |
-| 6.5–7.5% | 11% | 14% |  |
-| 7.5–8.5% | 3% | 3% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.7% | 100% |  |
+| 3.5–4.5% | 12% | 99.3% |  |
+| 4.5–5.5% | 17% | 87% |  |
+| 5.5–6.5% | 10% | 71% |  |
+| 6.5–7.5% | 27% | 60% | Median |
+| 7.5–8.5% | 25% | 33% |  |
+| 8.5–9.5% | 8% | 8% |  |
+| 9.5–10.5% | 0.5% | 0.5% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -173,7 +176,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| [5–9 April 2024](2024-04-09-AtlasIntel.html) | Atlas Intel <br> Digi24 | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| [26 March–2 April 2024](2024-04-02-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [17–29 March 2024](2024-03-29-CSPS.html) | CSPS | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19–28 March 2024](2024-03-28-CURS.html) | CURS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -318,9 +323,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 37% | 100% |  |
-| 2 | 54% | 63% | Median |
-| 3 | 9% | 9% |  |
-| 4 | 0% | 0% |  |
+| 1 | 14% | 100% |  |
+| 2 | 36% | 86% | Median |
+| 3 | 47% | 49% |  |
+| 4 | 2% | 2% |  |
+| 5 | 0% | 0% |  |
 
 
