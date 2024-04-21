@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.8–3.8% | 2.6–4.0% | 2.5–4.2% | 2.3–4.5% |
+| N/A | [Poll Average](average.html) | 1.7% | 0.2–3.6% | 0.1–3.8% | 0.1–4.0% | 0.0–4.4% |
 | [5–9 April 2024](2024-04-09-AtlasIntel.html) | Atlas Intel <br> Digi24 | 3.2% | 2.7–3.8% | 2.6–4.0% | 2.5–4.2% | 2.3–4.5% |
-| [26 March–2 April 2024](2024-04-02-Sociopol.html) | Sociopol | 0.2% | N/A | N/A | N/A | N/A |
+| [26 March–2 April 2024](2024-04-02-Sociopol.html) | Sociopol | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [17–29 March 2024](2024-03-29-CSPS.html) | CSPS | 0.0% | N/A | N/A | N/A | N/A |
 | [19–28 March 2024](2024-03-28-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0.0% | N/A | N/A | N/A | N/A |
@@ -154,12 +154,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 71% | 97% | Median |
-| 3.5–4.5% | 25% | 26% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
+| 0.0–0.5% | 46% | 100% | Last Result |
+| 0.5–1.5% | 4% | 54% |  |
+| 1.5–2.5% | 2% | 50% | Median |
+| 2.5–3.5% | 36% | 48% |  |
+| 3.5–4.5% | 13% | 13% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -173,7 +173,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [5–9 April 2024](2024-04-09-AtlasIntel.html) | Atlas Intel <br> Digi24 | 0 | 0 | 0 | 0 | 0 |
-| [26 March–2 April 2024](2024-04-02-Sociopol.html) | Sociopol |  |  |  |  |  |
+| [26 March–2 April 2024](2024-04-02-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [17–29 March 2024](2024-03-29-CSPS.html) | CSPS |  |  |  |  |  |
 | [19–28 March 2024](2024-03-28-CURS.html) | CURS |  |  |  |  |  |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews |  |  |  |  |  |
