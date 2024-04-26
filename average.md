@@ -347,8 +347,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 16% | 98% |  |
 | 7 | 20% | 83% |  |
 | 8 | 11% | 63% |  |
-| 9 | 23% | 52% | Median |
-| 10 | 24% | 30% | Last Result |
+| 9 | 20% | 52% | Median |
+| 10 | 26% | 32% | Last Result |
 | 11 | 6% | 6% |  |
 | 12 | 0.5% | 0.5% |  |
 | 13 | 0% | 0% |  |
@@ -366,8 +366,8 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 18% | 86% |  |
 | 8 | 11% | 68% |  |
 | 9 | 16% | 57% | Last Result, Median |
-| 10 | 27% | 41% |  |
-| 11 | 12% | 14% |  |
+| 10 | 28% | 41% |  |
+| 11 | 11% | 13% |  |
 | 12 | 2% | 2% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
@@ -392,10 +392,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.8% | 100% |  |
-| 3 | 25% | 99.2% |  |
-| 4 | 31% | 74% | Last Result, Median |
-| 5 | 13% | 43% |  |
+| 2 | 0.9% | 100% |  |
+| 3 | 23% | 99.1% |  |
+| 4 | 33% | 76% | Last Result, Median |
+| 5 | 14% | 44% |  |
 | 6 | 20% | 30% |  |
 | 7 | 10% | 10% |  |
 | 8 | 0.2% | 0.2% |  |
@@ -427,9 +427,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 69% | 100% | Median |
-| 1 | 3% | 31% |  |
-| 2 | 28% | 28% | Last Result |
+| 0 | 71% | 100% | Median |
+| 1 | 3% | 29% |  |
+| 2 | 26% | 26% | Last Result |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -453,8 +453,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 2% | 100% |  |
 | 5 | 15% | 98% |  |
-| 6 | 15% | 83% |  |
-| 7 | 15% | 68% |  |
+| 6 | 13% | 84% |  |
+| 7 | 17% | 71% |  |
 | 8 | 25% | 54% | Median |
 | 9 | 8% | 29% |  |
 | 10 | 12% | 21% |  |
@@ -513,7 +513,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 53% | 100% | Last Result, Median |
 | 1 | 2% | 47% |  |
-| 2 | 31% | 46% |  |
+| 2 | 30% | 45% |  |
 | 3 | 15% | 15% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
@@ -527,8 +527,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 24% | 100% |  |
-| 2 | 46% | 76% | Median |
+| 1 | 25% | 100% |  |
+| 2 | 45% | 75% | Median |
 | 3 | 29% | 30% |  |
 | 4 | 1.2% | 1.2% |  |
 | 5 | 0% | 0% |  |
@@ -547,9 +547,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Last Result, Median |
-| 1 | 0.4% | 7% |  |
-| 2 | 7% | 7% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 0.2% | 6% |  |
+| 2 | 6% | 6% |  |
 | 3 | 0% | 0% |  |
 
 ### Blocul Suveranist Român (*)
@@ -584,10 +584,10 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0.8% | 100% |  |
 | 9 | 18% | 99.2% |  |
 | 10 | 24% | 81% |  |
-| 11 | 21% | 58% | Median |
-| 12 | 20% | 37% |  |
-| 13 | 11% | 17% |  |
-| 14 | 5% | 6% | Last Result |
+| 11 | 21% | 57% | Median |
+| 12 | 20% | 36% |  |
+| 13 | 10% | 16% |  |
+| 14 | 5% | 5% | Last Result |
 | 15 | 0.7% | 0.7% |  |
 | 16 | 0% | 0% |  |
 
@@ -601,9 +601,9 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 13% | 99.5% |  |
 | 7 | 18% | 86% |  |
 | 8 | 9% | 68% |  |
-| 9 | 13% | 59% | Median |
-| 10 | 24% | 46% |  |
-| 11 | 16% | 22% | Last Result |
+| 9 | 12% | 59% | Median |
+| 10 | 25% | 47% |  |
+| 11 | 15% | 22% | Last Result |
 | 12 | 6% | 6% |  |
 | 13 | 0.3% | 0.3% |  |
 | 14 | 0% | 0% |  |
@@ -620,8 +620,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 2% | 100% |  |
 | 5 | 15% | 98% |  |
-| 6 | 15% | 83% |  |
-| 7 | 15% | 68% |  |
+| 6 | 13% | 84% |  |
+| 7 | 17% | 71% |  |
 | 8 | 25% | 54% | Median |
 | 9 | 8% | 29% |  |
 | 10 | 12% | 21% |  |
@@ -635,10 +635,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.8% | 100% |  |
-| 3 | 25% | 99.2% |  |
-| 4 | 31% | 74% | Median |
-| 5 | 13% | 43% |  |
+| 2 | 0.9% | 100% |  |
+| 3 | 23% | 99.1% |  |
+| 4 | 33% | 76% | Median |
+| 5 | 14% | 44% |  |
 | 6 | 20% | 30% |  |
 | 7 | 10% | 10% |  |
 | 8 | 0.2% | 0.2% |  |
@@ -657,8 +657,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 62% | 100% | Last Result, Median |
-| 1 | 1.2% | 38% |  |
+| 0 | 63% | 100% | Last Result, Median |
+| 1 | 1.4% | 37% |  |
 | 2 | 24% | 36% |  |
 | 3 | 12% | 12% |  |
 | 4 | 0.1% | 0.1% |  |
@@ -671,8 +671,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 96% | 100% | Last Result, Median |
-| 1 | 0.2% | 4% |  |
-| 2 | 4% | 4% |  |
+| 1 | 0.1% | 4% |  |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 ### Partidul Alianța Liberalilor și Democraților (*) – Alianța pentru Patrie (*) – Blocul Suveranist Român (*) – Partidul Ecologist Român (*)
@@ -687,6 +687,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 9,437,184
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 10,485,760
 + **Error estimate:** 2.19%
