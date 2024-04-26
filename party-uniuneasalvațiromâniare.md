@@ -183,7 +183,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–7 | 3–7 | 3–7 | 2–7 |
-| [12–20 April 2024](2024-04-20-INSCOP.html) | INSCOP <br> News.ro | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [12–20 April 2024](2024-04-20-INSCOP.html) | INSCOP <br> News.ro | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | [5–9 April 2024](2024-04-09-AtlasIntel.html) | Atlas Intel <br> Digi24 | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [26 March–2 April 2024](2024-04-02-Sociopol.html) | Sociopol | 4 | 3–4 | 3–4 | 2–5 | 2–5 |
 | [17–29 March 2024](2024-03-29-CSPS.html) | CSPS | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -329,10 +329,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.8% | 100% |  |
-| 3 | 25% | 99.2% |  |
-| 4 | 31% | 74% | Last Result, Median |
-| 5 | 13% | 43% |  |
+| 2 | 0.9% | 100% |  |
+| 3 | 23% | 99.1% |  |
+| 4 | 33% | 76% | Last Result, Median |
+| 5 | 14% | 44% |  |
 | 6 | 20% | 30% |  |
 | 7 | 10% | 10% |  |
 | 8 | 0.2% | 0.2% |  |
