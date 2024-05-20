@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.7–4.7% | 1.5–5.1% | 1.4–5.4% | 1.2–5.9% |
+| N/A | [Poll Average](average.html) | 4.4% | 3.7–5.3% | 3.5–5.5% | 3.3–5.7% | 3.0–6.2% |
+| [7–15 May 2024](2024-05-15-CSPS.html) | CSPS <br> 60m.ro | 0.0% | N/A | N/A | N/A | N/A |
 | [12–20 April 2024](2024-04-20-INSCOP.html) | INSCOP <br> News.ro | 4.4% | 3.7–5.3% | 3.5–5.5% | 3.3–5.7% | 3.0–6.2% |
 | [5–9 April 2024](2024-04-09-AtlasIntel.html) | Atlas Intel <br> Digi24 | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% |
 | [26 March–2 April 2024](2024-04-02-Sociopol.html) | Sociopol | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -156,13 +157,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 53% | 94% | Median |
-| 2.5–3.5% | 10% | 41% |  |
-| 3.5–4.5% | 17% | 31% |  |
-| 4.5–5.5% | 12% | 14% |  |
-| 5.5–6.5% | 1.5% | 2% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 7% | 100% |  |
+| 3.5–4.5% | 52% | 93% | Median |
+| 4.5–5.5% | 37% | 41% |  |
+| 5.5–6.5% | 4% | 5% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -174,7 +175,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [7–15 May 2024](2024-05-15-CSPS.html) | CSPS <br> 60m.ro |  |  |  |  |  |
 | [12–20 April 2024](2024-04-20-INSCOP.html) | INSCOP <br> News.ro | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [5–9 April 2024](2024-04-09-AtlasIntel.html) | Atlas Intel <br> Digi24 | 0 | 0 | 0 | 0 | 0 |
 | [26 March–2 April 2024](2024-04-02-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
@@ -321,9 +323,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Last Result, Median |
-| 1 | 0.2% | 6% |  |
-| 2 | 6% | 6% |  |
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 0.7% | 18% |  |
+| 2 | 17% | 17% |  |
 | 3 | 0% | 0% |  |
 
 
