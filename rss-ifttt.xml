@@ -4,7 +4,31 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 26 Nov 2023 18:06:32 +0100</pubDate>
+    <pubDate>Wed, 29 May 2024 21:18:13 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by INSCOP, 20–25 May 2024 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2024-05-25-INSCOP.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by INSCOP, 20–25 May 2024<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2024-05-25-INSCOP.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2024-05-25-INSCOP-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2024-05-25-INSCOP-seating-plan.png" length="344726" type="image/png"/>
+      <pubDate>Wed, 29 May 2024 19:59:23 +0200</pubDate>
+      <dc:date>2024-05-29T19:59:23.545170838+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSCOP, 20–25 May 2024 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2024-05-25-INSCOP.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by INSCOP, 20–25 May 2024<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2024-05-25-INSCOP.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2024-05-25-INSCOP-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2024-05-25-INSCOP-seats.png" length="320452" type="image/png"/>
+      <pubDate>Wed, 29 May 2024 19:59:23 +0200</pubDate>
+      <dc:date>2024-05-29T19:59:23.545170838+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSCOP, 20–25 May 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2024-05-25-INSCOP.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by INSCOP, 20–25 May 2024<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2024-05-25-INSCOP.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2024-05-25-INSCOP.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2024-05-25-INSCOP.png" length="340815" type="image/png"/>
+      <pubDate>Wed, 29 May 2024 19:59:23 +0200</pubDate>
+      <dc:date>2024-05-29T19:59:23.545170838+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CSPS for 60m.ro, 7–15 May 2024 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2024-05-15-CSPS.html#seating-plan</link>
@@ -196,54 +220,6 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-INSCOP.png" length="368922" type="image/png"/>
       <pubDate>Mon, 15 Apr 2024 20:55:22 +0200</pubDate>
       <dc:date>2024-04-15T20:55:22.772785709+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by INSOMAR, 1–29 February 2024 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-INSOMAR.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by INSOMAR, 1–29 February 2024<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-INSOMAR.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-INSOMAR-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-INSOMAR-seating-plan.png" length="325540" type="image/png"/>
-      <pubDate>Mon, 15 Apr 2024 20:46:49 +0200</pubDate>
-      <dc:date>2024-04-15T20:46:49.680601264+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by INSOMAR, 1–29 February 2024 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-INSOMAR.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by INSOMAR, 1–29 February 2024<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-INSOMAR.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-INSOMAR-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-INSOMAR-seats.png" length="281787" type="image/png"/>
-      <pubDate>Mon, 15 Apr 2024 20:46:49 +0200</pubDate>
-      <dc:date>2024-04-15T20:46:49.680601264+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by INSOMAR, 1–29 February 2024 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-INSOMAR.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by INSOMAR, 1–29 February 2024<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-INSOMAR.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-INSOMAR.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-INSOMAR.png" length="353283" type="image/png"/>
-      <pubDate>Mon, 15 Apr 2024 20:46:49 +0200</pubDate>
-      <dc:date>2024-04-15T20:46:49.680601264+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sociopol, 1–29 February 2024 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-Sociopol.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by Sociopol, 1–29 February 2024<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-Sociopol.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-Sociopol-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-Sociopol-seating-plan.png" length="341014" type="image/png"/>
-      <pubDate>Mon, 15 Apr 2024 20:38:24 +0200</pubDate>
-      <dc:date>2024-04-15T20:38:24.272784114+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sociopol, 1–29 February 2024 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-Sociopol.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by Sociopol, 1–29 February 2024<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-Sociopol.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-Sociopol-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-Sociopol-seats.png" length="325270" type="image/png"/>
-      <pubDate>Mon, 15 Apr 2024 20:38:24 +0200</pubDate>
-      <dc:date>2024-04-15T20:38:24.272784114+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sociopol, 1–29 February 2024 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-Sociopol.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Sociopol, 1–29 February 2024<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-Sociopol.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-Sociopol.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2024-02-29-Sociopol.png" length="386375" type="image/png"/>
-      <pubDate>Mon, 15 Apr 2024 20:38:24 +0200</pubDate>
-      <dc:date>2024-04-15T20:38:24.272784114+02:00</dc:date>
     </item>
   </channel>
 </rss>
