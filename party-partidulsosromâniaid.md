@@ -177,7 +177,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | [20–25 May 2024](2024-05-25-INSCOP.html) | INSCOP | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [17–22 May 2024](2024-05-22-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [7–15 May 2024](2024-05-15-CSPS.html) | CSPS <br> 60m.ro | 0 | 0 | 0 | 0 | 0 |
