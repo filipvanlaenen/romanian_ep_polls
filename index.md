@@ -19,7 +19,7 @@ Only polls for which at least the sample size has been published are included in
 + **PER:** Partidul Ecologist Român (Greens/EFA)
 + **PSD:** Partidul Social Democrat (S&D)
 + **PRO:** PRO România (S&D)
-+ **PPU-SL:** Partidul Puterii Umaniste (social-liberal) (S&D)
++ **PPU-SL:** Partidul Umanist Social Liberal (S&D)
 + **A2020:** Alianța 2020 USR-PLUS (RE)
 + **PLUS:** Partidul Libertății, Unității și Solidarității (RE)
 + **USR:** Uniunea Salvați România (RE)
