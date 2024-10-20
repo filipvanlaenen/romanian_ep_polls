@@ -1,4 +1,4 @@
-# PRO România (S&D)
+# Partidul Mișcarea Populară (RE)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
