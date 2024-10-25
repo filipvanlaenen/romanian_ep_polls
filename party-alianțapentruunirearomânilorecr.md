@@ -52,7 +52,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| [11–16 September 2024](2024-09-16-INSCOP.html) | INSCOP <br> Institutul pentru Libertate și Democrație | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [11–16 September 2024](2024-09-16-INSCOP.html) | INSCOP <br> Institutul pentru Libertate și Democrație | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [13–27 August 2024](2024-08-27-CURS.html) | CURS | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [19–27 June 2024](2024-06-27-INSCOP.html) | INSCOP <br> News.ro |  |  |  |  |  |
 
@@ -68,9 +68,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 5% | 100% |  |
-| 5 | 60% | 95% | Median |
-| 6 | 33% | 36% |  |
+| 4 | 4% | 100% |  |
+| 5 | 54% | 96% | Median |
+| 6 | 39% | 41% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
