@@ -74,7 +74,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
+| N/A | [Poll Average](average.html) | 12 | 11–13 | 10–13 | 10–14 | 10–14 |
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
 | [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
@@ -102,9 +102,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 4% | 100% |  |
-| 11 | 33% | 96% |  |
-| 12 | 38% | 63% | Median |
+| 10 | 6% | 100% |  |
+| 11 | 32% | 94% |  |
+| 12 | 36% | 61% | Median |
 | 13 | 22% | 26% |  |
 | 14 | 3% | 3% |  |
 | 15 | 0.1% | 0.1% |  |
