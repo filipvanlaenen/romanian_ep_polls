@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 17 Nov 2024 12:48:05 +0100</pubDate>
+    <pubDate>Mon, 18 Nov 2024 17:05:18 +0100</pubDate>
     <item>
       <title>Opinion Poll by INSCOP for Libertatea, 7–12 November 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2024-11-12-INSCOP.html#seats</link>
@@ -76,18 +76,18 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2024-10-28-BCS-seats.png"
         length="260376"
         type="image/png"/>
-      <pubDate>Sat, 16 Nov 2024 19:25:33 +0100</pubDate>
-      <dc:date>2024-11-16T19:25:33.275052+01:00</dc:date>
+      <pubDate>Mon, 18 Nov 2024 17:05:18 +0100</pubDate>
+      <dc:date>2024-11-18T17:05:18.754183+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by BCS for Newsweek, 24–28 October 2024 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2024-10-28-BCS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2024-10-28-BCS-coalitions-seats.png"
-        length="194363"
+        length="185468"
         type="image/png"/>
-      <pubDate>Sat, 16 Nov 2024 19:25:33 +0100</pubDate>
-      <dc:date>2024-11-16T19:25:33.275052+01:00</dc:date>
+      <pubDate>Mon, 18 Nov 2024 17:05:18 +0100</pubDate>
+      <dc:date>2024-11-18T17:05:18.754183+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by BCS for Newsweek, 24–28 October 2024 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2024-10-28-BCS.png"
         length="291070"
         type="image/png"/>
-      <pubDate>Sat, 16 Nov 2024 19:25:33 +0100</pubDate>
-      <dc:date>2024-11-16T19:25:33.275052+01:00</dc:date>
+      <pubDate>Mon, 18 Nov 2024 17:05:18 +0100</pubDate>
+      <dc:date>2024-11-18T17:05:18.754183+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSCOP for Libertatea, 11–18 October 2024 – Seat Projections for the Parties</title>
@@ -219,6 +219,6 @@
       <pubDate>Fri, 25 Oct 2024 21:53:06 +0200</pubDate>
       <dc:date>2024-10-25T21:53:06.600118+02:00</dc:date>
     </item>
-    <dc:date>2024-11-17T12:48:05.883544+01:00</dc:date>
+    <dc:date>2024-11-18T17:05:18.754183+01:00</dc:date>
   </channel>
 </rss>
