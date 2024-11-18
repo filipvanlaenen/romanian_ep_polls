@@ -51,7 +51,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 2 | 2 | 1–2 | 0–3 | 0–3 |
-| [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea | 0 | 0 | 0 | 0–1 | 0–2 |
+| [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea | 0 | 0 | 0 | 0–2 | 0–2 |
 | [11–16 October 2024](2024-10-16-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
 | [11–16 September 2024](2024-09-16-INSCOP.html) | INSCOP <br> Institutul pentru Libertate și Democrație | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [13–27 August 2024](2024-08-27-CURS.html) | CURS | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
