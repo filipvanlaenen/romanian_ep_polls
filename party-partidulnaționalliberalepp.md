@@ -14,10 +14,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 16.2% | 14.8–17.7% | 14.4–18.1% | 14.1–18.5% | 13.5–19.2% |
 | [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 20.0% | 18.5–21.6% | 18.0–22.1% | 17.7–22.5% | 17.0–23.3% |
 | [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 22.3% | 20.8–24.0% | 20.4–24.4% | 20.0–24.9% | 19.3–25.7% |
-| [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea | 13.2% | 11.9–14.6% | 11.6–15.0% | 11.3–15.3% | 10.7–16.0% |
-| [11–16 October 2024](2024-10-16-CURS.html) | CURS | 20.0% | 18.4–21.7% | 18.0–22.1% | 17.6–22.6% | 16.9–23.4% |
-| [11–16 September 2024](2024-09-16-INSCOP.html) | INSCOP <br> Institutul pentru Libertate și Democrație | 14.3% | 12.9–15.8% | 12.6–16.2% | 12.2–16.6% | 11.6–17.3% |
-| [13–27 August 2024](2024-08-27-CURS.html) | CURS | 23.0% | 21.4–24.7% | 20.9–25.2% | 20.5–25.6% | 19.8–26.4% |
+| [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea | 13.2% | N/A | N/A | N/A | N/A |
+| [11–16 October 2024](2024-10-16-CURS.html) | CURS | 20.0% | N/A | N/A | N/A | N/A |
+| [11–16 September 2024](2024-09-16-INSCOP.html) | INSCOP <br> Institutul pentru Libertate și Democrație | 14.3% | N/A | N/A | N/A | N/A |
+| [13–27 August 2024](2024-08-27-CURS.html) | CURS | 23.0% | N/A | N/A | N/A | N/A |
 | [19–27 June 2024](2024-06-27-INSCOP.html) | INSCOP <br> News.ro | 18.9% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
@@ -64,14 +64,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–9 | 5–9 |
-| [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
-| [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
-| [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [11–16 October 2024](2024-10-16-CURS.html) | CURS | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
-| [11–16 September 2024](2024-09-16-INSCOP.html) | INSCOP <br> Institutul pentru Libertate și Democrație | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| [13–27 August 2024](2024-08-27-CURS.html) | CURS | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
+| [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
+| [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea |  |  |  |  |  |
+| [11–16 October 2024](2024-10-16-CURS.html) | CURS |  |  |  |  |  |
+| [11–16 September 2024](2024-09-16-INSCOP.html) | INSCOP <br> Institutul pentru Libertate și Democrație |  |  |  |  |  |
+| [13–27 August 2024](2024-08-27-CURS.html) | CURS |  |  |  |  |  |
 | [19–27 June 2024](2024-06-27-INSCOP.html) | INSCOP <br> News.ro |  |  |  |  |  |
 
 ### Probability Mass Function
@@ -87,12 +87,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 4% | 100% |  |
-| 6 | 25% | 96% |  |
-| 7 | 21% | 71% | Median |
-| 8 | 40% | 50% |  |
-| 9 | 10% | 10% |  |
-| 10 | 0.1% | 0.1% |  |
+| 5 | 2% | 100% |  |
+| 6 | 20% | 98% |  |
+| 7 | 33% | 78% | Median |
+| 8 | 38% | 46% |  |
+| 9 | 8% | 8% |  |
+| 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
 
 
