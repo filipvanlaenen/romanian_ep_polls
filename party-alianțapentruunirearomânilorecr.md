@@ -63,10 +63,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–9 | 5–9 | 5–9 |
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
-| [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
 | [11–16 October 2024](2024-10-16-CURS.html) | CURS | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [11–16 September 2024](2024-09-16-INSCOP.html) | INSCOP <br> Institutul pentru Libertate și Democrație |  |  |  |  |  |
@@ -86,11 +86,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.3% | 100% |  |
-| 5 | 18% | 99.7% |  |
-| 6 | 37% | 82% | Median |
-| 7 | 16% | 44% |  |
-| 8 | 25% | 29% |  |
-| 9 | 4% | 4% |  |
+| 5 | 16% | 99.7% |  |
+| 6 | 39% | 84% | Median |
+| 7 | 17% | 44% |  |
+| 8 | 22% | 27% |  |
+| 9 | 6% | 6% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
