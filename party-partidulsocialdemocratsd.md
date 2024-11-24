@@ -14,8 +14,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 31.1% | 29.3–32.9% | 28.8–33.4% | 28.4–33.9% | 27.6–34.8% |
 | [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 32.0% | 30.2–33.8% | 29.7–34.4% | 29.2–34.8% | 28.4–35.7% |
 | [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 30.8% | 29.1–32.6% | 28.6–33.1% | 28.2–33.5% | 27.4–34.4% |
-| [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea | 30.2% | N/A | N/A | N/A | N/A |
-| [11–16 October 2024](2024-10-16-CURS.html) | CURS | 31.0% | N/A | N/A | N/A | N/A |
+| [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea | 30.2% | 28.4–32.0% | 28.0–32.5% | 27.5–33.0% | 26.7–33.9% |
+| [11–16 October 2024](2024-10-16-CURS.html) | CURS | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.2–33.9% | 27.4–34.9% |
 | [11–16 September 2024](2024-09-16-INSCOP.html) | INSCOP <br> Institutul pentru Libertate și Democrație | 30.1% | N/A | N/A | N/A | N/A |
 | [13–27 August 2024](2024-08-27-CURS.html) | CURS | 33.0% | N/A | N/A | N/A | N/A |
 | [19–27 June 2024](2024-06-27-INSCOP.html) | INSCOP <br> News.ro | 29.4% | N/A | N/A | N/A | N/A |
@@ -78,8 +78,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 12 | 11–12 | 11–13 | 11–13 | 10–14 |
 | [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 12 | 11–13 | 11–14 | 11–14 | 11–15 |
 | [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
-| [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea |  |  |  |  |  |
-| [11–16 October 2024](2024-10-16-CURS.html) | CURS |  |  |  |  |  |
+| [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea | 12 | 11–13 | 11–13 | 11–13 | 11–13 |
+| [11–16 October 2024](2024-10-16-CURS.html) | CURS | 12 | 11–12 | 11–13 | 10–13 | 10–13 |
 | [11–16 September 2024](2024-09-16-INSCOP.html) | INSCOP <br> Institutul pentru Libertate și Democrație |  |  |  |  |  |
 | [13–27 August 2024](2024-08-27-CURS.html) | CURS |  |  |  |  |  |
 | [19–27 June 2024](2024-06-27-INSCOP.html) | INSCOP <br> News.ro |  |  |  |  |  |

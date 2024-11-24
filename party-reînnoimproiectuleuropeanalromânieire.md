@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 2.6% | 2.1–3.4% | 2.0–3.6% | 1.8–3.8% | 1.6–4.1% |
 | [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 0.9% | 0.6–1.3% | 0.5–1.5% | 0.5–1.6% | 0.4–1.9% |
-| [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea | 2.5% | N/A | N/A | N/A | N/A |
+| [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea | 2.5% | 2.0–3.3% | 1.9–3.5% | 1.8–3.7% | 1.5–4.0% |
 | [11–16 October 2024](2024-10-16-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [11–16 September 2024](2024-09-16-INSCOP.html) | INSCOP <br> Institutul pentru Libertate și Democrație | 1.9% | N/A | N/A | N/A | N/A |
 | [13–27 August 2024](2024-08-27-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
@@ -46,7 +46,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 0 | 0 | 0 | 0 | 0 |
 | [30 October–5 November 2024](2024-11-05-CURS.html) | CURS |  |  |  |  |  |
 | [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 0 | 0 | 0 | 0 | 0 |
-| [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea |  |  |  |  |  |
+| [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea | 0 | 0 | 0 | 0 | 0 |
 | [11–16 October 2024](2024-10-16-CURS.html) | CURS |  |  |  |  |  |
 | [11–16 September 2024](2024-09-16-INSCOP.html) | INSCOP <br> Institutul pentru Libertate și Democrație |  |  |  |  |  |
 | [13–27 August 2024](2024-08-27-CURS.html) | CURS |  |  |  |  |  |
