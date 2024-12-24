@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 1–3% <br> 0 | 20–34% <br> 8–14 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 10–19% <br> 4–7 | 13–24% <br> 5–9 | 4–7% <br> 0–3 | 1–4% <br> 0 | 14–24% <br> 5–10 | 0–5% <br> 0–2 | 2–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–2 |
-| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | N/A <br> N/A | N/A <br> N/A | 0% <br> 0 | 2–3% <br> 0 | 20–23% <br> 8–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 16–19% <br> 7–8 | 12–15% <br> 5–6 | 5–7% <br> 0–2 | 2–3% <br> 0 | 21–24% <br> 8–10 | 0% <br> 0 | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–2 |
+| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | N/A <br> N/A | N/A <br> N/A | 0% <br> 0 | 2–3% <br> 0 | 20–23% <br> 8–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 16–19% <br> 6–8 | 12–15% <br> 5–6 | 5–7% <br> 0–2 | 2–3% <br> 0 | 21–24% <br> 8–10 | 0% <br> 0 | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–2 |
 | [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 28–34% <br> 11–14 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 10–14% <br> 4–5 | 18–23% <br> 6–9 | 4–7% <br> 0–2 | 1–3% <br> 0 | 14–18% <br> 5–8 | N/A <br> N/A | 4–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 1–2% <br> 0 | 28–34% <br> 11–13 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 11–15% <br> 4–5 | 14–18% <br> 5–7 | 3–6% <br> 0–2 | 1–2% <br> 0 | 18–23% <br> 7–9 | N/A <br> N/A | 5–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 29–35% <br> 11–14 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 4–5 | 18–22% <br> 7–9 | 4–6% <br> 0–2 | 2–4% <br> 0 | 13–17% <br> 5–7 | 3–5% <br> 0–2 | 5–8% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -387,7 +387,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#partidul-alianța-liberalilor-și-democraților-(*)">Partidul Alianța Liberalilor și Democraților (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#alianța-pentru-patrie-(*)">Alianța pentru Patrie (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#blocul-suveranist-român-(*)">Blocul Suveranist Român (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#partidul-oamenilor-tineri-(*)">Partidul Oamenilor Tineri (*)</a> | 0 | 0 | 0 |0–2 | 0–2 | 0–2 |
+| <a href="#partidul-oamenilor-tineri-(*)">Partidul Oamenilor Tineri (*)</a> | 0 | 0 | 0–2 |0–2 | 0–2 | 0–2 |
 
 ### Partidul Verde (Greens/EFA)
 
@@ -436,9 +436,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 15% | 100% |  |
-| 9 | 5% | 85% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 12% | 99.9% |  |
+| 9 | 8% | 88% |  |
 | 10 | 3% | 80% |  |
 | 11 | 22% | 78% |  |
 | 12 | 37% | 55% | Median |
@@ -529,8 +529,8 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
-| 5 | 17% | 99.9% |  |
-| 6 | 17% | 83% |  |
+| 5 | 15% | 99.9% |  |
+| 6 | 19% | 85% |  |
 | 7 | 28% | 66% | Median |
 | 8 | 31% | 38% |  |
 | 9 | 7% | 7% |  |
@@ -579,9 +579,9 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 12% | 99.8% |  |
 | 6 | 34% | 88% |  |
 | 7 | 16% | 54% | Median |
-| 8 | 18% | 38% |  |
-| 9 | 18% | 20% |  |
-| 10 | 2% | 3% |  |
+| 8 | 19% | 38% |  |
+| 9 | 14% | 18% |  |
+| 10 | 4% | 4% |  |
 | 11 | 0% | 0% |  |
 
 ### Partidul Național Conservator Român (ECR)
@@ -605,9 +605,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% | Last Result |
-| 1 | 0.3% | 64% |  |
-| 2 | 62% | 63% | Median |
+| 0 | 39% | 100% | Last Result |
+| 1 | 0.3% | 61% |  |
+| 2 | 59% | 61% | Median |
 | 3 | 1.3% | 1.3% |  |
 | 4 | 0% | 0% |  |
 
@@ -637,9 +637,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 90% | 100% | Last Result, Median |
-| 1 | 0% | 10% |  |
-| 2 | 10% | 10% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 0% | 12% |  |
+| 2 | 12% | 12% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -672,9 +672,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 15% | 100% |  |
-| 9 | 5% | 85% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 12% | 99.9% |  |
+| 9 | 8% | 88% |  |
 | 10 | 3% | 80% |  |
 | 11 | 22% | 78% |  |
 | 12 | 37% | 55% | Median |
@@ -694,10 +694,10 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 1.3% | 100% |  |
-| 6 | 7% | 98.7% |  |
-| 7 | 32% | 91% |  |
-| 8 | 19% | 59% |  |
+| 5 | 1.2% | 100% |  |
+| 6 | 8% | 98.8% |  |
+| 7 | 30% | 91% |  |
+| 8 | 21% | 61% |  |
 | 9 | 17% | 40% | Median |
 | 10 | 19% | 24% |  |
 | 11 | 4% | 5% |  |
@@ -718,9 +718,9 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 10% | 99.9% |  |
 | 6 | 34% | 90% |  |
 | 7 | 17% | 56% | Median |
-| 8 | 18% | 38% |  |
-| 9 | 18% | 20% |  |
-| 10 | 2% | 3% |  |
+| 8 | 20% | 38% |  |
+| 9 | 14% | 18% |  |
+| 10 | 4% | 4% |  |
 | 11 | 0% | 0% |  |
 
 ### Alianța 2020 USR-PLUS (RE) – Dreptate și Respect în Europa Pentru Toți (RE) – Partidul Libertății, Unității și Solidarității (RE) – Partidul Mișcarea Populară (RE) – Reînnoim Proiectul European al României (RE) – Uniunea Salvați România (RE)
@@ -746,9 +746,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% | Last Result |
-| 1 | 0.3% | 64% |  |
-| 2 | 62% | 63% | Median |
+| 0 | 39% | 100% | Last Result |
+| 1 | 0.3% | 61% |  |
+| 2 | 59% | 61% | Median |
 | 3 | 1.3% | 1.3% |  |
 | 4 | 0% | 0% |  |
 
@@ -776,5 +776,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 5
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 5,242,880
-+ **Error estimate:** 2.35%
++ **Total number of simulations done in the polls included in this average:** 6,291,456
++ **Error estimate:** 2.62%
