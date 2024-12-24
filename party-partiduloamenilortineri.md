@@ -46,8 +46,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–2 | 0–2 | 0–2 |
-| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 0 | 0 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek |  |  |  |  |  |
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea |  |  |  |  |  |
 | [30 October–5 November 2024](2024-11-05-CURS.html) | CURS |  |  |  |  |  |
@@ -66,9 +66,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 90% | 100% | Last Result, Median |
-| 1 | 0% | 10% |  |
-| 2 | 10% | 10% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 0% | 12% |  |
+| 2 | 12% | 12% |  |
 | 3 | 0% | 0% |  |
 
 

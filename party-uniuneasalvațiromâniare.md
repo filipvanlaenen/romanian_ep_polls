@@ -61,7 +61,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
-| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 7 | 7 | 7–8 | 7–8 | 6–8 |
+| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 7 | 7 | 7–8 | 6–8 | 6–8 |
 | [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
