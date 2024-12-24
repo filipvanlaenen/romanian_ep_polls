@@ -78,9 +78,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 8–13 | 8–13 | 8–14 | 8–14 |
 | [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 8 | 8–9 | 8–9 | 8–9 | 8–10 |
-| [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | 12 | 12–13 | 11–14 | 11–14 | 11–15 |
-| [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 12 | 11–12 | 11–13 | 11–13 | 10–14 |
-| [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 12 | 11–13 | 11–14 | 11–14 | 11–15 |
+| [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
+| [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
+| [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 12 | 11–13 | 11–14 | 11–14 | 11–14 |
 | [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea |  |  |  |  |  |
 | [11–16 October 2024](2024-10-16-CURS.html) | CURS |  |  |  |  |  |
@@ -105,13 +105,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
 | 8 | 12% | 99.9% |  |
-| 9 | 8% | 88% |  |
-| 10 | 3% | 80% |  |
-| 11 | 22% | 78% |  |
-| 12 | 37% | 55% | Median |
-| 13 | 15% | 18% |  |
+| 9 | 7% | 88% |  |
+| 10 | 4% | 80% |  |
+| 11 | 25% | 76% |  |
+| 12 | 33% | 52% | Median |
+| 13 | 16% | 19% |  |
 | 14 | 3% | 3% |  |
-| 15 | 0.2% | 0.2% |  |
+| 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
 
