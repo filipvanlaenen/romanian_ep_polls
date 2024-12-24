@@ -1,4 +1,4 @@
-# Partidul Național Conservator Român (ECR)
+# Partidul Oamenilor Tineri (*)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.1–4.6% | 0.1–4.9% | 0.0–5.2% | 0.0–5.6% |
-| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 0.1% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% | 0.0–0.4% |
+| N/A | [Poll Average](average.html) | 4.6% | 4.0–5.2% | 3.9–5.4% | 3.8–5.6% | 3.5–5.9% |
+| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 4.6% | 4.0–5.2% | 3.9–5.4% | 3.8–5.6% | 3.5–5.9% |
 | [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | 0.0% | N/A | N/A | N/A | N/A |
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 0.0% | N/A | N/A | N/A | N/A |
-| [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
+| [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 0.0% | N/A | N/A | N/A | N/A |
 | [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea | 0.0% | N/A | N/A | N/A | N/A |
 | [11–16 October 2024](2024-10-16-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
@@ -24,17 +24,17 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Partidul Național Conservator Român (ECR).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Partidul Oamenilor Tineri (*).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 50% | 100% | Last Result |
-| 0.5–1.5% | 0% | 50% | Median |
-| 1.5–2.5% | 0.1% | 50% |  |
-| 2.5–3.5% | 9% | 50% |  |
-| 3.5–4.5% | 30% | 41% |  |
-| 4.5–5.5% | 11% | 11% |  |
-| 5.5–6.5% | 0.7% | 0.7% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.6% | 100% |  |
+| 3.5–4.5% | 45% | 99.4% |  |
+| 4.5–5.5% | 52% | 55% | Median |
+| 5.5–6.5% | 3% | 3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -46,11 +46,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–2 | 0–2 |
-| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–2 | 0–2 | 0–2 |
+| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek |  |  |  |  |  |
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea |  |  |  |  |  |
-| [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [30 October–5 November 2024](2024-11-05-CURS.html) | CURS |  |  |  |  |  |
 | [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek |  |  |  |  |  |
 | [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea |  |  |  |  |  |
 | [11–16 October 2024](2024-10-16-CURS.html) | CURS |  |  |  |  |  |
@@ -60,15 +60,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-partidulnaționalconservatorromânecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-partiduloamenilortineri.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Partidul Național Conservator Român (ECR).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Partidul Oamenilor Tineri (*).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Last Result, Median |
-| 1 | 1.3% | 6% |  |
-| 2 | 4% | 4% |  |
+| 0 | 90% | 100% | Last Result, Median |
+| 1 | 0% | 10% |  |
+| 2 | 10% | 10% |  |
 | 3 | 0% | 0% |  |
 
 
