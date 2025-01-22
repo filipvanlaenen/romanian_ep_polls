@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.2–3.5% | 1.0–3.7% | 0.8–3.9% | 0.6–4.4% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.2–3.1% | 1.0–3.5% | 0.8–3.7% | 0.6–4.2% |
+| [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 2.0% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% | 1.2–3.2% |
 | [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 2.5% | 2.1–3.0% | 2.0–3.1% | 1.9–3.3% | 1.7–3.5% |
 | [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
@@ -29,11 +30,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.2% | 100% | Last Result |
-| 0.5–1.5% | 19% | 99.8% |  |
-| 1.5–2.5% | 33% | 81% | Median |
-| 2.5–3.5% | 40% | 48% |  |
-| 3.5–4.5% | 8% | 8% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
+| 0.5–1.5% | 21% | 99.8% |  |
+| 1.5–2.5% | 47% | 79% | Median |
+| 2.5–3.5% | 28% | 32% |  |
+| 3.5–4.5% | 4% | 4% |  |
+| 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -46,6 +47,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
 | [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 0 | 0 | 0 | 0 | 0 |
 | [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | 0 | 0 | 0 | 0 | 0 |
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 0 | 0 | 0 | 0 | 0 |

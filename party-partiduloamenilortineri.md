@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 4.0–5.2% | 3.9–5.4% | 3.8–5.6% | 3.5–5.9% |
+| N/A | [Poll Average](average.html) | 4.8% | 4.2–5.6% | 4.0–5.9% | 3.8–6.1% | 3.6–6.6% |
+| [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 5.0% | 4.3–5.9% | 4.1–6.1% | 4.0–6.3% | 3.7–6.8% |
 | [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 4.6% | 4.0–5.2% | 3.9–5.4% | 3.8–5.6% | 3.5–5.9% |
 | [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | 0.0% | N/A | N/A | N/A | N/A |
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 0.0% | N/A | N/A | N/A | N/A |
@@ -31,11 +32,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.6% | 100% |  |
-| 3.5–4.5% | 45% | 99.4% |  |
-| 4.5–5.5% | 52% | 55% | Median |
-| 5.5–6.5% | 3% | 3% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.4% | 100% |  |
+| 3.5–4.5% | 32% | 99.6% |  |
+| 4.5–5.5% | 56% | 68% | Median |
+| 5.5–6.5% | 12% | 12% |  |
+| 6.5–7.5% | 0.5% | 0.5% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -47,6 +49,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek |  |  |  |  |  |
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea |  |  |  |  |  |
@@ -66,9 +69,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Last Result, Median |
-| 1 | 0% | 12% |  |
-| 2 | 12% | 12% |  |
+| 0 | 68% | 100% | Last Result, Median |
+| 1 | 3% | 32% |  |
+| 2 | 29% | 29% |  |
 | 3 | 0% | 0% |  |
 
 
