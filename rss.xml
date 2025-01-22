@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 24 Dec 2024 15:07:51 +0100</pubDate>
+    <pubDate>Wed, 22 Jan 2025 21:54:50 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Avangarde, 10–16 January 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2025-01-16-Avangarde.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Oamenilor Tineri (*): 0–2 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor (ECR): 10–12 seats&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România (NI): 2–3 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (RE): 4–6 seats&lt;/li&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 7–9 seats&lt;/li&gt;&lt;li&gt;Forța Dreptei (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (RE): 0 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2025-01-16-Avangarde-seats.png"
+        length="271843"
+        type="image/png"/>
+      <pubDate>Wed, 22 Jan 2025 21:54:50 +0100</pubDate>
+      <dc:date>2025-01-22T21:54:50.715501+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Avangarde, 10–16 January 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2025-01-16-Avangarde.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2025-01-16-Avangarde-coalitions-seats.png"
+        length="217246"
+        type="image/png"/>
+      <pubDate>Wed, 22 Jan 2025 21:54:50 +0100</pubDate>
+      <dc:date>2025-01-22T21:54:50.715501+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Avangarde, 10–16 January 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2025-01-16-Avangarde.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Oamenilor Tineri (*): 4.0–6.3%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor (ECR): 26.7–31.5%&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România (NI): 6.6–9.6%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (RE): 11.3–14.9%&lt;/li&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 19.9–24.3%&lt;/li&gt;&lt;li&gt;Forța Dreptei (EPP): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (RE): 2.2–4.1%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.1–5.2%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 11.3–14.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2025-01-16-Avangarde.png"
+        length="304447"
+        type="image/png"/>
+      <pubDate>Wed, 22 Jan 2025 21:54:50 +0100</pubDate>
+      <dc:date>2025-01-22T21:54:50.715501+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Atlas Intel for HotNews, 26–28 November 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2024-11-28-AtlasIntel.html#seats</link>
@@ -159,6 +189,6 @@
       <pubDate>Tue, 24 Dec 2024 15:07:51 +0100</pubDate>
       <dc:date>2024-12-24T15:07:51.785841+01:00</dc:date>
     </item>
-    <dc:date>2024-12-24T15:07:51.785841+01:00</dc:date>
+    <dc:date>2025-01-22T21:54:50.715501+01:00</dc:date>
   </channel>
 </rss>
