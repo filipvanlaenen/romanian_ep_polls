@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.1% | 2.5–3.7% | 2.4–3.9% | 2.2–4.1% | 2.0–4.4% |
+| [21–25 January 2025](2025-01-25-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 3.0% | 2.5–3.7% | 2.4–3.9% | 2.2–4.1% | 2.0–4.5% |
 | [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 0.0% | N/A | N/A | N/A | N/A |
 | [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | 0.0% | N/A | N/A | N/A | N/A |
@@ -47,6 +48,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [21–25 January 2025](2025-01-25-CURS.html) | CURS |  |  |  |  |  |
 | [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
 | [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews |  |  |  |  |  |
 | [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek |  |  |  |  |  |
