@@ -371,7 +371,7 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 34% | 97% |  |
 | 9 | 50% | 63% | Median |
 | 10 | 13% | 13% |  |
-| 11 | 0.7% | 0.7% |  |
+| 11 | 0.6% | 0.6% |  |
 | 12 | 0% | 0% |  |
 
 ### PRO România (S&D)
@@ -450,8 +450,8 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 14% | 100% |  |
-| 5 | 61% | 86% | Median |
-| 6 | 24% | 25% |  |
+| 5 | 60% | 86% | Median |
+| 6 | 25% | 26% |  |
 | 7 | 1.0% | 1.0% |  |
 | 8 | 0% | 0% |  |
 
@@ -463,9 +463,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Last Result, Median |
-| 1 | 4% | 27% |  |
-| 2 | 23% | 23% |  |
+| 0 | 72% | 100% | Last Result, Median |
+| 1 | 4% | 28% |  |
+| 2 | 24% | 24% |  |
 | 3 | 0% | 0% |  |
 
 ### Forța Dreptei (EPP)
@@ -494,9 +494,9 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 5% | 100% |  |
-| 8 | 27% | 95% |  |
-| 9 | 16% | 68% |  |
-| 10 | 7% | 52% | Median |
+| 8 | 28% | 95% |  |
+| 9 | 16% | 67% |  |
+| 10 | 7% | 51% | Median |
 | 11 | 29% | 44% |  |
 | 12 | 15% | 16% |  |
 | 13 | 0.6% | 0.6% |  |
@@ -553,7 +553,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 3% | 76% |  |
 | 2 | 24% | 74% | Median |
 | 3 | 26% | 50% |  |
-| 4 | 24% | 24% |  |
+| 4 | 23% | 24% |  |
 | 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
@@ -588,9 +588,9 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 5% | 100% |  |
-| 8 | 27% | 95% |  |
-| 9 | 16% | 68% |  |
-| 10 | 7% | 52% | Median |
+| 8 | 28% | 95% |  |
+| 9 | 16% | 67% |  |
+| 10 | 7% | 51% | Median |
 | 11 | 29% | 44% |  |
 | 12 | 15% | 16% |  |
 | 13 | 0.6% | 0.6% |  |
@@ -613,7 +613,7 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 34% | 97% |  |
 | 9 | 50% | 63% | Median |
 | 10 | 13% | 13% |  |
-| 11 | 0.7% | 0.7% |  |
+| 11 | 0.6% | 0.6% |  |
 | 12 | 0% | 0% |  |
 
 ### Forța Dreptei (EPP) – Partidul Național Liberal (EPP) – Uniunea Democrată Maghiară din România (EPP)
@@ -627,11 +627,11 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 13% | 100% |  |
-| 5 | 45% | 87% | Median |
-| 6 | 18% | 43% |  |
-| 7 | 16% | 24% |  |
+| 5 | 44% | 87% | Median |
+| 6 | 19% | 43% |  |
+| 7 | 16% | 25% |  |
 | 8 | 8% | 8% |  |
-| 9 | 0.2% | 0.2% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 ### Alianța 2020 USR-PLUS (RE) – Dreptate și Respect în Europa Pentru Toți (RE) – Partidul Libertății, Unității și Solidarității (RE) – Partidul Mișcarea Populară (RE) – Reînnoim Proiectul European al României (RE) – Uniunea Salvați România (RE)
@@ -659,7 +659,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 3% | 76% |  |
 | 2 | 24% | 74% | Median |
 | 3 | 26% | 50% |  |
-| 4 | 24% | 24% |  |
+| 4 | 23% | 24% |  |
 | 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
@@ -688,6 +688,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 4,194,304
 + **Error estimate:** 1.54%
