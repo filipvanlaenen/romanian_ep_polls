@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 4.5–8.6% | 4.3–9.0% | 4.0–9.3% | 3.7–9.8% |
+| N/A | [Poll Average](average.html) | 5.3% | 4.6–8.4% | 4.4–8.8% | 4.2–9.1% | 3.7–9.7% |
+| [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 5.0% | 4.7–5.4% | 4.6–5.5% | 4.5–5.6% | 4.3–5.7% |
 | [21–25 January 2025](2025-01-25-CURS.html) | CURS | 5.0% | 4.3–6.0% | 4.0–6.2% | 3.9–6.5% | 3.5–7.0% |
 | [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.6–9.6% | 6.2–10.1% |
 | [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 4.6% | 4.0–5.2% | 3.9–5.4% | 3.8–5.6% | 3.5–5.9% |
@@ -33,14 +34,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 11% | 99.7% |  |
-| 4.5–5.5% | 27% | 89% |  |
-| 5.5–6.5% | 12% | 62% |  |
-| 6.5–7.5% | 13% | 50% | Median |
-| 7.5–8.5% | 25% | 37% |  |
-| 8.5–9.5% | 11% | 12% |  |
-| 9.5–10.5% | 1.2% | 1.2% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 8% | 99.8% |  |
+| 4.5–5.5% | 49% | 91% | Median |
+| 5.5–6.5% | 9% | 42% |  |
+| 6.5–7.5% | 9% | 33% |  |
+| 7.5–8.5% | 17% | 25% |  |
+| 8.5–9.5% | 7% | 8% |  |
+| 9.5–10.5% | 0.8% | 0.8% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -53,6 +54,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [21–25 January 2025](2025-01-25-CURS.html) | CURS | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -74,11 +76,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 20% | 100% | Last Result |
-| 1 | 7% | 80% |  |
-| 2 | 34% | 73% | Median |
-| 3 | 38% | 39% |  |
-| 4 | 0.4% | 0.4% |  |
+| 0 | 29% | 100% | Last Result |
+| 1 | 5% | 71% |  |
+| 2 | 40% | 66% | Median |
+| 3 | 25% | 26% |  |
+| 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 
 
