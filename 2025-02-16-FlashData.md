@@ -35,7 +35,7 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#alianța-pentru-unirea-românilor-(ecr)">Alianța pentru Unirea Românilor (ECR)</a> | 0 | 11 | 10–11 |10–11 |10–11 |10–12 |
 | <a href="#partidul-social-democrat-(s&d)">Partidul Social Democrat (S&D)</a> | 0 | 8 | 8 |7–9 |7–9 |7–9 |
-| <a href="#uniunea-salvați-românia-(re)">Uniunea Salvați România (RE)</a> | 0 | 7 | 7 |7–8 |7–8 |6–8 |
+| <a href="#uniunea-salvați-românia-(re)">Uniunea Salvați România (RE)</a> | 0 | 7 | 7–8 |7–8 |7–8 |6–8 |
 | <a href="#partidul-național-liberal-(epp)">Partidul Național Liberal (EPP)</a> | 0 | 4 | 4–5 |4–5 |4–5 |4–5 |
 | <a href="#partidul-oamenilor-tineri-(*)">Partidul Oamenilor Tineri (*)</a> | 0 | 2 | 2 |2 |2–3 |2–3 |
 | <a href="#partidul-s.o.s.-românia-(ni)">Partidul S.O.S. România (NI)</a> | 0 | 2 | 0–2 |0–2 |0–2 |0–2 |
@@ -62,9 +62,9 @@
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 46% | 100% |  |
-| 11 | 53% | 54% | Median |
-| 12 | 0.8% | 0.8% |  |
+| 10 | 48% | 100% |  |
+| 11 | 51% | 52% | Median |
+| 12 | 1.3% | 1.3% |  |
 | 13 | 0% | 0% |  |
 
 ### Partidul Social Democrat (S&D)
@@ -82,9 +82,9 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 9% | 100% |  |
-| 8 | 85% | 91% | Median |
-| 9 | 7% | 7% |  |
+| 7 | 8% | 100% |  |
+| 8 | 86% | 92% | Median |
+| 9 | 5% | 5% |  |
 | 10 | 0% | 0% |  |
 
 ### Uniunea Salvați România (RE)
@@ -101,9 +101,9 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 2% | 100% |  |
-| 7 | 90% | 98% | Median |
-| 8 | 9% | 9% |  |
+| 6 | 1.3% | 100% |  |
+| 7 | 88% | 98.7% | Median |
+| 8 | 11% | 11% |  |
 | 9 | 0% | 0% |  |
 
 ### Partidul Național Liberal (EPP)
@@ -118,8 +118,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 67% | 100% | Median |
-| 5 | 33% | 33% |  |
+| 4 | 69% | 100% | Median |
+| 5 | 31% | 31% |  |
 | 6 | 0% | 0% |  |
 
 ### Partidul Oamenilor Tineri (*)
@@ -132,8 +132,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 96% | 100% | Median |
-| 3 | 4% | 4% |  |
+| 2 | 97% | 100% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 ### Partidul S.O.S. România (NI)
@@ -144,9 +144,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 48% | 100% | Last Result |
-| 1 | 0% | 52% |  |
-| 2 | 52% | 52% | Median |
+| 0 | 47% | 100% | Last Result |
+| 1 | 0% | 53% |  |
+| 2 | 53% | 53% | Median |
 | 3 | 0% | 0% |  |
 
 ### Uniunea Democrată Maghiară din România (EPP)
@@ -211,8 +211,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 67% | 100% | Median |
-| 5 | 33% | 33% |  |
+| 4 | 69% | 100% | Median |
+| 5 | 31% | 31% |  |
 | 6 | 0% | 0% |  |
 
 ### Partidul S.O.S. România (NI)
@@ -221,9 +221,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 48% | 100% | Last Result |
-| 1 | 0% | 52% |  |
-| 2 | 52% | 52% | Median |
+| 0 | 47% | 100% | Last Result |
+| 1 | 0% | 53% |  |
+| 2 | 53% | 53% | Median |
 | 3 | 0% | 0% |  |
 
 
@@ -238,6 +238,6 @@
 ### Calculations
 
 + **Sample size:** 6713
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.72%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.78%
 

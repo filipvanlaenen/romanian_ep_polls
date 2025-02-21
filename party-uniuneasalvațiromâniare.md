@@ -62,7 +62,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
-| [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 7 | 7 | 7–8 | 7–8 | 6–8 |
+| [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [21–25 January 2025](2025-01-25-CURS.html) | CURS | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 7 | 7 | 7–8 | 6–8 | 6–8 |
@@ -91,8 +91,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 21% | 99.9% |  |
 | 5 | 44% | 79% | Median |
 | 6 | 3% | 36% |  |
-| 7 | 30% | 33% |  |
-| 8 | 3% | 3% |  |
+| 7 | 29% | 33% |  |
+| 8 | 4% | 4% |  |
 | 9 | 0% | 0% |  |
 
 

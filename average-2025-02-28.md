@@ -379,7 +379,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 5% | 100% |  |
-| 8 | 51% | 95% | Median |
+| 8 | 52% | 95% | Median |
 | 9 | 35% | 44% |  |
 | 10 | 8% | 9% |  |
 | 11 | 0.4% | 0.4% |  |
@@ -450,8 +450,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 21% | 99.9% |  |
 | 5 | 44% | 79% | Median |
 | 6 | 3% | 36% |  |
-| 7 | 30% | 33% |  |
-| 8 | 3% | 3% |  |
+| 7 | 29% | 33% |  |
+| 8 | 4% | 4% |  |
 | 9 | 0% | 0% |  |
 
 ### Partidul Național Liberal (EPP)
@@ -513,8 +513,8 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 3% | 100% |  |
 | 8 | 19% | 97% |  |
 | 9 | 10% | 78% |  |
-| 10 | 20% | 68% | Median |
-| 11 | 37% | 47% |  |
+| 10 | 21% | 68% | Median |
+| 11 | 36% | 47% |  |
 | 12 | 10% | 11% |  |
 | 13 | 0.4% | 0.4% |  |
 | 14 | 0% | 0% |  |
@@ -569,7 +569,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 16% | 100% | Last Result |
 | 1 | 2% | 84% |  |
 | 2 | 48% | 82% | Median |
-| 3 | 19% | 35% |  |
+| 3 | 18% | 34% |  |
 | 4 | 16% | 16% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
@@ -607,8 +607,8 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 3% | 100% |  |
 | 8 | 19% | 97% |  |
 | 9 | 10% | 78% |  |
-| 10 | 20% | 68% | Median |
-| 11 | 37% | 47% |  |
+| 10 | 21% | 68% | Median |
+| 11 | 36% | 47% |  |
 | 12 | 10% | 11% |  |
 | 13 | 0.4% | 0.4% |  |
 | 14 | 0% | 0% |  |
@@ -627,7 +627,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 5% | 100% |  |
-| 8 | 51% | 95% | Median |
+| 8 | 52% | 95% | Median |
 | 9 | 35% | 44% |  |
 | 10 | 8% | 9% |  |
 | 11 | 0.4% | 0.4% |  |
@@ -646,8 +646,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 21% | 99.9% |  |
 | 5 | 44% | 79% | Median |
 | 6 | 3% | 36% |  |
-| 7 | 30% | 33% |  |
-| 8 | 3% | 3% |  |
+| 7 | 29% | 33% |  |
+| 8 | 4% | 4% |  |
 | 9 | 0% | 0% |  |
 
 ### Forța Dreptei (EPP) – Partidul Național Liberal (EPP) – Uniunea Democrată Maghiară din România (EPP)
@@ -677,7 +677,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 16% | 100% | Last Result |
 | 1 | 2% | 84% |  |
 | 2 | 48% | 82% | Median |
-| 3 | 19% | 35% |  |
+| 3 | 18% | 34% |  |
 | 4 | 16% | 16% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
@@ -707,6 +707,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 6,291,456
 + **Error estimate:** 1.54%
