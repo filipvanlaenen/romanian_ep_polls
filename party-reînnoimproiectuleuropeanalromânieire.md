@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.9–1.2% | 0.8–1.2% | 0.8–1.3% | 0.7–1.3% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.9–1.5% | 0.8–1.7% | 0.8–1.9% | 0.6–2.2% |
+| [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 1.2% | 0.9–1.7% | 0.8–1.9% | 0.7–2.0% | 0.6–2.3% |
 | [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 1.0% | 0.9–1.2% | 0.8–1.2% | 0.8–1.3% | 0.7–1.4% |
 | [21–25 January 2025](2025-01-25-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
@@ -31,9 +32,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 100% | 100% | Median |
-| 1.5–2.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.2% | 100% | Last Result |
+| 0.5–1.5% | 90% | 99.8% | Median |
+| 1.5–2.5% | 10% | 10% |  |
+| 2.5–3.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -45,6 +48,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 0 | 0 | 0 | 0 | 0 |
 | [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 0 | 0 | 0 | 0 | 0 |
 | [21–25 January 2025](2025-01-25-CURS.html) | CURS |  |  |  |  |  |
 | [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde |  |  |  |  |  |
