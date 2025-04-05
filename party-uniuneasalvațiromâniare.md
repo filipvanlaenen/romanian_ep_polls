@@ -63,7 +63,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
-| [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 4 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 4 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [21–25 January 2025](2025-01-25-CURS.html) | CURS | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
@@ -90,9 +90,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
-| 4 | 34% | 99.9% |  |
-| 5 | 29% | 66% | Median |
-| 6 | 4% | 37% |  |
+| 4 | 30% | 99.9% |  |
+| 5 | 34% | 70% | Median |
+| 6 | 3% | 36% |  |
 | 7 | 29% | 33% |  |
 | 8 | 4% | 4% |  |
 | 9 | 0% | 0% |  |

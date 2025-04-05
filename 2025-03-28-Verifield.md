@@ -33,12 +33,12 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#alianța-pentru-unirea-românilor-(ecr)">Alianța pentru Unirea Românilor (ECR)</a> | 0 | 12 | 11–13 |11–13 |11–13 |10–13 |
+| <a href="#alianța-pentru-unirea-românilor-(ecr)">Alianța pentru Unirea Românilor (ECR)</a> | 0 | 12 | 11–13 |11–13 |11–13 |10–14 |
 | <a href="#partidul-social-democrat-(s&d)">Partidul Social Democrat (S&D)</a> | 0 | 8 | 7–9 |7–9 |7–9 |7–9 |
-| <a href="#partidul-național-liberal-(epp)">Partidul Național Liberal (EPP)</a> | 0 | 6 | 5–6 |5–7 |5–7 |4–7 |
-| <a href="#uniunea-salvați-românia-(re)">Uniunea Salvați România (RE)</a> | 0 | 4 | 4–5 |4–6 |4–6 |4–6 |
+| <a href="#partidul-național-liberal-(epp)">Partidul Național Liberal (EPP)</a> | 0 | 6 | 5–6 |5–6 |5–7 |4–7 |
+| <a href="#uniunea-salvați-românia-(re)">Uniunea Salvați România (RE)</a> | 0 | 4 | 4–5 |4–5 |4–6 |4–6 |
 | <a href="#partidul-oamenilor-tineri-(*)">Partidul Oamenilor Tineri (*)</a> | 0 | 2 | 2–3 |2–3 |2–3 |2–3 |
-| <a href="#uniunea-democrată-maghiară-din-românia-(epp)">Uniunea Democrată Maghiară din România (EPP)</a> | 0 | 1 | 0–2 |0–2 |0–2 |0–2 |
+| <a href="#uniunea-democrată-maghiară-din-românia-(epp)">Uniunea Democrată Maghiară din România (EPP)</a> | 0 | 0 | 0–2 |0–2 |0–2 |0–2 |
 | <a href="#partidul-s.o.s.-românia-(ni)">Partidul S.O.S. România (NI)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 | <a href="#reînnoim-proiectul-european-al-româniei-(re)">Reînnoim Proiectul European al României (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#sănătate,-educație,-natură,-sustenabilitate-(greens/efa)">Sănătate, Educație, Natură, Sustenabilitate (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -62,11 +62,11 @@
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 1.0% | 100% |  |
-| 11 | 27% | 99.0% |  |
-| 12 | 46% | 72% | Median |
-| 13 | 26% | 27% |  |
-| 14 | 0.4% | 0.5% |  |
+| 10 | 1.4% | 100% |  |
+| 11 | 22% | 98.6% |  |
+| 12 | 49% | 77% | Median |
+| 13 | 27% | 28% |  |
+| 14 | 0.6% | 0.6% |  |
 | 15 | 0% | 0% |  |
 
 ### Partidul Social Democrat (S&D)
@@ -84,9 +84,9 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.4% | 100% |  |
-| 7 | 16% | 99.6% |  |
-| 8 | 68% | 83% | Median |
-| 9 | 16% | 16% |  |
+| 7 | 21% | 99.6% |  |
+| 8 | 65% | 78% | Median |
+| 9 | 13% | 13% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
@@ -102,10 +102,10 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.4% | 100% |  |
-| 5 | 47% | 98.6% |  |
-| 6 | 46% | 52% | Median |
-| 7 | 6% | 6% |  |
+| 4 | 1.3% | 100% |  |
+| 5 | 49% | 98.7% |  |
+| 6 | 47% | 50% | Median |
+| 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
 
 ### Uniunea Salvați România (RE)
@@ -119,10 +119,10 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.1% | 100% |  |
-| 4 | 67% | 99.9% | Median |
-| 5 | 26% | 33% |  |
-| 6 | 6% | 6% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 57% | 99.8% | Median |
+| 5 | 40% | 43% |  |
+| 6 | 4% | 4% |  |
 | 7 | 0% | 0% |  |
 
 ### Partidul Oamenilor Tineri (*)
@@ -133,8 +133,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 0.1% | 99.9% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 0.1% | 99.8% |  |
 | 2 | 84% | 99.8% | Median |
 | 3 | 16% | 16% |  |
 | 4 | 0% | 0% |  |
@@ -147,9 +147,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 47% | 100% | Last Result |
-| 1 | 16% | 53% | Median |
-| 2 | 37% | 37% |  |
+| 0 | 50% | 100% | Last Result, Median |
+| 1 | 11% | 50% |  |
+| 2 | 39% | 39% |  |
 | 3 | 0% | 0% |  |
 
 ### Partidul S.O.S. România (NI)
@@ -160,9 +160,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.9% | 100% | Last Result, Median |
-| 1 | 0.8% | 1.1% |  |
-| 2 | 0.4% | 0.4% |  |
+| 0 | 98.5% | 100% | Last Result, Median |
+| 1 | 1.0% | 1.5% |  |
+| 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
 ### Reînnoim Proiectul European al României (RE)
@@ -212,9 +212,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.9% | 100% | Last Result, Median |
-| 1 | 0.8% | 1.1% |  |
-| 2 | 0.4% | 0.4% |  |
+| 0 | 98.5% | 100% | Last Result, Median |
+| 1 | 1.0% | 1.5% |  |
+| 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -229,6 +229,6 @@
 ### Calculations
 
 + **Sample size:** 1100
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.19%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.27%
 
