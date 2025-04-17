@@ -2,13 +2,13 @@
 
 The table below lists the most recent polls (less than 65 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | PV | AER | PER | SENS | PSD | PRO | PPU-SL | A2020 | DREPT | PLUS | PMP | REPER | USR | PNL | UDMR | FD | AUR | PNCR | SOSRO | ALDE | APP | BSR | POT |
+| Period     | Polling firm/Commissioner(s) | PV | AER | PER | SENS | PSD | PRO | PPU-SL | A2020 | DREPT | PLUS | PMP | REPER | USR | PNL | UDMR | FD | AUR | PNCR | POT | SOSRO | ALDE | APP | BSR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 18–26% <br> 7–10 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | 1% <br> 0 | 1–2% <br> 0 | 11–18% <br> 4–8 | 10–17% <br> 4–6 | 3–6% <br> 0–2 | 0–1% <br> 0 | 20–34% <br> 7–13 | N/A <br> N/A | 3–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–11% <br> 2–4 |
-| [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 19–24% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 11–15% <br> 4–6 | 13–17% <br> 5–7 | 4–7% <br> 0–2 | N/A <br> N/A | 29–35% <br> 11–13 | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 2–3 |
-| [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 18–20% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1% <br> 0 | 1% <br> 0 | 16–18% <br> 7–8 | 10–12% <br> 4–5 | 3% <br> 0 | 0–1% <br> 0 | 24–26% <br> 10–11 | N/A <br> N/A | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 2–3 |
-| [21–25 January 2025](2025-01-25-CURS.html) | CURS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 22–27% <br> 8–10 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 4–6 | 13–17% <br> 5–6 | 4–6% <br> 0–2 | N/A <br> N/A | 20–25% <br> 7–10 | N/A <br> N/A | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 3–4 |
+| N/A | [Poll Average](average.html) | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 18–26% <br> 7–10 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | 1% <br> 0 | 1–2% <br> 0 | 11–18% <br> 4–8 | 10–17% <br> 4–7 | 3–6% <br> 0–2 | 0–1% <br> 0 | 20–34% <br> 7–13 | N/A <br> N/A | 6–11% <br> 2–4 | 3–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 19–24% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 11–15% <br> 4–6 | 13–17% <br> 5–7 | 4–7% <br> 0–2 | N/A <br> N/A | 29–35% <br> 11–13 | N/A <br> N/A | 6–9% <br> 2–3 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 18–20% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1% <br> 0 | 1% <br> 0 | 16–18% <br> 7–8 | 10–12% <br> 4–5 | 3% <br> 0 | 0–1% <br> 0 | 24–26% <br> 10–11 | N/A <br> N/A | 5–7% <br> 2–3 | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [21–25 January 2025](2025-01-25-CURS.html) | CURS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 22–27% <br> 8–10 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 4–6 | 13–17% <br> 5–6 | 4–6% <br> 0–2 | N/A <br> N/A | 20–25% <br> 7–10 | N/A <br> N/A | 8–12% <br> 3–4 | 4–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -34,11 +34,11 @@ Only polls for which at least the sample size has been published are included in
 + **FD:** Forța Dreptei (EPP)
 + **AUR:** Alianța pentru Unirea Românilor (ECR)
 + **PNCR:** Partidul Național Conservator Român (ECR)
++ **POT:** Partidul Oamenilor Tineri (NI)
 + **SOSRO:** Partidul S.O.S. România (NI)
 + **ALDE:** Partidul Alianța Liberalilor și Democraților (*)
 + **APP:** Alianța pentru Patrie (*)
 + **BSR:** Blocul Suveranist Român (*)
-+ **POT:** Partidul Oamenilor Tineri (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
