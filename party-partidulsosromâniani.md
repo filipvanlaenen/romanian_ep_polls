@@ -15,11 +15,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 5.0% | 4.7–5.4% | 4.6–5.5% | 4.5–5.6% | 4.3–5.7% |
 | [21–25 January 2025](2025-01-25-CURS.html) | CURS | 5.0% | 4.3–6.0% | 4.0–6.2% | 3.9–6.5% | 3.5–7.0% |
 | [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.6–9.6% | 6.2–10.1% |
-| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 4.6% | 4.0–5.2% | 3.9–5.4% | 3.8–5.6% | 3.5–5.9% |
-| [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
-| [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 5.9% | 5.1–6.9% | 4.8–7.2% | 4.7–7.5% | 4.3–8.0% |
-| [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 6.0% | 5.2–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
-| [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 2.6% | 2.1–3.3% | 2.0–3.5% | 1.8–3.7% | 1.6–4.1% |
+| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 4.6% | N/A | N/A | N/A | N/A |
+| [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | 5.0% | N/A | N/A | N/A | N/A |
+| [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 5.9% | N/A | N/A | N/A | N/A |
+| [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 6.0% | N/A | N/A | N/A | N/A |
+| [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 2.6% | N/A | N/A | N/A | N/A |
 | [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea | 8.1% | N/A | N/A | N/A | N/A |
 | [11–16 October 2024](2024-10-16-CURS.html) | CURS | 7.0% | N/A | N/A | N/A | N/A |
 | [11–16 September 2024](2024-09-16-INSCOP.html) | INSCOP <br> Institutul pentru Libertate și Democrație | 8.9% | N/A | N/A | N/A | N/A |
@@ -56,11 +56,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [21–25 January 2025](2025-01-25-CURS.html) | CURS | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 2 | 2 | 0–2 | 0–2 | 0–3 |
-| [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 2 | 2 | 0–2 | 0–3 | 0–3 |
-| [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 0 | 0 | 0 | 0 | 0 |
+| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews |  |  |  |  |  |
+| [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek |  |  |  |  |  |
+| [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea |  |  |  |  |  |
+| [30 October–5 November 2024](2024-11-05-CURS.html) | CURS |  |  |  |  |  |
+| [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek |  |  |  |  |  |
 | [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea |  |  |  |  |  |
 | [11–16 October 2024](2024-10-16-CURS.html) | CURS |  |  |  |  |  |
 | [11–16 September 2024](2024-09-16-INSCOP.html) | INSCOP <br> Institutul pentru Libertate și Democrație |  |  |  |  |  |
@@ -75,9 +75,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 62% | 100% | Last Result, Median |
-| 1 | 5% | 38% |  |
-| 2 | 33% | 33% |  |
+| 0 | 63% | 100% | Last Result, Median |
+| 1 | 5% | 37% |  |
+| 2 | 32% | 33% |  |
 | 3 | 0% | 0% |  |
 
 

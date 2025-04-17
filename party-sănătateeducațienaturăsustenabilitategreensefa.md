@@ -15,9 +15,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 0.0% | N/A | N/A | N/A | N/A |
 | [21–25 January 2025](2025-01-25-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
-| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 2.5% | 2.1–3.0% | 2.0–3.1% | 1.9–3.3% | 1.7–3.5% |
-| [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.1% |
-| [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
+| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 2.5% | N/A | N/A | N/A | N/A |
+| [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | 1.0% | N/A | N/A | N/A | N/A |
+| [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 1.0% | N/A | N/A | N/A | N/A |
 | [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 0.0% | N/A | N/A | N/A | N/A |
 | [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea | 0.0% | N/A | N/A | N/A | N/A |
@@ -51,9 +51,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–16 February 2025](2025-02-16-FlashData.html) | FlashData |  |  |  |  |  |
 | [21–25 January 2025](2025-01-25-CURS.html) | CURS |  |  |  |  |  |
 | [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde |  |  |  |  |  |
-| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 0 | 0 | 0 | 0 | 0 |
-| [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | 0 | 0 | 0 | 0 | 0 |
-| [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 0 | 0 | 0 | 0 | 0 |
+| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews |  |  |  |  |  |
+| [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek |  |  |  |  |  |
+| [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea |  |  |  |  |  |
 | [30 October–5 November 2024](2024-11-05-CURS.html) | CURS |  |  |  |  |  |
 | [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek |  |  |  |  |  |
 | [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea |  |  |  |  |  |

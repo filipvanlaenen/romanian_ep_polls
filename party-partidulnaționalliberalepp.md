@@ -15,11 +15,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 11.0% | 10.5–11.5% | 10.4–11.6% | 10.3–11.8% | 10.0–12.0% |
 | [21–25 January 2025](2025-01-25-CURS.html) | CURS | 15.0% | 13.7–16.5% | 13.3–16.9% | 13.0–17.2% | 12.4–18.0% |
 | [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 13.0% | 11.9–14.3% | 11.6–14.6% | 11.3–14.9% | 10.8–15.5% |
-| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 13.4% | 12.5–14.4% | 12.3–14.7% | 12.0–15.0% | 11.6–15.4% |
-| [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | 20.0% | 18.5–21.7% | 18.0–22.1% | 17.7–22.5% | 17.0–23.4% |
-| [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 16.2% | 14.8–17.7% | 14.4–18.1% | 14.1–18.5% | 13.5–19.2% |
-| [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 20.0% | 18.5–21.6% | 18.0–22.1% | 17.7–22.5% | 17.0–23.3% |
-| [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 22.3% | 20.8–24.0% | 20.4–24.4% | 20.0–24.9% | 19.3–25.7% |
+| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 13.4% | N/A | N/A | N/A | N/A |
+| [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | 20.0% | N/A | N/A | N/A | N/A |
+| [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 16.2% | N/A | N/A | N/A | N/A |
+| [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 20.0% | N/A | N/A | N/A | N/A |
+| [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 22.3% | N/A | N/A | N/A | N/A |
 | [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea | 13.2% | N/A | N/A | N/A | N/A |
 | [11–16 October 2024](2024-10-16-CURS.html) | CURS | 20.0% | N/A | N/A | N/A | N/A |
 | [11–16 September 2024](2024-09-16-INSCOP.html) | INSCOP <br> Institutul pentru Libertate și Democrație | 14.3% | N/A | N/A | N/A | N/A |
@@ -63,16 +63,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
+| [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [21–25 January 2025](2025-01-25-CURS.html) | CURS | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
-| [30 October–5 November 2024](2024-11-05-CURS.html) | CURS | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
-| [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
+| [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews |  |  |  |  |  |
+| [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek |  |  |  |  |  |
+| [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea |  |  |  |  |  |
+| [30 October–5 November 2024](2024-11-05-CURS.html) | CURS |  |  |  |  |  |
+| [24–28 October 2024](2024-10-28-BCS.html) | BCS <br> Newsweek |  |  |  |  |  |
 | [11–18 October 2024](2024-10-18-INSCOP.html) | INSCOP <br> Libertatea |  |  |  |  |  |
 | [11–16 October 2024](2024-10-16-CURS.html) | CURS |  |  |  |  |  |
 | [11–16 September 2024](2024-09-16-INSCOP.html) | INSCOP <br> Institutul pentru Libertate și Democrație |  |  |  |  |  |
@@ -91,10 +91,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 24% | 100% |  |
-| 5 | 43% | 76% | Median |
-| 6 | 31% | 33% |  |
-| 7 | 2% | 2% |  |
+| 4 | 23% | 100% |  |
+| 5 | 44% | 77% | Median |
+| 6 | 30% | 33% |  |
+| 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
 
 
