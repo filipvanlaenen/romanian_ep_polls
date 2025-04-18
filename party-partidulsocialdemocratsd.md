@@ -72,11 +72,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
 | [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 8 | 8 | 7–9 | 7–9 | 7–9 |
 | [21–25 January 2025](2025-01-25-CURS.html) | CURS | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
-| [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 9 | 8–9 | 8–9 | 7–9 | 7–10 |
+| [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews |  |  |  |  |  |
 | [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek |  |  |  |  |  |
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea |  |  |  |  |  |
@@ -103,9 +103,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
-| 7 | 8% | 99.9% |  |
-| 8 | 57% | 91% | Median |
-| 9 | 26% | 34% |  |
+| 7 | 10% | 99.9% |  |
+| 8 | 57% | 90% | Median |
+| 9 | 25% | 33% |  |
 | 10 | 8% | 8% |  |
 | 11 | 0.4% | 0.4% |  |
 | 12 | 0% | 0% |  |

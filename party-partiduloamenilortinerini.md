@@ -61,7 +61,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 2 | 2 | 2 | 2–3 | 2–3 |
 | [21–25 January 2025](2025-01-25-CURS.html) | CURS | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews |  |  |  |  |  |
 | [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek |  |  |  |  |  |
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea |  |  |  |  |  |
@@ -81,10 +81,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 60% | 99.9% | Median |
-| 3 | 24% | 40% |  |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 0% | 99.9% |  |
+| 2 | 61% | 99.9% | Median |
+| 3 | 24% | 39% |  |
 | 4 | 16% | 16% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
