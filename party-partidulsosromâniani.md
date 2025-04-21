@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.4–5.5% | 3.1–5.8% | 2.9–6.1% | 2.6–6.6% |
+| N/A | [Poll Average](average.html) | 3.6% | 3.2–4.2% | 3.0–4.5% | 2.8–4.7% | 2.5–5.2% |
+| [3–5 April 2025](2025-04-05-FlashData.html) | FlashData | 3.5% | 3.2–3.8% | 3.2–3.9% | 3.1–3.9% | 3.0–4.1% |
 | [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 3.6% | 3.0–4.5% | 2.8–4.7% | 2.7–4.9% | 2.4–5.3% |
-| [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 5.0% | 4.7–5.4% | 4.6–5.5% | 4.5–5.6% | 4.3–5.7% |
+| [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 5.6% | 5.2–6.0% | 5.1–6.1% | 5.1–6.2% | 4.9–6.4% |
 | [21–25 January 2025](2025-01-25-CURS.html) | CURS | 5.0% | 4.3–6.0% | 4.0–6.2% | 3.9–6.5% | 3.5–7.0% |
 | [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.6–9.6% | 6.2–10.1% |
 | [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 4.6% | N/A | N/A | N/A | N/A |
@@ -34,13 +35,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.4% | 100% |  |
-| 2.5–3.5% | 13% | 99.6% |  |
-| 3.5–4.5% | 26% | 86% |  |
-| 4.5–5.5% | 52% | 61% | Median |
-| 5.5–6.5% | 8% | 9% |  |
-| 6.5–7.5% | 0.6% | 0.6% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.6% | 100% |  |
+| 2.5–3.5% | 48% | 99.4% |  |
+| 3.5–4.5% | 48% | 52% | Median |
+| 4.5–5.5% | 4% | 4% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -51,9 +51,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [3–5 April 2025](2025-04-05-FlashData.html) | FlashData | 0 | 0 | 0 | 0 | 0 |
 | [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 0 | 0 | 0 | 0 | 0–1 |
-| [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 2 | 2 | 2 | 1–2 | 0–2 |
 | [21–25 January 2025](2025-01-25-CURS.html) | CURS | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews |  |  |  |  |  |
@@ -75,9 +76,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 62% | 100% | Last Result, Median |
-| 1 | 5% | 38% |  |
-| 2 | 33% | 33% |  |
+| 0 | 99.3% | 100% | Last Result, Median |
+| 1 | 0.5% | 0.7% |  |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 
