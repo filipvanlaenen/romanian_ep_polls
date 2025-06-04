@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.6–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
-| [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 3.3% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 2.0% | 0.7–3.8% | 0.6–4.1% | 0.5–4.3% | 0.4–4.7% |
+| [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 3.3% | 2.7–4.1% | 2.5–4.3% | 2.4–4.5% | 2.2–4.9% |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
 | [3–5 April 2025](2025-04-05-FlashData.html) | FlashData | 0.0% | N/A | N/A | N/A | N/A |
@@ -36,10 +36,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 9% | 100% | Last Result |
-| 0.5–1.5% | 89% | 91% | Median |
-| 1.5–2.5% | 2% | 2% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 4% | 100% | Last Result |
+| 0.5–1.5% | 45% | 96% |  |
+| 1.5–2.5% | 4% | 51% | Median |
+| 2.5–3.5% | 30% | 48% |  |
+| 3.5–4.5% | 17% | 18% |  |
+| 4.5–5.5% | 1.0% | 1.0% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -51,7 +54,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP |  |  |  |  |  |
+| [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 0 | 0 | 0 | 0 | 0 |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS |  |  |  |  |  |
 | [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [3–5 April 2025](2025-04-05-FlashData.html) | FlashData |  |  |  |  |  |
@@ -78,6 +81,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0% | 0.2% |  |
+| 2 | 0.2% | 0.2% |  |
+| 3 | 0% | 0% |  |
 
 
