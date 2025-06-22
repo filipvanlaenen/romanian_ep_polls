@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 06 Jun 2025 22:08:00 +0200</pubDate>
+    <pubDate>Sun, 22 Jun 2025 19:08:50 +0200</pubDate>
     <item>
       <title>Opinion Poll by INSCOP, 26–30 May 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2025-05-30-INSCOP.html#seats</link>
@@ -70,6 +70,36 @@
       <dc:date>2025-06-06T21:05:03.842094+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sociopol, 26–28 May 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2025-05-28-Sociopol.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Reînnoim Proiectul European al României (RE): 0 seats&lt;/li&gt;&lt;li&gt;Partidul Oamenilor Tineri (NI): 0 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor (ECR): 13–16 seats&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România (NI): 0 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (RE): 4–5 seats&lt;/li&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 6–8 seats&lt;/li&gt;&lt;li&gt;Forța Dreptei (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Sănătate, Educație, Natură, Sustenabilitate (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2025-05-28-Sociopol-seats.png"
+        length="288567"
+        type="image/png"/>
+      <pubDate>Sun, 22 Jun 2025 16:38:45 +0200</pubDate>
+      <dc:date>2025-06-22T16:38:45.864291+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sociopol, 26–28 May 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2025-05-28-Sociopol.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2025-05-28-Sociopol-coalitions-seats.png"
+        length="191045"
+        type="image/png"/>
+      <pubDate>Sun, 22 Jun 2025 16:38:45 +0200</pubDate>
+      <dc:date>2025-06-22T16:38:45.864291+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sociopol, 26–28 May 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2025-05-28-Sociopol.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Reînnoim Proiectul European al României (RE): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Partidul Oamenilor Tineri (NI): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor (ECR): 33.0–39.0%&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România (NI): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (RE): 10.1–14.2%&lt;/li&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 14.8–19.4%&lt;/li&gt;&lt;li&gt;Forța Dreptei (EPP): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Sănătate, Educație, Natură, Sustenabilitate (Greens/EFA): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 12.0–16.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2025-05-28-Sociopol.png"
+        length="338078"
+        type="image/png"/>
+      <pubDate>Sun, 22 Jun 2025 16:38:45 +0200</pubDate>
+      <dc:date>2025-06-22T16:38:45.864291+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Avangarde, 23–28 May 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2025-05-28-Avangarde.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Partidul Oamenilor Tineri (NI): 0 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor (ECR): 11–14 seats&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România (NI): 0–2 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (RE): 5–7 seats&lt;/li&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 7–9 seats&lt;/li&gt;&lt;li&gt;Forța Dreptei (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară (RE): 0 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Dreptate și Respect în Europa Pentru Toți (RE): 0 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 5–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -98,6 +128,36 @@
         type="image/png"/>
       <pubDate>Fri, 06 Jun 2025 22:08:00 +0200</pubDate>
       <dc:date>2025-06-06T22:08:00.850685+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FlashData, 24–26 April 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2025-04-26-FlashData.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Oamenilor Tineri (NI): 0 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor (ECR): 12–13 seats&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România (NI): 0 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (RE): 4 seats&lt;/li&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 9–10 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 7–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2025-04-26-FlashData-seats.png"
+        length="186536"
+        type="image/png"/>
+      <pubDate>Sun, 22 Jun 2025 19:08:50 +0200</pubDate>
+      <dc:date>2025-06-22T19:08:50.530506+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FlashData, 24–26 April 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2025-04-26-FlashData.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2025-04-26-FlashData-coalitions-seats.png"
+        length="155879"
+        type="image/png"/>
+      <pubDate>Sun, 22 Jun 2025 19:08:50 +0200</pubDate>
+      <dc:date>2025-06-22T19:08:50.530506+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FlashData, 24–26 April 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2025-04-26-FlashData.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Oamenilor Tineri (NI): 2.6–3.4%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor (ECR): 25.0–27.0%&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România (NI): 1.7–2.3%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (RE): 8.4–9.7%&lt;/li&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 18.1–19.9%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.6–4.5%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 14.2–15.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2025-04-26-FlashData.png"
+        length="230932"
+        type="image/png"/>
+      <pubDate>Sun, 22 Jun 2025 19:08:50 +0200</pubDate>
+      <dc:date>2025-06-22T19:08:50.530506+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FlashData, 3–5 April 2025 – Seat Projections for the Parties</title>
@@ -249,6 +309,6 @@
       <pubDate>Fri, 18 Apr 2025 18:32:06 +0200</pubDate>
       <dc:date>2025-04-18T18:32:06.385307+02:00</dc:date>
     </item>
-    <dc:date>2025-06-06T22:08:00.850685+02:00</dc:date>
+    <dc:date>2025-06-22T19:08:50.530506+02:00</dc:date>
   </channel>
 </rss>
