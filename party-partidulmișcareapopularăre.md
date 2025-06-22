@@ -13,7 +13,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.7% | 0.5–1.9% |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
+| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
 | [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.7% | 0.5–2.0% |
+| [24–26 April 2025](2025-04-26-FlashData.html) | FlashData | 0.0% | N/A | N/A | N/A | N/A |
 | [3–5 April 2025](2025-04-05-FlashData.html) | FlashData | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 1.1% | 1.0–1.3% | 0.9–1.4% | 0.9–1.4% | 0.8–1.5% |
@@ -53,7 +55,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS |  |  |  |  |  |
+| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
+| [24–26 April 2025](2025-04-26-FlashData.html) | FlashData |  |  |  |  |  |
 | [3–5 April 2025](2025-04-05-FlashData.html) | FlashData |  |  |  |  |  |
 | [24–28 March 2025](2025-03-28-Verifield.html) | Verifield |  |  |  |  |  |
 | [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 0 | 0 | 0 | 0 | 0 |

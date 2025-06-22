@@ -10,10 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.6–5.1% | 2.3–5.5% | 2.1–5.8% | 1.8–6.3% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.9–5.1% | 1.7–5.5% | 1.6–5.8% | 1.3–6.3% |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.8–3.6% | 1.5–4.0% |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS | 5.0% | 4.3–5.8% | 4.1–6.1% | 3.9–6.3% | 3.6–6.8% |
+| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.1–5.2% | 2.8–5.6% |
+| [24–26 April 2025](2025-04-26-FlashData.html) | FlashData | 2.0% | 1.8–2.2% | 1.8–2.3% | 1.7–2.3% | 1.6–2.5% |
 | [3–5 April 2025](2025-04-05-FlashData.html) | FlashData | 3.5% | 3.2–3.8% | 3.2–3.9% | 3.1–3.9% | 3.0–4.1% |
 | [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 3.6% | 3.0–4.5% | 2.8–4.7% | 2.7–4.9% | 2.4–5.3% |
 | [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 5.6% | 5.2–6.0% | 5.1–6.1% | 5.1–6.2% | 4.9–6.4% |
@@ -37,11 +39,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 10% | 99.9% |  |
-| 2.5–3.5% | 33% | 90% |  |
-| 3.5–4.5% | 37% | 58% | Median |
-| 4.5–5.5% | 17% | 21% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 44% | 98% |  |
+| 2.5–3.5% | 17% | 54% | Median |
+| 3.5–4.5% | 18% | 37% |  |
+| 4.5–5.5% | 15% | 19% |  |
 | 5.5–6.5% | 4% | 4% |  |
 | 6.5–7.5% | 0.2% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -58,7 +60,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 0 | 0 | 0 | 0 | 0 |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0–2 | 0–2 |
+| [24–26 April 2025](2025-04-26-FlashData.html) | FlashData | 0 | 0 | 0 | 0 | 0 |
 | [3–5 April 2025](2025-04-05-FlashData.html) | FlashData | 0 | 0 | 0 | 0 | 0 |
 | [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 0 | 0 | 0 | 0 | 0–1 |
 | [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 2 | 2 | 2 | 1–2 | 0–2 |
@@ -83,8 +87,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 3% | 11% |  |
+| 0 | 90% | 100% | Last Result, Median |
+| 1 | 3% | 10% |  |
 | 2 | 8% | 8% |  |
 | 3 | 0% | 0% |  |
 
