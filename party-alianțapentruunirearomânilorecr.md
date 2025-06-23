@@ -95,7 +95,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
-| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol | 15 | 14–15 | 13–16 | 13–16 | 13–16 |
+| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol | 14 | 14–15 | 13–16 | 13–16 | 13–16 |
 | [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 13 | 12–13 | 11–14 | 11–14 | 11–14 |
 | [24–26 April 2025](2025-04-26-FlashData.html) | FlashData | 13 | 12–13 | 12–13 | 12–13 | 12–13 |
 | [3–5 April 2025](2025-04-05-FlashData.html) | FlashData | 13 | 12–13 | 12–13 | 12–13 | 12–13 |
@@ -136,10 +136,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 2% | 100% |  |
 | 12 | 15% | 98% |  |
 | 13 | 39% | 83% | Median |
-| 14 | 16% | 44% |  |
-| 15 | 19% | 27% |  |
+| 14 | 18% | 44% |  |
+| 15 | 18% | 26% |  |
 | 16 | 7% | 8% |  |
-| 17 | 0.6% | 0.7% | Majority |
+| 17 | 0.6% | 0.6% | Majority |
 | 18 | 0% | 0% |  |
 
 
