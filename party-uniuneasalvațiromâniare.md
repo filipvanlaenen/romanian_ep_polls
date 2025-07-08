@@ -70,7 +70,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
