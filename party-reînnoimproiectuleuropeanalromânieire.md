@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.1% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [4–10 July 2025](2025-07-10-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 0.0% | N/A | N/A | N/A | N/A |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
@@ -56,6 +57,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4–10 July 2025](2025-07-10-CURS.html) | CURS |  |  |  |  |  |
 | [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro |  |  |  |  |  |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS |  |  |  |  |  |
