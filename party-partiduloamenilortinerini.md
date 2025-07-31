@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.7–4.6% | 2.5–4.9% | 2.3–5.1% | 2.0–5.6% |
+| N/A | [Poll Average](average.html) | 3.1% | 0.5–4.6% | 0.5–4.9% | 0.4–5.1% | 0.4–5.6% |
+| [15–23 July 2025](2025-07-23-INSOMAR.html) | INSOMAR | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.4–4.0% |
+| [10–12 July 2025](2025-07-12-FlashData.html) | FlashData | 0.5% | 0.4–0.6% | 0.4–0.7% | 0.4–0.7% | 0.3–0.8% |
 | [4–10 July 2025](2025-07-10-CURS.html) | CURS | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 4.2% | 3.5–5.0% | 3.3–5.3% | 3.2–5.5% | 2.9–5.9% |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 3.2% | 2.6–4.0% | 2.5–4.2% | 2.3–4.4% | 2.1–4.8% |
@@ -40,11 +42,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 6% | 100% |  |
-| 2.5–3.5% | 53% | 94% | Median |
-| 3.5–4.5% | 31% | 41% |  |
+| 0.0–0.5% | 13% | 100% | Last Result |
+| 0.5–1.5% | 7% | 87% |  |
+| 1.5–2.5% | 13% | 80% |  |
+| 2.5–3.5% | 28% | 67% | Median |
+| 3.5–4.5% | 28% | 39% |  |
 | 4.5–5.5% | 10% | 11% |  |
 | 5.5–6.5% | 0.7% | 0.7% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -59,6 +61,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–2 |
+| [15–23 July 2025](2025-07-23-INSOMAR.html) | INSOMAR | 0 | 0 | 0 | 0 | 0 |
+| [10–12 July 2025](2025-07-12-FlashData.html) | FlashData | 0 | 0 | 0 | 0 | 0 |
 | [4–10 July 2025](2025-07-10-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0–2 |
 | [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 0 | 0 | 0 | 0 | 0 |
