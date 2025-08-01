@@ -72,7 +72,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
-| [15–23 July 2025](2025-07-23-INSOMAR.html) | INSOMAR | 5 | 5 | 4–6 | 4–6 | 4–6 |
+| [15–23 July 2025](2025-07-23-INSOMAR.html) | INSOMAR | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [10–12 July 2025](2025-07-12-FlashData.html) | FlashData | 6 | 6 | 5–6 | 5–6 | 5–6 |
 | [4–10 July 2025](2025-07-10-CURS.html) | CURS | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
@@ -109,9 +109,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.6% | 100% |  |
-| 4 | 30% | 99.4% |  |
-| 5 | 48% | 69% | Median |
-| 6 | 21% | 21% |  |
-| 7 | 0% | 0% |  |
+| 4 | 31% | 99.4% |  |
+| 5 | 45% | 68% | Median |
+| 6 | 23% | 23% |  |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% |  |
 
 
