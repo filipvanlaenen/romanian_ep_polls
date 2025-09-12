@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.3–0.9% | 0.3–1.0% | 0.2–1.2% | 0.1–1.4% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.4% | 0.3–1.5% | 0.3–1.7% | 0.2–2.0% |
 | [1–9 September 2025](2025-09-09-INSCOP.html) | INSCOP <br> informat.ro | 0.0% | N/A | N/A | N/A | N/A |
-| [21–23 July 2025](2025-07-23-Sociopol.html) | Sociopol <br> RomâniaTV | 1.0% | N/A | N/A | N/A | N/A |
+| [21–23 July 2025](2025-07-23-Sociopol.html) | Sociopol <br> RomâniaTV | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [15–23 July 2025](2025-07-23-INSOMAR.html) | INSOMAR | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% | 0.1–1.4% |
 | [10–12 July 2025](2025-07-12-FlashData.html) | FlashData | 0.0% | N/A | N/A | N/A | N/A |
 | [4–10 July 2025](2025-07-10-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
@@ -44,9 +44,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 48% | 100% | Last Result |
-| 0.5–1.5% | 52% | 52% | Median |
-| 1.5–2.5% | 0.2% | 0.2% |  |
+| 0.0–0.5% | 25% | 100% | Last Result |
+| 0.5–1.5% | 70% | 75% | Median |
+| 1.5–2.5% | 5% | 5% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -60,7 +60,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [1–9 September 2025](2025-09-09-INSCOP.html) | INSCOP <br> informat.ro |  |  |  |  |  |
-| [21–23 July 2025](2025-07-23-Sociopol.html) | Sociopol <br> RomâniaTV |  |  |  |  |  |
+| [21–23 July 2025](2025-07-23-Sociopol.html) | Sociopol <br> RomâniaTV | 0 | 0 | 0 | 0 | 0 |
 | [15–23 July 2025](2025-07-23-INSOMAR.html) | INSOMAR | 0 | 0 | 0 | 0 | 0 |
 | [10–12 July 2025](2025-07-12-FlashData.html) | FlashData |  |  |  |  |  |
 | [4–10 July 2025](2025-07-10-CURS.html) | CURS |  |  |  |  |  |
