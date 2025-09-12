@@ -10,14 +10,16 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.0% | 11.3–16.0% | 10.9–16.3% | 10.5–16.5% | 9.9–16.8% |
+| N/A | [Poll Average](average.html) | 13.2% | 11.5–16.1% | 11.1–16.4% | 10.7–16.6% | 10.1–16.9% |
+| [1–9 September 2025](2025-09-09-INSCOP.html) | INSCOP <br> informat.ro | 12.8% | 11.6–14.2% | 11.2–14.6% | 10.9–14.9% | 10.4–15.6% |
+| [21–23 July 2025](2025-07-23-Sociopol.html) | Sociopol <br> RomâniaTV | 12.0% | N/A | N/A | N/A | N/A |
 | [15–23 July 2025](2025-07-23-INSOMAR.html) | INSOMAR | 13.2% | 11.9–14.7% | 11.6–15.1% | 11.3–15.5% | 10.7–16.2% |
 | [10–12 July 2025](2025-07-12-FlashData.html) | FlashData | 16.0% | 15.5–16.6% | 15.3–16.7% | 15.2–16.9% | 14.9–17.1% |
 | [4–10 July 2025](2025-07-10-CURS.html) | CURS | 12.0% | 10.8–13.4% | 10.5–13.7% | 10.2–14.1% | 9.6–14.8% |
 | [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 13.0% | 11.9–14.5% | 11.6–14.9% | 11.3–15.2% | 10.7–15.9% |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 12.2% | 11.0–13.5% | 10.7–13.9% | 10.4–14.2% | 9.9–14.9% |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS | 14.0% | 12.8–15.3% | 12.5–15.7% | 12.2–16.0% | 11.6–16.6% |
-| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
+| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol <br> RomâniaTV | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
 | [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 15.0% | 13.8–16.3% | 13.4–16.7% | 13.2–17.1% | 12.6–17.7% |
 | [24–26 April 2025](2025-04-26-FlashData.html) | FlashData | 9.0% | 8.6–9.4% | 8.5–9.6% | 8.4–9.7% | 8.2–9.9% |
 | [3–5 April 2025](2025-04-05-FlashData.html) | FlashData | 14.0% | 13.5–14.5% | 13.4–14.7% | 13.2–14.8% | 13.0–15.1% |
@@ -51,15 +53,15 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 2% | 99.8% |  |
-| 10.5–11.5% | 12% | 97% |  |
-| 11.5–12.5% | 23% | 86% |  |
-| 12.5–13.5% | 24% | 62% | Median |
-| 13.5–14.5% | 14% | 38% |  |
-| 14.5–15.5% | 7% | 25% |  |
-| 15.5–16.5% | 16% | 18% |  |
-| 16.5–17.5% | 2% | 2% |  |
+| 8.5–9.5% | 0.1% | 100% |  |
+| 9.5–10.5% | 2% | 99.9% |  |
+| 10.5–11.5% | 9% | 98% |  |
+| 11.5–12.5% | 22% | 89% |  |
+| 12.5–13.5% | 24% | 67% | Median |
+| 13.5–14.5% | 13% | 43% |  |
+| 14.5–15.5% | 7% | 30% |  |
+| 15.5–16.5% | 20% | 22% |  |
+| 16.5–17.5% | 3% | 3% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -72,13 +74,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
+| [1–9 September 2025](2025-09-09-INSCOP.html) | INSCOP <br> informat.ro | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [21–23 July 2025](2025-07-23-Sociopol.html) | Sociopol <br> RomâniaTV |  |  |  |  |  |
 | [15–23 July 2025](2025-07-23-INSOMAR.html) | INSOMAR | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [10–12 July 2025](2025-07-12-FlashData.html) | FlashData | 6 | 6 | 5–6 | 5–6 | 5–6 |
 | [4–10 July 2025](2025-07-10-CURS.html) | CURS | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol <br> RomâniaTV | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [24–26 April 2025](2025-04-26-FlashData.html) | FlashData | 4 | 4 | 4 | 4 | 4–5 |
 | [3–5 April 2025](2025-04-05-FlashData.html) | FlashData | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -109,9 +113,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.6% | 100% |  |
-| 4 | 31% | 99.4% |  |
-| 5 | 45% | 68% | Median |
-| 6 | 23% | 23% |  |
+| 4 | 29% | 99.4% |  |
+| 5 | 42% | 70% | Median |
+| 6 | 28% | 28% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
