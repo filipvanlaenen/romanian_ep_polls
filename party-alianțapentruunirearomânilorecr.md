@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36.9% | 33.8–38.8% | 33.1–39.2% | 32.6–39.5% | 31.6–40.1% |
+| N/A | [Poll Average](average.html) | 38.0% | 33.8–42.2% | 33.1–42.8% | 32.6–43.4% | 31.6–44.4% |
+| [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 40.9% | 39.0–42.8% | 38.5–43.4% | 38.0–43.9% | 37.1–44.8% |
 | [10–19 December 2025](2025-12-19-CURS.html) | CURS | 35.0% | 33.1–36.9% | 32.6–37.4% | 32.1–37.9% | 31.3–38.8% |
 | [25 October–2 November 2025](2025-11-02-INSCOP.html) | INSCOP <br> Informat.ro | 38.0% | 36.9–39.2% | 36.5–39.5% | 36.3–39.8% | 35.7–40.3% |
 | [14–26 October 2025](2025-10-26-CURS.html) | CURS | 35.0% | 33.2–37.0% | 32.6–37.5% | 32.2–38.0% | 31.3–38.9% |
@@ -86,13 +87,18 @@ The following table shows the probability mass function per percentage block of 
 | 32.5–33.5% | 6% | 98% |  |
 | 33.5–34.5% | 11% | 92% |  |
 | 34.5–35.5% | 13% | 81% |  |
-| 35.5–36.5% | 13% | 67% |  |
-| 36.5–37.5% | 18% | 55% | Median |
-| 37.5–38.5% | 23% | 37% |  |
-| 38.5–39.5% | 12% | 14% |  |
-| 39.5–40.5% | 2% | 2% |  |
-| 40.5–41.5% | 0.1% | 0.1% |  |
-| 41.5–42.5% | 0% | 0% |  |
+| 35.5–36.5% | 10% | 67% |  |
+| 36.5–37.5% | 6% | 57% |  |
+| 37.5–38.5% | 4% | 51% | Median |
+| 38.5–39.5% | 7% | 48% |  |
+| 39.5–40.5% | 11% | 41% |  |
+| 40.5–41.5% | 13% | 30% |  |
+| 41.5–42.5% | 10% | 17% |  |
+| 42.5–43.5% | 5% | 7% |  |
+| 43.5–44.5% | 2% | 2% |  |
+| 44.5–45.5% | 0.3% | 0.4% |  |
+| 45.5–46.5% | 0% | 0% |  |
+| 46.5–47.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -103,7 +109,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–16 | 12–16 | 11–16 |
+| N/A | [Poll Average](average.html) | 15 | 12–17 | 12–17 | 12–17 | 11–18 |
+| [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [10–19 December 2025](2025-12-19-CURS.html) | CURS | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [25 October–2 November 2025](2025-11-02-INSCOP.html) | INSCOP <br> Informat.ro | 15 | 14–16 | 14–16 | 14–16 | 14–16 |
 | [14–26 October 2025](2025-10-26-CURS.html) | CURS | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
@@ -159,10 +166,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.6% | 100% |  |
 | 12 | 10% | 99.4% |  |
 | 13 | 24% | 90% |  |
-| 14 | 23% | 65% | Median |
-| 15 | 34% | 42% |  |
-| 16 | 8% | 8% |  |
-| 17 | 0.1% | 0.1% | Majority |
-| 18 | 0% | 0% |  |
+| 14 | 15% | 66% |  |
+| 15 | 14% | 51% | Median |
+| 16 | 23% | 37% |  |
+| 17 | 13% | 14% | Majority |
+| 18 | 1.0% | 1.0% |  |
+| 19 | 0% | 0% |  |
 
 
