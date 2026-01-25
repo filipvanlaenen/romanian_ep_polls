@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 1.8–5.7% | 1.6–6.0% | 1.5–6.3% | 1.2–6.8% |
+| N/A | [Poll Average](average.html) | 3.4% | 1.7–5.5% | 1.5–5.8% | 1.4–6.1% | 1.2–6.6% |
+| [14–23 January 2026](2026-01-23-CURS.html) | CURS | 5.0% | N/A | N/A | N/A | N/A |
 | [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 4.9% | 4.2–5.9% | 3.9–6.1% | 3.8–6.4% | 3.4–6.8% |
 | [10–19 December 2025](2025-12-19-CURS.html) | CURS | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
 | [4–17 December 2025](2025-12-17-IRES.html) | IRES | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
@@ -53,13 +54,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 25% | 96% |  |
-| 2.5–3.5% | 5% | 71% |  |
-| 3.5–4.5% | 16% | 66% |  |
-| 4.5–5.5% | 36% | 50% | Median |
-| 5.5–6.5% | 13% | 14% |  |
-| 6.5–7.5% | 1.0% | 1.0% |  |
+| 0.5–1.5% | 6% | 100% |  |
+| 1.5–2.5% | 37% | 94% |  |
+| 2.5–3.5% | 8% | 57% | Median |
+| 3.5–4.5% | 13% | 50% |  |
+| 4.5–5.5% | 27% | 37% |  |
+| 5.5–6.5% | 9% | 10% |  |
+| 6.5–7.5% | 0.6% | 0.7% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -72,6 +73,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [14–23 January 2026](2026-01-23-CURS.html) | CURS |  |  |  |  |  |
 | [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [10–19 December 2025](2025-12-19-CURS.html) | CURS | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [4–17 December 2025](2025-12-17-IRES.html) | IRES | 0 | 0 | 0 | 0 | 0 |
@@ -115,9 +117,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 69% | 100% | Last Result, Median |
-| 1 | 5% | 31% |  |
-| 2 | 26% | 26% |  |
+| 0 | 78% | 100% | Last Result, Median |
+| 1 | 1.0% | 22% |  |
+| 2 | 21% | 21% |  |
 | 3 | 0% | 0% |  |
 
 
