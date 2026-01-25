@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 25 Jan 2026 00:01:48 +0100</pubDate>
+    <pubDate>Sun, 25 Jan 2026 21:19:18 +0100</pubDate>
     <item>
       <title>Opinion Poll by INSCOP for informat.ro, 12–15 January 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2026-01-15-INSCOP.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2025-12-17-IRES-seats.png"
         length="255722"
         type="image/png"/>
-      <pubDate>Sun, 25 Jan 2026 00:01:48 +0100</pubDate>
-      <dc:date>2026-01-25T00:01:48.140617+01:00</dc:date>
+      <pubDate>Sun, 25 Jan 2026 21:19:18 +0100</pubDate>
+      <dc:date>2026-01-25T21:19:18.403544+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IRES, 4–17 December 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2025-12-17-IRES-coalitions-seats.png"
         length="181040"
         type="image/png"/>
-      <pubDate>Sun, 25 Jan 2026 00:01:48 +0100</pubDate>
-      <dc:date>2026-01-25T00:01:48.140617+01:00</dc:date>
+      <pubDate>Sun, 25 Jan 2026 21:19:18 +0100</pubDate>
+      <dc:date>2026-01-25T21:19:18.403544+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IRES, 4–17 December 2025 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2025-12-17-IRES.png"
         length="316778"
         type="image/png"/>
-      <pubDate>Sun, 25 Jan 2026 00:01:48 +0100</pubDate>
-      <dc:date>2026-01-25T00:01:48.140617+01:00</dc:date>
+      <pubDate>Sun, 25 Jan 2026 21:19:18 +0100</pubDate>
+      <dc:date>2026-01-25T21:19:18.403544+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSCOP for informat.ro, 25 October–2 November 2025 – Seat Projections for the Parties</title>
@@ -729,6 +729,6 @@
       <pubDate>Fri, 18 Apr 2025 18:32:06 +0200</pubDate>
       <dc:date>2025-04-18T18:32:06.385307+02:00</dc:date>
     </item>
-    <dc:date>2026-01-25T00:01:48.140617+01:00</dc:date>
+    <dc:date>2026-01-25T21:19:18.403544+01:00</dc:date>
   </channel>
 </rss>
