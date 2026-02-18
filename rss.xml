@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 25 Jan 2026 22:51:44 +0100</pubDate>
+    <pubDate>Wed, 18 Feb 2026 17:34:40 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by ARA for Antena3CNN, 11 February 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2026-02-11-ARA.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Alianța pentru Unirea Românilor (ECR): 12–15 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (RE): 3–5 seats&lt;/li&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 5–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-02-11-ARA-seats.png"
+        length="196445"
+        type="image/png"/>
+      <pubDate>Wed, 18 Feb 2026 17:34:40 +0100</pubDate>
+      <dc:date>2026-02-18T17:34:40.589686+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ARA for Antena3CNN, 11 February 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2026-02-11-ARA.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-02-11-ARA-coalitions-seats.png"
+        length="197589"
+        type="image/png"/>
+      <pubDate>Wed, 18 Feb 2026 17:34:40 +0100</pubDate>
+      <dc:date>2026-02-18T17:34:40.589686+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ARA for Antena3CNN, 11 February 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2026-02-11-ARA.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Alianța pentru Unirea Românilor (ECR): 33.5–40.6%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (RE): 8.9–13.5%&lt;/li&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 21.9–28.3%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 3.6–6.9%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 14.4–20.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-02-11-ARA.png"
+        length="222802"
+        type="image/png"/>
+      <pubDate>Wed, 18 Feb 2026 17:34:40 +0100</pubDate>
+      <dc:date>2026-02-18T17:34:40.589686+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CURS, 14–23 January 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2026-01-23-CURS.html#seats</link>
@@ -759,6 +789,6 @@
       <pubDate>Fri, 18 Apr 2025 18:32:06 +0200</pubDate>
       <dc:date>2025-04-18T18:32:06.385307+02:00</dc:date>
     </item>
-    <dc:date>2026-01-25T22:51:44.585251+01:00</dc:date>
+    <dc:date>2026-02-18T17:34:40.589686+01:00</dc:date>
   </channel>
 </rss>
