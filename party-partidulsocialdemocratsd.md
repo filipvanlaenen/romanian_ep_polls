@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.0% | 17.9–25.6% | 17.2–26.5% | 16.8–27.2% | 15.9–28.5% |
+| N/A | [Poll Average](average.html) | 22.0% | 18.8–25.6% | 18.2–26.5% | 17.7–27.2% | 16.8–28.5% |
+| [2–6 March 2026](2026-03-06-INSCOP.html) | INSCOP <br> informat.ro | 19.2% | 17.7–20.8% | 17.3–21.2% | 17.0–21.6% | 16.3–22.4% |
 | [11 February 2026](2026-02-11-ARA.html) | ARA <br> Antena3CNN | 25.0% | 23.0–27.2% | 22.4–27.8% | 21.9–28.3% | 21.0–29.4% |
 | [14–23 January 2026](2026-01-23-CURS.html) | CURS | 23.0% | 21.4–24.7% | 20.9–25.2% | 20.5–25.6% | 19.8–26.4% |
 | [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 18.2% | 16.8–19.8% | 16.4–20.2% | 16.0–20.6% | 15.3–21.4% |
@@ -69,13 +70,13 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.2% | 100% |  |
-| 15.5–16.5% | 2% | 99.8% |  |
-| 16.5–17.5% | 5% | 98% |  |
-| 17.5–18.5% | 9% | 93% |  |
-| 18.5–19.5% | 9% | 84% |  |
-| 19.5–20.5% | 9% | 75% |  |
-| 20.5–21.5% | 11% | 67% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.2% | 100% |  |
+| 16.5–17.5% | 2% | 99.8% |  |
+| 17.5–18.5% | 6% | 98% |  |
+| 18.5–19.5% | 11% | 92% |  |
+| 19.5–20.5% | 13% | 82% |  |
+| 20.5–21.5% | 13% | 69% |  |
 | 21.5–22.5% | 13% | 56% | Median |
 | 22.5–23.5% | 13% | 43% |  |
 | 23.5–24.5% | 11% | 30% |  |
@@ -96,7 +97,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
+| [2–6 March 2026](2026-03-06-INSCOP.html) | INSCOP <br> informat.ro | 7 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [11 February 2026](2026-02-11-ARA.html) | ARA <br> Antena3CNN | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [14–23 January 2026](2026-01-23-CURS.html) | CURS | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
 | [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
@@ -147,11 +149,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.1% | 100% |  |
-| 6 | 6% | 99.9% |  |
-| 7 | 21% | 94% |  |
-| 8 | 38% | 73% | Median |
-| 9 | 28% | 34% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0.4% | 100% |  |
+| 7 | 18% | 99.6% |  |
+| 8 | 46% | 82% | Median |
+| 9 | 29% | 35% |  |
 | 10 | 6% | 6% |  |
 | 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
