@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.6–3.4% | 1.5–3.6% | 1.4–3.9% | 1.2–4.3% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.7–3.5% | 1.5–3.8% | 1.4–4.0% | 1.2–4.4% |
+| [23–27 March 2026](2026-03-27-CURS.html) | CURS | 3.0% | N/A | N/A | N/A | N/A |
 | [10–17 March 2026](2026-03-17-Avangarde.html) | Avangarde | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [2–6 March 2026](2026-03-06-INSCOP.html) | INSCOP <br> informat.ro | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [11 February 2026](2026-02-11-ARA.html) | ARA <br> Antena3CNN | 0.0% | N/A | N/A | N/A | N/A |
@@ -57,11 +58,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 7% | 100% |  |
-| 1.5–2.5% | 54% | 93% | Median |
-| 2.5–3.5% | 32% | 38% |  |
-| 3.5–4.5% | 6% | 6% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 44% | 95% |  |
+| 2.5–3.5% | 41% | 51% | Median |
+| 3.5–4.5% | 9% | 9% |  |
+| 4.5–5.5% | 0.3% | 0.3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -74,6 +75,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [23–27 March 2026](2026-03-27-CURS.html) | CURS |  |  |  |  |  |
 | [10–17 March 2026](2026-03-17-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
 | [2–6 March 2026](2026-03-06-INSCOP.html) | INSCOP <br> informat.ro | 0 | 0 | 0 | 0 | 0 |
 | [11 February 2026](2026-02-11-ARA.html) | ARA <br> Antena3CNN |  |  |  |  |  |
