@@ -100,7 +100,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–10 | 7–10 | 7–10 | 7–11 |
-| [23–27 March 2026](2026-03-27-CURS.html) | CURS | 9 | 9–10 | 9–10 | 8–11 | 8–11 |
+| [23–27 March 2026](2026-03-27-CURS.html) | CURS | 9 | 9–10 | 9–10 | 8–10 | 8–11 |
 | [10–17 March 2026](2026-03-17-Avangarde.html) | Avangarde | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
 | [2–6 March 2026](2026-03-06-INSCOP.html) | INSCOP <br> informat.ro | 7 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [11 February 2026](2026-02-11-ARA.html) | ARA <br> Antena3CNN | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
