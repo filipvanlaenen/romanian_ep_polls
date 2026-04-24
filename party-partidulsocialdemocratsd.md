@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.9% | 17.7–25.5% | 17.1–26.3% | 16.6–27.0% | 15.7–28.3% |
+| N/A | [Poll Average](average.html) | 22.0% | 17.9–25.5% | 17.2–26.3% | 16.6–27.0% | 15.7–28.3% |
+| [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro | 20.1% | 18.6–21.7% | 18.2–22.2% | 17.8–22.6% | 17.1–23.4% |
 | [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [23–27 March 2026](2026-03-27-CURS.html) | CURS | 24.0% | 22.6–25.5% | 22.2–25.9% | 21.9–26.2% | 21.3–26.9% |
 | [10–17 March 2026](2026-03-17-Avangarde.html) | Avangarde | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
@@ -75,12 +76,12 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.3% | 100% |  |
 | 15.5–16.5% | 2% | 99.6% |  |
-| 16.5–17.5% | 6% | 98% |  |
-| 17.5–18.5% | 11% | 91% |  |
-| 18.5–19.5% | 11% | 81% |  |
-| 19.5–20.5% | 9% | 69% |  |
-| 20.5–21.5% | 8% | 61% |  |
-| 21.5–22.5% | 9% | 53% | Median |
+| 16.5–17.5% | 5% | 98% |  |
+| 17.5–18.5% | 8% | 93% |  |
+| 18.5–19.5% | 9% | 85% |  |
+| 19.5–20.5% | 10% | 75% |  |
+| 20.5–21.5% | 10% | 65% |  |
+| 21.5–22.5% | 10% | 55% | Median |
 | 22.5–23.5% | 12% | 44% |  |
 | 23.5–24.5% | 13% | 32% |  |
 | 24.5–25.5% | 10% | 19% |  |
@@ -101,6 +102,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–10 | 6–10 | 6–10 | 6–11 |
+| [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [23–27 March 2026](2026-03-27-CURS.html) | CURS | 9 | 9–10 | 9–10 | 8–10 | 8–11 |
 | [10–17 March 2026](2026-03-17-Avangarde.html) | Avangarde | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
@@ -157,8 +159,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0.2% | 100% |  |
 | 6 | 9% | 99.8% |  |
-| 7 | 22% | 91% |  |
-| 8 | 24% | 69% | Median |
+| 7 | 18% | 91% |  |
+| 8 | 26% | 73% | Median |
 | 9 | 31% | 46% |  |
 | 10 | 14% | 15% |  |
 | 11 | 0.8% | 0.8% |  |
