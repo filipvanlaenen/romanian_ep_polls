@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 1.0–4.2% | 0.8–4.5% | 0.7–4.8% | 0.5–5.2% |
+| N/A | [Poll Average](average.html) | 3.3% | 1.1–6.1% | 0.9–6.8% | 0.7–7.3% | 0.5–8.1% |
+| [1–10 April 2026](2026-04-10-ARP.html) | ARP | 6.0% | 5.0–7.4% | 4.7–7.8% | 4.4–8.1% | 4.0–8.9% |
 | [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.8–4.4% |
 | [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [23–27 March 2026](2026-03-27-CURS.html) | CURS | 4.0% | 3.4–4.8% | 3.3–5.0% | 3.1–5.1% | 2.9–5.5% |
@@ -59,14 +60,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.6% | 100% | Last Result |
-| 0.5–1.5% | 22% | 99.4% |  |
-| 1.5–2.5% | 12% | 77% |  |
-| 2.5–3.5% | 36% | 65% | Median |
-| 3.5–4.5% | 24% | 29% |  |
-| 4.5–5.5% | 4% | 5% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.5% | 100% | Last Result |
+| 0.5–1.5% | 18% | 99.5% |  |
+| 1.5–2.5% | 10% | 82% |  |
+| 2.5–3.5% | 29% | 72% | Median |
+| 3.5–4.5% | 20% | 43% |  |
+| 4.5–5.5% | 8% | 23% |  |
+| 5.5–6.5% | 8% | 15% |  |
+| 6.5–7.5% | 5% | 7% |  |
+| 7.5–8.5% | 1.4% | 2% |  |
+| 8.5–9.5% | 0.2% | 0.2% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -77,7 +81,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [1–10 April 2026](2026-04-10-ARP.html) | ARP | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro | 0 | 0 | 0 | 0 | 0 |
 | [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [23–27 March 2026](2026-03-27-CURS.html) | CURS | 0 | 0 | 0 | 0–2 | 0–2 |
@@ -128,9 +133,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.0% | 100% | Last Result, Median |
-| 1 | 0.1% | 1.0% |  |
-| 2 | 0.8% | 0.8% |  |
-| 3 | 0% | 0% |  |
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 0.2% | 18% |  |
+| 2 | 16% | 18% |  |
+| 3 | 2% | 2% |  |
+| 4 | 0% | 0% |  |
 
 
