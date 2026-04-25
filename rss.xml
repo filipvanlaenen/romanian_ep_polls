@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 25 Apr 2026 09:55:27 +0200</pubDate>
+    <pubDate>Sat, 25 Apr 2026 13:25:23 +0200</pubDate>
     <item>
       <title>Opinion Poll by ARP, 1–10 April 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2026-04-10-ARP.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-04-10-ARP-seats.png"
         length="310833"
         type="image/png"/>
-      <pubDate>Sat, 25 Apr 2026 09:55:27 +0200</pubDate>
-      <dc:date>2026-04-25T09:55:27.633119+02:00</dc:date>
+      <pubDate>Sat, 25 Apr 2026 13:25:23 +0200</pubDate>
+      <dc:date>2026-04-25T13:25:23.944659+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ARP, 1–10 April 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-04-10-ARP-coalitions-seats.png"
         length="216267"
         type="image/png"/>
-      <pubDate>Sat, 25 Apr 2026 09:55:27 +0200</pubDate>
-      <dc:date>2026-04-25T09:55:27.633119+02:00</dc:date>
+      <pubDate>Sat, 25 Apr 2026 13:25:23 +0200</pubDate>
+      <dc:date>2026-04-25T13:25:23.944659+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ARP, 1–10 April 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-04-10-ARP.png"
         length="353112"
         type="image/png"/>
-      <pubDate>Sat, 25 Apr 2026 09:55:27 +0200</pubDate>
-      <dc:date>2026-04-25T09:55:27.633119+02:00</dc:date>
+      <pubDate>Sat, 25 Apr 2026 13:25:23 +0200</pubDate>
+      <dc:date>2026-04-25T13:25:23.944659+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSCOP for Informat.ro, 1–7 April 2026 – Seat Projections for the Parties</title>
@@ -969,6 +969,6 @@
       <pubDate>Fri, 18 Apr 2025 18:32:06 +0200</pubDate>
       <dc:date>2025-04-18T18:32:06.385307+02:00</dc:date>
     </item>
-    <dc:date>2026-04-25T09:55:27.633119+02:00</dc:date>
+    <dc:date>2026-04-25T13:25:23.944659+02:00</dc:date>
   </channel>
 </rss>
