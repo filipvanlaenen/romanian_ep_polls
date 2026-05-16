@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 09 May 2026 17:53:48 +0200</pubDate>
+    <pubDate>Sat, 16 May 2026 21:40:35 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by CURS, 1–14 May 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-CURS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Alianța pentru Unirea Românilor (ECR): 11–13 seats&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România (NI): 0 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 7–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-CURS-seats.png"
+        length="194215"
+        type="image/png"/>
+      <pubDate>Sat, 16 May 2026 21:40:35 +0200</pubDate>
+      <dc:date>2026-05-16T21:40:35.995136+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS, 1–14 May 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-CURS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-CURS-coalitions-seats.png"
+        length="183226"
+        type="image/png"/>
+      <pubDate>Sat, 16 May 2026 21:40:35 +0200</pubDate>
+      <dc:date>2026-05-16T21:40:35.995136+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS, 1–14 May 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-CURS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Alianța pentru Unirea Românilor (ECR): 29.8–34.3%&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România (NI): 2.3–3.9%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România (RE): 8.6–11.5%&lt;/li&gt;&lt;li&gt;Partidul Social Democrat (S&amp;amp;D): 22.0–26.1%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România (EPP): 4.0–6.1%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal (EPP): 18.2–22.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-CURS.png"
+        length="233402"
+        type="image/png"/>
+      <pubDate>Sat, 16 May 2026 21:40:35 +0200</pubDate>
+      <dc:date>2026-05-16T21:40:35.995136+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CURS, 28 April–1 May 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-01-CURS.html#seats</link>
@@ -999,6 +1029,6 @@
       <pubDate>Fri, 18 Apr 2025 18:32:06 +0200</pubDate>
       <dc:date>2025-04-18T18:32:06.385307+02:00</dc:date>
     </item>
-    <dc:date>2026-05-09T17:53:48.43775+02:00</dc:date>
+    <dc:date>2026-05-16T21:40:35.995136+02:00</dc:date>
   </channel>
 </rss>
