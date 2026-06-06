@@ -19,8 +19,8 @@
 | Partidul Oamenilor Tineri (NI) | 0.0% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.1% |1.1–3.4% |
 | Sănătate, Educație, Natură, Sustenabilitate (Greens/EFA) | 0.0% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.1% |1.1–3.4% |
 | Forța Dreptei (EPP) | 0.0% | 1.0% | 0.7–1.5% |0.6–1.7% |0.5–1.8% |0.4–2.1% |
-| Partidul Mișcarea Populară (RE) | 0.0% | 1.0% | 0.7–1.5% |0.6–1.7% |0.5–1.8% |0.4–2.1% |
 | Dreptate și Respect în Europa Pentru Toți (RE) | 0.0% | 1.0% | 0.7–1.5% |0.6–1.7% |0.5–1.8% |0.4–2.1% |
+| Partidul Mișcarea Populară (EPP) | 0.0% | 1.0% | 0.7–1.5% |0.6–1.7% |0.5–1.8% |0.4–2.1% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -35,16 +35,16 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#alianța-pentru-unirea-românilor-(ecr)">Alianța pentru Unirea Românilor (ECR)</a> | 0 | 14 | 13–15 |13–15 |13–15 |12–16 |
-| <a href="#partidul-social-democrat-(s&d)">Partidul Social Democrat (S&D)</a> | 0 | 9 | 8–10 |8–10 |7–10 |7–10 |
+| <a href="#partidul-social-democrat-(s&d)">Partidul Social Democrat (S&D)</a> | 0 | 9 | 8–9 |8–10 |7–10 |7–10 |
 | <a href="#partidul-național-liberal-(epp)">Partidul Național Liberal (EPP)</a> | 0 | 5 | 5–6 |4–6 |4–6 |4–7 |
-| <a href="#uniunea-salvați-românia-(re)">Uniunea Salvați România (RE)</a> | 0 | 4 | 3–5 |3–5 |3–5 |3–5 |
+| <a href="#uniunea-salvați-românia-(re)">Uniunea Salvați România (RE)</a> | 0 | 4 | 4–5 |3–5 |3–5 |3–5 |
 | <a href="#uniunea-democrată-maghiară-din-românia-(epp)">Uniunea Democrată Maghiară din România (EPP)</a> | 0 | 2 | 0–2 |0–2 |0–2 |0–2 |
 | <a href="#partidul-s.o.s.-românia-(ni)">Partidul S.O.S. România (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#partidul-oamenilor-tineri-(ni)">Partidul Oamenilor Tineri (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#sănătate,-educație,-natură,-sustenabilitate-(greens/efa)">Sănătate, Educație, Natură, Sustenabilitate (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#forța-dreptei-(epp)">Forța Dreptei (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#partidul-mișcarea-populară-(re)">Partidul Mișcarea Populară (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#dreptate-și-respect-în-europa-pentru-toți-(re)">Dreptate și Respect în Europa Pentru Toți (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#partidul-mișcarea-populară-(epp)">Partidul Mișcarea Populară (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Alianța pentru Unirea Românilor (ECR)
 
@@ -66,10 +66,10 @@
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 2% | 100% |  |
-| 13 | 25% | 98% |  |
-| 14 | 53% | 73% | Median |
-| 15 | 18% | 20% |  |
+| 12 | 0.8% | 100% |  |
+| 13 | 27% | 99.2% |  |
+| 14 | 49% | 72% | Median |
+| 15 | 22% | 23% |  |
 | 16 | 2% | 2% |  |
 | 17 | 0% | 0% | Majority |
 
@@ -88,12 +88,11 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 4% | 100% |  |
-| 8 | 41% | 96% |  |
-| 9 | 44% | 55% | Median |
-| 10 | 11% | 11% |  |
-| 11 | 0.2% | 0.2% |  |
-| 12 | 0% | 0% |  |
+| 7 | 3% | 100% |  |
+| 8 | 38% | 97% |  |
+| 9 | 54% | 59% | Median |
+| 10 | 6% | 6% |  |
+| 11 | 0% | 0% |  |
 
 ### Partidul Național Liberal (EPP)
 
@@ -107,10 +106,10 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 7% | 100% |  |
-| 5 | 65% | 93% | Median |
-| 6 | 28% | 29% |  |
-| 7 | 0.9% | 0.9% |  |
+| 4 | 8% | 100% |  |
+| 5 | 70% | 92% | Median |
+| 6 | 21% | 21% |  |
+| 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
 
 ### Uniunea Salvați România (RE)
@@ -124,9 +123,9 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 10% | 100% |  |
-| 4 | 75% | 90% | Median |
-| 5 | 15% | 15% |  |
+| 3 | 8% | 100% |  |
+| 4 | 76% | 92% | Median |
+| 5 | 16% | 16% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -138,9 +137,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 42% | 100% | Last Result |
-| 1 | 0% | 58% |  |
-| 2 | 58% | 58% | Median |
+| 0 | 40% | 100% | Last Result |
+| 1 | 0% | 60% |  |
+| 2 | 60% | 60% | Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -186,21 +185,21 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Partidul Mișcarea Populară (RE)
-
-*For a full overview of the results for this party, see the [Partidul Mișcarea Populară (RE)](party-partidulmișcareapopularăre.html) page.*
-
-![Graph with seats probability mass function not yet produced](2026-03-17-Avangarde-seats-pmf-partidulmișcareapopularăre.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
 ### Dreptate și Respect în Europa Pentru Toți (RE)
 
 *For a full overview of the results for this party, see the [Dreptate și Respect în Europa Pentru Toți (RE)](party-dreptateșirespectîneuropapentrutoțire.html) page.*
 
 ![Graph with seats probability mass function not yet produced](2026-03-17-Avangarde-seats-pmf-dreptateșirespectîneuropapentrutoțire.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Partidul Mișcarea Populară (EPP)
+
+*For a full overview of the results for this party, see the [Partidul Mișcarea Populară (EPP)](party-partidulmișcareapopularăepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-03-17-Avangarde-seats-pmf-partidulmișcareapopularăepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -215,12 +214,12 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partidul Național Liberal (EPP) – Uniunea Democrată Maghiară din România (EPP) – Forța Dreptei (EPP) | 0 | 7 | 0% | 5–8 | 5–8 | 5–8 | 4–8 |
+| Partidul Național Liberal (EPP) – Uniunea Democrată Maghiară din România (EPP) – Forța Dreptei (EPP) – Partidul Mișcarea Populară (EPP) | 0 | 7 | 0% | 5–7 | 5–8 | 5–8 | 4–8 |
 | Partidul S.O.S. România (NI) – Partidul Oamenilor Tineri (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
-### Partidul Național Liberal (EPP) – Uniunea Democrată Maghiară din România (EPP) – Forța Dreptei (EPP)
+### Partidul Național Liberal (EPP) – Uniunea Democrată Maghiară din România (EPP) – Forța Dreptei (EPP) – Partidul Mișcarea Populară (EPP)
 
-![Graph with seats probability mass function not yet produced](2026-03-17-Avangarde-coalitions-seats-pmf-pnl–udmr–fd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-03-17-Avangarde-coalitions-seats-pmf-pnl–udmr–fd–pmp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -228,11 +227,11 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.1% | 100% |  |
-| 5 | 24% | 98.9% |  |
-| 6 | 21% | 75% |  |
-| 7 | 41% | 54% | Median |
-| 8 | 12% | 12% |  |
+| 4 | 1.3% | 100% |  |
+| 5 | 23% | 98.7% |  |
+| 6 | 22% | 76% |  |
+| 7 | 48% | 54% | Median |
+| 8 | 5% | 6% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
@@ -258,6 +257,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 2,097,152
-+ **Error estimate:** 0.75%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.51%
 

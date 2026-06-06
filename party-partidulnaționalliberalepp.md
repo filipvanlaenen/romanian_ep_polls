@@ -13,39 +13,39 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 16.3% | 13.3–20.9% | 12.8–21.5% | 12.4–21.9% | 11.5–22.8% |
 | [11–14 May 2026](2026-05-14-INSCOP.html) | INSCOP <br> Informat.ro | 20.3% | 18.8–21.9% | 18.4–22.4% | 18.0–22.8% | 17.3–23.5% |
 | [1–14 May 2026](2026-05-14-CURS.html) | CURS | 20.0% | 18.8–21.3% | 18.4–21.7% | 18.2–22.0% | 17.6–22.6% |
-| [28 April–1 May 2026](2026-05-01-CURS.html) | CURS | 18.0% | 16.6–19.6% | 16.2–20.0% | 15.9–20.4% | 15.2–21.2% |
+| [28 April–1 May 2026](2026-05-01-CURS.html) | CURS | 18.0% | N/A | N/A | N/A | N/A |
 | [1–10 April 2026](2026-04-10-ARP.html) | ARP | 14.2% | 12.6–16.1% | 12.1–16.7% | 11.7–17.1% | 11.0–18.1% |
-| [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro | 15.5% | 14.1–16.9% | 13.7–17.4% | 13.4–17.7% | 12.8–18.4% |
+| [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro | 15.5% | N/A | N/A | N/A | N/A |
 | [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.2–19.1% |
-| [23–27 March 2026](2026-03-27-CURS.html) | CURS | 16.0% | 14.9–17.3% | 14.5–17.6% | 14.3–18.0% | 13.7–18.6% |
+| [23–27 March 2026](2026-03-27-CURS.html) | CURS | 16.0% | N/A | N/A | N/A | N/A |
 | [10–17 March 2026](2026-03-17-Avangarde.html) | Avangarde | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
-| [2–6 March 2026](2026-03-06-INSCOP.html) | INSCOP <br> informat.ro | 14.5% | 13.3–16.0% | 12.9–16.4% | 12.6–16.8% | 12.0–17.5% |
-| [11 February 2026](2026-02-11-ARA.html) | ARA <br> Antena3CNN | 17.0% | 15.3–18.9% | 14.8–19.5% | 14.4–20.0% | 13.6–20.9% |
-| [14–23 January 2026](2026-01-23-CURS.html) | CURS | 18.0% | 16.6–19.6% | 16.1–20.0% | 15.8–20.4% | 15.1–21.2% |
-| [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 13.5% | 12.3–15.0% | 11.9–15.3% | 11.6–15.7% | 11.1–16.4% |
-| [10–19 December 2025](2025-12-19-CURS.html) | CURS | 19.0% | 17.5–20.6% | 17.1–21.1% | 16.8–21.5% | 16.1–22.3% |
-| [4–17 December 2025](2025-12-17-IRES.html) | IRES | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.1–21.3% |
-| [25 October–2 November 2025](2025-11-02-INSCOP.html) | INSCOP <br> informat.ro | 14.6% | 13.8–15.5% | 13.6–15.7% | 13.4–15.9% | 13.0–16.3% |
-| [14–26 October 2025](2025-10-26-CURS.html) | CURS | 15.0% | 13.6–16.5% | 13.2–16.9% | 12.9–17.3% | 12.3–18.0% |
-| [6–10 October 2025](2025-10-10-INSCOP.html) | INSCOP <br> informat.ro | 14.8% | 13.5–16.3% | 13.2–16.7% | 12.8–17.1% | 12.2–17.8% |
-| [5–19 September 2025](2025-09-19-CURS.html) | CURS | 16.0% | 14.6–17.5% | 14.3–17.9% | 13.9–18.3% | 13.3–19.0% |
-| [9–18 September 2025](2025-09-18-Avangarde.html) | Avangarde | 13.0% | 11.9–14.3% | 11.6–14.6% | 11.3–15.0% | 10.8–15.6% |
-| [1–9 September 2025](2025-09-09-INSCOP.html) | INSCOP <br> informat.ro | 15.1% | 13.8–16.6% | 13.5–17.0% | 13.1–17.4% | 12.5–18.1% |
-| [21–23 July 2025](2025-07-23-Sociopol.html) | Sociopol <br> RomâniaTV | 15.0% | 13.6–16.5% | 13.2–16.9% | 12.9–17.3% | 12.3–18.1% |
-| [15–23 July 2025](2025-07-23-INSOMAR.html) | INSOMAR | 14.4% | 13.1–15.9% | 12.7–16.4% | 12.4–16.7% | 11.8–17.5% |
-| [10–12 July 2025](2025-07-12-FlashData.html) | FlashData | 16.0% | 15.5–16.6% | 15.3–16.7% | 15.2–16.9% | 14.9–17.1% |
-| [4–10 July 2025](2025-07-10-CURS.html) | CURS | 15.0% | 13.7–16.5% | 13.3–16.9% | 13.0–17.3% | 12.4–18.0% |
-| [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 17.3% | 15.9–18.8% | 15.5–19.2% | 15.2–19.6% | 14.6–20.3% |
-| [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 16.0% | 14.7–17.5% | 14.3–17.9% | 14.0–18.2% | 13.4–19.0% |
-| [26–30 May 2025](2025-05-30-CURS.html) | CURS | 14.0% | 12.8–15.3% | 12.5–15.7% | 12.2–16.0% | 11.6–16.6% |
-| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol <br> RomâniaTV | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
-| [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 16.0% | 14.8–17.4% | 14.4–17.8% | 14.1–18.1% | 13.5–18.8% |
-| [24–26 April 2025](2025-04-26-FlashData.html) | FlashData | 15.0% | 14.5–15.5% | 14.3–15.7% | 14.2–15.8% | 14.0–16.1% |
-| [3–5 April 2025](2025-04-05-FlashData.html) | FlashData | 13.0% | 12.5–13.5% | 12.4–13.7% | 12.3–13.8% | 12.0–14.0% |
-| [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 15.0% | 13.7–16.5% | 13.3–16.9% | 13.0–17.2% | 12.4–18.0% |
-| [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 12.3% | 11.8–12.8% | 11.6–13.0% | 11.5–13.1% | 11.3–13.4% |
-| [21–25 January 2025](2025-01-25-CURS.html) | CURS | 15.0% | 13.7–16.5% | 13.3–16.9% | 13.0–17.2% | 12.4–18.0% |
-| [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 13.0% | 11.9–14.3% | 11.6–14.6% | 11.3–14.9% | 10.8–15.5% |
+| [2–6 March 2026](2026-03-06-INSCOP.html) | INSCOP <br> informat.ro | 14.5% | N/A | N/A | N/A | N/A |
+| [11 February 2026](2026-02-11-ARA.html) | ARA <br> Antena3CNN | 17.0% | N/A | N/A | N/A | N/A |
+| [14–23 January 2026](2026-01-23-CURS.html) | CURS | 18.0% | N/A | N/A | N/A | N/A |
+| [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 13.5% | N/A | N/A | N/A | N/A |
+| [10–19 December 2025](2025-12-19-CURS.html) | CURS | 19.0% | N/A | N/A | N/A | N/A |
+| [4–17 December 2025](2025-12-17-IRES.html) | IRES | 18.0% | N/A | N/A | N/A | N/A |
+| [25 October–2 November 2025](2025-11-02-INSCOP.html) | INSCOP <br> informat.ro | 14.6% | N/A | N/A | N/A | N/A |
+| [14–26 October 2025](2025-10-26-CURS.html) | CURS | 15.0% | N/A | N/A | N/A | N/A |
+| [6–10 October 2025](2025-10-10-INSCOP.html) | INSCOP <br> informat.ro | 14.8% | N/A | N/A | N/A | N/A |
+| [5–19 September 2025](2025-09-19-CURS.html) | CURS | 16.0% | N/A | N/A | N/A | N/A |
+| [9–18 September 2025](2025-09-18-Avangarde.html) | Avangarde | 13.0% | N/A | N/A | N/A | N/A |
+| [1–9 September 2025](2025-09-09-INSCOP.html) | INSCOP <br> informat.ro | 15.1% | N/A | N/A | N/A | N/A |
+| [21–23 July 2025](2025-07-23-Sociopol.html) | Sociopol <br> RomâniaTV | 15.0% | N/A | N/A | N/A | N/A |
+| [15–23 July 2025](2025-07-23-INSOMAR.html) | INSOMAR | 14.4% | N/A | N/A | N/A | N/A |
+| [10–12 July 2025](2025-07-12-FlashData.html) | FlashData | 16.0% | N/A | N/A | N/A | N/A |
+| [4–10 July 2025](2025-07-10-CURS.html) | CURS | 15.0% | N/A | N/A | N/A | N/A |
+| [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 17.3% | N/A | N/A | N/A | N/A |
+| [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 16.0% | N/A | N/A | N/A | N/A |
+| [26–30 May 2025](2025-05-30-CURS.html) | CURS | 14.0% | N/A | N/A | N/A | N/A |
+| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol <br> RomâniaTV | 14.0% | N/A | N/A | N/A | N/A |
+| [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 16.0% | N/A | N/A | N/A | N/A |
+| [24–26 April 2025](2025-04-26-FlashData.html) | FlashData | 15.0% | N/A | N/A | N/A | N/A |
+| [3–5 April 2025](2025-04-05-FlashData.html) | FlashData | 13.0% | N/A | N/A | N/A | N/A |
+| [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 15.0% | N/A | N/A | N/A | N/A |
+| [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 12.3% | N/A | N/A | N/A | N/A |
+| [21–25 January 2025](2025-01-25-CURS.html) | CURS | 15.0% | N/A | N/A | N/A | N/A |
+| [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 13.0% | N/A | N/A | N/A | N/A |
 | [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews | 13.4% | N/A | N/A | N/A | N/A |
 | [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek | 20.0% | N/A | N/A | N/A | N/A |
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea | 16.2% | N/A | N/A | N/A | N/A |
@@ -102,39 +102,39 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
 | [11–14 May 2026](2026-05-14-INSCOP.html) | INSCOP <br> Informat.ro | 7 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [1–14 May 2026](2026-05-14-CURS.html) | CURS | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
-| [28 April–1 May 2026](2026-05-01-CURS.html) | CURS | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [28 April–1 May 2026](2026-05-01-CURS.html) | CURS |  |  |  |  |  |
 | [1–10 April 2026](2026-04-10-ARP.html) | ARP | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro |  |  |  |  |  |
 | [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [23–27 March 2026](2026-03-27-CURS.html) | CURS | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [23–27 March 2026](2026-03-27-CURS.html) | CURS |  |  |  |  |  |
 | [10–17 March 2026](2026-03-17-Avangarde.html) | Avangarde | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| [2–6 March 2026](2026-03-06-INSCOP.html) | INSCOP <br> informat.ro | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
-| [11 February 2026](2026-02-11-ARA.html) | ARA <br> Antena3CNN | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [14–23 January 2026](2026-01-23-CURS.html) | CURS | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
-| [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [10–19 December 2025](2025-12-19-CURS.html) | CURS | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [4–17 December 2025](2025-12-17-IRES.html) | IRES | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
-| [25 October–2 November 2025](2025-11-02-INSCOP.html) | INSCOP <br> informat.ro | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [14–26 October 2025](2025-10-26-CURS.html) | CURS | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| [6–10 October 2025](2025-10-10-INSCOP.html) | INSCOP <br> informat.ro | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [5–19 September 2025](2025-09-19-CURS.html) | CURS | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| [9–18 September 2025](2025-09-18-Avangarde.html) | Avangarde | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [1–9 September 2025](2025-09-09-INSCOP.html) | INSCOP <br> informat.ro | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [21–23 July 2025](2025-07-23-Sociopol.html) | Sociopol <br> RomâniaTV | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
-| [15–23 July 2025](2025-07-23-INSOMAR.html) | INSOMAR | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
-| [10–12 July 2025](2025-07-12-FlashData.html) | FlashData | 6 | 6 | 5–6 | 5–6 | 5–6 |
-| [4–10 July 2025](2025-07-10-CURS.html) | CURS | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
-| [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [26–30 May 2025](2025-05-30-CURS.html) | CURS | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol <br> RomâniaTV | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
-| [24–26 April 2025](2025-04-26-FlashData.html) | FlashData | 7 | 7 | 7 | 7–8 | 7–8 |
-| [3–5 April 2025](2025-04-05-FlashData.html) | FlashData | 6 | 6 | 5–6 | 5–6 | 5–6 |
-| [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
-| [14–16 February 2025](2025-02-16-FlashData.html) | FlashData | 4 | 4 | 4–5 | 4–5 | 4–5 |
-| [21–25 January 2025](2025-01-25-CURS.html) | CURS | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [2–6 March 2026](2026-03-06-INSCOP.html) | INSCOP <br> informat.ro |  |  |  |  |  |
+| [11 February 2026](2026-02-11-ARA.html) | ARA <br> Antena3CNN |  |  |  |  |  |
+| [14–23 January 2026](2026-01-23-CURS.html) | CURS |  |  |  |  |  |
+| [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro |  |  |  |  |  |
+| [10–19 December 2025](2025-12-19-CURS.html) | CURS |  |  |  |  |  |
+| [4–17 December 2025](2025-12-17-IRES.html) | IRES |  |  |  |  |  |
+| [25 October–2 November 2025](2025-11-02-INSCOP.html) | INSCOP <br> informat.ro |  |  |  |  |  |
+| [14–26 October 2025](2025-10-26-CURS.html) | CURS |  |  |  |  |  |
+| [6–10 October 2025](2025-10-10-INSCOP.html) | INSCOP <br> informat.ro |  |  |  |  |  |
+| [5–19 September 2025](2025-09-19-CURS.html) | CURS |  |  |  |  |  |
+| [9–18 September 2025](2025-09-18-Avangarde.html) | Avangarde |  |  |  |  |  |
+| [1–9 September 2025](2025-09-09-INSCOP.html) | INSCOP <br> informat.ro |  |  |  |  |  |
+| [21–23 July 2025](2025-07-23-Sociopol.html) | Sociopol <br> RomâniaTV |  |  |  |  |  |
+| [15–23 July 2025](2025-07-23-INSOMAR.html) | INSOMAR |  |  |  |  |  |
+| [10–12 July 2025](2025-07-12-FlashData.html) | FlashData |  |  |  |  |  |
+| [4–10 July 2025](2025-07-10-CURS.html) | CURS |  |  |  |  |  |
+| [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro |  |  |  |  |  |
+| [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP |  |  |  |  |  |
+| [26–30 May 2025](2025-05-30-CURS.html) | CURS |  |  |  |  |  |
+| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol <br> RomâniaTV |  |  |  |  |  |
+| [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde |  |  |  |  |  |
+| [24–26 April 2025](2025-04-26-FlashData.html) | FlashData |  |  |  |  |  |
+| [3–5 April 2025](2025-04-05-FlashData.html) | FlashData |  |  |  |  |  |
+| [24–28 March 2025](2025-03-28-Verifield.html) | Verifield |  |  |  |  |  |
+| [14–16 February 2025](2025-02-16-FlashData.html) | FlashData |  |  |  |  |  |
+| [21–25 January 2025](2025-01-25-CURS.html) | CURS |  |  |  |  |  |
+| [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [26–28 November 2024](2024-11-28-AtlasIntel.html) | Atlas Intel <br> HotNews |  |  |  |  |  |
 | [9–13 November 2024](2024-11-13-CIRA.html) | CIRA <br> Newsweek |  |  |  |  |  |
 | [7–12 November 2024](2024-11-12-INSCOP.html) | INSCOP <br> Libertatea |  |  |  |  |  |
@@ -159,11 +159,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 3% | 100% |  |
-| 5 | 27% | 97% |  |
-| 6 | 26% | 69% | Median |
-| 7 | 25% | 43% |  |
-| 8 | 18% | 18% |  |
-| 9 | 0.9% | 0.9% |  |
+| 5 | 30% | 97% |  |
+| 6 | 25% | 67% | Median |
+| 7 | 24% | 42% |  |
+| 8 | 17% | 18% |  |
+| 9 | 0.8% | 0.8% |  |
 | 10 | 0% | 0% |  |
 
 
