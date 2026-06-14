@@ -35,9 +35,9 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#alianța-pentru-unirea-românilor-(ecr)">Alianța pentru Unirea Românilor (ECR)</a> | 0 | 14 | 13–15 |13–15 |13–15 |12–16 |
-| <a href="#partidul-social-democrat-(s&d)">Partidul Social Democrat (S&D)</a> | 0 | 9 | 8–9 |8–10 |7–10 |7–10 |
+| <a href="#partidul-social-democrat-(s&d)">Partidul Social Democrat (S&D)</a> | 0 | 9 | 8–10 |8–10 |7–10 |7–10 |
 | <a href="#partidul-național-liberal-(epp)">Partidul Național Liberal (EPP)</a> | 0 | 5 | 5–6 |4–6 |4–6 |4–7 |
-| <a href="#uniunea-salvați-românia-(re)">Uniunea Salvați România (RE)</a> | 0 | 4 | 4–5 |3–5 |3–5 |3–5 |
+| <a href="#uniunea-salvați-românia-(re)">Uniunea Salvați România (RE)</a> | 0 | 4 | 3–5 |3–5 |3–5 |3–5 |
 | <a href="#uniunea-democrată-maghiară-din-românia-(epp)">Uniunea Democrată Maghiară din România (EPP)</a> | 0 | 2 | 0–2 |0–2 |0–2 |0–2 |
 | <a href="#partidul-s.o.s.-românia-(ni)">Partidul S.O.S. România (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#partidul-oamenilor-tineri-(ni)">Partidul Oamenilor Tineri (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -66,10 +66,10 @@
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.8% | 100% |  |
-| 13 | 27% | 99.2% |  |
-| 14 | 49% | 72% | Median |
-| 15 | 22% | 23% |  |
+| 12 | 2% | 100% |  |
+| 13 | 25% | 98% |  |
+| 14 | 53% | 73% | Median |
+| 15 | 18% | 20% |  |
 | 16 | 2% | 2% |  |
 | 17 | 0% | 0% | Majority |
 
@@ -88,11 +88,12 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 3% | 100% |  |
-| 8 | 38% | 97% |  |
-| 9 | 54% | 59% | Median |
-| 10 | 6% | 6% |  |
-| 11 | 0% | 0% |  |
+| 7 | 4% | 100% |  |
+| 8 | 41% | 96% |  |
+| 9 | 44% | 55% | Median |
+| 10 | 11% | 11% |  |
+| 11 | 0.2% | 0.2% |  |
+| 12 | 0% | 0% |  |
 
 ### Partidul Național Liberal (EPP)
 
@@ -106,10 +107,10 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 8% | 100% |  |
-| 5 | 70% | 92% | Median |
-| 6 | 21% | 21% |  |
-| 7 | 0.5% | 0.5% |  |
+| 4 | 7% | 100% |  |
+| 5 | 65% | 93% | Median |
+| 6 | 28% | 29% |  |
+| 7 | 0.9% | 0.9% |  |
 | 8 | 0% | 0% |  |
 
 ### Uniunea Salvați România (RE)
@@ -123,9 +124,9 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 8% | 100% |  |
-| 4 | 76% | 92% | Median |
-| 5 | 16% | 16% |  |
+| 3 | 10% | 100% |  |
+| 4 | 75% | 90% | Median |
+| 5 | 15% | 15% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -137,9 +138,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 0% | 60% |  |
-| 2 | 60% | 60% | Median |
+| 0 | 42% | 100% | Last Result |
+| 1 | 0% | 58% |  |
+| 2 | 58% | 58% | Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -214,7 +215,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partidul Național Liberal (EPP) – Uniunea Democrată Maghiară din România (EPP) – Forța Dreptei (EPP) – Partidul Mișcarea Populară (EPP) | 0 | 7 | 0% | 5–7 | 5–8 | 5–8 | 4–8 |
+| Partidul Național Liberal (EPP) – Uniunea Democrată Maghiară din România (EPP) – Forța Dreptei (EPP) – Partidul Mișcarea Populară (EPP) | 0 | 7 | 0% | 5–8 | 5–8 | 5–8 | 4–8 |
 | Partidul S.O.S. România (NI) – Partidul Oamenilor Tineri (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Partidul Național Liberal (EPP) – Uniunea Democrată Maghiară din România (EPP) – Forța Dreptei (EPP) – Partidul Mișcarea Populară (EPP)
@@ -227,11 +228,11 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.3% | 100% |  |
-| 5 | 23% | 98.7% |  |
-| 6 | 22% | 76% |  |
-| 7 | 48% | 54% | Median |
-| 8 | 5% | 6% |  |
+| 4 | 1.1% | 100% |  |
+| 5 | 24% | 98.9% |  |
+| 6 | 21% | 75% |  |
+| 7 | 41% | 54% | Median |
+| 8 | 12% | 12% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
@@ -257,6 +258,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.51%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.75%
 
