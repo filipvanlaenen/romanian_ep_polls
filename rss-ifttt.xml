@@ -5,5 +5,37 @@
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sun, 27 Apr 2025 17:43:58 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by INSCOP for Informat.ro, 11–14 May 2026 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-INSCOP.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by INSCOP for Informat.ro, 11–14 May 2026<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-INSCOP.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-INSCOP-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-INSCOP-seating-plan.png" length="351387" type="image/png"/>
+      <pubDate>Sat, 20 Jun 2026 21:53:25 +0200</pubDate>
+      <dc:date>2026-06-20T21:53:25.771195234+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSCOP for Informat.ro, 11–14 May 2026 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-INSCOP.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>17 seats needed for a majority<br/>Opinion poll by INSCOP for Informat.ro, 11–14 May 2026<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-INSCOP.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-INSCOP-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-INSCOP-seats.png" length="241650" type="image/png"/>
+      <pubDate>Sat, 20 Jun 2026 21:53:25 +0200</pubDate>
+      <dc:date>2026-06-20T21:53:25.771195234+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSCOP for Informat.ro, 11–14 May 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-INSCOP.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by INSCOP for Informat.ro, 11–14 May 2026<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-INSCOP.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-INSCOP.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-INSCOP.png" length="293116" type="image/png"/>
+      <pubDate>Sat, 20 Jun 2026 21:53:25 +0200</pubDate>
+      <dc:date>2026-06-20T21:53:25.771195234+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS, 1–14 May 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-CURS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CURS, 1–14 May 2026<br/>Details on https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-CURS.html<br/><img src="https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-CURS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-CURS.png" length="233402" type="image/png"/>
+      <pubDate>Sat, 20 Jun 2026 21:57:34 +0200</pubDate>
+      <dc:date>2026-06-20T21:57:34.157131223+02:00</dc:date>
+    </item>
   </channel>
 </rss>
