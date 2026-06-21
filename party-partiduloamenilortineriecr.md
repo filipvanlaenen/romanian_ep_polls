@@ -10,15 +10,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.5–2.6% | 1.4–2.7% | 1.3–2.9% | 1.1–3.2% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.0–3.5% | 0.8–4.0% | 0.7–4.3% | 0.5–5.0% |
 | [11–14 May 2026](2026-05-14-INSCOP.html) | INSCOP <br> Informat.ro | 1.9% | 1.5–2.6% | 1.4–2.7% | 1.2–2.9% | 1.1–3.2% |
 | [1–14 May 2026](2026-05-14-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [28 April–1 May 2026](2026-05-01-CURS.html) | CURS | 2.0% | N/A | N/A | N/A | N/A |
-| [1–10 April 2026](2026-04-10-ARP.html) | ARP | 3.2% | N/A | N/A | N/A | N/A |
+| [1–10 April 2026](2026-04-10-ARP.html) | ARP | 3.2% | 2.5–4.3% | 2.3–4.6% | 2.1–4.9% | 1.8–5.5% |
 | [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro | 3.6% | N/A | N/A | N/A | N/A |
-| [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol | 1.0% | N/A | N/A | N/A | N/A |
+| [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [23–27 March 2026](2026-03-27-CURS.html) | CURS | 3.0% | N/A | N/A | N/A | N/A |
-| [10–17 March 2026](2026-03-17-Avangarde.html) | Avangarde | 2.0% | N/A | N/A | N/A | N/A |
+| [10–17 March 2026](2026-03-17-Avangarde.html) | Avangarde | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [2–6 March 2026](2026-03-06-INSCOP.html) | INSCOP <br> informat.ro | 3.0% | N/A | N/A | N/A | N/A |
 | [11 February 2026](2026-02-11-ARA.html) | ARA <br> Antena3CNN | 0.0% | N/A | N/A | N/A | N/A |
 | [14–23 January 2026](2026-01-23-CURS.html) | CURS | 2.0% | N/A | N/A | N/A | N/A |
@@ -63,12 +63,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 14% | 100% |  |
-| 1.5–2.5% | 75% | 86% | Median |
-| 2.5–3.5% | 10% | 10% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.6% | 100% | Last Result |
+| 0.5–1.5% | 28% | 99.4% |  |
+| 1.5–2.5% | 42% | 71% | Median |
+| 2.5–3.5% | 19% | 29% |  |
+| 3.5–4.5% | 8% | 10% |  |
+| 4.5–5.5% | 1.4% | 1.5% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -83,11 +85,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [11–14 May 2026](2026-05-14-INSCOP.html) | INSCOP <br> Informat.ro | 0 | 0 | 0 | 0 | 0 |
 | [1–14 May 2026](2026-05-14-CURS.html) | CURS |  |  |  |  |  |
 | [28 April–1 May 2026](2026-05-01-CURS.html) | CURS |  |  |  |  |  |
-| [1–10 April 2026](2026-04-10-ARP.html) | ARP |  |  |  |  |  |
+| [1–10 April 2026](2026-04-10-ARP.html) | ARP | 0 | 0 | 0 | 0 | 0–2 |
 | [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro |  |  |  |  |  |
-| [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol |  |  |  |  |  |
+| [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [23–27 March 2026](2026-03-27-CURS.html) | CURS |  |  |  |  |  |
-| [10–17 March 2026](2026-03-17-Avangarde.html) | Avangarde |  |  |  |  |  |
+| [10–17 March 2026](2026-03-17-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
 | [2–6 March 2026](2026-03-06-INSCOP.html) | INSCOP <br> informat.ro |  |  |  |  |  |
 | [11 February 2026](2026-02-11-ARA.html) | ARA <br> Antena3CNN |  |  |  |  |  |
 | [14–23 January 2026](2026-01-23-CURS.html) | CURS |  |  |  |  |  |
@@ -134,6 +136,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0% | 0.3% |  |
+| 2 | 0.3% | 0.3% |  |
+| 3 | 0% | 0% |  |
 
 
