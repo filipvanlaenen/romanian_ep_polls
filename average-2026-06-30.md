@@ -516,9 +516,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 3% | 100% |  |
 | 5 | 30% | 97% |  |
 | 6 | 25% | 67% | Median |
-| 7 | 24% | 42% |  |
-| 8 | 17% | 18% |  |
-| 9 | 0.8% | 0.8% |  |
+| 7 | 23% | 42% |  |
+| 8 | 18% | 18% |  |
+| 9 | 0.9% | 0.9% |  |
 | 10 | 0% | 0% |  |
 
 ### Uniunea Democrată Maghiară din România (EPP)
@@ -530,7 +530,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 51% | 100% | Last Result, Median |
-| 1 | 3% | 49% |  |
+| 1 | 4% | 49% |  |
 | 2 | 45% | 46% |  |
 | 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
@@ -568,8 +568,8 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 14% | 98% |  |
 | 13 | 21% | 84% |  |
 | 14 | 39% | 62% | Median |
-| 15 | 20% | 24% |  |
-| 16 | 4% | 4% |  |
+| 15 | 20% | 23% |  |
+| 16 | 3% | 3% |  |
 | 17 | 0.1% | 0.1% | Majority |
 | 18 | 0% | 0% |  |
 
@@ -663,7 +663,7 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 21% | 84% |  |
 | 14 | 39% | 63% | Median |
 | 15 | 20% | 24% |  |
-| 16 | 4% | 4% |  |
+| 16 | 3% | 3% |  |
 | 17 | 0.2% | 0.2% | Majority |
 | 18 | 0% | 0% |  |
 
@@ -699,11 +699,12 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0.4% | 100% |  |
 | 5 | 9% | 99.6% |  |
 | 6 | 22% | 90% | Median |
-| 7 | 31% | 69% |  |
-| 8 | 19% | 38% |  |
-| 9 | 15% | 19% |  |
-| 10 | 4% | 5% |  |
-| 11 | 0% | 0% |  |
+| 7 | 30% | 69% |  |
+| 8 | 19% | 39% |  |
+| 9 | 15% | 20% |  |
+| 10 | 4% | 4% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 ### Alianța 2020 USR-PLUS (RE) – Dreptate și Respect în Europa Pentru Toți (RE) – Partidul Libertății, Unității și Solidarității (RE) – Reînnoim Proiectul European al României (RE) – Uniunea Salvați România (RE)
 
@@ -755,5 +756,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 5
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Total number of simulations done in the polls included in this average:** 7,340,032
 + **Error estimate:** 3.14%
