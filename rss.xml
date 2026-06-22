@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 21 Jun 2026 11:53:56 +0200</pubDate>
+    <pubDate>Mon, 22 Jun 2026 20:48:12 +0200</pubDate>
     <item>
       <title>Opinion Poll by INSCOP for Informat.ro, 11–14 May 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-INSCOP.html#seats</link>
@@ -16,18 +16,18 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-INSCOP-seats.png"
         length="241650"
         type="image/png"/>
-      <pubDate>Sat, 20 Jun 2026 21:53:25 +0200</pubDate>
-      <dc:date>2026-06-20T21:53:25.771195+02:00</dc:date>
+      <pubDate>Mon, 22 Jun 2026 20:43:33 +0200</pubDate>
+      <dc:date>2026-06-22T20:43:33.15608+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSCOP for Informat.ro, 11–14 May 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-INSCOP.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-INSCOP-coalitions-seats.png"
-        length="186695"
+        length="190459"
         type="image/png"/>
-      <pubDate>Sat, 20 Jun 2026 21:53:25 +0200</pubDate>
-      <dc:date>2026-06-20T21:53:25.771195+02:00</dc:date>
+      <pubDate>Mon, 22 Jun 2026 20:43:33 +0200</pubDate>
+      <dc:date>2026-06-22T20:43:33.15608+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSCOP for Informat.ro, 11–14 May 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-INSCOP.png"
         length="293116"
         type="image/png"/>
-      <pubDate>Sat, 20 Jun 2026 21:53:25 +0200</pubDate>
-      <dc:date>2026-06-20T21:53:25.771195+02:00</dc:date>
+      <pubDate>Mon, 22 Jun 2026 20:43:33 +0200</pubDate>
+      <dc:date>2026-06-22T20:43:33.15608+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS, 1–14 May 2026 – Seat Projections for the Parties</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-CURS-seats.png"
         length="194215"
         type="image/png"/>
-      <pubDate>Sun, 21 Jun 2026 10:02:18 +0200</pubDate>
-      <dc:date>2026-06-21T10:02:18.275407+02:00</dc:date>
+      <pubDate>Mon, 22 Jun 2026 20:48:12 +0200</pubDate>
+      <dc:date>2026-06-22T20:48:12.658247+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS, 1–14 May 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-CURS-coalitions-seats.png"
         length="183978"
         type="image/png"/>
-      <pubDate>Sun, 21 Jun 2026 10:02:18 +0200</pubDate>
-      <dc:date>2026-06-21T10:02:18.275407+02:00</dc:date>
+      <pubDate>Mon, 22 Jun 2026 20:48:12 +0200</pubDate>
+      <dc:date>2026-06-22T20:48:12.658247+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS, 1–14 May 2026 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-CURS.png"
         length="233402"
         type="image/png"/>
-      <pubDate>Sun, 21 Jun 2026 10:02:18 +0200</pubDate>
-      <dc:date>2026-06-21T10:02:18.275407+02:00</dc:date>
+      <pubDate>Mon, 22 Jun 2026 20:48:12 +0200</pubDate>
+      <dc:date>2026-06-22T20:48:12.658247+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ARP, 1–10 April 2026 – Seat Projections for the Parties</title>
@@ -159,6 +159,6 @@
       <pubDate>Sun, 21 Jun 2026 11:53:56 +0200</pubDate>
       <dc:date>2026-06-21T11:53:56.867214+02:00</dc:date>
     </item>
-    <dc:date>2026-06-21T11:53:56.867214+02:00</dc:date>
+    <dc:date>2026-06-22T20:48:12.658247+02:00</dc:date>
   </channel>
 </rss>
