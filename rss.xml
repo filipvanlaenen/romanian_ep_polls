@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/romanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 22 Jun 2026 20:48:12 +0200</pubDate>
+    <pubDate>Fri, 26 Jun 2026 18:34:09 +0200</pubDate>
     <item>
       <title>Opinion Poll by INSCOP for Informat.ro, 11–14 May 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_ep_polls/2026-05-14-INSCOP.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-04-10-ARP-seats.png"
         length="312158"
         type="image/png"/>
-      <pubDate>Sun, 21 Jun 2026 11:16:04 +0200</pubDate>
-      <dc:date>2026-06-21T11:16:04.616754+02:00</dc:date>
+      <pubDate>Fri, 26 Jun 2026 18:34:09 +0200</pubDate>
+      <dc:date>2026-06-26T18:34:09.943503+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ARP, 1–10 April 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-04-10-ARP-coalitions-seats.png"
         length="214895"
         type="image/png"/>
-      <pubDate>Sun, 21 Jun 2026 11:16:04 +0200</pubDate>
-      <dc:date>2026-06-21T11:16:04.616754+02:00</dc:date>
+      <pubDate>Fri, 26 Jun 2026 18:34:09 +0200</pubDate>
+      <dc:date>2026-06-26T18:34:09.943503+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ARP, 1–10 April 2026 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_ep_polls/2026-04-10-ARP.png"
         length="354472"
         type="image/png"/>
-      <pubDate>Sun, 21 Jun 2026 11:16:04 +0200</pubDate>
-      <dc:date>2026-06-21T11:16:04.616754+02:00</dc:date>
+      <pubDate>Fri, 26 Jun 2026 18:34:09 +0200</pubDate>
+      <dc:date>2026-06-26T18:34:09.943503+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sociopol, 26 March–4 April 2026 – Seat Projections for the Parties</title>
@@ -159,6 +159,6 @@
       <pubDate>Sun, 21 Jun 2026 11:53:56 +0200</pubDate>
       <dc:date>2026-06-21T11:53:56.867214+02:00</dc:date>
     </item>
-    <dc:date>2026-06-22T20:48:12.658247+02:00</dc:date>
+    <dc:date>2026-06-26T18:34:09.943503+02:00</dc:date>
   </channel>
 </rss>
