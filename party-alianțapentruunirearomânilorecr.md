@@ -123,7 +123,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28 April–1 May 2026](2026-05-01-CURS.html) | CURS |  |  |  |  |  |
 | [1–10 April 2026](2026-04-10-ARP.html) | ARP | 14 | 13–15 | 13–16 | 12–16 | 12–16 |
 | [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro |  |  |  |  |  |
-| [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol | 14 | 13–15 | 13–15 | 12–15 | 12–15 |
+| [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol | 14 | 13–15 | 13–15 | 13–15 | 12–15 |
 | [23–27 March 2026](2026-03-27-CURS.html) | CURS |  |  |  |  |  |
 | [10–17 March 2026](2026-03-17-Avangarde.html) | Avangarde | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
 | [2–6 March 2026](2026-03-06-INSCOP.html) | INSCOP <br> informat.ro |  |  |  |  |  |
@@ -185,9 +185,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 2% | 100% |  |
 | 12 | 14% | 98% |  |
-| 13 | 22% | 84% |  |
-| 14 | 38% | 62% | Median |
-| 15 | 20% | 24% |  |
+| 13 | 23% | 84% |  |
+| 14 | 38% | 61% | Median |
+| 15 | 19% | 23% |  |
 | 16 | 4% | 4% |  |
 | 17 | 0.1% | 0.1% | Majority |
 | 18 | 0% | 0% |  |
