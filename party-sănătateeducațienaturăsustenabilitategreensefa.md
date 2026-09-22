@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.7–2.9% | 1.5–3.2% | 1.5–3.4% | 1.3–3.8% |
+| N/A | [Poll Average](average.html) | 2.9% | 1.7–4.7% | 1.6–5.0% | 1.5–5.2% | 1.3–5.7% |
+| [1–7 September 2026](2026-09-07-INSCOP.html) | INSCOP <br> Informat.ro | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.1–5.4% | 2.8–5.9% |
 | [14–24 July 2026](2026-07-24-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [30 June–3 July 2026](2026-07-03-ARP.html) | ARP | 1.9% | 1.6–2.4% | 1.4–2.5% | 1.4–2.7% | 1.2–2.9% |
 | [11–14 May 2026](2026-05-14-INSCOP.html) | INSCOP <br> Informat.ro | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–3.9% |
@@ -67,10 +68,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 69% | 95% | Median |
-| 2.5–3.5% | 25% | 26% |  |
-| 3.5–4.5% | 1.2% | 1.2% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 1.5–2.5% | 43% | 95% |  |
+| 2.5–3.5% | 10% | 52% | Median |
+| 3.5–4.5% | 30% | 43% |  |
+| 4.5–5.5% | 12% | 13% |  |
+| 5.5–6.5% | 0.8% | 0.8% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -81,7 +84,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–2 | 0–2 |
+| [1–7 September 2026](2026-09-07-INSCOP.html) | INSCOP <br> Informat.ro | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | [14–24 July 2026](2026-07-24-CURS.html) | CURS |  |  |  |  |  |
 | [30 June–3 July 2026](2026-07-03-ARP.html) | ARP | 0 | 0 | 0 | 0 | 0 |
 | [11–14 May 2026](2026-05-14-INSCOP.html) | INSCOP <br> Informat.ro | 0 | 0 | 0 | 0 | 0 |
@@ -138,6 +142,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 1.3% | 4% |  |
+| 2 | 3% | 3% |  |
+| 3 | 0% | 0% |  |
 
 
