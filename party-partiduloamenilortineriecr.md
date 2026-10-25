@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.1–3.2% | 1.0–3.5% | 0.9–3.7% | 0.8–4.1% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.2–3.1% | 1.1–3.3% | 1.0–3.6% | 0.8–4.0% |
 | [16–22 September 2026](2026-09-22-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
+| [12–22 September 2026](2026-09-22-Avangarde.html) | Avangarde | 2.0% | 1.5–2.7% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
 | [1–7 September 2026](2026-09-07-INSCOP.html) | INSCOP <br> Informat.ro | 2.7% | 2.2–3.5% | 2.0–3.7% | 1.9–3.9% | 1.7–4.3% |
 | [14–24 July 2026](2026-07-24-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [30 June–3 July 2026](2026-07-03-ARP.html) | ARP | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–2.0% | 0.7–2.2% |
@@ -68,11 +69,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 39% | 100% |  |
-| 1.5–2.5% | 26% | 61% | Median |
-| 2.5–3.5% | 31% | 35% |  |
-| 3.5–4.5% | 4% | 4% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 30% | 100% |  |
+| 1.5–2.5% | 42% | 70% | Median |
+| 2.5–3.5% | 25% | 28% |  |
+| 3.5–4.5% | 3% | 3% |  |
+| 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -86,6 +87,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [16–22 September 2026](2026-09-22-CURS.html) | CURS |  |  |  |  |  |
+| [12–22 September 2026](2026-09-22-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
 | [1–7 September 2026](2026-09-07-INSCOP.html) | INSCOP <br> Informat.ro | 0 | 0 | 0 | 0 | 0 |
 | [14–24 July 2026](2026-07-24-CURS.html) | CURS |  |  |  |  |  |
 | [30 June–3 July 2026](2026-07-03-ARP.html) | ARP | 0 | 0 | 0 | 0 | 0 |
