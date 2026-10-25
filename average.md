@@ -391,9 +391,9 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 14% | 99.9% |  |
 | 7 | 33% | 86% |  |
 | 8 | 11% | 53% | Median |
-| 9 | 25% | 42% |  |
-| 10 | 17% | 18% |  |
-| 11 | 1.3% | 1.3% |  |
+| 9 | 26% | 43% |  |
+| 10 | 16% | 17% |  |
+| 11 | 1.4% | 1.4% |  |
 | 12 | 0% | 0% |  |
 
 ### PRO România (S&D)
@@ -446,8 +446,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 13% | 100% |  |
-| 3 | 70% | 87% | Median |
+| 2 | 14% | 100% |  |
+| 3 | 69% | 86% | Median |
 | 4 | 17% | 17% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
@@ -475,8 +475,8 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 8% | 100% |  |
-| 6 | 43% | 92% | Median |
+| 5 | 7% | 100% |  |
+| 6 | 44% | 92% | Median |
 | 7 | 23% | 49% |  |
 | 8 | 21% | 26% |  |
 | 9 | 5% | 5% |  |
@@ -490,10 +490,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 49% | 100% | Last Result |
-| 1 | 3% | 51% | Median |
-| 2 | 48% | 49% |  |
-| 3 | 0.2% | 0.2% |  |
+| 0 | 47% | 100% | Last Result |
+| 1 | 3% | 53% | Median |
+| 2 | 49% | 49% |  |
+| 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
 ### Forța Dreptei (EPP)
@@ -524,9 +524,9 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 0.2% | 100% |  |
 | 12 | 6% | 99.8% |  |
 | 13 | 24% | 94% |  |
-| 14 | 28% | 71% | Median |
+| 14 | 28% | 70% | Median |
 | 15 | 33% | 42% |  |
-| 16 | 8% | 10% |  |
+| 16 | 8% | 9% |  |
 | 17 | 2% | 2% | Majority |
 | 18 | 0% | 0% |  |
 
@@ -554,9 +554,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0% | 0.1% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Partidul Alianța Liberalilor și Democraților (*)
 
@@ -613,9 +611,9 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 0.2% | 100% |  |
 | 12 | 6% | 99.8% |  |
 | 13 | 24% | 94% |  |
-| 14 | 28% | 71% | Median |
+| 14 | 28% | 70% | Median |
 | 15 | 33% | 42% |  |
-| 16 | 8% | 10% |  |
+| 16 | 8% | 9% |  |
 | 17 | 2% | 2% | Majority |
 | 18 | 0% | 0% |  |
 
@@ -630,10 +628,10 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 1.2% | 100% |  |
-| 6 | 15% | 98.8% |  |
-| 7 | 20% | 84% | Median |
-| 8 | 44% | 63% |  |
+| 5 | 0.9% | 100% |  |
+| 6 | 15% | 99.1% |  |
+| 7 | 20% | 85% | Median |
+| 8 | 45% | 64% |  |
 | 9 | 13% | 19% |  |
 | 10 | 5% | 6% |  |
 | 11 | 1.1% | 1.1% |  |
@@ -654,9 +652,9 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 14% | 99.9% |  |
 | 7 | 33% | 86% |  |
 | 8 | 11% | 53% | Median |
-| 9 | 25% | 42% |  |
-| 10 | 17% | 18% |  |
-| 11 | 1.3% | 1.3% |  |
+| 9 | 26% | 43% |  |
+| 10 | 16% | 17% |  |
+| 11 | 1.4% | 1.4% |  |
 | 12 | 0% | 0% |  |
 
 ### Alianța 2020 USR-PLUS (RE) – Dreptate și Respect în Europa Pentru Toți (RE) – Partidul Libertății, Unității și Solidarității (RE) – Reînnoim Proiectul European al României (RE) – Uniunea Salvați România (RE)
@@ -667,8 +665,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 13% | 100% |  |
-| 3 | 70% | 87% | Median |
+| 2 | 14% | 100% |  |
+| 3 | 69% | 86% | Median |
 | 4 | 17% | 17% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
@@ -698,14 +696,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0% | 0.1% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 7,340,032
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 8,388,608
 + **Error estimate:** 3.41%
