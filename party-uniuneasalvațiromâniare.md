@@ -95,7 +95,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [16–22 September 2026](2026-09-22-CURS.html) | CURS | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| [12–22 September 2026](2026-09-22-Avangarde.html) | Avangarde | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [12–22 September 2026](2026-09-22-Avangarde.html) | Avangarde | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [1–7 September 2026](2026-09-07-INSCOP.html) | INSCOP <br> Informat.ro | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [14–24 July 2026](2026-07-24-CURS.html) | CURS | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [30 June–3 July 2026](2026-07-03-ARP.html) | ARP | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -155,8 +155,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 13% | 100% |  |
-| 3 | 70% | 87% | Median |
+| 2 | 14% | 100% |  |
+| 3 | 69% | 86% | Median |
 | 4 | 17% | 17% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
