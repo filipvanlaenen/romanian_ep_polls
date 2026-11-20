@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.8% | 7.4–10.8% | 7.0–11.2% | 6.8–11.5% | 6.3–12.1% |
+| N/A | [Poll Average](average.html) | 10.0% | 7.6–12.4% | 7.2–12.9% | 6.9–13.3% | 6.3–14.0% |
+| [26 October–2 November 2026](2026-11-02-INSCOP.html) | INSCOP <br> Informat.ro | 11.9% | 10.7–13.2% | 10.4–13.5% | 10.2–13.8% | 9.6–14.5% |
+| [22–27 October 2026](2026-10-27-CURS.html) | CURS | 8.0% | 7.0–9.1% | 6.7–9.4% | 6.5–9.7% | 6.0–10.3% |
+| [21–26 October 2026](2026-10-26-Avangarde.html) | Avangarde | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [16–22 September 2026](2026-09-22-CURS.html) | CURS | 8.0% | 7.0–9.1% | 6.8–9.5% | 6.5–9.8% | 6.1–10.3% |
 | [12–22 September 2026](2026-09-22-Avangarde.html) | Avangarde | 8.0% | 7.0–9.2% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
 | [1–7 September 2026](2026-09-07-INSCOP.html) | INSCOP <br> Informat.ro | 9.0% | 8.0–10.2% | 7.7–10.5% | 7.4–10.9% | 7.0–11.4% |
@@ -74,15 +77,17 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.3% | 100% |  |
-| 6.5–7.5% | 12% | 98.7% |  |
-| 7.5–8.5% | 29% | 86% |  |
-| 8.5–9.5% | 25% | 57% | Median |
-| 9.5–10.5% | 19% | 32% |  |
-| 10.5–11.5% | 11% | 13% |  |
-| 11.5–12.5% | 2% | 2% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 5.5–6.5% | 1.0% | 100% |  |
+| 6.5–7.5% | 8% | 99.0% |  |
+| 7.5–8.5% | 17% | 90% |  |
+| 8.5–9.5% | 16% | 74% |  |
+| 9.5–10.5% | 17% | 58% | Median |
+| 10.5–11.5% | 18% | 41% |  |
+| 11.5–12.5% | 15% | 24% |  |
+| 12.5–13.5% | 7% | 9% |  |
+| 13.5–14.5% | 1.4% | 2% |  |
+| 14.5–15.5% | 0.1% | 0.1% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -93,7 +98,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
+| [26 October–2 November 2026](2026-11-02-INSCOP.html) | INSCOP <br> Informat.ro | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [22–27 October 2026](2026-10-27-CURS.html) | CURS | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [21–26 October 2026](2026-10-26-Avangarde.html) | Avangarde | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [16–22 September 2026](2026-09-22-CURS.html) | CURS | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [12–22 September 2026](2026-09-22-Avangarde.html) | Avangarde | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [1–7 September 2026](2026-09-07-INSCOP.html) | INSCOP <br> Informat.ro | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
@@ -155,10 +163,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 14% | 100% |  |
-| 3 | 69% | 86% | Median |
-| 4 | 17% | 17% |  |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 2 | 8% | 100% |  |
+| 3 | 44% | 92% | Median |
+| 4 | 38% | 48% |  |
+| 5 | 11% | 11% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 
